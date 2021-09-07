@@ -1,8 +1,4 @@
-<p className="lead">
-
-This post contains code syntax highlighter powered by [Shiki](https://shikijs.github.io/twoslash/).
-
-</p>
+<p className="lead">This post contains code syntax highlighter powered by Shiki.</p>
 
 ```ts title="examples/index.ts"
 import { useRouter } from "next/router";
