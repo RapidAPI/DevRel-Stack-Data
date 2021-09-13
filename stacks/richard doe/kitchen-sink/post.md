@@ -25,22 +25,13 @@ We get lots of complaints about it actually, with people regularly asking us thi
 <HTTPClient
 blocks={[
 {
-slug: 'top-weather-apis',
-type: 'collection',
+url: 'https://rapidapi.com/telesign/api/telesign-sms-verify/',
 },
 {
-slug: 'top-weather-apis',
-type: 'collection',
+url: 'https://rapidapi.com/fcambus/api/telize/',
 },
 {
-slug: 'api-basketball',
-ownerName: 'api-sports',
-type: 'api',
-},
-{
-slug: 'api-basketball',
-ownerName: 'api-sports',
-type: 'api',
+url: 'https://rapidapi.com/crunchbase-team1-crunchbase/api/crunchbase/',
 },
 ]}
 />
