@@ -1,3 +1,14 @@
+---
+title: "10 Wrong Answers to Common React Questions: Do You Know the Right Ones?"
+description: "10 Undeniable Reasons People Love React"
+slug: "2020-08-01-post-2"
+authors: ["annetteBlack"]
+category: "product"
+tags: ["tailwindcss", "css"]
+publishedDate: "2020-08-20T08:00:00+08:00"
+coverImage: ""
+---
+
 <Lead>This post contains code syntax highlighter powered by Shiki.</Lead>
 
 ```json

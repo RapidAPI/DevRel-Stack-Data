@@ -1,0 +1,176 @@
+[
+  {
+    "title": "REST API Development for JavaScript Developers",
+    "slug": "rest-api-development-1",
+    "description": "Hello world",
+    "topics": [
+      {
+        "title": "Introduction",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "understanding-rest-apis",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "RapidAPI",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-vimeo-video/post.md",
+            "slug": "rapidapi"
+          },
+          {
+            "title": "Support",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "support"
+          }
+        ]
+      },
+      {
+        "title": "Fundamentals Recap",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "fundamentals-recap",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-vimeo-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-vimeo-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "Anatomy of an API",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "anatomy-of-an-api"
+          },
+          {
+            "title": "API Functions",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "api-functions"
+          },
+          {
+            "title": "CRUD",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "crud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "REST API Development for JavaScript Developers",
+    "slug": "rest-api-development-2",
+    "description": "Hello world",
+    "topics": [
+      {
+        "title": "Introduction",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "understanding-rest-apis",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-vimeo-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "RapidAPI",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-vimeo-video/post.md",
+            "slug": "rapidapi"
+          },
+          {
+            "title": "Support",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "support"
+          }
+        ]
+      },
+      {
+        "title": "Fundamentals Recap",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "fundamentals-recap",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "Anatomy of an API",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "anatomy-of-an-api"
+          },
+          {
+            "title": "API Functions",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "api-functions"
+          },
+          {
+            "title": "CRUD",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "crud"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "REST API Development for JavaScript Developers",
+    "slug": "rest-api-development-3",
+    "description": "Hello world",
+    "topics": [
+      {
+        "title": "Introduction",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "understanding-rest-apis",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "RapidAPI",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "rapidapi"
+          },
+          {
+            "title": "Support",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "support"
+          }
+        ]
+      },
+      {
+        "title": "Fundamentals Recap",
+        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
+        "slug": "fundamentals-recap",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+        "pages": [
+          {
+            "title": "Introduction",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "introduction"
+          },
+          {
+            "title": "Anatomy of an API",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "anatomy-of-an-api"
+          },
+          {
+            "title": "API Functions",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "api-functions"
+          },
+          {
+            "title": "CRUD",
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/with-youtube-video/post.md",
+            "slug": "crud"
+          }
+        ]
+      }
+    ]
+  }
+]

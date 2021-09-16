@@ -1,0 +1,20 @@
+{
+  "richardDoe": {
+    "name": "Richard Doe",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/richard%20doe/avatar.png",
+    "designation": "Content Producer @ RapidAPI",
+    "isDeveloperProgramMember": false
+  },
+  "jeromeBell": {
+    "name": "Jerome Bell",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/jerome%20bell/avatar.png",
+    "designation": "Content Producer @ RapidAPI",
+    "isDeveloperProgramMember": true
+  },
+  "annetteBlack": {
+    "name": "Annette Black",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/annette%20black/avatar.png",
+    "designation": "Content Producer @ RapidAPI",
+    "isDeveloperProgramMember": true
+  }
+}
