@@ -2,6 +2,6 @@
 
 # Introduction
 
-<p className="lead">
+<Lead>
   This post contains a YouTube embed. Our video posts will look like this.
-</p>
+</Lead>

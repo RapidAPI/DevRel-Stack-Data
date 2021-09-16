@@ -1,4 +1,4 @@
-<p className="lead">This post contains code syntax highlighter powered by Shiki.</p>
+<Lead>This post contains code syntax highlighter powered by Shiki.</Lead>
 
 ```json
 { "json": true }

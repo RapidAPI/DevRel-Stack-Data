@@ -1,4 +1,4 @@
-<p className="lead">This post contains code syntax highlighter powered by Shiki.</p>
+<Lead>This post contains code syntax highlighter powered by Shiki.</Lead>
 
 ```ts title="examples/index.ts"
 import { useRouter } from "next/router";

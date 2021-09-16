@@ -1,6 +1,6 @@
-<p className="lead">
+<Lead>
   This post contains a YouTube embed. Our video posts will look like this.
-</p>
+</Lead>
 
 !(https://www.youtube.com/watch?v=ViaBzK11EkE)
 
