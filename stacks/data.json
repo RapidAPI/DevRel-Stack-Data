@@ -1,10 +1,5 @@
 [
   {
-    "title": "Post to demonstrate our kitchen sink",
-    "description": "Lorem markdownum et ipse, ipsa vittas herbae calathosque: rapuere consistere illi tanti, cera placet cervice seu. Clausit subiectas et simul famaque noctem Nilum defendere tibi; pugnem. _Furcas o flexit_ ripa moveri alta, quae superos Dixit",
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/stacks/richard%20doe/kitchen-sink/post.md",
-    "slug": "2020-08-01-post-14",
-    "publishedDate": "2020-08-20T08:00:00+08:00",
-    "coverImage": ""
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/stacks/posts/richard%20doe/kitchen-sink/post.md"
   }
 ]
