@@ -4,34 +4,13 @@
     "slug": "basics",
     "topics": [
       {
-        "title": "Understanding REST APIs",
-        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. REST or Representational State Transfer is a protocol that determines what these guidelines are.",
-        "slug": "understanding-rest-apis",
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/introduction.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/introduction.md",
         "pages": [
           {
-            "title": "Endpoint",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/endpoint.md",
-            "slug": "endpoint",
-            "points": 5
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/endpoint.md"
           },
           {
-            "title": "Method",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/method.md",
-            "slug": "method",
-            "points": 15
-          },
-          {
-            "title": "Header",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/endpoint.md",
-            "slug": "header",
-            "points": 25
-          },
-          {
-            "title": "Body",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/method.md",
-            "slug": "body",
-            "points": 5
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/method.md"
           }
         ]
       }
@@ -42,34 +21,13 @@
     "slug": "expert",
     "topics": [
       {
-        "title": "Understanding GraphQL APIs",
-        "description": "API or Application Programming Interface is a set of rules that allows two separate programs to interact with each other based on certain guidelines. GraphQL or Representational State Transfer is a protocol that determines what these guidelines are.",
-        "slug": "understanding-graphql-apis",
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/introduction.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/introduction.md",
         "pages": [
           {
-            "title": "Endpoint",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/endpoint.md",
-            "slug": "endpoint",
-            "points": 5
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/endpoint.md"
           },
           {
-            "title": "Method",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/method.md",
-            "slug": "method",
-            "points": 15
-          },
-          {
-            "title": "Header",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/endpoint.md",
-            "slug": "header",
-            "points": 25
-          },
-          {
-            "title": "Body",
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/understanding-rest-apis/method.md",
-            "slug": "body",
-            "points": 5
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/method.md"
           }
         ]
       }
