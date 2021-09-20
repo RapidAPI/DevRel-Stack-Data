@@ -1,37 +1,28 @@
 [
   {
     "title": "REST API Development for JavaScript Developers",
-    "slug": "rest-api-development-1",
-    "description": "Hello world",
+    "slug": "rest-api-development",
+    "description": "This post will talk about how REST APIs work",
     "topics": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md",
         "pages": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-vimeo-video/post.md"
-          },
-          {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md"
           }
         ]
       },
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-vimeo-video/post.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md",
         "pages": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-vimeo-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md"
-          },
-          {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md"
-          },
-          {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/lms/posts/with-youtube-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md"
           }
         ]
       }

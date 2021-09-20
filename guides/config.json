@@ -5,8 +5,8 @@
   "language": "en",
   "locale": "en_US",
   "siteUrl": "https://devrel-stack.vercel.app",
-  "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/guides/assets/rapidapi-logo.png",
-  "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/guides/assets/rapidapi-og.png",
-  "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/guides/assets/rapidapi-logo.png",
+  "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
+  "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-og.png",
+  "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
   "twitter": "rapid_api"
 }

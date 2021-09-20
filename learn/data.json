@@ -4,13 +4,13 @@
     "slug": "basics",
     "topics": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/introduction.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/introduction.md",
         "pages": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/endpoint.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/endpoint.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/method.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/method.md"
           }
         ]
       }
@@ -21,13 +21,13 @@
     "slug": "expert",
     "topics": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/introduction.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/introduction.md",
         "pages": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/endpoint.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/endpoint.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/data-structure/learn/posts/understanding-rest-apis/method.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/understanding-rest-apis/method.md"
           }
         ]
       }
