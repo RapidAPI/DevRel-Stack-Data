@@ -23,22 +23,11 @@ RapidAPI handles all the API development things very effectively. You don’t ne
 
 Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/RapidAPI-homepage.png"
-    alt="sign up page of RapidAPI"
-  />
-</figure>
+![sign up page of RapidAPI](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/RapidAPI-homepage.png)
 
 The majority of the APIs offer a freemium plan. You don’t even need to add credit card details to access them. Visit [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API on RapidAPI Hub. It is completely free and has only one subscription plan which allows you to make 100 API calls per second.
 
-
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.png"
-    alt="pricing page of text-analysis API"
-  />
-</figure>
+![pricing page of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.png)
 
 Just click on the “Subscribe” button of the Basic plan.  
 
@@ -48,13 +37,7 @@ Now we are good to create a Text Sentiment Analysis App using React and this API
 
 Once you subscribe, you can test the API and check the response this [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API returns. You can test multiple endpoints with different parameters using the API playground. Let’s try to dig in with our current API to integrate it with our application.  
 
-
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage.png"
-    alt="homepage of text-analysis API"
-  />
-</figure>
+![homepage of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage.png)
 
 1. Endpoint    
 Here, you can take a quick look at the endpoints an interface supports. You can also search for a distinct endpoint.
@@ -69,21 +52,11 @@ Select the POST sentiment-analysis endpoint and scroll down a little bit in the 
 
 Great, we are all set to hit the “Test Endpoint” button.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage-test-api.png"
-    alt="click Test Endpoint button to test text analysis API"
-  />
-</figure>
+![click Test Endpoint button to test text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage-test-api.png)
 
 After hitting the “Test Endpoint” button, you will see the endpoint (API) result in the third section of API Playground.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/response.png"
-    alt="reponse of text analysis API"
-  />
-</figure>
+![reponse of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/response.png)
 
 In the response body (returned data from the server) you will get an `aggregate-sentiment` object which contains all the negative, positive, neutral, and compound values of the string. The response body all contains the sentiment key which tells us the overall `sentiment` of the text.
 
@@ -101,12 +74,7 @@ You will need to have [Node.js](https://nodejs.org/en/) (version >= 6) on your l
 
 `create-react-app` command will create a folder for you with all the necessary files and folders required for a React application. You will get a `node_modules`, `public`, and `src` folder.   
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/react-app-folder-atructure.png"
-    alt="react app folder structure"
-  />
-</figure>
+![reponse of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/react-app-folder-atructure.png)
 
 **2. Create a Form**
 
@@ -134,12 +102,7 @@ Run the application to check the output by running the following command from th
 
 `npm start`
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.png"
-    alt="text sentiment analysis application"
-  />
-</figure>
+![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.png)
 
 **3. Copy-paste the code snippet from RapidAPI Hub**
 
@@ -149,12 +112,7 @@ Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analys
 
 Select the JavaScript language and [axios](https://github.com/axios/axios) method from the dropdown menu and click on the “Copy Code” button.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.png"
-    alt="copy code snippet of text analysis API"
-  />
-</figure>  
+![copy code snippet of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.png)
 
 Create a function `fetchData()` in the App.js file and paste the code inside that function.  
 
@@ -169,7 +127,7 @@ We are almost done! We just need to validate the form so that the user can enter
 Let’s complete the form first. Create two `useState` hooks in the App.js file, one for handling the state of text that the user enters and the second for loading while API fetching the response from the server. 
  
 ```js
-const [text, setText] = useState(“”);
+const [text, setText] = useState("");
 const [isLoading, setIsLoading] = useState(true);
 <form
   onSubmit={(event) => {
@@ -196,7 +154,7 @@ As simple as that, we are setting the text entered by the user inside the text v
 
 Let’s create another `useState` hook for storing the response that the server returns.    
 
-`const [sentiment, setSentiment] = useState(“”);`
+`const [sentiment, setSentiment] = useState("");`
 
 Modify the `fetchData` function a little bit to store the `sentiment` response string.
 
@@ -216,8 +174,8 @@ If you missed some parts, this is how the entire App.js file looks like.
 import React, { useState } from “react”;
 import axios from “axios”;
 function App() {
-  const [text, setText] = useState(“”);
-  const [sentiment, setSentiment] = useState(“”);
+  const [text, setText] = useState("");
+  const [sentiment, setSentiment] = useState("");
   const [isLoading, setIsLoading] = useState(true);
   function fetchData() {
     const options = {
@@ -291,25 +249,15 @@ Create a `.env` inside the sentiment-analysis folder and add your API key inside
 
 **5. Output**
 
-Yay! Run the npm start command, and you’ll see the result at http://localhost:3000/.
+Yay! Run the `npm start` command, and you’ll see the result at http://localhost:3000/.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/api-response.png"
-    alt="text sentiment analysis app with API reponse in the console"
-  />
-</figure>  
+![text sentiment analysis app with API reponse in the console](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/api-response.png)
 
 You can check the working project [here](https://codesandbox.io/s/festive-turing-j979h).   
 
 Add basic styling to make it more appealing.
 
-<figure>
-  <img
-    src="https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.png"
-    alt="text sentiment analysis application"
-  />
-</figure> 
+![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.png)
 
 Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.   
 
