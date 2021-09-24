@@ -1,28 +1,32 @@
 [
   {
-    "title": "REST API Development for JavaScript Developers",
-    "slug": "rest-api-development",
-    "description": "This post will talk about how REST APIs work",
+    "title": "Turn an API into a Startup?! Build & Sell an API with JavaScript",
+    "slug": "turn-api-startup",
+    "description": "The only #Node JS API tutorial you need. Learn how to Build and Deploy your own fully custom JavaScript API with Node and Express from scratch. Once you've learned that, I'll teach you how to put it on a platform called RapidAPI, set the pricing tiers, start selling, and finally, build a business around it.",
     "topics": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md",
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/index.md",
         "pages": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/intro.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md"
-          }
-        ]
-      },
-      {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md",
-        "pages": [
-          {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-vimeo-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/about-apis-and-setup.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/with-youtube-video/post.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/create-server.md"
+          },
+          {
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/adding-endpoints.md"
+          },
+          {
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/deployment-preparation.md"
+          },
+          {
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/hosting.md"
+          },
+          {
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-lms-content/lms/posts/turn-api-startup/rapidapi-marketplace.md"
           }
         ]
       }
