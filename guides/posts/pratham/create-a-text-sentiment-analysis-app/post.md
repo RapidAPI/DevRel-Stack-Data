@@ -170,7 +170,6 @@ Modify the `fetchData` function a little bit to store the `sentiment` response s
 
 ```js
 .then(function (response) {
-  console.log(response.data);
   setSentiment(response.data.sentiment);
   setIsLoading(false);
 })
@@ -270,7 +269,5 @@ Add basic styling to make it more appealing.
 ![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.png)
 
 Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.   
-
-Feel free to drop your suggestions, feedback, and doubts down below. We love checking them out.    
 
 With that said, we hope you enjoy this article. Peace out!! Keep coding! We will catch you with the next excellent project idea.
