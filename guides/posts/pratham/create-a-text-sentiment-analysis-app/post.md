@@ -100,10 +100,8 @@ export default App;
 
 Run the application to check the output by running the following command from the root of the project and go to https://localhost:3000
 
-```
-
+```bash
 npm start
-
 ````
 
 ![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.png)
@@ -122,10 +120,8 @@ Create a function `fetchData()` in the App.js file and paste the code inside tha
 
 We need to install axios library first in order to use it in our application. Run the following command from the root of the project.
 
-```
-
+```bash
 npm install axios
-
 ```
 
 **4. Let the user enter the text and get the sentiment** 
@@ -250,7 +246,9 @@ export default App;
 
 One important thing to note here is that we have passed the API key as
 
-`“x-rapidapi-key”: process.env.REACT_APP_API_KEY,`
+```js
+"x-rapidapi-key": process.env.REACT_APP_API_KEY,
+```
 
 `x-rapidapi-key` is your API key that RapidAPI provides using which you can access over 35,000 excellent APIs. It’s always recommended to pass the API key as an environment variable because it’s a confidential thing. Anyone can use your API subscription if they have your API key. 
 
