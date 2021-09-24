@@ -100,7 +100,11 @@ export default App;
 
 Run the application to check the output by running the following command from the root of the project and go to https://localhost:3000
 
-`npm start`
+```
+
+npm start
+
+````
 
 ![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.png)
 
@@ -118,7 +122,11 @@ Create a function `fetchData()` in the App.js file and paste the code inside tha
 
 We need to install axios library first in order to use it in our application. Run the following command from the root of the project.
 
-`npm install axios`
+```
+
+npm install axios
+
+```
 
 **4. Let the user enter the text and get the sentiment** 
 
@@ -154,7 +162,9 @@ As simple as that, we are setting the text entered by the user inside the text v
 
 Let’s create another `useState` hook for storing the response that the server returns.    
 
-`const [sentiment, setSentiment] = useState("");`
+```js
+const [sentiment, setSentiment] = useState("");
+```
 
 Modify the `fetchData` function a little bit to store the `sentiment` response string.
 
