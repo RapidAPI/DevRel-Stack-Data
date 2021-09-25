@@ -4,7 +4,7 @@ description: "Text sentiment analysis is a machine learning and natural language
 slug: create-text-sentiment-analysis-app-react
 authors:
   - pratham
-category: API
+category: api
 tags:
   - react
   - api
