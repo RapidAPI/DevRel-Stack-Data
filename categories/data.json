@@ -15,4 +15,8 @@
     "name": "Design",
     "color": "orange"
   }
+  "api": {
+    "name": "API",
+    "color": "blue"
+  }
 }

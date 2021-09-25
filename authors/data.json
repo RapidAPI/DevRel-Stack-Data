@@ -17,4 +17,10 @@
     "designation": "Content Producer @ RapidAPI",
     "isDeveloperProgramMember": true
   }
+  "pratham": {
+    "name": "Pratham",
+    "avatar": "https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/authors/pratham/avatar.png",
+    "designation": "Developer Advocate @ RapidAPI",
+    "isDeveloperProgramMember": true
+  }
 }
