@@ -1,10 +1,13 @@
 ---
-title: "How to Create a Text Sentiment Analysis App using React"
+title: How to Create a Text Sentiment Analysis App using React
 description: "Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer. The sentiment can be positive, negative, or neutral. Text sentiment analysis, also known as opinion mining, is a deep area of research. In this blog, we will make a text sentiment analysis application using an API available on RapidAPI Hub."
-slug: "2021-09-23-post-5"
-authors: ["pratham"]
-category: "API"
-tags: ["react", "api"]
+slug: create-text-sentiment-analysis-app-react
+authors:
+  - pratham
+category: API
+tags:
+  - react
+  - api
 publishedDate: "2021-09-23T08:00:00+08:00"
 coverImage: ""
 ---
@@ -13,13 +16,13 @@ coverImage: ""
   Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer. The sentiment can be positive, negative, or neutral. Text sentiment analysis, also known as opinion mining, is a deep area of research. In this blog, we will make a text sentiment analysis application using an API available on RapidAPI Hub.
 </Lead>
 
-[Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) is an excellent API available on [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) using which you can create a text analysis application. [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) has several other endpoints as well which let you perform sentiment-analysis, text-summarization, language-detection, article-extraction, named-entity-recognition on text. You can also analyze text from a whole website or from documents and images using this API.   
+[Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) is an excellent API available on [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) using which you can create a text analysis application. [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) has several other endpoints as well which let you perform sentiment-analysis, text-summarization, language-detection, article-extraction, named-entity-recognition on text. You can also analyze text from a whole website or from documents and images using this API.
 
-We will be focusing on the text analysis endpoint in this particular article. Let’s get started. 
+We will be focusing on the text analysis endpoint in this particular article. Let’s get started.
 
 ## How to connect to the Facial Text Analysis API
 
-RapidAPI handles all the API development things very effectively. You don’t need to worry about any complicated stuff related to API like rate-limiting factors, authentication, authorization. RapidAPI does all the communications by itself. You just need to register on RapidAPI Hub if you want to use any API. RapidAPI provides you a single API key using which you can access over 35,000 APIs conveniently.   
+RapidAPI handles all the API development things very effectively. You don’t need to worry about any complicated stuff related to API like rate-limiting factors, authentication, authorization. RapidAPI does all the communications by itself. You just need to register on RapidAPI Hub if you want to use any API. RapidAPI provides you a single API key using which you can access over 35,000 APIs conveniently.
 
 Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account.
 
@@ -29,26 +32,26 @@ The majority of the APIs offer a freemium plan. You don’t even need to add cre
 
 ![pricing page of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.png)
 
-Just click on the “Subscribe” button of the Basic plan.  
+Just click on the “Subscribe” button of the Basic plan.
 
-Now we are good to create a Text Sentiment Analysis App using React and this API.   
+Now we are good to create a Text Sentiment Analysis App using React and this API.
 
 ## Play around with Text Analysis API
 
-Once you subscribe, you can test the API and check the response this [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API returns. You can test multiple endpoints with different parameters using the API playground. Let’s try to dig in with our current API to integrate it with our application.  
+Once you subscribe, you can test the API and check the response this [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API returns. You can test multiple endpoints with different parameters using the API playground. Let’s try to dig in with our current API to integrate it with our application.
 
 ![homepage of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage.png)
 
-1. Endpoint    
-Here, you can take a quick look at the endpoints an interface supports. You can also search for a distinct endpoint.
-2. Documentation    
-Here, you can access and change all the necessary details required to test an endpoint. For example, you can pass values in the different parameters in the documentation section.
-3. Code      
-Every developer wants and loves this section. You can copy-paste the code directly from here. RapidAPI supports 20 programming languages with 40 different libraries.   
+1. Endpoint
+   Here, you can take a quick look at the endpoints an interface supports. You can also search for a distinct endpoint.
+2. Documentation
+   Here, you can access and change all the necessary details required to test an endpoint. For example, you can pass values in the different parameters in the documentation section.
+3. Code
+   Every developer wants and loves this section. You can copy-paste the code directly from here. RapidAPI supports 20 programming languages with 40 different libraries.
 
-The [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API has many endpoints. You can play around with each one of them separately. For this particular project, we need the POST sentiment-analysis endpoint. This endpoint lets us analyze a paragraph of 1000 characters.   
+The [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API has many endpoints. You can play around with each one of them separately. For this particular project, we need the POST sentiment-analysis endpoint. This endpoint lets us analyze a paragraph of 1000 characters.
 
-Select the POST sentiment-analysis endpoint and scroll down a little bit in the documentation section. You will find a request body section, here you can pass the string you want to analyze.   
+Select the POST sentiment-analysis endpoint and scroll down a little bit in the documentation section. You will find a request body section, here you can pass the string you want to analyze.
 
 Great, we are all set to hit the “Test Endpoint” button.
 
@@ -64,23 +67,25 @@ In the response body (returned data from the server) you will get an `aggregate-
 
 [React](https://reactjs.org/) is a front-end JavaScript library for building user interfaces. In this article, you will learn how to integrate an API into your React application and build a text sentiment analysis. Just follow the steps below.
 
-**1. Create a React Application** 
+**1. Create a React Application**
 
 [Create React App](https://github.com/facebook/create-react-app) is the simplest way to set up a React application by running one command.
 
-`npx create-react-app sentiment-analysis`
+```bash
+npx create-react-app sentiment-analysis
+```
 
-You will need to have [Node.js](https://nodejs.org/en/) (version >= 6) on your local machine. If you haven’t, just download it for free.   
+You will need to have [Node.js](https://nodejs.org/en/) (version >= 6) on your local machine. If you haven’t, just download it for free.
 
-`create-react-app` command will create a folder for you with all the necessary files and folders required for a React application. You will get a `node_modules`, `public`, and `src` folder.   
+`create-react-app` command will create a folder for you with all the necessary files and folders required for a React application. You will get a `node_modules`, `public`, and `src` folder.
 
 ![reponse of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/react-app-folder-atructure.png)
 
 **2. Create a Form**
 
-We want a form in our application where users can add the test in order to retrieve the sentiment. We just need an input field and a submit button in the form.   
+We want a form in our application where users can add the test in order to retrieve the sentiment. We just need an input field and a submit button in the form.
 
-Go to your project folder (sentiment-analysis that we just created in the first step) and you’ll find that React created a bunch of other folders and files for us. We don’t need to check them all right now.   
+Go to your project folder (sentiment-analysis that we just created in the first step) and you’ll find that React created a bunch of other folders and files for us. We don’t need to check them all right now.
 
 Just Go to the `sentiment-analysis folder > src > App.js` file and create a form with an URL input field and a submit button.
 
@@ -102,21 +107,21 @@ Run the application to check the output by running the following command from th
 
 ```bash
 npm start
-````
+```
 
 ![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.png)
 
 **3. Copy-paste the code snippet from RapidAPI Hub**
 
-We are all set to integrate Text Analysis API code into our application. You don’t even need to write the code. RapidAPI provides the code snippet in 20 programming languages with 40 libraries’ support.   
+We are all set to integrate Text Analysis API code into our application. You don’t even need to write the code. RapidAPI provides the code snippet in 20 programming languages with 40 libraries’ support.
 
-Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API homepage and copy the code snippet from the Copy Snippets section of the API playground.   
+Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API homepage and copy the code snippet from the Copy Snippets section of the API playground.
 
 Select the JavaScript language and [axios](https://github.com/axios/axios) method from the dropdown menu and click on the “Copy Code” button.
 
 ![copy code snippet of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.png)
 
-Create a function `fetchData()` in the App.js file and paste the code inside that function.  
+Create a function `fetchData()` in the App.js file and paste the code inside that function.
 
 We need to install axios library first in order to use it in our application. Run the following command from the root of the project.
 
@@ -124,12 +129,12 @@ We need to install axios library first in order to use it in our application. Ru
 npm install axios
 ```
 
-**4. Let the user enter the text and get the sentiment** 
+**4. Let the user enter the text and get the sentiment**
 
-We are almost done! We just need to validate the form so that the user can enter the text to get the result.  
+We are almost done! We just need to validate the form so that the user can enter the text to get the result.
 
-Let’s complete the form first. Create two `useState` hooks in the App.js file, one for handling the state of text that the user enters and the second for loading while API fetching the response from the server. 
- 
+Let’s complete the form first. Create two `useState` hooks in the App.js file, one for handling the state of text that the user enters and the second for loading while API fetching the response from the server.
+
 ```js
 const [text, setText] = useState("");
 const [isLoading, setIsLoading] = useState(true);
@@ -154,9 +159,9 @@ const [isLoading, setIsLoading] = useState(true);
 </form>
 ```
 
-As simple as that, we are setting the text entered by the user inside the text variable and calling the `fetchData` function on form submit.  
+As simple as that, we are setting the text entered by the user inside the text variable and calling the `fetchData` function on form submit.
 
-Let’s create another `useState` hook for storing the response that the server returns.    
+Let’s create another `useState` hook for storing the response that the server returns.
 
 ```js
 const [sentiment, setSentiment] = useState("");
@@ -250,7 +255,7 @@ One important thing to note here is that we have passed the API key as
 "x-rapidapi-key": process.env.REACT_APP_API_KEY,
 ```
 
-`x-rapidapi-key` is your API key that RapidAPI provides using which you can access over 35,000 excellent APIs. It’s always recommended to pass the API key as an environment variable because it’s a confidential thing. Anyone can use your API subscription if they have your API key. 
+`x-rapidapi-key` is your API key that RapidAPI provides using which you can access over 35,000 excellent APIs. It’s always recommended to pass the API key as an environment variable because it’s a confidential thing. Anyone can use your API subscription if they have your API key.
 
 Create a `.env` inside the sentiment-analysis folder and add your API key inside `REACT_APP_API_KEY`(you can call it whatever you want but it should start with the prefix `REACT_APP_ `) variable. Now you can access it inside the App.js file as `process.env.REACT_APP_API_KEY`.
 
@@ -260,12 +265,12 @@ Yay! Run the `npm start` command, and you’ll see the result at http://localhos
 
 ![text sentiment analysis app with API reponse in the console](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/api-response.png)
 
-You can check the working project [here](https://codesandbox.io/s/festive-turing-j979h).   
+You can check the working project [here](https://codesandbox.io/s/festive-turing-j979h).
 
 Add basic styling to make it more appealing.
 
 ![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.png)
 
-Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.   
+Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.
 
 With that said, we hope you enjoy this article. Peace out!! Keep coding! We will catch you with the next excellent project idea.
