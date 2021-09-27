@@ -1,6 +1,6 @@
 [
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/lms/courses/turn-api-startup/index.md",
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md",
     "modules": [
       {
         "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
     "modules": [
       {
         "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
