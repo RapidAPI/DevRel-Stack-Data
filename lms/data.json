@@ -1,8 +1,6 @@
 [
   {
-    "title": "Turn an API into a Startup?! Build & Sell an API with JavaScript",
-    "slug": "turn-api-startup",
-    "description": "The only #Node JS API tutorial you need. Learn how to Build and Deploy your own fully custom JavaScript API with Node and Express from scratch. Once you've learned that, I'll teach you how to put it on a platform called RapidAPI, set the pricing tiers, start selling, and finally, build a business around it.",
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/lms/courses/turn-api-startup/index.md",
     "modules": [
       {
         "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md",
@@ -33,9 +31,7 @@
     ]
   },
   {
-    "title": "Build and Deploy a Google Maps Travel Companion Application | React.js",
-    "slug": "build-deploy-google-maps-travel-companion-application",
-    "description": "Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are just some features that make this Travel Advisor App the best Maps Application that you can currently find on YouTube.",
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
     "modules": [
       {
         "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
