@@ -8,25 +8,45 @@ draft: true
 coverImage: ""
 points: 5
 lessons:
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-different-methods-of-http.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-different-methods-of-http.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-get-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-get-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-post-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-post-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-patch-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-patch-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-put-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-put-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-delete-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-delete-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-head-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-head-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-connect-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-connect-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-options-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-options-request.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-trace-request.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-trace-request.md,
+    }
 ---
 
 HTTP or Hypertext Transfer Protocol is an application layer protocol generally used by web services for serving HTML documents. A client makes a request to a server for a resource and the server sends a response. As HTTP is stateless, it doesn’t keep any information regarding any requests.

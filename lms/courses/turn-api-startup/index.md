@@ -6,4 +6,36 @@ publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: 2019-08-22T15:20:28.000Z
 coverImage: ""
 draft: true
+modules:
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md,
+    }
+lessons:
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/intro.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/about-apis-and-setup.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/create-server.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/adding-endpoints.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/deployment-preparation.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/hosting.md,
+    }
+
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/rapidapi-marketplace.md,
+    }
 ---

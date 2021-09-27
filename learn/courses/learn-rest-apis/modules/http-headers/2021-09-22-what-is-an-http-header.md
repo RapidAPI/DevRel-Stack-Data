@@ -8,17 +8,29 @@ draft: true
 coverImage: ""
 points: 5
 lessons:
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-request-headers.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-request-headers.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-response-headers.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-response-headers.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-representation-headers.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-representation-headers.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-payload-headers.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-payload-headers.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-content-security-policy-csp.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-content-security-policy-csp.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-cors.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-cors.md,
+    }
 ---
 
 When a client makes a request to the server, the client can pass additional information as a part of the request via HTTP headers. As mentioned earlier, headers are case insensitive.

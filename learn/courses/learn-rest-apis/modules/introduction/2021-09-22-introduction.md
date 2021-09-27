@@ -8,15 +8,25 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-an-api.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-an-api.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-a-rest-api.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-a-rest-api.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-principles-of-rest-api-design.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-principles-of-rest-api-design.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-how-does-a-rest-api-work.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-how-does-a-rest-api-work.md,
+    }
 
-  - https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/refactor/modify-how-parent-files-are-stored/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-versioning-rest-apis.md
+  - {
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-versioning-rest-apis.md,
+    }
 ---
 
 <Lead>In this guide, you will learn about how REST APIs work and what their best practices are.</Lead>
