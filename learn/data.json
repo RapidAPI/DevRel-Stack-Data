@@ -2,82 +2,82 @@
   {
     "title": "Learn REST APIs",
     "slug": "learn-rest-apis",
-    "topics": [
+    "modules": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/2021-09-22-introduction.md",
-        "pages": [
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/2021-09-22-introduction.md",
+        "lessons": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/pages/2021-09-22-what-is-an-api.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-an-api.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/pages/2021-09-22-what-is-a-rest-api.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-a-rest-api.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/pages/2021-09-22-principles-of-rest-api-design.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-principles-of-rest-api-design.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/pages/2021-09-22-how-does-a-rest-api-work.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-how-does-a-rest-api-work.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/introduction/pages/2021-09-22-versioning-rest-apis.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-versioning-rest-apis.md"
           }
         ]
       },
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/2021-09-22-what-is-http.md",
-        "pages": [
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/2021-09-22-what-is-http.md",
+        "lessons": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-different-methods-of-http.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-different-methods-of-http.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-get-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-get-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-post-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-post-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-patch-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-patch-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-put-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-put-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-delete-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-delete-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-head-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-head-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-connect-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-connect-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-options-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-options-request.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-methods/pages/2021-09-22-trace-request.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/2021-09-22-trace-request.md"
           }
         ]
       },
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/2021-09-22-what-is-an-http-header.md",
-        "pages": [
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/2021-09-22-what-is-an-http-header.md",
+        "lessons": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-request-headers.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-request-headers.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-response-headers.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-response-headers.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-representation-headers.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-representation-headers.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-payload-headers.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-payload-headers.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-content-security-policy-csp.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-content-security-policy-csp.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/posts/learn-rest-apis/topics/http-headers/pages/2021-09-22-cors.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/2021-09-22-cors.md"
           }
         ]
       }

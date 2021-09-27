@@ -3,30 +3,30 @@
     "title": "Turn an API into a Startup?! Build & Sell an API with JavaScript",
     "slug": "turn-api-startup",
     "description": "The only #Node JS API tutorial you need. Learn how to Build and Deploy your own fully custom JavaScript API with Node and Express from scratch. Once you've learned that, I'll teach you how to put it on a platform called RapidAPI, set the pricing tiers, start selling, and finally, build a business around it.",
-    "topics": [
+    "modules": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/index.md",
-        "pages": [
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md",
+        "lessons": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/intro.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/intro.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/about-apis-and-setup.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/about-apis-and-setup.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/create-server.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/create-server.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/adding-endpoints.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/adding-endpoints.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/deployment-preparation.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/deployment-preparation.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/hosting.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/hosting.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/turn-api-startup/rapidapi-marketplace.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/rapidapi-marketplace.md"
           }
         ]
       }
@@ -36,60 +36,60 @@
     "title": "Build and Deploy a Google Maps Travel Companion Application | React.js",
     "slug": "build-deploy-google-maps-travel-companion-application",
     "description": "Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are just some features that make this Travel Advisor App the best Maps Application that you can currently find on YouTube.",
-    "topics": [
+    "modules": [
       {
-        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/index.md",
-        "pages": [
+        "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/index.md",
+        "lessons": [
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/intro.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/intro.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/setup.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/setup.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/demo.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/demo.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/project-setup.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/project-setup.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/folder-structure.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/folder-structure.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/header.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/header.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/map.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/map.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/list.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/list.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/working-apis.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/working-apis.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/place-card.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/place-card.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/display-places-map.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/display-places-map.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/scroll-places-filters.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/scroll-places-filters.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/places-search.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/places-search.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/weather-api.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/weather-api.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/change-map-styles.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/change-map-styles.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/env.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/env.md"
           },
           {
-            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/posts/build-deploy-google-maps-travel-companion-application/deployment.md"
+            "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/deployment.md"
           }
         ]
       }
