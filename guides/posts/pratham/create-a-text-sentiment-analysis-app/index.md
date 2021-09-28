@@ -32,7 +32,7 @@ The majority of the APIs offer a freemium plan. You don’t even need to add cre
 
 ![pricing page of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.png)
 
-Just click on the “Subscribe” button of the Basic plan.
+Just click on the "Subscribe" button of the Basic plan.
 
 Now we are good to create a Text Sentiment Analysis App using React and this API.
 
@@ -53,11 +53,11 @@ The [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?
 
 Select the POST sentiment-analysis endpoint and scroll down a little bit in the documentation section. You will find a request body section, here you can pass the string you want to analyze.
 
-Great, we are all set to hit the “Test Endpoint” button.
+Great, we are all set to hit the "Test Endpoint" button.
 
 ![click Test Endpoint button to test text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage-test-api.png)
 
-After hitting the “Test Endpoint” button, you will see the endpoint (API) result in the third section of API Playground.
+After hitting the "Test Endpoint" button, you will see the endpoint (API) result in the third section of API Playground.
 
 ![reponse of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/response.png)
 
@@ -93,9 +93,14 @@ Just Go to the `sentiment-analysis folder > src > App.js` file and create a form
 function App() {
   return (
     <div>
-      <form action=””>
-        <input type=”text” name=”text” id=”text” placeholder=”Enter your text here.” />
-        <input className=”btn” type=”submit” value=”Analyze” />
+      <form action="">
+        <input
+          type="text"
+          name="text"
+          id="text"
+          placeholder="Enter your text here."
+        />
+        <input className="btn" type="submit" value="Analyze" />
       </form>
     </div>
   );
@@ -117,7 +122,7 @@ We are all set to integrate Text Analysis API code into our application. You don
 
 Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API homepage and copy the code snippet from the Copy Snippets section of the API playground.
 
-Select the JavaScript language and [axios](https://github.com/axios/axios) method from the dropdown menu and click on the “Copy Code” button.
+Select the JavaScript language and [axios](https://github.com/axios/axios) method from the dropdown menu and click on the "Copy Code" button.
 
 ![copy code snippet of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.png)
 
@@ -140,23 +145,23 @@ const [text, setText] = useState("");
 const [isLoading, setIsLoading] = useState(true);
 <form
   onSubmit={(event) => {
-  event.preventDefault();
-  fetchData();
-  setText(“”);
-  setIsLoading(true);
-}}
-  action=””
+    event.preventDefault();
+    fetchData();
+    setText("");
+    setIsLoading(true);
+  }}
+  action=""
 >
   <input
     onChange={(event) => setImageLink(event.target.value)}
-    type=”text”
-    name=”text”
-    id=”text”
+    type="text"
+    name="text"
+    id="text"
     value={text}
-    placeholder=”Enter your text here…”
+    placeholder="Enter your text here…"
   />
-  <input className=”btn” type=”submit” value=”Analyze” />
-</form>
+  <input className="btn" type="submit" value="Analyze" />
+</form>;
 ```
 
 As simple as that, we are setting the text entered by the user inside the text variable and calling the `fetchData` function on form submit.
@@ -181,23 +186,23 @@ Render the sentiment on the webpage when API successfully returns the data. You 
 If you missed some parts, this is how the entire App.js file looks like.
 
 ```jsx
-import React, { useState } from “react”;
-import axios from “axios”;
+import React, { useState } from "react";
+import axios from "axios";
 function App() {
   const [text, setText] = useState("");
   const [sentiment, setSentiment] = useState("");
   const [isLoading, setIsLoading] = useState(true);
   function fetchData() {
     const options = {
-      method: “POST”,
-      url: “https://text-analysis12.p.rapidapi.com/sentiment-analysis/api/v1.1",
+      method: "POST",
+      url: "https://text-analysis12.p.rapidapi.com/sentiment-analysis/api/v1.1",
       headers: {
-        “content-type”: “application/json”,
-        “x-rapidapi-host”: “text-analysis12.p.rapidapi.com”,
-        “x-rapidapi-key”: process.env.REACT_APP_API_KEY,
+        "content-type": "application/json",
+        "x-rapidapi-host": "text-analysis12.p.rapidapi.com",
+        "x-rapidapi-key": process.env.REACT_APP_API_KEY,
       },
       data: {
-        language: “english”,
+        language: "english",
         text: text,
       },
     };
@@ -207,10 +212,10 @@ function App() {
         console.log(response.data);
         setSentiment(response.data.sentiment);
         setIsLoading(false);
-    })
-    .catch(function (error) {
-      console.error(error);
-    });
+      })
+      .catch(function (error) {
+        console.error(error);
+      });
   }
   return (
     <div>
@@ -218,29 +223,31 @@ function App() {
       <form
         onSubmit={(event) => {
           event.preventDefault();
-          setText(“”);
+          setText("");
           fetchData();
         }}
-        action=””
+        action=""
       >
         <input
           onChange={(event) => setText(event.target.value)}
-          type=”text”
-          name=”text”
-          id=”text”
+          type="text"
+          name="text"
+          id="text"
           value={text}
-          className=”input”
-          placeholder=”Enter your text here…”
+          className="input"
+          placeholder="Enter your text here…"
         />
-        <input className=”btn” type=”submit” value=”Analyze” />
+        <input className="btn" type="submit" value="Analyze" />
       </form>
       {isLoading ? (
-        <div className=”data”>
+        <div className="data">
           <p>Loading…</p>
         </div>
       ) : (
-        <div className=”data”>
-          <p>Sentiment: <span>{sentiment}</span></p>
+        <div className="data">
+          <p>
+            Sentiment: <span>{sentiment}</span>
+          </p>
         </div>
       )}
     </div>
