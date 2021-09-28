@@ -4,7 +4,7 @@
   "description": "RapidAPI DevRel Guides",
   "language": "en",
   "locale": "en_US",
-  "siteUrl": "https://devrel-stack.vercel.app",
+  "siteUrl": "https://devrel-stack-guides.vercel.app",
   "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
   "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-og.png",
   "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
