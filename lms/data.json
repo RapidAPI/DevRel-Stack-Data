@@ -31,5 +31,8 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-full-working-api-django-publicizing-rapidapi/index.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/index.md"
   }
 ]
