@@ -25,5 +25,8 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/index.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/index.md"
   }
 ]
