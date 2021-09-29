@@ -22,5 +22,8 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/index.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/index.md"
   }
 ]
