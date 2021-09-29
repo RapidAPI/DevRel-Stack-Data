@@ -28,5 +28,8 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/index.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-full-working-api-django-publicizing-rapidapi/index.md"
   }
 ]
