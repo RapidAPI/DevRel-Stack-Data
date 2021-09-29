@@ -4,10 +4,10 @@ description: "HTTP headers allow clients and servers to talk to each other and p
 slug: "top-five-http-headers-might-not-know"
 authors: 
   - pratham
-category: "API"
+category: api
 tags:
-  - HTTP
-  - API
+  - http
+  - api
 publishedDate: "2021-09-28T08:00:00+08:00"
 coverImage: ""
 ---
