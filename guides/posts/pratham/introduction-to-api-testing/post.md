@@ -4,9 +4,9 @@ description: "API testing is performed to test whether a particular API meets pr
 slug: "introduction-api-testing"
 authors:
  - pratham
-category: "API"
+category: api
 tags: 
- - API
+ - api
 publishedDate: "2021-09-28T08:00:00+08:00"
 coverImage: ""
 ---
