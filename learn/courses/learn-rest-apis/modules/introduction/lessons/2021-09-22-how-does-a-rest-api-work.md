@@ -4,7 +4,7 @@ slug: how-does-a-rest-api-work
 description: ""
 publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: "2021-09-22T16:50:26.557Z"
-draft: true
+draft: false
 coverImage: ""
 points: 15
 ---

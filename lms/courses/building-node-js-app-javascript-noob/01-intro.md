@@ -1,11 +1,11 @@
 ---
 title: Intro
 slug: intro
-description: ""
+description: ''
 publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: 2019-08-22T15:20:28.000Z
-coverImage: ""
+coverImage: ''
 draft: false
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=0)
+!(https://youtu.be/wYALykLb5oY?t=0)

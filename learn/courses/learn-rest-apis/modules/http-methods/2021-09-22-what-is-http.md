@@ -4,7 +4,7 @@ slug: what-is-http
 description: ""
 publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: "2021-09-22T17:33:57.169Z"
-draft: true
+draft: false
 coverImage: ""
 points: 5
 lessons:

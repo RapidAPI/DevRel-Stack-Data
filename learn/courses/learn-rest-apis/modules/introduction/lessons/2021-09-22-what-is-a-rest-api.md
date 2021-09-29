@@ -4,7 +4,7 @@ slug: what-is-a-rest-api
 description: ""
 publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: "2021-09-22T17:32:59.631Z"
-draft: true
+draft: false
 coverImage: ""
 points: 10
 ---

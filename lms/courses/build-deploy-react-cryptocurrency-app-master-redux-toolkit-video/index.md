@@ -5,7 +5,7 @@ description: Learn advanced React best practices, State Management using Redux T
 publishedDate: 2019-08-22T15:20:28.000Z
 lastModifiedDate: 2019-08-22T15:20:28.000Z
 coverImage: ''
-draft: true
+draft: false
 modules:
   - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/index.md'
 lessons:
