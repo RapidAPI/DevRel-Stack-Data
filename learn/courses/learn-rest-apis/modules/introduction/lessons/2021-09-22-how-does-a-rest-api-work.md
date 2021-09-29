@@ -17,11 +17,11 @@ REST APIs generally communicate via HTTP requests. However, it isn’t mandatory
 
 - **Endpoint:** The endpoint is the URL from which you request for a resource.
 - **Method:** The method determines the type of request you make to the server. There are five popular HTTP methods that REST uses:
-  - GET method is used to retrieve a response from the server.
-  - POST method is used to create a new resource on the server.
-  - PUT method can create or update a resource on the server.
-  - PATCH method is used to update a resource on the server.
-  - DELETE method is used to remove a resource from the server.
+  - **GET** method is used to retrieve a response from the server.
+  - **POST** method is used to create a new resource on the server.
+  - **PUT** method can create or update a resource on the server.
+  - **PATCH** method is used to update a resource on the server.
+  - **DELETE** method is used to remove a resource from the server.
 - **Headers:** The headers contain important information regarding the metadata of the request. Headers are case-insensitive by nature and can be grouped into request, response, representation and payload.
 - **Data (or Body):** POST, PUT, PATCH and DELETE methods can contain a body which is used to send information to the server.
 

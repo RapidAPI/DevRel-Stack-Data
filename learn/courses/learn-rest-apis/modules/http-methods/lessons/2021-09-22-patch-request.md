@@ -16,7 +16,9 @@ An example of a PATCH request looks like this:
 ```bash
 PATCH /users/1 HTTP/1.1
 Host: https://www.website.com
+```
 
+```json
 {
   "name": "John",
   "email": "john@doe.com"

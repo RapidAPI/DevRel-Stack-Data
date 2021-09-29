@@ -49,7 +49,7 @@ lessons:
     }
 ---
 
-HTTP or Hypertext Transfer Protocol is an application layer protocol generally used by web services for serving HTML documents. A client makes a request to a server for a resource and the server sends a response. As HTTP is stateless, it doesn’t keep any information regarding any requests.
+**HTTP** or Hypertext Transfer Protocol is an application layer protocol generally used by web services for serving HTML documents. A client makes a request to a server for a resource and the server sends a response. As HTTP is stateless, it doesn’t keep any information regarding any requests.
 
 HTTP is a client-server protocol and there can be multiple intermediaries between them. There can be multiple proxies or gateways for managing cache, security, logging, authentication, and balancing traffic.
 

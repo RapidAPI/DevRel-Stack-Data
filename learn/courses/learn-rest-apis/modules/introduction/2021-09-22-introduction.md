@@ -31,7 +31,9 @@ lessons:
 
 <Lead>In this guide, you will learn about how REST APIs work and what their best practices are.</Lead>
 
-Imagine that you are building a trading platform. You will need to support various features like exchange of currency, fluctuation of market rates, authentication, payment processing, and much more. Building and maintaining such functionalities is difficult. To resolve these issues, you can use integrations with various other software. These integrations are done in the form of Application Programming Interfaces or APIs. APIs are a set of guidelines or rules which state how applications can interact with each other. REST (REpresentational State Transfer) APIs are those APIs that follow the guidelines of REST architecture. They are also known as RESTful APIs.
+Imagine that you are building a trading platform. You will need to support various features like exchange of currency, fluctuation of market rates, authentication, payment processing, and much more. Building and maintaining such functionalities is difficult. To resolve these issues, you can use integrations with various other software.
+
+These integrations are done in the form of Application Programming Interfaces or APIs. APIs are a set of guidelines or rules which state how applications can interact with each other. **REST** (REpresentational State Transfer) APIs are those APIs that follow the guidelines of REST architecture. They are also known as RESTful APIs.
 
 ## About this course
 

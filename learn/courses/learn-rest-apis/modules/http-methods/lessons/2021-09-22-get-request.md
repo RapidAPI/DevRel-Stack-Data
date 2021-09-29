@@ -20,6 +20,13 @@ GET /users HTTP/1.1
 Host: https://www.website.com
 ```
 
+```json
+{
+  "name": "John",
+  "email": "john@doe.com"
+}
+```
+
 <Quiz
   question={
     <div><span tw="font-semibold">Quick Review:</span> Can a GET request create a new resource?</div>

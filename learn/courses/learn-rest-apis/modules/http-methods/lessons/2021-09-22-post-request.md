@@ -18,7 +18,9 @@ An example of a POST request looks like this:
 ```bash
 POST /users HTTP/1.1
 Host: https://www.website.com
+```
 
+```json
 {
   "name": "John",
   "email": "john@doe.com"
