@@ -1,10 +1,13 @@
 ---
 title: "Top Five HTTP headers you might not know about"
 description: "HTTP headers allow clients and servers to talk to each other and pass extra bits of information or instructions."
-slug: "2021-09-28-post-2"
-authors: ["pratham"]
+slug: "top-five-http-headers-might-not-know"
+authors: 
+  - pratham
 category: "API"
-tags: ["HTTP", "api"]
+tags:
+  - HTTP
+  - API
 publishedDate: "2021-09-28T08:00:00+08:00"
 coverImage: ""
 ---
