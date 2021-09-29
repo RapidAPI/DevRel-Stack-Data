@@ -10,5 +10,8 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/index.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/convolutional-networks-heart-disease-prediction/index.md"
   }
 ]
