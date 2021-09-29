@@ -1,6 +1,6 @@
 ---
 title: "How to Create a Text Sentiment Analysis App using React"
-description: "Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer. The sentiment can be positive, negative, or neutral. Text sentiment analysis, also known as opinion mining, is a deep area of research. In this blog, we will make a text sentiment analysis application using an API available on RapidAPI Hub."
+description: "Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer."
 slug: "2021-09-23-post-5"
 authors: ["pratham"]
 category: "API"
