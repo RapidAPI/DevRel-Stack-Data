@@ -34,17 +34,13 @@ By default, Tailwind removes all of the default browser styling from paragraphs,
 We get lots of complaints about it actually, with people regularly asking us things like:
 
 <HTTPClient
-blocks={[
-{
-url: 'https://rapidapi.com/telesign/api/telesign-sms-verify/',
-},
-{
-url: 'https://rapidapi.com/fcambus/api/telize/',
-},
-{
-url: 'https://rapidapi.com/crunchbase-team1-crunchbase/api/crunchbase/',
-},
-]}
+  blocks={[{
+    url: 'https://rapidapi.com/telesign/api/telesign-sms-verify/',
+  }, {
+    url: 'https://rapidapi.com/fcambus/api/telize/',
+  }, {
+    url: 'https://rapidapi.com/crunchbase-team1-crunchbase/api/crunchbase/',
+  }]}
 />
 
 > Why is Tailwind removing the default styles on my `h1` elements? How do I disable this? What do you mean I lose all the other base styles too?
