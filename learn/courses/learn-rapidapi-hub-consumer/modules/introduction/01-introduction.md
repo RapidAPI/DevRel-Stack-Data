@@ -9,7 +9,7 @@ coverImage: ""
 points: 5
 lessons:
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/feat/add-learn-content/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md,
     }
 ---
 
