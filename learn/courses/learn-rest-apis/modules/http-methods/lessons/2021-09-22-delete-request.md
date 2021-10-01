@@ -17,3 +17,9 @@ An example of a DELETE request looks like this:
 DELETE /users/1 HTTP/1.1
 Host: https://www.website.com
 ```
+
+<HTTPClient
+  url="https://reqres.in/api/users/2"
+  method="DELETE"
+  isRequestMethodChangeDisabled
+/>

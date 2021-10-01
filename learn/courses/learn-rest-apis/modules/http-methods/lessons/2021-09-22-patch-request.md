@@ -24,3 +24,10 @@ Host: https://www.website.com
   "email": "john@doe.com"
 }
 ```
+
+<HTTPClient
+  url="https://reqres.in/api/users/2"
+  method="PATCH"
+  body={'{\n    "name": "morpheus",\n    "job": "leader"\n}'}
+  isRequestMethodChangeDisabled
+/>

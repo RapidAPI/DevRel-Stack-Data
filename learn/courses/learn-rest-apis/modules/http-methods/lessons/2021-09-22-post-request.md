@@ -27,6 +27,13 @@ Host: https://www.website.com
 }
 ```
 
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="POST"
+  body={'{\n    "name": "morpheus",\n    "job": "leader"\n}'}
+  isRequestMethodChangeDisabled
+/>
+
 <Quiz
   question={
     <div><span tw="font-semibold">Quick Review:</span> Can a POST request update an existing resource?</div>

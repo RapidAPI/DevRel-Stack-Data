@@ -27,6 +27,12 @@ Host: https://www.website.com
 }
 ```
 
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="GET"
+  isRequestMethodChangeDisabled
+/>
+
 <Quiz
   question={
     <div><span tw="font-semibold">Quick Review:</span> Can a GET request create a new resource?</div>
