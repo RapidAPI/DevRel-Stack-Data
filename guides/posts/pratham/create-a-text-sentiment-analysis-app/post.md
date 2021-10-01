@@ -16,7 +16,7 @@ coverImage: ""
   Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer. The sentiment can be positive, negative, or neutral. Text sentiment analysis, also known as opinion mining, is a deep area of research. In this blog, we will make a text sentiment analysis application using an API available on RapidAPI Hub.
 </Lead>
 
-[Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) is an excellent API available on [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) using which you can create a text analysis application. [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) has several other endpoints as well which let you perform sentiment-analysis, text-summarization, language-detection, article-extraction, named-entity-recognition on text. You can also analyze text from a whole website or from documents and images using this API.   
+[Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) is an excellent API available on [RapidAPI Hub](https://rapidapi.com/hub) using which you can create a text analysis application. [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) has several other endpoints as well which let you perform sentiment-analysis, text-summarization, language-detection, article-extraction, named-entity-recognition on text. You can also analyze text from a whole website or from documents and images using this API.   
 
 We will be focusing on the text analysis endpoint in this particular article. Let’s get started. 
 
@@ -24,13 +24,13 @@ We will be focusing on the text analysis endpoint in this particular article. Le
 
 RapidAPI handles all the API development things very effectively. You don’t need to worry about any complicated stuff related to API like rate-limiting factors, authentication, authorization. RapidAPI does all the communications by itself. You just need to register on RapidAPI Hub if you want to use any API. RapidAPI provides you a single API key using which you can access over 35,000 APIs conveniently.   
 
-Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account.
+Go to [RapidAPI Hub](https://rapidapi.com/hub) and create a free account.
 
-![sign up page of RapidAPI](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/RapidAPI-Homepage.jpeg)
+![sign up page of RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/RapidAPI-Homepage.jpeg)
 
-The majority of the APIs offer a freemium plan. You don’t even need to add credit card details to access them. Visit [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API on RapidAPI Hub. It is completely free and has only one subscription plan which allows you to make 100 API calls per second.
+The majority of the APIs offer a freemium plan. You don’t even need to add credit card details to access them. Visit [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) API on RapidAPI Hub. It is completely free and has only one subscription plan which allows you to make 100 API calls per second.
 
-![pricing page of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.jpeg)
+![pricing page of text-analysis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-pricing-page.jpeg)
 
 Just click on the “Subscribe” button of the Basic plan.  
 
@@ -38,9 +38,9 @@ Now we are good to create a Text Sentiment Analysis App using React and this API
 
 ## Play around with Text Analysis API
 
-Once you subscribe, you can test the API and check the response this [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API returns. You can test multiple endpoints with different parameters using the API playground. Let’s try to dig in with our current API to integrate it with our application.  
+Once you subscribe, you can test the API and check the response this [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) API returns. You can test multiple endpoints with different parameters using the API playground. Let’s try to dig in with our current API to integrate it with our application.  
 
-![homepage of text-analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage.jpeg)
+![homepage of text-analysis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage.jpeg)
 
 1. Endpoint    
 Here, you can take a quick look at the endpoints an interface supports. You can also search for a distinct endpoint.
@@ -49,17 +49,17 @@ Here, you can access and change all the necessary details required to test an en
 3. Code      
 Every developer wants and loves this section. You can copy-paste the code directly from here. RapidAPI supports 20 programming languages with 40 different libraries.   
 
-The [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API has many endpoints. You can play around with each one of them separately. For this particular project, we need the POST sentiment-analysis endpoint. This endpoint lets us analyze a paragraph of 1000 characters.   
+The [Text Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) API has many endpoints. You can play around with each one of them separately. For this particular project, we need the POST sentiment-analysis endpoint. This endpoint lets us analyze a paragraph of 1000 characters.   
 
 Select the POST sentiment-analysis endpoint and scroll down a little bit in the documentation section. You will find a request body section, here you can pass the string you want to analyze.   
 
 Great, we are all set to hit the “Test Endpoint” button.
 
-![click Test Endpoint button to test text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage-test-api.jpeg)
+![click Test Endpoint button to test text analysis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-homepage-test-api.jpeg)
 
 After hitting the “Test Endpoint” button, you will see the endpoint (API) result in the third section of API Playground.
 
-![reponse of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/response.jpeg)
+![response of text analysis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/response.jpeg)
 
 In the response body (returned data from the server) you will get an `aggregate-sentiment` object which contains all the negative, positive, neutral, and compound values of the string. The response body all contains the sentiment key which tells us the overall `sentiment` of the text.
 
@@ -105,17 +105,17 @@ Run the application to check the output by running the following command from th
 npm start
 ````
 
-![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.jpeg)
+![text sentiment analysis application](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/app.jpeg)
 
 **3. Copy-paste the code snippet from RapidAPI Hub**
 
 We are all set to integrate Text Analysis API code into our application. You don’t even need to write the code. RapidAPI provides the code snippet in 20 programming languages with 40 libraries’ support.   
 
-Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) API homepage and copy the code snippet from the Copy Snippets section of the API playground.   
+Go to the [Test Analysis](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/) API homepage and copy the code snippet from the Copy Snippets section of the API playground.   
 
 Select the JavaScript language and [axios](https://github.com/axios/axios) method from the dropdown menu and click on the “Copy Code” button.
 
-![copy code snippet of text analysis API](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.jpeg)
+![copy code snippet of text analysis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-analysis-copy-code.jpeg)
 
 Create a function `fetchData()` in the App.js file and paste the code inside that function.  
 
@@ -259,14 +259,14 @@ Create a `.env` inside the sentiment-analysis folder and add your API key inside
 
 Yay! Run the `npm start` command, and you’ll see the result at http://localhost:3000/.
 
-![text sentiment analysis app with API reponse in the console](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/api-response.jpeg)
+![text sentiment analysis app with API reponse in the console](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/api-response.jpeg)
 
 You can check the working project [here](https://codesandbox.io/s/festive-turing-j979h).   
 
 Add basic styling to make it more appealing.
 
-![text sentiment analysis application](https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.jpeg)
+![text sentiment analysis application](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/text-sentiment-analysis.jpeg)
 
-Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=medium.com%2F%40Rapid_API&utm_medium=DevRel&utm_campaign=DevRel) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.   
+Go to [RapidAPI Hub](https://rapidapi.com/hub) and create a free account to get your API key. The fun part is that you can use over 35,000 excellent APIs with just one API key. So it’s worth creating a free account on RapidAPI Hub.   
 
 With that said, we hope you enjoy this article. Peace out!! Keep coding! We will catch you with the next excellent project idea.
