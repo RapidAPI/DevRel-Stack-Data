@@ -33,7 +33,7 @@ By default, Tailwind removes all of the default browser styling from paragraphs,
 
 We get lots of complaints about it actually, with people regularly asking us things like:
 
-<HTTPClient
+<StacksClient
   blocks={[{
     url: 'https://rapidapi.com/telesign/api/telesign-sms-verify/',
   }, {
