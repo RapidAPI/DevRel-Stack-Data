@@ -8,14 +8,14 @@ draft: false
 coverImage: ""
 modules:
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/2021-09-22-introduction.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/01-introduction.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/2021-09-22-what-is-http.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/01-what-is-http.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/2021-09-22-what-is-an-http-header.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/01-what-is-an-http-header.md,
     }
 ---

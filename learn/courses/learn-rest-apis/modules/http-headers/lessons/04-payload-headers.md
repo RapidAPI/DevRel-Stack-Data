@@ -13,7 +13,16 @@ points: 5
 
 Payload headers include the following:
 
-- [Content-Length](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length)
-- [Content-Range](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Range)
-- [Trailer](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Trailer)
-- [Transfer-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Transfer-Encoding)
+## Content-Length
+The [Content-Length](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length) HTTP header is used to indicate the size of the message body in bytes.
+
+```json
+ Content-Length: 3495
+```
+
+## Content-Range
+The [Content-Range](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Range) HTTP header is used to indicate the position of a partial message in a full body message.
+
+```json
+Content-Range: bytes 500-1000/*
+```

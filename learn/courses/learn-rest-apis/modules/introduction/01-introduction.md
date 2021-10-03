@@ -9,23 +9,23 @@ coverImage: ""
 points: 5
 lessons:
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-an-api.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/01-what-is-an-api.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-what-is-a-rest-api.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/02-what-is-a-rest-api.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-principles-of-rest-api-design.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/03-principles-of-rest-api-design.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-how-does-a-rest-api-work.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/04-how-does-a-rest-api-work.md,
     }
 
   - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/2021-09-22-versioning-rest-apis.md,
+      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/introduction/lessons/05-versioning-rest-apis.md,
     }
 ---
 
