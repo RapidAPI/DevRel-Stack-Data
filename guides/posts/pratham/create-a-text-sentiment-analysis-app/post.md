@@ -71,7 +71,9 @@ In the response body (returned data from the server) you will get an `aggregate-
 
 [Create React App](https://github.com/facebook/create-react-app) is the simplest way to set up a React application by running one command.
 
-`npx create-react-app sentiment-analysis`
+```bash
+npx create-react-app sentiment-analysis
+```
 
 You will need to have [Node.js](https://nodejs.org/en/) (version >= 6) on your local machine. If you haven’t, just download it for free.
 
@@ -131,7 +133,7 @@ We are almost done! We just need to validate the form so that the user can enter
 
 Let’s complete the form first. Create two `useState` hooks in the App.js file, one for handling the state of text that the user enters and the second for loading while API fetching the response from the server.
 
-```js
+```jsx
 const [text, setText] = useState("");
 const [isLoading, setIsLoading] = useState(true);
 <form

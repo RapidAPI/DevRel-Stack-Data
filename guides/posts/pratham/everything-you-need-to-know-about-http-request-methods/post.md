@@ -5,7 +5,7 @@ slug: "everything-need-know-http-request-methods"
 authors:
  - pratham
 category: api
-tags: 
+tags:
  - api
  - http
 publishedDate: "2021-09-30T08:00:00+08:00"
@@ -13,16 +13,15 @@ coverImage: ""
 ---
 
 <Lead>
- HTTP request methods are the actions initiated from the client-side to perform certain actions. These HTTP request methods are sometimes called nouns or referred to as HTTP verbs. 
+ HTTP request methods are the actions initiated from the client-side to perform certain actions. These HTTP request methods are sometimes called nouns or referred to as HTTP verbs.
 </Lead>
-    
-   
+
 There are 9 HTTP request methods. Let's talk about them in a bit more detail.
 
-### 1. GET  
+### 1. GET
 
 The GET method is the most common of all these request methods. It is used to get the desired resources from the server.
-The GET method doesn't affect the state of the server.  
+The GET method doesn't affect the state of the server.
 
 ### 2. POST
 
@@ -56,20 +55,20 @@ The OPTIONS method is used to describe the communication options available for t
 
 ### 9. TRACE
 
-The TRACE method is generally used for debugging. It performs a message loop-back test along the path to the desired data.  
+The TRACE method is generally used for debugging. It performs a message loop-back test along the path to the desired data.
 
-### There are three main characteristics of HTTP Request Methods
+## There are three main characteristics of HTTP Request Methods
 
-**1. Safe**
+### 1. Safe
 
-We can call an HTTP request method safe if it doesn't affect the server's state.  
-The safe methods request the server to send data without performing any modification to the original data. Hence safe methods accomplish read-only operations. 
+We can call an HTTP request method safe if it doesn't affect the server's state.
+The safe methods request the server to send data without performing any modification to the original data. Hence safe methods accomplish read-only operations.
 
 Even though they are read-only operations, they sometimes cause a change in server state; the server can update its statistics.
 
 One thing to note here is that the safe methods never request the server to change its state.
 
-**2. Idempotent**
+### 2. Idempotent
 
 Idempotent methods have no side effects on the server. We can call them in a row, and they guarantee that they will not affect the server state (except for keeping statistics).
 
@@ -81,7 +80,7 @@ To be an idempotent method, only the state of the server matters, not the code r
 
 Another thing to note here is that the client-side ensures the validation of idempotence. The bad codebase can shatter the idempotent constraint.
 
-**3. Cacheable**
+### 3. Cacheable
 
 As the term suggests, we can call HTTP response methods cacheable if it is possible to cache the response for later use.
 

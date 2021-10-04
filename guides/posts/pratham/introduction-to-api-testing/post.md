@@ -5,7 +5,7 @@ slug: "introduction-api-testing"
 authors:
  - pratham
 category: api
-tags: 
+tags:
  - api
 publishedDate: "2021-09-28T08:00:00+08:00"
 coverImage: ""
@@ -14,15 +14,14 @@ coverImage: ""
 <Lead>
  API testing is performed to test whether a particular API meets some pre-defined parameters or not.
 </Lead>
-    
-   
-API testing includes testing APIs in isolation to ascertain if they meet the functionality, reliability, latency, performance, security, and other essential parameters.    
 
-API testing commonly includes testing APIs with JSON or XML payload sent over HTTP, HTTPS, JMS, and MQ. These are widely used data formats and networking/messaging protocols.  
+API testing includes testing APIs in isolation to ascertain if they meet the functionality, reliability, latency, performance, security, and other essential parameters.
+
+API testing commonly includes testing APIs with JSON or XML payload sent over HTTP, HTTPS, JMS, and MQ. These are widely used data formats and networking/messaging protocols.
 
 ## Types of API Testing
 
-API testing is not a process that is carried out right away. It is divided into several categories which aim to test the API effectively so that the API can work in isolation, with integration, and produce the desired results to edge cases.   
+API testing is not a process that is carried out right away. It is divided into several categories which aim to test the API effectively so that the API can work in isolation, with integration, and produce the desired results to edge cases.
 
 ### 1. Unit Testing
 
@@ -32,7 +31,7 @@ It typically includes testing each part of the code separately.
 
 ### 2. Functional Testing
 
-As the term suggests, Functional API Testing includes testing of all the functions in the codebase. It often uses unit tests as the building blocks.  
+As the term suggests, Functional API Testing includes testing of all the functions in the codebase. It often uses unit tests as the building blocks.
 
 ### 3. Load Testing
 
@@ -54,7 +53,7 @@ Penetration testing includes testing an API to find vulnerabilities in the syste
 
 In this testing, we provide substantial random data as the input to test the reliability of an API. This random data is known as fuzz.
 
-Fuzz testing ensures the API functionality in the worst-case scenario.   
+Fuzz testing ensures the API functionality in the worst-case scenario.
 
 API testing is an essential aspect of API development. Thousands of developers will use your API in several applications.
 

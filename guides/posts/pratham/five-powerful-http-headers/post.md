@@ -2,7 +2,7 @@
 title: "Top Five HTTP headers you might not know about"
 description: "HTTP headers allow clients and servers to talk to each other and pass extra bits of information or instructions."
 slug: "top-five-http-headers-might-not-know"
-authors: 
+authors:
   - pratham
 category: api
 tags:
@@ -15,21 +15,19 @@ coverImage: ""
 <Lead>
   HTTP headers allow clients and servers to talk to each other and pass extra bits of information or instructions. Here are the Top Five HTTP headers you might not know about.
 </Lead>
-    
-    
+
 ## 1. Content-Disposition
 
 Content-Disposition header tells the browser to
 
 - Display the content as a web page or as a part of the web page
-- Download the content  
+- Download the content
 
 Suppose you want to download the file that the server returns. This is how you can do it.
 
 ```json
 Content-Disposition: attachment; filename="index.html"
 ```
-
 
 ## 2. Expires
 
@@ -53,11 +51,11 @@ For example,
 Expect: 100-continue
 ```
 
-This indicates that the client is expecting a 100 status code if the information present in the request is enough for the server to respond. 
+This indicates that the client is expecting a 100 status code if the information present in the request is enough for the server to respond.
 
 ## 4. If-Modified-Since
 
-The If-Modified-Since HTTP header is used to make the request conditional, and it asks the server whether the data has been changed or not.  
+The If-Modified-Since HTTP header is used to make the request conditional, and it asks the server whether the data has been changed or not.
 
 The server will return the modified resource if it has been changed since the date and time mentioned in the "If-Modified-From" header.
 
@@ -81,4 +79,3 @@ From: test@rapidapi.com
 ```
 
 And that's pretty much it for this guide. There is a bunch of other excellent and powerful HTTP headers you can play around with. With that being said, I'll catch you in the next guide.
-
