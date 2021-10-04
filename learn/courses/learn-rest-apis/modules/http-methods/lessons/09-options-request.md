@@ -9,16 +9,16 @@ coverImage: ""
 points: 10
 ---
 
-[The OPTION request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS) method is used to obtain information about the communication options that are available between the requested URL and the server. The response to an OPTIONS request isn’t cacheable.
+[The OPTION request](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS) method is used to obtain information about the communication options that are available between the requested URL and the server. The response to an `OPTIONS` request isn’t cacheable.
 
-An example of an OPTIONS request looks like this:
+An example of an `OPTIONS` request looks like this:
 
 ```bash
 OPTIONS /users HTTP/1.1
 Host: https://www.website.com
 ```
 
-The response to an OPTIONS request can be the following:
+The response to an `OPTIONS` request can be the following:
 
 ```bash
 Allow: OPTIONS, GET, HEAD, POST
