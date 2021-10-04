@@ -87,7 +87,7 @@ Go to your project folder (sentiment-analysis that we just created in the first 
 
 Just Go to the `sentiment-analysis folder > src > App.js` file and create a form with an URL input field and a submit button.
 
-```js
+```jsx
 function App() {
   return (
     <div>
