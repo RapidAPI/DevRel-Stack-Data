@@ -10,5 +10,14 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/introduction-to-api-testing/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-rest-graphql/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-graphql-and-when-you-should-use-it/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-rest-and-when-you-should-use-it/post.md"
   }
 ]
