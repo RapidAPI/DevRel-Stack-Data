@@ -8,7 +8,8 @@ category: api
 tags:
   - http
   - api
-publishedDate: "2021-09-28T08:00:00+08:00"
+publishedDate: 2021-09-28T08:00:00+08:00
+lastModifiedDate: 2021-09-28T08:00:00+08:00
 coverImage: ""
 ---
 
@@ -66,6 +67,7 @@ For example,
 ```json
 If-Modified-Since: Fri, 24 Sep 2021 09:30:30 GMT
 ```
+
 ## 5. From
 
 The From header indicates the human email address.

@@ -1,9 +1,9 @@
 ---
-title: What is the difference between REST and GraphQL?
-slug: difference-rest-graphql
-description: Understand the different between REST APIs and GraphQL APIs
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+title: "What is the difference between REST and GraphQL?"
+slug: "difference-rest-graphql"
+description: "Understand the different between REST APIs and GraphQL APIs."
+publishedDate: 2021-10-04T15:41:15.688Z
+lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:
   - saad
 category: api

@@ -1,11 +1,11 @@
 ---
 title: Steps to use the RapidAPI Hub?
 slug: use-rapidapi-hub
-description: ''
+description: ""
 publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: '2021-09-22T17:32:39.415Z'
+lastModifiedDate: "2021-09-22T17:32:39.415Z"
 draft: false
-coverImage: ''
+coverImage: ""
 points: 5
 ---
 
@@ -23,16 +23,14 @@ You can search for any kind of API in the RapidAPI Hub. However, if you are unsu
 
 ### Categories
 
-Categories are a way to organize the APIs. When a new API is added to the RapidAPI Hub, a category is added to help others find that API. In the RapidAPI Hub, you will find various categories like [Data](https://rapidapi.com/category/Data), [Sports](https://rapidapi.com/category/Sports), [Finance](https://rapidapi.com/category/Finance), [Travel](https://rapidapi.com/category/Travel), [Entertainment](https://rapidapi.com/category/Entertainment), etc. You can also view all the APIs that belong to a particular category and search inside it.
-
+Categories are a way to organize the APIs. When a new API is added to the RapidAPI Hub, a category is added to help others find that API. In the RapidAPI Hub, you will find various categories like [Data](https://rapidapi.com/category/Data), [Sports](https://rapidapi.com/category/Sports?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), [Finance](https://rapidapi.com/category/Finance), [Travel](https://rapidapi.com/category/Travel?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), [Entertainment](https://rapidapi.com/category/Entertainment?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), etc. You can also view all the APIs that belong to a particular category and search inside it.
 
 ### Collections
 
-A collection is a list of APIs with similar characteristics like [Top Meme APIs](https://rapidapi.com/collection/meme), [Top Geocoding and Location APIs](https://rapidapi.com/collection/geocoding-location-apis), etc. An API can belong to multiple collections, and the RapidAPI team manages collections on the RapidAPI Hub. You can also view all the APIs that belong to a particular collection and search inside it.
+A collection is a list of APIs with similar characteristics like [Top Meme APIs](https://rapidapi.com/collection/meme?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), [Top Geocoding and Location APIs](https://rapidapi.com/collection/geocoding-location-apis?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), etc. An API can belong to multiple collections, and the RapidAPI team manages collections on the RapidAPI Hub. You can also view all the APIs that belong to a particular collection and search inside it.
 
 ### Advanced search
 
-You can also use [our advanced search functionality](https://rapidapi.com/search/weather) to filter APIs based on categories, collections, verified, official, GraphQL, and Kafka API types.
-
+You can also use [our advanced search functionality](https://rapidapi.com/search/weather?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to filter APIs based on categories, collections, verified, official, GraphQL, and Kafka API types.
 
 ![Advanced search](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image2.png "Advanced search")

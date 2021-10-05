@@ -1,7 +1,7 @@
 ---
-title: Best Practices for Designing REST APIs
-slug: practices-designing-rest-apis
-description: Take a look at best practices for designing a REST API
+title: "Best Practices for Designing REST APIs"
+slug: "practices-designing-rest-apis"
+description: "Take a look at best practices for designing a REST API."
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:

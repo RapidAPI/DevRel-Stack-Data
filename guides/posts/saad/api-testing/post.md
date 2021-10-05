@@ -1,7 +1,7 @@
 ---
-title: What is API Testing?
-slug: api-testing
-description: API Testing helps your APIs to become more secure. Let's see how.
+title: "What is API Testing?"
+slug: "api-testing"
+description: "API Testing helps your APIs to become more secure. Let's see how."
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:
@@ -23,7 +23,7 @@ Just like you test your UI to make sure a button is working, you also test your 
 
 There are a few ways to test an API. Here are some:
 
-- Using a GUI tool like [RapidAPI Client](https://rapidapi.com/products/api-design/?utm_source=ahmadawais.com&utm_medium=DevRel&utm_campaign=hiring) to test different endpoints.
+- Using a GUI tool like [RapidAPI Client](https://rapidapi.com/products/api-design/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to test different endpoints.
 - Using Curl for testing.
 - Writing tests yourself.
 

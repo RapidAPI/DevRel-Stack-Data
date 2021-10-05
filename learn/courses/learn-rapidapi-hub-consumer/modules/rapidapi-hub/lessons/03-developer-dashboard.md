@@ -1,15 +1,15 @@
 ---
 title: Developer Dashboard
 slug: developer-dashboard
-description: ''
+description: ""
 publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: '2021-09-22T17:32:39.415Z'
+lastModifiedDate: "2021-09-22T17:32:39.415Z"
 draft: false
-coverImage: ''
+coverImage: ""
 points: 5
 ---
 
-The usage of an API can be tracked via [the Developer Dashboard](https://rapidapi.com/developer/dashboard). You can track all your APIs, apps, billing, API quota usage, and API analytics from the Developer Dashboard.
+The usage of an API can be tracked via [the Developer Dashboard](https://rapidapi.com/developer/dashboard?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can track all your APIs, apps, billing, API quota usage, and API analytics from the Developer Dashboard.
 
 You can also add new apps and APIs from the Developer Dashboard.
 

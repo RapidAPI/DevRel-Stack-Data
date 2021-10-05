@@ -1,9 +1,9 @@
 ---
-title: What is REST and when you should use it?
-slug: what-is-rest-and-when-you-should-use-it
-description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+title: "What is REST and when you should use it?"
+slug: "what-is-rest-and-when-you-should-use-it"
+description: "Learn when REST API is useful and when you should consider using it."
+publishedDate: 2021-10-04T15:41:15.688Z
+lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:
   - saad
 category: api

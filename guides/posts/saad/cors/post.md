@@ -1,7 +1,7 @@
 ---
-title: What is CORS?
-slug: cors
-description: Understanding what CORS is and how to deal with it
+title: "What is CORS?"
+slug: "cors"
+description: "Understanding what CORS is and how to deal with it."
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:

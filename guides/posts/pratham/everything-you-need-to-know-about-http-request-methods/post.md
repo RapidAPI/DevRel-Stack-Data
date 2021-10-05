@@ -3,12 +3,13 @@ title: "Everything You Need to Know About HTTP Request Methods"
 description: "HTTP request methods are the actions initiated from the client-side to perform certain actions."
 slug: "everything-need-know-http-request-methods"
 authors:
- - pratham
+  - pratham
 category: api
 tags:
- - api
- - http
-publishedDate: "2021-09-30T08:00:00+08:00"
+  - api
+  - http
+publishedDate: 2021-09-30T08:00:00+08:00
+lastModifiedDate: 2021-09-30T08:00:00+08:00
 coverImage: ""
 ---
 
@@ -51,7 +52,7 @@ CONNECT request method is used to push your proxy to start an HTTP tunnel.
 
 ### 8. OPTIONS
 
-The OPTIONS method is used to describe the communication options available for the target resource. The client can either specify a URL for describing the communication options available for a specific resource or an asterisk (&ast;) if they want to target the server.
+The OPTIONS method is used to describe the communication options available for the target resource. The client can either specify a URL for describing the communication options available for a specific resource or an asterisk (\*) if they want to target the server.
 
 ### 9. TRACE
 
@@ -74,7 +75,7 @@ Idempotent methods have no side effects on the server. We can call them in a row
 
 GET, HEAD, OPTIONS, PUT, DELETE, and TRACE methods are idempotent.
 
-*All safe methods are idempotent, but not all idempotent methods are safe.*
+_All safe methods are idempotent, but not all idempotent methods are safe._
 
 To be an idempotent method, only the state of the server matters, not the code returned by it. Hence DELETE method is idempotent but not safe.
 
