@@ -3,7 +3,7 @@ title: "Post to demonstrate our kitchen sink"
 description: "Lorem markdownum et ipse, ipsa vittas herbae calathosque: rapuere consistere illi tanti, cera placet cervice seu. Clausit subiectas et simul famaque noctem Nilum defendere tibi; pugnem. _Furcas o flexit_ ripa moveri alta, quae superos Dixit"
 slug: "2020-08-01-post-4"
 authors: ["richardDoe"]
-category: "devOps"
+category: api
 tags: ["react", "next"]
 publishedDate: "2020-08-20T08:00:00+08:00"
 coverImage: ""
