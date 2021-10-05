@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Designing REST APIs
-slug: rest-apis-practices
+slug: practices-designing-rest-apis
 description: Take a look at best practices for designing a REST API
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
@@ -8,7 +8,7 @@ authors:
   - saad
 category: api
 tags:
-  - best-practices-rest
+  - best-practices
 coverImage: ""
 draft: false
 ---
@@ -25,12 +25,12 @@ When developing REST APIs, make sure you use the HTTP status code. This helps yo
 
 There are a lot of status codes available. Here are some of the most common ones:
 
-| Status Code | Meaning |
+| Status Code | Meaning     |
 | ----------- | ----------- |
-| 200 | Ok |
-| 400 | Bad Request |
-| 403 | Forbidden |
-| 404 | Not Found |
+| 200         | Ok          |
+| 400         | Bad Request |
+| 403         | Forbidden   |
+| 404         | Not Found   |
 
 ## Using JSON
 

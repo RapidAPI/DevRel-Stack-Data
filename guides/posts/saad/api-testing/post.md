@@ -8,8 +8,7 @@ authors:
   - saad
 category: api
 tags:
-    - api-testing
-    - testing
+  - testing
 coverImage: ""
 draft: false
 ---
