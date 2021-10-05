@@ -53,5 +53,6 @@ Now you need to register CORS middleware in your app and also provide it an orig
 app.use(cors({origin: ‘https://abc.com’}))
 ```
 
-How It Works
+## How It Works
+
 During cross-origin requests, the value of origin in the request header must match the value of Access-Control-Allow-Origin in the response header. The server sets the value of Access-Control-Allow-Origin. When you add an origin in the backend code, the CORS middleware uses it for cross-origin communication and only allows this URL to request resources from the server.
