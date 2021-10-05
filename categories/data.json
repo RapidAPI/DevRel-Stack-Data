@@ -1,22 +1,6 @@
 {
-  "product": {
-    "name": "Product",
-    "color": "red"
-  },
-  "engineering": {
-    "name": "Engineering",
-    "color": "yellow"
-  },
-  "devOps": {
-    "name": "DevOps",
-    "color": "green"
-  },
-  "design": {
-    "name": "Design",
-    "color": "orange"
-  },
   "api": {
     "name": "API",
-    "color": "blue"
+    "color": "orange"
   }
 }
