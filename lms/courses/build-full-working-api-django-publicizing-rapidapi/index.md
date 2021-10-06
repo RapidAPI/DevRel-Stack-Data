@@ -2,8 +2,8 @@
 title: How To Build A Full Working API In Django and Publicizing IT On RapidAPI
 slug: build-full-working-api-django-publicizing-rapidapi
 description: In this video, we will build a basic API in Django using the Django Rest Framework, deploy it on heroku and put it on RapidAPI Hub.
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 modules:

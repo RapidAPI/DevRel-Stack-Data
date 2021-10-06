@@ -2,8 +2,8 @@
 title: Tech used and starter files
 slug: tech-starter-files
 description: ''
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 ---

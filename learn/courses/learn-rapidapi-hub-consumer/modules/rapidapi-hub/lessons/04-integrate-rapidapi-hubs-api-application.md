@@ -2,7 +2,7 @@
 title: Integrate a RapidAPI Hubs API with an application
 slug: integrate-rapidapi-hubs-api-application
 description: ''
-publishedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: '2021-09-22T17:32:39.415Z'
 draft: false
 coverImage: ''

@@ -2,8 +2,8 @@
 title: 'Crash Course: API Testing with RapidAPI & GitHub Actions'
 slug: crash-api-testing-rapidapi-github-actions
 description: 'In this tutorial you will learn about RapidAPI, API testing using RapidAPI Testing solution, how to monitor the performance of the API, RapidAPI GitHub Action and more.'
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 modules:

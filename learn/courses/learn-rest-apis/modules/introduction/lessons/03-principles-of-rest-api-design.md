@@ -2,8 +2,8 @@
 title: Principles of REST API design
 slug: principles-of-rest-api-design
 description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: "2021-09-22T16:48:56.045Z"
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T16:48:56.045Z
 draft: false
 coverImage: ""
 points: 20

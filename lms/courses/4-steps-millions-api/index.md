@@ -2,8 +2,8 @@
 title: 4 Steps to Make $Millions with an API
 slug: 4-steps-millions-api
 description: There's an API for just about everything these days. Let me show you how to build your own API and make money from it.
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 modules:

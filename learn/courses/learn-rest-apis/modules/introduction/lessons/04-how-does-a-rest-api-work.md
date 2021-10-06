@@ -2,8 +2,8 @@
 title: How does a REST API work?
 slug: how-does-a-rest-api-work
 description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: "2021-09-22T16:50:26.557Z"
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T16:50:26.557Z
 draft: false
 coverImage: ""
 points: 15

@@ -2,8 +2,8 @@
 title: OPTIONS request
 slug: options-request
 description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: "2021-09-22T17:36:08.658Z"
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:36:08.658Z
 draft: false
 coverImage: ""
 points: 10

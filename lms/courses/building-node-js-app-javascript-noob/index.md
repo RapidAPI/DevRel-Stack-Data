@@ -2,8 +2,8 @@
 title: Building a Node.js app (as a JavaScript noob)
 slug: building-node-js-app-javascript-noob
 description: 'In this video, we will be building a basic web app using Node.js (Express.js) loading external API data using asynchronous JavaScript.'
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 modules:

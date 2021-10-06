@@ -2,8 +2,8 @@
 title: Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video
 slug: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video
 description: Learn advanced React best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App on YouTube - Cryptoverse.
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: 2019-08-22T15:20:28.000Z
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 modules:

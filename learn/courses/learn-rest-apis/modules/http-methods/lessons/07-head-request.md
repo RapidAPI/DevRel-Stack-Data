@@ -2,8 +2,8 @@
 title: HEAD request
 slug: head-request
 description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: "2021-09-22T17:35:48.137Z"
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:35:48.137Z
 draft: false
 coverImage: ""
 points: 5

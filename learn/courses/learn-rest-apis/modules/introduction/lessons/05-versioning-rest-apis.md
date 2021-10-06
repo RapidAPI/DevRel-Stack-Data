@@ -2,8 +2,8 @@
 title: Versioning REST APIs
 slug: versioning-rest-apis
 description: ""
-publishedDate: 2019-08-22T15:20:28.000Z
-lastModifiedDate: "2021-09-22T17:47:38.968Z"
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:47:38.968Z
 draft: false
 coverImage: ""
 points: 20
