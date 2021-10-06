@@ -13,8 +13,62 @@
   },
   "pratham": {
     "name": "Pratham",
-    "avatar": "https://raw.githubusercontent.com/PrathamKumar14/DevRel-Stack-Data/dev/authors/pratham/avatar.png",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/pratham/avatar.png",
     "designation": "Developer Advocate @ RapidAPI",
     "isDeveloperProgramMember": true
+  },
+  "javascriptMastery": {
+    "name": "JavaScript Mastery",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/javascriptMastery/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "sirajRaval": {
+    "name": "Siraj Raval",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/sirajRaval/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "coderCoder": {
+    "name": "Siraj Raval",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/coderCoder/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "codeStackr": {
+    "name": "codeSTACKr",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeStackr/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "weibenfalk": {
+    "name": "Weibenfalk",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/weibenfalk/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "naveenKumarNamachivayam": {
+    "name": "NaveenKumar Namachivayam",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/naveenKumarNamachivayam/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "catalinPit": {
+    "name": "CatalinPit",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/catalinPit/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "programWithGio": {
+    "name": "Gio",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/programWithGio/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
+  },
+  "codeWithTomi": {
+    "name": "CodeWithTomi",
+    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeWithTomi/avatar.png",
+    "designation": "",
+    "isDeveloperProgramMember": false
   }
 }

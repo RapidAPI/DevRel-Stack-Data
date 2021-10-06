@@ -6,6 +6,8 @@ publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
+authors:
+  - programWithGio
 modules:
   - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/index.md'
 lessons:

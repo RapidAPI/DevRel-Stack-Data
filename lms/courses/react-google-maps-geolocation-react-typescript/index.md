@@ -6,6 +6,8 @@ publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
+authors:
+  - weibenfalk
 modules:
   - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/index.md'
 lessons:
