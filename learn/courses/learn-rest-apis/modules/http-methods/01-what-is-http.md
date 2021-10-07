@@ -8,45 +8,16 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/01-different-methods-of-http.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/02-get-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/03-post-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/04-patch-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/05-put-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/06-delete-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/07-head-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/08-connect-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/09-options-request.md,
-    }
-
-  - {
-      source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/10-trace-request.md,
-    }
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/01-different-methods-of-http.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/02-get-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/03-post-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/04-patch-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/05-put-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/06-delete-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/07-head-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/08-connect-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/09-options-request.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-methods/lessons/10-trace-request.md
 ---
 
 **HTTP** or Hypertext Transfer Protocol is an application layer protocol generally used by web services for serving HTML documents. A client makes a request to a server for a resource and the server sends a response. As HTTP is stateless, it doesn’t keep any information regarding any requests.
