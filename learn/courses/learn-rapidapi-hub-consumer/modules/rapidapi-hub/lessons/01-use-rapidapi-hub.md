@@ -19,7 +19,7 @@ You will need to create an account to test our APIs, integrate them into your ap
 
 You can search for any kind of API in the RapidAPI Hub. However, if you are unsure about the type of API you are looking for, you can filter our categories or collections. You can also use our advanced search to find your desired API.
 
-![Find APIs that match your requirements](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-consumer/images/image1.png "Find APIs that match your requirements")
+![Find APIs that match your requirements](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image1.png "Find APIs that match your requirements")
 
 ### Categories
 
@@ -33,4 +33,4 @@ A collection is a list of APIs with similar characteristics like [Top Meme APIs]
 
 You can also use [our advanced search functionality](https://rapidapi.com/search/weather?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to filter APIs based on categories, collections, verified, official, GraphQL, and Kafka API types.
 
-![Advanced search](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-consumer/images/image2.png "Advanced search")
+![Advanced search](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image2.png "Advanced search")

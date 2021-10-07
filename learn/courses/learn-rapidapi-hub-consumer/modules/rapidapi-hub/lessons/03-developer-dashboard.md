@@ -13,4 +13,4 @@ The usage of an API can be tracked via [the Developer Dashboard](https://rapidap
 
 You can also add new apps and APIs from the Developer Dashboard.
 
-![Developer Dashboard](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-consumer/images/image4.png "Developer Dashboard")
+![Developer Dashboard](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image4.png "Developer Dashboard")
