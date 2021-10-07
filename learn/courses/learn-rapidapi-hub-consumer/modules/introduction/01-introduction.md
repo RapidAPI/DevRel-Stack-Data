@@ -8,7 +8,7 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
 ---
 
 <Lead>In this guide, you will learn about the RapidAPI Hub and its use in your application.</Lead>

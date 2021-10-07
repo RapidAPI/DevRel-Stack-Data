@@ -1,11 +1,11 @@
 ---
 title: Versioning your APIs
 slug: versioning-apis
-description: ''
+description: ""
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:32:39.415Z
 draft: false
-coverImage: ''
+coverImage: ""
 points: 5
 ---
 
@@ -13,4 +13,4 @@ RapidAPI allows you to create versions for your APIs. You can choose to either u
 
 To create a new version, you can select the "Add New Version" option from the API Specs dropdown:
 
-![Add a new version for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image9.png "Add a new version for your APIs")
+![Add a new version for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-provider/images/image9.png "Add a new version for your APIs")

@@ -19,4 +19,4 @@ You can specify your API using the following options:
 
 You can select your preferred option and click on the "Add API" button to continue:
 
-![Add API button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image3.png "Add API button")
+![Add API button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-provider/images/image3.png "Add API button")
