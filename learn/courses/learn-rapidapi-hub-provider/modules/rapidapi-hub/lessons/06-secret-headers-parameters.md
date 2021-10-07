@@ -15,7 +15,7 @@ RapidAPI allows you to add secret headers and parameters which are sent on every
 
 There are mainly two uses for secret headers and parameters:
 
-1. You can use these hidden parameters to authenticate your API requests.
-2. You can use secret headers and parameters to set environment variables.
+- You can use these hidden parameters to authenticate your API requests.
+- You can use secret headers and parameters to set environment variables.
 
 Note that the API consumer doesn't need to add anything extra for the secret headers and parameters.

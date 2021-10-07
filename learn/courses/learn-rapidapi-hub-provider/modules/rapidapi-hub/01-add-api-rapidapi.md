@@ -23,6 +23,4 @@ lessons:
   - source: "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/13-announcements.md"
 ---
 
-To add anew API to RapidAPI, visit the [Provider Dashboard](https://provider.rapidapi.com/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and click on the "Add New API" button:
-
-![The "Add New API" button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image1.png "The 'Add New API' button")
+In this module, you will learn how to list your API in RapidAPI and put it infront of over 3 million developers.

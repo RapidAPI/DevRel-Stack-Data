@@ -13,8 +13,8 @@ lessons:
     }
 ---
 
-<Lead>In this guide, you will learn about how to add an API to the RapidAPI.</Lead>
+<Lead>In this guide, you will learn about how to add an API to RapidAPI.</Lead>
 
 ## About this course
 
-This course is an interactive one that will guide you through understanding how you can add your API to the RapidAPI.
+This course is an interactive one that will guide you through understanding how you can add your API to RapidAPI.

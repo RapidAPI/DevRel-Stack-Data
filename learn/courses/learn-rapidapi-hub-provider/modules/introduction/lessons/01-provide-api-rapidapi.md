@@ -9,4 +9,4 @@ coverImage: ''
 points: 5
 ---
 
-Building your API and listing it on the RapidAPI will put it infront of over 3 million developers. Other developers can build their applications using the API that you have built and provided in the RapidAPI. You can also generate income by providing a pricing plan for your API.
+Building your API and listing it on RapidAPI will put it infront of over 3 million developers. Other developers can build their applications using the API that you have built and provided in RapidAPI. You can also generate income by providing a pricing plan for your API.
