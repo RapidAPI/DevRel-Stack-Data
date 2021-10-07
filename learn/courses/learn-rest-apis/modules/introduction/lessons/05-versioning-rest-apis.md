@@ -17,20 +17,20 @@ Generally, version control is maintained in a changelog which the consumers of a
 
 ## Different types of versioning strategies
 
-1. **URI versioning:** This is the most common versioning strategy, although it violates every URI should contain a unique resource. When a URI version is done, all the resources get updated to a new version. URI versioning can also cause issues with caching. An example of this strategy is the following:
+- **URI versioning:** This is the most common versioning strategy, although it violates every URI should contain a unique resource. When a URI version is done, all the resources get updated to a new version. URI versioning can also cause issues with caching. An example of this strategy is the following:
 
 ```bash
 https://website.com/api/v1/users
 https://website.com/api/v2/users
 ```
 
-2. **Query parameters versioning:** This strategy states the version of an API by using query parameters. An example of this kind of strategy can be the following:
+- **Query parameters versioning:** This strategy states the version of an API by using query parameters. An example of this kind of strategy can be the following:
 
 ```bash
 https://website.com/users?version=1
 ```
 
-3. **Custom headers versioning:** Versioning can also be done by passing custom request headers. An example will be the following:
+- **Custom headers versioning:** Versioning can also be done by passing custom request headers. An example will be the following:
 
 ```bash
 curl -H "accept-version: 1" https://website.com/users
