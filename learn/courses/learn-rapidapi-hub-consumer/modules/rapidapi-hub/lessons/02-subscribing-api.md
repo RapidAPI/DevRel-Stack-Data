@@ -16,14 +16,14 @@ An API can also have free plans with hard or soft limits. The pricing page of an
 ![Subscribing to an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/module-source/learn/courses/learn-rapidapi-hub-consumer/images/image3.png "Subscribing to an API")
 
 <Quiz
-question={
-<div><span tw="font-semibold">Quick Review:</span> RapidAPI Hub provides only paid APIs?</div>
-}
-options={[{
-label: 'Yes',
-isCorrect: false,
-}, {
-label: 'No',
-isCorrect: true,
-}]}
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> RapidAPI Hub provides only paid APIs?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: false,
+  }, {
+    label: 'No',
+    isCorrect: true,
+  }]}
 />

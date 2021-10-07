@@ -44,14 +44,14 @@ Next, you can copy and paste the code in your application, and it will just work
 Note that if you are libraries for fetching data like [Axios](https://www.npmjs.com/package/axios), you will need to install them separately in your application.
 
 <Quiz
-question={
-<div><span tw="font-semibold">Quick Review:</span> RapidAPI Hub provides code snippets in 20 programming languages?</div>
-}
-options={[{
-label: 'Yes',
-isCorrect: true,
-}, {
-label: 'No',
-isCorrect: false,
-}]}
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> RapidAPI Hub provides code snippets in 20 programming languages?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: true,
+  }, {
+    label: 'No',
+    isCorrect: false,
+  }]}
 />
