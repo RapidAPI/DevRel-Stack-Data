@@ -15,7 +15,7 @@ draft: false
 
 <Lead>
 A REST API works by sending a request to the server and getting a response in return. Every time you request data, it uses the GET method to fetch that information. Do you think that if you visit a different page of the same website and then get back to the original page, another GET request will be sent to the server to get the same data? The answer to it is no. Let’s take a look at it.
-<Lead>
+</Lead>
 
 ## API Caching
 
