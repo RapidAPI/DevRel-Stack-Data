@@ -39,3 +39,16 @@ You can also click on the "Test Endpoint" button to check your new endpoint:
 You can also choose to create an example from the response by clicking on the "Create example from response" button:
 
 ![Creating example from the response of the new endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image14.png "Creating example from the response of the new endpoint")
+
+<Quiz
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> In RapidAPI, can you use both REST and GraphQL APIs?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: true,
+  }, {
+    label: 'No',
+    isCorrect: false,
+  }]}
+/>

@@ -18,3 +18,16 @@ You can provide the details like the API Name, Short Description (that appears i
 ![Add API details](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image2.png "Add API details")
 
 Note that each API belongs to a single category.
+
+<Quiz
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> In RapidAPI, can an API belong to multiple categories?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: false,
+  }, {
+    label: 'No',
+    isCorrect: true,
+  }]}
+/>

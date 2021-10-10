@@ -39,3 +39,16 @@ By using **Header** authentication, API providers can enforce API consumers to a
 
 - Client Credentials
 - Authorization Code
+
+<Quiz
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> In RapidAPI, can you have fine-grained access control for your APIs?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: true,
+  }, {
+    label: 'No',
+    isCorrect: false,
+  }]}
+/>
