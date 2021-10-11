@@ -16,7 +16,7 @@ coverImage: ""
   Publish/Subscribe (Pub/Sub) is an asynchronous messaging style used in serverless and microservices architectures. With this model, messages are not sent to a specific subscriber but are instead categorized to be available to all subscribers of the category.
 </Lead>
 
-### How Pub/Sub Pattern Based APIs Work
+## How Pub/Sub Pattern Based APIs Work
 
 The main characteristic of Pub/Sub APIs is the existence of publishers and subscribers, as the name implies. Publishers categorize messages and those that are subscribed to a specified category receive that message.
 For example,
@@ -28,12 +28,12 @@ For example, REST APIs use POST and DELETE operations to integrate with Pub/Sub.
 - POST operations publish messages and create subscriptions.
 - DELETE is used to unsubscribe.
 
-### When to Use Pub/Sub Pattern Based APIs
+## When to Use Pub/Sub Pattern Based APIs
 
 - Pub/Sub based APIs are a great addition to architecture systems that involve many independent or decoupled components.
 - Pub/Sub based APIs can be used to provide event-driven notifications as a result of specific events that occur within the system. This style of system is also highly scalable compared to more traditional client-server infrastructure.
 
-### Maturity of Pub/Sub Pattern Based APIs
+## Maturity of Pub/Sub Pattern Based APIs
 
 Pub/Sub systems have been around since the late 1980s. However, Pub/Sub systems and Pub/Sub-based APIs also have more modern implementations.
 
