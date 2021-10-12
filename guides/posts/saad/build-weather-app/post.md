@@ -15,7 +15,7 @@ draft: false
 ---
 
 <Lead>
-[RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub with more than 35,000 APIs available. Anyone can build an API and monetize it on RapidAPI. The developers use these APIs in their applications. They can try the API for free, and if they like it, they can purchase them.
+RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs available. Anyone can build an API and monetize it on RapidAPI. The developers use these APIs in their applications. They can try the API for free, and if they like it, they can purchase them.
 </Lead>
 
 Today, I have decided to use one of the APIs from [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and build a small application from it. Let’s build this application together.
