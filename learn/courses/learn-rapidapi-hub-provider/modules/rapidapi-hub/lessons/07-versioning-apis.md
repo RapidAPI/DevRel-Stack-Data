@@ -13,7 +13,7 @@ RapidAPI allows you to create versions for your APIs. You can choose to either u
 
 To create a new version, you can select the "Add New Version" option from the API Specs dropdown:
 
-![Add a new version for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image9.png "Add a new version for your APIs")
+![Add a new version for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image9.png)
 
 <Quiz
   question={

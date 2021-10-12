@@ -11,4 +11,4 @@ points: 5
 
 The **Announcements** tab can be used to send emails to all your API consumers and notify them of an update, a new pricing plan, or other important information about your API:
 
-![Announcements tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image20.png "Announcements tab")
+![Announcements tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image20.png)
