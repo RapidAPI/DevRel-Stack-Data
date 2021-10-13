@@ -14,6 +14,8 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-consumer/modules/rapidapi-hub/lessons/04-integrate-rapidapi-hubs-api-application.md
 ---
 
-Using [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel), you can connect and integrate with any API in a few minutes. We provide REST, SOAP, GraphQL, or Asynchronous APIs. We provide metrics like average latency, popularity, and service level, which will help you make an informed decision regarding your choice of APIs.
+Using [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel), you can connect and integrate with any API in a few minutes. We provide **REST**, **SOAP**, **GraphQL**, and **Asynchronous APIs**. We provide metrics like **average latency**, **popularity**, and **service level**, which will help you make an informed decision regarding your choice of APIs.
 
-RapidAPI Hub makes it very easy to subscribe and test multiple APIs using a single API key.
+<Callout>
+  RapidAPI Hub makes it very easy to subscribe and test multiple APIs using a single API key.
+</Callout>

@@ -25,7 +25,7 @@ Host: https://www.website.com
 }
 ```
 
-Use the interactive component below to understand the response from a `PATCH` request. Click on the "Submit" button to request a response from the server:
+Use the interactive component below to understand the response from a `PATCH` request. Click on the **Submit** button to request a response from the server:
 
 <HTTPClient
   url="https://reqres.in/api/users/2"

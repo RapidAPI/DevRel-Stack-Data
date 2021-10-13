@@ -11,7 +11,7 @@ points: 5
 
 RapidAPI allows you to **create versions for your APIs**. You can choose to either update an existing version or create a new version.
 
-To create a new version, you can select the **Add New Version** option from the API Specs dropdown:
+To create a new version, you can select the **Add New Version** option from the **API Specs** dropdown:
 
 ![Add a new version for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image9.png)
 

@@ -13,6 +13,12 @@ lessons:
 
 <Lead>In this guide, you will learn about how to add an API to RapidAPI.</Lead>
 
+<Callout>
+
+  Building your API and listing it on [RapidAPI](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) will put it infront of over 3 million developers.
+
+</Callout>
+
 ## About this course
 
 This course is an interactive one that will guide you through understanding how you can add your API to RapidAPI.

@@ -37,14 +37,18 @@ Next, you can visit the **Code Snippets** tab and choose the appropriate languag
 
 ![Code Snippets](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-consumer/images/image10.png)
 
-**RapidAPI provides code snippets in 20 programming languages with support for 40 libraries.**
+<Callout>
+  RapidAPI provides code snippets in 20 programming languages with support for 40 libraries.
+</Callout>
 
 Next, you can copy and paste the code in your application, and it will just work:
 
 ![Code Snippets in editor](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-consumer/images/image11.png)
 
 <Callout>
+
   If you are libraries for fetching data like [Axios](https://www.npmjs.com/package/axios), you will need to install them separately in your application.
+
 </Callout>
 
 <Quiz
