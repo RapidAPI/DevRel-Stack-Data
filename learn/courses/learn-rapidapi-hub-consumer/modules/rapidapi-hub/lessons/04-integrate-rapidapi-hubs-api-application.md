@@ -9,7 +9,7 @@ coverImage: ""
 points: 5
 ---
 
-Once you find the API you are looking for, you can visit that API's page on the RapidAPI Hub and click on the **Subscribe to Test** button.
+Once you find the API you are looking for, you can visit that API's page on RapidAPI Hub and click on the **Subscribe to Test** button.
 
 ![Subscribe to Test button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image5.png)
 

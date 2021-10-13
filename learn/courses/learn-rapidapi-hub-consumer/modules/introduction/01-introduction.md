@@ -11,7 +11,7 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
 ---
 
-<Lead>In this guide, you will learn about the RapidAPI Hub and its use in your application.</Lead>
+<Lead>In this guide, you will learn about RapidAPI Hub and its use in your application.</Lead>
 
 ## About this course
 
