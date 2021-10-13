@@ -1,5 +1,5 @@
 ---
-title: Introduction to HTTP/2
+title: What is OpenAPI spec?
 slug: open-api-spec
 description: There are different kinds of specifications available that you can use while building an API.
 publishedDate: 2021-10-13T11:27:45.681Z
