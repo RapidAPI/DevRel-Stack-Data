@@ -9,9 +9,9 @@ coverImage: ""
 points: 5
 ---
 
-For subscribing to an API, you will need to visit the pricing page of the API on RapidAPI Hub and select your desired subscription plan. Subscriptions are every month.
+For subscribing to an API, you will need to visit the pricing page of the API on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and select your desired subscription plan. Subscriptions are every month.
 
-An API can also have free plans with hard or soft limits. The pricing page of an API will also show the monthly quota and the overage fee. An API can also have Rate Limits like "10 requests per minute".
+An API can also have free plans with hard or soft limits. The pricing page of an API will also show the monthly quota and the overage fee. An API can also have Rate Limits like **10 requests per minute**.
 
 ![Subscribing to an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/images/image3.png)
 

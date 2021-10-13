@@ -19,7 +19,9 @@ RapidAPI adds a unique `X-RapidAPI-Proxy-Secret` header on every API request. Th
 
 ## Threat Protection
 
-Threat protection protects your API from SQL or Javascript injection attacks. This protection is optional and is left to the provider to enable or disable. When enabled, the `Content-Type` header must be specified if the request has a body. If the `Content-Type` header is not specified, the request will be blocked.
+Threat protection **protects your API from SQL or Javascript injection attacks**. This protection is optional and is left to the provider to enable or disable.
+
+When enabled, the `Content-Type` header must be specified if the request has a body. If the `Content-Type` header is not specified, the request will be blocked.
 
 ![Threat Protection](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image16.png)
 
@@ -33,10 +35,14 @@ If enabled, RapidAPI will automatically validate a bunch of parameters like path
 
 ### Request Size Limit
 
-This is the maximum allowed size of a request. It can be less than or equal to 50 MB, which is the default value. If left empty or configured as 0, the default value is applied. The request size includes request line, header, and request body.
+This is the maximum allowed size of a request.
+
+**It can be less than or equal to 50 MB**, which is the default value. If left empty or configured as 0, the default value is applied. The request size includes request line, header, and request body.
 
 ### Proxy Timeout Setting
 
-This is the maximum allowed time for the RapidAPI Gateway to wait for a response. It can be less than or equal to 180 seconds, which is the default value. If left empty or configured as 0, the default value is applied.
+This is the maximum allowed time for the RapidAPI Gateway to wait for a response.
+
+**It can be less than or equal to 180 seconds**, which is the default value. If left empty or configured as 0, the default value is applied.
 
 ![Request Configurations](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image18.png)
