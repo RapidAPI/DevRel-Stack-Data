@@ -23,7 +23,7 @@ Just like you test your UI to make sure a button is working, you also test your 
 
 There are a few ways to test an API. Here are some:
 
-- Using a GUI tool like [RapidAPI Client](https://rapidapi.com/products/api-design/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to test different endpoints.
+- Using a GUI tool like [RapidAPI Client](https://RapidAPI.com/products/api-design/?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) to test different endpoints.
 - Using Curl for testing.
 - Writing tests yourself.
 

@@ -38,11 +38,11 @@ We get lots of complaints about it actually, with people regularly asking us thi
 
 <StacksClient
 blocks={[{
-url: 'https://rapidapi.com/telesign/api/telesign-sms-verify/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel',
+url: 'https://RapidAPI.com/telesign/api/telesign-sms-verify/?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel',
 }, {
-url: 'https://rapidapi.com/fcambus/api/telize/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel',
+url: 'https://RapidAPI.com/fcambus/api/telize/?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel',
 }, {
-url: 'https://rapidapi.com/crunchbase-team1-crunchbase/api/crunchbase/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel',
+url: 'https://RapidAPI.com/crunchbase-team1-crunchbase/api/crunchbase/?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel',
 }]}
 />
 

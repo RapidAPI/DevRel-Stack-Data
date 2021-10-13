@@ -18,7 +18,7 @@ draft: false
 RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs available. Anyone can build an API and monetize it on RapidAPI. The developers use these APIs in their applications. They can try the API for free, and if they like it, they can purchase them.
 </Lead>
 
-Today, I have decided to use one of the APIs from [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and build a small application from it. Let’s build this application together.
+Today, I have decided to use one of the APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and build a small application from it. Let’s build this application together.
 
 ## Stack
 
@@ -30,9 +30,9 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Finding The API
 
-The next thing we have to do is find the API we will be using. For this, head over to the [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and create an account. Once you do that, search for a “weather” API.
+The next thing we have to do is find the API we will be using. For this, head over to the [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and create an account. Once you do that, search for a “weather” API.
 
-I have decided to go with the first result, i.e., [Open Weather Map](https://rapidapi.com/community/api/open-weather-map/) API. It has a popularity of 9.9 out of 10. Its latency is 367ms and provides a 100% service level.
+I have decided to go with the first result, i.e., [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/) API. It has a popularity of 9.9 out of 10. Its latency is 367ms and provides a 100% service level.
 
 To use the API, you need to subscribe to it first. For this, all you need to do is click on the Subscribe button, and you will be directed to another page.
 
