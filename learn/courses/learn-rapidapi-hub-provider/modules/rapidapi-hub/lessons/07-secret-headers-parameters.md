@@ -11,7 +11,7 @@ points: 5
 
 RapidAPI allows you to add **secret headers and parameters** which are sent on every request but are hidden from the API consumers.
 
-![Secret Headers and Parameters](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image8.png)
+![Secret Headers and Parameters](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image8.png)
 
 There are mainly two uses for secret headers and parameters:
 

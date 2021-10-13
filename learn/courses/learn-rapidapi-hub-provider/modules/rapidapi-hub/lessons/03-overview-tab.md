@@ -11,4 +11,4 @@ points: 5
 
 Through the **Overview tab**, you can add more details like a **Long Description**, **Logo**, **Website** and **Terms of Use** for your API:
 
-![The Overview tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image4.png)
+![The Overview tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image4.png)

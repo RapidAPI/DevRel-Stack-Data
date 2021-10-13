@@ -11,7 +11,7 @@ points: 5
 
 RapidAPI implements a **single secret key per application** across all APIs to minimize friction in testing and implementing APIs. There are other ways to implement authentication for your APIs.
 
-![Different ways of authenticating your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image7.png)
+![Different ways of authenticating your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image7.png)
 
 ## Basic
 

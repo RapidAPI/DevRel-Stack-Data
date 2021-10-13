@@ -14,7 +14,7 @@ From the **Global Settings** tab, it is possible to:
 - Modify the **Gateway DNS**.
 - **Invite Developers** to view and consume your API even though it is private.
 
-![Global Settings](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image21.png)
+![Global Settings](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image21.png)
 
 There is another section inside this tab through why it is possible to:
 
@@ -22,4 +22,4 @@ There is another section inside this tab through why it is possible to:
 - **Transfer the ownership** of this API to another RapidAPI user.
 - **Permanently delete** this API.
 
-![Danger Section](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image22.png)
+![Danger Section](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image22.png)

@@ -8,12 +8,12 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/01-request-headers.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/02-response-headers.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/03-representation-headers.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/04-payload-headers.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/05-content-security-policy-csp.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rest-apis/modules/http-headers/lessons/06-cors.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/01-request-headers.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/02-response-headers.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/03-representation-headers.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/04-payload-headers.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/05-content-security-policy-csp.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rest-apis/modules/http-headers/lessons/06-cors.md
 ---
 
 When a client makes a request to the server, the client can pass additional information as a part of the request via HTTP headers. As mentioned earlier, headers are case insensitive.

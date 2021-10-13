@@ -11,7 +11,7 @@ points: 5
 
 You can create endpoints for your APIs by selecting the **Endpoints** tab:
 
-![Defining endpoints for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image10.png)
+![Defining endpoints for your APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image10.png)
 
 There are two ways of defining your endpoints:
 
@@ -20,11 +20,11 @@ There are two ways of defining your endpoints:
 
 If you click on the **Create REST Endpoint**, you will be able to add the Name, Description, External Doc URL and External Doc Description for the new endpoint.
 
-![Providing details for the endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image11.png)
+![Providing details for the endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image11.png)
 
 Next, you will also be able to select the HTTP method and path for your endpoint:
 
-![Creating a REST API endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image12.png)
+![Creating a REST API endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image12.png)
 
 You can also provide the following details along with your endpoint:
 
@@ -34,11 +34,11 @@ You can also provide the following details along with your endpoint:
 
 You can also click on the **Test Endpoint** button to check your new endpoint:
 
-![Testing the new endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image13.png)
+![Testing the new endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image13.png)
 
 You can also choose to create an example from the response by clicking on the **Create example from response** button:
 
-![Creating example from the response of the new endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image14.png)
+![Creating example from the response of the new endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image14.png)
 
 <Quiz
   question={

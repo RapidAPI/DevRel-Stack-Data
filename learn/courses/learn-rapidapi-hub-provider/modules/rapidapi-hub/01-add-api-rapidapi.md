@@ -8,13 +8,13 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/01-add-api-details.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/02-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/03-overview-tab.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/04-add-api-specs.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/05-versioning-apis.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/06-defining-endpoints-apis.md
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/07-secret-headers-parameters.md'
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/01-add-api-details.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/02-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/03-overview-tab.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/04-add-api-specs.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/05-versioning-apis.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/06-defining-endpoints-apis.md
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/rapidapi-hub/lessons/07-secret-headers-parameters.md'
 ---
 
 To add an API to [RapidAPI](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel), you will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) first.
