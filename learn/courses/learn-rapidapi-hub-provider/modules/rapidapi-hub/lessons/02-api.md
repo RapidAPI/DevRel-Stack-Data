@@ -11,12 +11,12 @@ points: 5
 
 You can specify your API using the following options:
 
+- Kafka
+- Specifying a GraphQL Schema
+- Uploading a Postman Collection file
 - Create the spec using the RapidAPI UI
 - Automating the spec by uploading your OpenAPI file
-- Uploading a Postman Collection file
-- Specifying a GraphQL Schema
-- Kafka
 
-You can select your preferred option and click on the "Add API" button to continue:
+You can select your preferred option and click on the **Add API** button to continue:
 
 ![Add API button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image3.png)

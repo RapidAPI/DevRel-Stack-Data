@@ -26,6 +26,6 @@ You can define objects to set quotas and specify charges per object. You can add
 
 ## Public & Private Plans
 
-You can have up to four different pricing plans. To add a new plan, you can click the "Add Plan" button.
+You can have up to four different pricing plans. To add a new plan, you can click the **Add Plan** button.
 
 ![Public & Private Plans](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image24.png)

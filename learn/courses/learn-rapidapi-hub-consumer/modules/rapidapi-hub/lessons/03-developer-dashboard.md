@@ -9,7 +9,7 @@ coverImage: ""
 points: 5
 ---
 
-The usage of an API can be tracked via [the Developer Dashboard](https://RapidAPI.com/developer/dashboard?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel). You can track all your APIs, apps, billing, API quota usage, and API analytics from the Developer Dashboard.
+The usage of an API can be tracked via [the Developer Dashboard](https://RapidAPI.com/developer/dashboard?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel). You can track all your APIs, apps, billing, API quota usage, and API analytics from the **Developer Dashboard**.
 
 You can also add new apps and APIs from the Developer Dashboard.
 

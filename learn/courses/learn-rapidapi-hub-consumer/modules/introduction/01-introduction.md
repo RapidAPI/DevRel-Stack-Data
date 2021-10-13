@@ -11,7 +11,11 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
 ---
 
-<Lead>In this guide, you will learn about the RapidAPI Hub and its use in your application.</Lead>
+<Lead>In this guide, you will learn about RapidAPI Hub and its use in your application.</Lead>
+
+Imagine that you are building an e-commerce application. You will need to build the infrastructure necessary to support a payment processing gateway, authentication, search, etc. It becomes challenging to develop and maintain the required infrastructure to support all these systems.
+
+You can resolve this issue by using different API providers who provide APIs for all these components. [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) can help you with that.
 
 ## About this course
 
