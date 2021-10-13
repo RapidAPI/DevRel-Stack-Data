@@ -11,7 +11,7 @@ points: 5
 
 To add a new API to RapidAPI, visit the [Provider Dashboard](https://provider.rapidapi.com/?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and click on the **Add New API** button:
 
-![The **Add New API** button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image1.png)
+![The Add New API button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image1.png)
 
 You can provide the details like the **API Name**, **Short Description** (that appears in search) and **Category** of your API:
 
