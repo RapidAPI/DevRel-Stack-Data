@@ -8,7 +8,7 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/modules/introduction/lessons/01-provide-api-rapidapi.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/modules/introduction/lessons/01-provide-api-rapidapi.md
 ---
 
 <Lead>In this guide, you will learn about how to add an API to RapidAPI.</Lead>

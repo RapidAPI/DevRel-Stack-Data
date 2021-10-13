@@ -11,4 +11,4 @@ points: 5
 
 The **Docs** tab can be used to highlight your API's features:
 
-![Docs tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image19.png)
+![Docs tab](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image19.png)

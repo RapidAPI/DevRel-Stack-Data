@@ -11,7 +11,7 @@ points: 5
 
 From the **API Specs** tab, you can add the **Base URL** of your API.
 
-![Add Base URL](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image5.png)
+![Add Base URL](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image5.png)
 
 <Callout>
   All the API endpoints are relative to this URL.
@@ -19,4 +19,4 @@ From the **API Specs** tab, you can add the **Base URL** of your API.
 
 You click on the **Configure** button to enter the Base URL and click on the **Save** button:
 
-![Enter the Base URL](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/learn-rapidapi-hub-provider/images/image6.png)
+![Enter the Base URL](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/update-learn-content/learn/courses/learn-rapidapi-hub-provider/images/image6.png)
