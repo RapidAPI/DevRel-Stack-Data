@@ -13,7 +13,9 @@ coverImage: ''
 draft: false
 ---
 
+<Lead>
 When you are building a REST API, make sure you follow all the best practices. One of them is using HTTP status codes. Let’s take a look at them.
+</Lead>
 
 ## What are HTTP status codes?
 
@@ -29,7 +31,7 @@ This status code tells you that everything went smoothly, and the request was a 
 
 ### 201 Created
 
-It tells you that the request was successful, and also it created a new record. It is generally used with PUT/POST methods.
+It tells you that the request was successful, and also it created a new record. It is generally used with **PUT/POST** methods.
 
 ### 400 Bad Request
 
