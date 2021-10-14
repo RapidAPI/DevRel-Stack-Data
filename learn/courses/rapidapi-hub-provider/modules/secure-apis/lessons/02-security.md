@@ -1,0 +1,48 @@
+---
+title: Security
+slug: security
+description: ""
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T17:32:39.415Z
+draft: false
+coverImage: ""
+points: 5
+---
+
+RapidAPI also provides various options to secure your API endpoints.
+
+## Firewall Settings
+
+RapidAPI adds a unique `X-RapidAPI-Proxy-Secret` header on every API request. This header has a unique value for every API and if the value is invalid (missing or different), it can be assumed that it isn't coming from the RapidAPI infrastructure.
+
+![Firewall Settings](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/images/image15.png)
+
+## Threat Protection
+
+Threat protection **protects your API from SQL or Javascript injection attacks**. This protection is optional and is left to the provider to enable or disable.
+
+When enabled, the `Content-Type` header must be specified if the request has a body. If the `Content-Type` header is not specified, the request will be blocked.
+
+![Threat Protection](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/images/image16.png)
+
+## Request Schema Validation
+
+If enabled, RapidAPI will automatically validate a bunch of parameters like path, query and header during run time and block all invalid requests. This requires `Content-Type` header in requests with a body.
+
+![Request Schema Validation](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/images/image17.png)
+
+## Request Configurations
+
+### Request Size Limit
+
+This is the maximum allowed size of a request.
+
+**It can be less than or equal to 50 MB**, which is the default value. If left empty or configured as 0, the default value is applied. The request size includes request line, header, and request body.
+
+### Proxy Timeout Setting
+
+This is the maximum allowed time for the RapidAPI Gateway to wait for a response.
+
+**It can be less than or equal to 180 seconds**, which is the default value. If left empty or configured as 0, the default value is applied.
+
+![Request Configurations](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/images/image18.png)
