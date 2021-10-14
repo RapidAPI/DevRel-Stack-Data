@@ -6,7 +6,7 @@ publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:
   - saad
-category: api
+category: http
 tags:
   - method
   - rest

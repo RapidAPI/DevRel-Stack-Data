@@ -6,7 +6,7 @@ publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
 authors:
     - saad
-category: api
+category: http
 tags:
     - cookies
 coverImage: ''
