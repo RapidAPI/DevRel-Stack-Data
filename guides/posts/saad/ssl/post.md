@@ -6,7 +6,7 @@ publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
 authors:
     - saad
-category: api
+category: http
 tags:
     - ssl
 coverImage: ''
