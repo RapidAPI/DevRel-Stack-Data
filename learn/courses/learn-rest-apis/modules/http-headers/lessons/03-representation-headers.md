@@ -20,6 +20,16 @@ The [Content-Type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Con
 Content-Type: text/html; charset=UTF-8
 ```
 
+Use the interactive component below to understand the `Content-Type` HTTP header from a `GET` request. Click on the **Submit** button to request a response from the server:
+
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="GET"
+  isRequestMethodChangeDisabled
+  isResponseBodyVisible={false}
+  isResponseHeadersVisible
+/>
+
 ## Content-Encoding
 The [Content-Encoding](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding) HTTP header is used to decode the message payload in order to obtain the original format of the payload. It is mainly used to do lossless compression of the payload.
 
