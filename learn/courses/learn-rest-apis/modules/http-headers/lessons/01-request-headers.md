@@ -56,6 +56,16 @@ Cache-Control: stale-while-revalidate=60
 Cache-Control: no-cache
 ```
 
+Use the interactive component below to understand the `Cache-Control` HTTP header from a `GET` request. Click on the **Submit** button to request a response from the server:
+
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="GET"
+  isRequestMethodChangeDisabled
+  isResponseBodyVisible={false}
+  isResponseHeadersVisible
+/>
+
 <Quiz
   question={
     <div><span tw="font-semibold">Quick Review:</span> Can the server determine the type of the data passed in the body of the request based on the request headers?</div>
