@@ -2,6 +2,7 @@
 title: What is TLS?
 slug: tls
 description: Transport Layer Security (TLS) is a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet.
+publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
 authors:
     - saad
