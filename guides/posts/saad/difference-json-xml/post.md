@@ -20,11 +20,15 @@ XML and JSON are the two most common formats to receive data from the server. Be
 
 ## JSON
 
-JSON (JavaScript Object Notation) is a language-independent data-interchange format that uses human-readable text for storing and transmitting data objects. Its syntax is much more compact and has established semantics. JSON allows you to share key-value pairs, arrays, objects between the client and the server.
+JSON (JavaScript Object Notation) is a language-independent data-interchange format that uses human-readable text for storing and transmitting data objects. Its syntax is much more compact and has established semantics. JSON allows you to share key-value pairs, arrays, objects between the client and the server. Although it is derived from JavaScript, you can use it with almost any programming language.
 
 ## XML
 
 XML (Extensible Markup Language) is another format designed to store data and transfer it across client and server. XML defines a set of rules for encoding data that is both human and machine-readable. The most basic unit in XML is an element, and you can define different markup elements and generate a customized markup language.
+
+## Differences Between JSON And XML
+
+Although both these formats are there to exchange data between client and server, they are entirely different from one another. The following are some of the differences between JSON and XML:
 
 ## Differences Between JSON And XML
 

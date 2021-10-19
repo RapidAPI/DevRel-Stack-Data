@@ -27,7 +27,7 @@ You should always provide a name to GraphQL operations in your application. This
 
 ## Only Query The Data You Need
 
-The most significant advantage of GraphQL over REST API is its ability to fetch only the data the client needs. Nothing more, nothing less. If you are writing a query sending more data than you need, you are over-fetching.
+The most significant advantage of GraphQL over REST API is its ability to fetch only the data the client needs. Nothing more, nothing less. If the query you are writing is sending more data than you need, you are over-fetching.
 
 So when you are designing a GraphQL API, make sure that you request exactly the data you need.
 

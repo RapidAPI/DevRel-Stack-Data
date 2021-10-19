@@ -31,8 +31,10 @@ SSL also provides data integrity by digitally signing the data and later verifyi
 
 You can only implement SSL on your website using the SSL certificate. It is an ID that proves the identity of the user. SSL certificates are stored and displayed on the web using the website's server.
 
+SSL certificates have a key pair that includes public and a private key. Both these keys work together to establish an encrypted connection. These certificates also contain a **"subject"** that is the identity of the certificate owner.
+
 A website that is using an SSL certificate has HTTPS instead of HTTP in its URL. This certificate is one of the critical factors for your website ranking on Google.
 
-A website that is not using the SSL certificate has "Not Secure" written before its domain.
+A website that is not using the SSL certificate has **"Not Secure"** written before its domain.
 
 ![not secure](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9667fc6cc55d6f94431862f055ffe17dc0636393/guides/posts/saad/ssl/images/not-secure.png)

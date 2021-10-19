@@ -28,14 +28,14 @@ HTTP/2 is an extension of the previous version, not a replacement. The applicati
 
 Here are the features of HTTP/2:
 
-- Binary framing layer
-- Header compression
-- Request and response multiplexing
-- One connection per origin
+- Binary framing layer that defines how the HTTP messages are encapsulated and transferred between the client and the server.
+- Header compression.
+- It provides request and response multiplexing using the new binary framing layer. This allows the client and server to break down an HTTP message into independent frames, interleave them, and then reassemble them on the other end.
+- It offers one connection per origin.
 - The ability of the server to send multiple streams responses for a single client request.
 
 ## Benefits of HTTP/2
 
-HTTP/2 is more efficient in terms of network resource usage than HTTP/1.1.It has reduced the perception of latency by introducing header field compression and allowing multiple concurrent exchanges on the same connection.
+HTTP/2 is more efficient in terms of network resource usage than HTTP/1.1. It has reduced the perception of latency by introducing header field compression and allowing multiple concurrent exchanges on the same connection.
 
 HTTP/2 uses efficient coding for HTTP header fields and allows the interleaving of request and response messages on the same connection.

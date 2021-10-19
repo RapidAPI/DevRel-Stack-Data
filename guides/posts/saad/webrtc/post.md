@@ -14,12 +14,16 @@ draft: false
 ---
 
 <Lead>
-You often need to add a real-time media communication feature directly between browser and devices in your application. Before 2011, you would have to use plugins or other means to implement this. But now, you can do this using WebRTC.
+You often need to add a real-time media communication feature directly between browser and devices in your application. For instance, you might be developing a new audio/video call application or adding it as a feature to an existing application.
 </Lead>
+
+Before 2011, you would have to use plugins or other means to implement this. But now, you can do this using WebRTC.
 
 ## WebRTC
 
 [Web Real-Time Communication](https://webrtc.org/) (WebRTC) helps achieve audio and video streaming inside the web pages by allowing direct peer-to-peer communication. It can also exchange arbitrary data between browsers without requiring an intermediary. Although internally, it is still using C/C++, WebRTC provides a JavaScript API that you can use.
+
+The set of standards that makes up the WebRTC allows to share data and perform peer-to-peer teleconferencing without the need of installing additional plugins.
 
 ## Reasons for Using WebRTC
 
