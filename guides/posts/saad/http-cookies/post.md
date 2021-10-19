@@ -19,7 +19,7 @@ The HTTP cookies or simply cookies are used by the websites to store different i
 
 ## What is an HTTP Cookie?
 
-An HTTP cookie is a small piece of data created by the web server in the user’s browser. It is used for user identification and improving your web browsing experience. The data inside a cookie has an ID that is unique to you and your computer. This helps the server to know who the user is so it can send specific information.
+An HTTP cookie is a small piece of data created by the web server in the user’s browser. It is used for user identification and improving your web browsing experience. The data inside a cookie has an ID that is unique to you and your computer. This ID helps the server to know who the user is so it can send the data accordingly.
 
 You can use cookies for three purposes: session management, personalization, and tracking.
 
@@ -27,7 +27,7 @@ You can use cookies for three purposes: session management, personalization, and
 
 Since HTTP is a stateless protocol, the browser and the server needs to main user sessions. Otherwise, they will be signed out every time they close the tab. These sessions are now maintained through cookies.
 
-The server sends a message to the browser containing user information. It is stored as a cookie and later sent back to the server when they access the website. The server uses the cookie information to retrieve the user session from the session database. This is how user sessions are maintained,
+The server sends a message to the browser containing user information. It is stored as a cookie and later sent back to the server when the user accesses the website. The server uses the cookie information to retrieve the user session from the session database. This is how user sessions are maintained.
 
 ## Personalization
 

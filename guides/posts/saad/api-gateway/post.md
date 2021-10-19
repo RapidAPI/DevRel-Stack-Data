@@ -20,11 +20,13 @@ When working with APIs, you will come across API Gateways sooner or later. It se
 
 ## What is an API Gateway?
 
-An API Gateway accepts API requests from a client, directs them to the appropriate services, and then combines the results into a synchronous experience. It is an API management tool that sits between client and server. API Gateways performs various functions, including authentication, routing, rate limiting, billing, monitoring, analytics, policies, alerts, security, etc.
+An API Gateway accepts API requests from a client, directs them to the appropriate services, and then combines the results into a synchronous experience. To put it simply, the API Gateway first takes all the requests from a client, understands these requests and determines which services are needed, and then combines them into a unified, seamless experience for the user.
+
+The API Gateway is an API management tool that sits between client and server. API Gateways performs various functions, including authentication, routing, rate limiting, billing, monitoring, analytics, policies, alerts, security, etc.
 
 ## API Gateway Usage
 
-As briefly mentioned above, API Gateway has several usages. You can use it to implement authentication and rate-limiting to protect your APIs from overuse and abuse. It can also be used to add analytics and monitoring to understand how people are using your API. You can use it to connect to a billing system if you are monetizing your API.
+As briefly mentioned above, API Gateway has several usages. You can use it to implement authentication and rate-limiting to protect your APIs from overuse and abuse. This will act as a countermeasure in case there is a Denial of Service (DDoS) attack. It can also be used to add analytics and monitoring to understand how people are using your API. You can use it to connect to a billing system if you are monetizing your API.
 
 ## Benefits of API Gateway
 

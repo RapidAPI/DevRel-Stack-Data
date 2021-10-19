@@ -15,12 +15,12 @@ draft: false
 ---
 
 <Lead>
-There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API. Let’s take a look at some of these specifications.
+There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API to set some standards right from the start. Let’s take a look at some of these specifications.
 </Lead>
 
 ## API Specs
 
-It is used to standardize data exchange between web services. Standardize means the ability of diverse systems, written in different programming languages, to run on different operating systems, or using various technologies to communicate.
+It is used to standardize data exchange between web services. Standardize means the ability of diverse systems, written in different programming languages, to run on different operating systems, or use various technologies to communicate.
 
 The API specification provides a comprehensive understanding of how an API behaves and links with other APIs. It also explains how the API functions and the results to expect when using the API.
 

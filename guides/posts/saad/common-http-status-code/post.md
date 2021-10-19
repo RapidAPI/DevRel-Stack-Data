@@ -19,7 +19,7 @@ When you are building a REST API, make sure you follow all the best practices. O
 
 ## What are HTTP status codes?
 
-HTTP status codes are there to help the client understand whether the request was successful or not. They are numbers from 100s to 500s, and each has a separate meaning. These codes are sent to the client along with the response. The client also relies on these codes for implementing different error handling techniques.
+HTTP status codes are there to help the client understand whether the request was successful or not. They are numbers from 100s to 500s, and each has a separate meaning. These codes are sent to the client along with the response. The client also relies on these codes for implementing different error handling techniques. For instance, the developer can set to display an error message if he receives a 401 status code to let the user know to sign up first.
 
 ## HTTP Status Code
 
@@ -31,7 +31,7 @@ This status code tells you that everything went smoothly, and the request was a 
 
 ### 201 Created
 
-It tells you that the request was successful, and also it created a new record. It is generally used with **PUT/POST** methods.
+It tells you that the request was successful, and also it created a new record. It is generally used with PUT/POST methods.
 
 ### 400 Bad Request
 
