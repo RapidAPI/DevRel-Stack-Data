@@ -1,7 +1,7 @@
 ---
 title: Build and Deploy a Google Maps Travel Companion Application
 slug: build-deploy-google-maps-travel-companion-application
-description: ""
+description: "Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are just some features that make this Travel Advisor App the best Maps Application that you can currently find on YouTube"
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ""
