@@ -9,7 +9,7 @@ coverImage: ""
 points: 5
 ---
 
-You can go through the interactive component below to understand the steps for integrating an API from RapidAPI Hub.
+You can go through the interactive component below to understand the steps for integrating an API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
 
 <RapidAPI />
 
