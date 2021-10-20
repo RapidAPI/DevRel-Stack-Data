@@ -1,5 +1,20 @@
 [
   {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/authentication-rest-api/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-gRPC-rest/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-gRPC-graphql/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/gRPC/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/websockets/post.md"
+  },
+  {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/secure-api/post.md"
   },
   {
