@@ -9,6 +9,10 @@ coverImage: ""
 points: 5
 ---
 
+You can go through the interactive component below to understand the steps for integrating an API from RapidAPI Hub.
+
+<RapidAPI />
+
 Once you find the API you are looking for, you can visit that API's page on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and click on the **Subscribe to Test** button.
 
 ![Subscribe to Test button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/images/image5.png)
