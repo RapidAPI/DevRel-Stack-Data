@@ -3,6 +3,7 @@ title: What is DNS?
 slug: dns
 description: A lot goes in when you type a website address in your browser address bar and hit enter.
 lastModifiedDate: 2021-10-21T16:18:42.178Z
+publishedDate: 2021-10-21T16:18:42.178Z
 authors:
     - saad
 category: http
