@@ -19,4 +19,8 @@ lessons:
 
 To add an API to [RapidAPI](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel), you will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) first.
 
+You can go through the interactive component below to understand the steps for adding an API to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
+
+<RapidAPIProvider />
+
 In this module, you will learn how to list your API in RapidAPI and put it infront of over 3 million developers.

@@ -11,7 +11,7 @@ points: 5
 
 You can go through the interactive component below to understand the steps for integrating an API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
 
-<RapidAPI />
+<RapidAPIConsumer />
 
 Once you find the API you are looking for, you can visit that API's page on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) and click on the **Subscribe to Test** button.
 
