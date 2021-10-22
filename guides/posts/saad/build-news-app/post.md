@@ -44,7 +44,6 @@ Once you click the button, you will be redirected to another page where differen
 
 After all this, you will be redirected back to the original page. Here you will have a key `x-rapidapi-key`. Save it. It will be used later in the application.
 
-
 ## Building The UI
 
 You can create a Next.js boilerplate with TailwindCSS integrated by running the following command in your terminal. So let’s do that.
@@ -74,33 +73,33 @@ Now let’s start writing the code. I am going to do it in steps so you can foll
 
 ### → STEP #1
 
-Open the`‘pages/index.js` file and remove all the existing code. After this, copy-paste the following code there:
+Open the`pages/index.js` file and remove all the existing code. After this, copy-paste the following code there:
 
 
 ```js
 export default function Home() {
   return (
     <div className="bg-bc min-h-screen">
-      	<div className="flex justify-center">
-     	 <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
-        		News Application
-     	 </h2>
-    	</div>
-<div className="flex justify-center items-center flex-col">
-      <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
-          Get Top <span className="text-danger">News</span> Quickly
-      </h3>
-</div>
+      <div className="flex justify-center">
+        <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
+              News Application
+        </h2>
+      </div>
+      <div className="flex justify-center items-center flex-col">
+        <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
+            Get Top <span className="text-danger">News</span> Quickly
+        </h3>
+      </div>
     </div>
-     );
+  );
 }
 ```
 
-It is going to create two headings for you with the text “News Application” and “Get Top News Quickly”. You can change it to anything you prefer.
+It is going to create two headings for you with the text "News Application" and “Get Top News Quickly”. You can change it to anything you prefer.
 
 ### → STEP #2
 
-Let’s integrate the API now. For this, first create a ‘.env.local’ file and paste the following in it:
+Let’s integrate the API now. For this, first create a `.env.local` file and paste the following in it:
 
 ```sh
 NEXT_PUBLIC_BING_NEWS_API_KEY=YOUR-RAPIDAPI-KEY
@@ -120,7 +119,7 @@ Now import `axios` at the top of the `pages/index.js`.
 import axios from ‘axios’;
 ```
 
-RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the `(JavaScript) Axios` one.
+RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
 
 ![javascript-axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/javascript-axios.jpg)
 
@@ -176,27 +175,27 @@ import axios from "axios";
 export default function Home({ value }) {
   return (
     <div className="bg-bc min-h-screen">
-      	<div className="flex justify-center">
-     	 <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
-        		News Application
-     	 </h2>
-    	</div>
-<div className="flex justify-center items-center flex-col">
-      <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
-          Get Top <span className="text-danger">News</span> Quickly
-      </h3>
-	 {value.map((news) => {
-        return (
-          <Link href={news.url}>
-            <div className="flex items-center text-lg px-10 mb-10 font-light font-raleway h-32 w-3/6 rounded-sm border-2 border-danger text-lightYellow cursor-pointer transition duration-300 hover:border-primary hover:text-danger md:w-80 md:h-40">
-              <h3>{news.name}</h3>
-            </div>
-          </Link>
-            );
+      <div className="flex justify-center">
+        <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
+          News Application
+        </h2>
+      </div>
+      <div className="flex justify-center items-center flex-col">
+        <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
+            Get Top <span className="text-danger">News</span> Quickly
+        </h3>
+        {value.map((news) => {
+            return (
+              <Link href={news.url}>
+                <div className="flex items-center text-lg px-10 mb-10 font-light font-raleway h-32 w-3/6 rounded-sm border-2 border-danger text-lightYellow cursor-pointer transition duration-300 hover:border-primary hover:text-danger md:w-80 md:h-40">
+                  <h3>{news.name}</h3>
+                </div>
+              </Link>
+          );
         })}
-</div>
+      </div>
     </div>
-     );
+  );
 }
 
 export async function getServerSideProps() {
@@ -229,4 +228,4 @@ This `value` property is passed to my component as props. Since it is an array, 
 
 This is it. We have successfully built a [weather application](https://rapidapi-example-news-app.vercel.app/) using the [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
 
-![news app](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/news-app.png)
+![News Application With Next.js And Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/news-app.png)
