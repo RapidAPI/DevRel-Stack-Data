@@ -18,6 +18,10 @@ RapidAPI provides you the flexibility to choose your pricing plan. All APIs on R
 | Freemium    | Paid APIs that also include a limited free tier. These require a credit card, even for the free plan.                          |
 | Paid        | APIs that require a paid subscription plan and credit card to consume.                                                         |
 
+You can go through the interactive component below to understand how much your can earn by publishing an API on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
+
+<RapidAPIPricing />
+
 ## Pricing Attributes
 
 You can define objects to set quotas and specify charges per object. You can add objects or features to your plan.
