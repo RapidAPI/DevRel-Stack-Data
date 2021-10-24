@@ -36,7 +36,7 @@ I have decided to go with the first result, i.e., [Open Weather Map](https://Rap
 
 To use the API, you need to subscribe to it first. For this, all you need to do is click on the Subscribe button, and you will be directed to another page.
 
-![subscribe](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/weather-api.jpg)
+![Subscribe to Open Weather Map API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/build-weather-app/images/weather-api.jpg)
 
 Here you will be asked to choose any of the available packages. Let’s go with the free package that has a hard limit of 500 requests per month. Subscribe to it.
 
@@ -73,15 +73,15 @@ Open the `pages/index.js` file and remove all the boilerplate code. You can copy
 
 ```js
 export default function Home() {
-	return (
-		<div className="flex justify-center items-center h-screen flex-col">
-			<div>
-				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-					Weather App
-				</h2>
-			</div>
-		</div>
-	);
+ return (
+  <div className="flex justify-center items-center h-screen flex-col">
+   <div>
+    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+     Weather App
+    </h2>
+   </div>
+  </div>
+ );
 }
 ```
 
@@ -95,27 +95,27 @@ Here is the code so far till this step:
 
 ```js
 export default function Home() {
-	return (
-		<div className="flex justify-center items-center h-screen flex-col">
-			<div>
-				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-					Weather App
-				</h2>
-			</div>
-		</div>
-    	<div className="flex sm:flex-col">
-				<input
-					type="text"
-					placeholder="City..."
-					className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
-				/>
-				<button
-					className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
-				>
-					Search
-				</button>
-			</div>
-	);
+ return (
+  <div className="flex justify-center items-center h-screen flex-col">
+   <div>
+    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+     Weather App
+    </h2>
+   </div>
+  </div>
+     <div className="flex sm:flex-col">
+    <input
+     type="text"
+     placeholder="City..."
+     className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
+    />
+    <button
+     className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
+    >
+     Search
+    </button>
+   </div>
+ );
 }
 ```
 
@@ -132,55 +132,55 @@ import { useState } from 'react';
 import axios from 'axios';
 
 export default function Home() {
-	const [temp, setTemp] = useState(null);
-	const [minTemp, setMinTemp] = useState('');
-	const [maxTemp, setMaxTemp] = useState('');
-	const [err, setErr] = useState(false);
+ const [temp, setTemp] = useState(null);
+ const [minTemp, setMinTemp] = useState('');
+ const [maxTemp, setMaxTemp] = useState('');
+ const [err, setErr] = useState(false);
 
-	return (
-		<div className="flex justify-center items-center h-screen flex-col">
-			<div>
-				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-					Weather App
-				</h2>
-			</div>
-			<div className="flex sm:flex-col">
-				<input
-					type="text"
-					placeholder="City..."
-					className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
-					onChange={e => setCity(e.target.value)}
-				/>
-				<button
-					onClick={getWeather}
-					className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
-				>
-					Search
-				</button>
-			</div>
-			{temp && (
-				<div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-					<div className="flex mb-4">
-						<p className="w-64 sm:w-41">Temperature:</p>
-						<p>{temp} ° C</p>
-					</div>
-					<div className="flex mb-4 sm:w-41">
-						<p className="w-64">Temperature Min:</p>
-						<p>{minTemp}° C</p>
-					</div>
-					<div className="flex">
-						<p className="w-64 sm:w-41">Temperature Max:</p>
-						<p>{maxTemp}° C</p>
-					</div>
-				</div>
-			)}
-			{err && (
-				<div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-					<p>Couldn't fetch weather results.</p>
-				</div>
-			)}
-		</div>
-	);
+ return (
+  <div className="flex justify-center items-center h-screen flex-col">
+   <div>
+    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+     Weather App
+    </h2>
+   </div>
+   <div className="flex sm:flex-col">
+    <input
+     type="text"
+     placeholder="City..."
+     className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
+     onChange={e => setCity(e.target.value)}
+    />
+    <button
+     onClick={getWeather}
+     className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
+    >
+     Search
+    </button>
+   </div>
+   {temp && (
+    <div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+     <div className="flex mb-4">
+      <p className="w-64 sm:w-41">Temperature:</p>
+      <p>{temp} ° C</p>
+     </div>
+     <div className="flex mb-4 sm:w-41">
+      <p className="w-64">Temperature Min:</p>
+      <p>{minTemp}° C</p>
+     </div>
+     <div className="flex">
+      <p className="w-64 sm:w-41">Temperature Max:</p>
+      <p>{maxTemp}° C</p>
+     </div>
+    </div>
+   )}
+   {err && (
+    <div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+     <p>Couldn't fetch weather results.</p>
+    </div>
+   )}
+  </div>
+ );
 }
 ```
 
@@ -208,7 +208,7 @@ import axios from ‘axios’;
 
 RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the (JavaScript) Axios one.
 
-![code snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/code-snippet.jpg)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/build-weather-app/images/code-snippet.jpg)
 
 Now I need to save the user input in the state variable ‘city` so it can be sent through the API later. For this, I am setting the `onChange` event in the `input` tag. I am also writing a `getWeather` function that will make the API call when the search button is clicked. Once the API provides a response, the data will be saved in the state variables.
 
@@ -219,104 +219,103 @@ import { useState } from 'react';
 import axios from 'axios';
 
 export default function Home() {
-	const [city, setCity] = useState('');
-	const [temp, setTemp] = useState(null);
-	const [minTemp, setMinTemp] = useState('');
-	const [maxTemp, setMaxTemp] = useState('');
-	const [err, setErr] = useState(false);
+ const [city, setCity] = useState('');
+ const [temp, setTemp] = useState(null);
+ const [minTemp, setMinTemp] = useState('');
+ const [maxTemp, setMaxTemp] = useState('');
+ const [err, setErr] = useState(false);
 
-	/**
-	 *
-	 * fetch weather information of the given city
-	 */
-	const getWeather = () => {
-		// resetting states
-		setErr(false);
-		setTemp(null);
+ /**
+  *
+  * fetch weather information of the given city
+  */
+ const getWeather = () => {
+  // resetting states
+  setErr(false);
+  setTemp(null);
 
-		const options = {
-			method: 'GET',
-			url: 'https://community-open-weather-map.p.rapidapi.com/weather',
-			params: { q: `${city}`, units: 'metric' },
-			headers: {
-				'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',
-				'x-rapidapi-key': process.env.NEXT_PUBLIC_OPEN_WEATHER_API_KEY
-			}
-		};
+  const options = {
+   method: 'GET',
+   url: 'https://community-open-weather-map.p.rapidapi.com/weather',
+   params: { q: `${city}`, units: 'metric' },
+   headers: {
+    'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',
+    'x-rapidapi-key': process.env.NEXT_PUBLIC_OPEN_WEATHER_API_KEY
+   }
+  };
 
-		axios
-			.request(options)
-			.then(function (response) {
-				console.log(response.data);
-				const { data } = response;
-				const newTemp = Math.ceil(data.main.temp);
-				const newMinTemp = Math.ceil(data.main.temp_min);
-				const newMaxTemp = Math.ceil(data.main.temp_max);
+  axios
+   .request(options)
+   .then(function (response) {
+    console.log(response.data);
+    const { data } = response;
+    const newTemp = Math.ceil(data.main.temp);
+    const newMinTemp = Math.ceil(data.main.temp_min);
+    const newMaxTemp = Math.ceil(data.main.temp_max);
 
-				setTemp(newTemp);
-				setMinTemp(newMinTemp);
-				setMaxTemp(newMaxTemp);
-			})
-			.catch(function (error) {
-				console.error(error);
-				setErr(true);
-			});
-	};
+    setTemp(newTemp);
+    setMinTemp(newMinTemp);
+    setMaxTemp(newMaxTemp);
+   })
+   .catch(function (error) {
+    console.error(error);
+    setErr(true);
+   });
+ };
 
-	return (
-		<div className="flex justify-center items-center h-screen flex-col">
-			<div>
-				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-					Weather App
-				</h2>
-			</div>
-			<div className="flex sm:flex-col">
-				<input
-					type="text"
-					placeholder="City..."
-					className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
-					onChange={e => setCity(e.target.value)}
-				/>
-				<button
-					onClick={getWeather}
-					className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
-				>
-					Search
-				</button>
-			</div>
-			{temp && (
-				<div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-					<div className="flex mb-4">
-						<p className="w-64 sm:w-41">Temperature:</p>
-						<p>{temp} ° C</p>
-					</div>
-					<div className="flex mb-4 sm:w-41">
-						<p className="w-64">Temperature Min:</p>
-						<p>{minTemp}° C</p>
-					</div>
-					<div className="flex">
-						<p className="w-64 sm:w-41">Temperature Max:</p>
-						<p>{maxTemp}° C</p>
-					</div>
-				</div>
-			)}
-			{err && (
-				<div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-					<p>Couldn't fetch weather results.</p>
-				</div>
-			)}
-		</div>
-	);
+ return (
+  <div className="flex justify-center items-center h-screen flex-col">
+   <div>
+    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+     Weather App
+    </h2>
+   </div>
+   <div className="flex sm:flex-col">
+    <input
+     type="text"
+     placeholder="City..."
+     className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
+     onChange={e => setCity(e.target.value)}
+    />
+    <button
+     onClick={getWeather}
+     className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
+    >
+     Search
+    </button>
+   </div>
+   {temp && (
+    <div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+     <div className="flex mb-4">
+      <p className="w-64 sm:w-41">Temperature:</p>
+      <p>{temp} ° C</p>
+     </div>
+     <div className="flex mb-4 sm:w-41">
+      <p className="w-64">Temperature Min:</p>
+      <p>{minTemp}° C</p>
+     </div>
+     <div className="flex">
+      <p className="w-64 sm:w-41">Temperature Max:</p>
+      <p>{maxTemp}° C</p>
+     </div>
+    </div>
+   )}
+   {err && (
+    <div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+     <p>Couldn't fetch weather results.</p>
+    </div>
+   )}
+  </div>
+ );
 }
 ```
 
 If you take a look at the `getWeather` function, you will see I have copy-pasted the code snippet that RapidAPI Hub provided me earlier.
 
-
 ## Wrap Up
 
 This is it. We have successfully built a weather application using the Open Weather Map API. It will look something like this:
 
-[![weather app](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/app.png)](https://rapidapi-example-weather-app.vercel.app/)
+[![Weather App built using Open Weather Map API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/app.png)](https://rapidapi-example-weather-app.vercel.app/)
 
 If you want to take a look at the code, you can find it [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/weather-app). I have also deployed it on Vercel. Here is the live [link](https://rapidapi-example-weather-app.vercel.app/) to it.

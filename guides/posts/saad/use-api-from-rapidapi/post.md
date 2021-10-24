@@ -44,7 +44,7 @@ Here you have categories in the left sidebar, a search box at the top, and some 
 
 You will see a lot of different APIs as a search result. Let’s select the [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API for this example. Now click on Subscribe to Test.
 
-![API Subscription](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9375cbac274a15059e98e43d39839408e79db5e6/guides/posts/saad/use-api-from-rapidapi/images/subscribe.jpg)
+![API Subscription](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/use-api-from-rapidapi/images/subscribe.jpg)
 
 Once clicked, it will take you to another page. Here you would have to select a usage plan. Let’s choose the basic plan that is also free. After this, go back to the `Endpoints` page.
 
@@ -54,10 +54,10 @@ This page is divided into three sections: The leftmost part shows different endp
 
 If you scroll down in the middle part, you will see an option called `X-RapidAPI-Key`. It is the API key that you would need to use any API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). Make sure that it is secure.
 
-![RapidAPI API Key](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9375cbac274a15059e98e43d39839408e79db5e6/guides/posts/saad/use-api-from-rapidapi/images/api-key.jpg)
+![RapidAPI API Key](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/use-api-from-rapidapi/images/api-key.jpg)
 
 Now select the endpoint you need from the left sidebar and the language you are using for your application from the right sidebar. Once selected, you will see the code you need to write to use the API. I am going to use the `(JavaScript) fetch` option.
 
-![API Code Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9375cbac274a15059e98e43d39839408e79db5e6/guides/posts/saad/use-api-from-rapidapi/images/code-snippet.jpg)
+![JavaScript code snippet for fetching data](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/use-api-from-rapidapi/images/code-snippet.jpg)
 
 Copy this code and paste it into your application, and that’s it. You have successfully integrated the Open Weather Map API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) Hub into your application.

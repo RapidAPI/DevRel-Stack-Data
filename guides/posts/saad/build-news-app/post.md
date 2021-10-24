@@ -38,7 +38,7 @@ I am going to use the [Bing News Search API](https://rapidapi.com/microsoft-azur
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![subscribe](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/subscribe.jpg)
+![Subscribe to Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/build-news-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to another page where different available subscription packages will be shown. Let’s go with the free one for now.
 
@@ -121,7 +121,7 @@ import axios from ‘axios’;
 
 RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
 
-![javascript-axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/javascript-axios.jpg)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/build-news-app/images/javascript-axios.jpg)
 
 Now create a file with the name `news` inside the `pages/api` directory. This is going to create a REST API endpoint for you. The endpoint point will look like this:
 

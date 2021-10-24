@@ -46,6 +46,6 @@ The DDoS attack can bring down your API and, with it, crashes every application 
 
 Always validate the input that the user is sending along with the API. If you don’t, the attackers can send malicious code to the server that can, in turn, crash it.
 
-## Fail-Safe
+### Fail-Safe
 
 Implement a fail-safe. The user’s default access level to any resource in the system should be denied unless they have been granted a permit explicitly.
