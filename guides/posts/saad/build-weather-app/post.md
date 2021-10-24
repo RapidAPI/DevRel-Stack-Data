@@ -36,7 +36,7 @@ I have decided to go with the first result, i.e., [Open Weather Map](https://Rap
 
 To use the API, you need to subscribe to it first. For this, all you need to do is click on the Subscribe button, and you will be directed to another page.
 
-![subscribe](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/weather-api.jpg)
+![Subscribe to Open Weather Map API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/weather-api.jpg)
 
 Here you will be asked to choose any of the available packages. Let’s go with the free package that has a hard limit of 500 requests per month. Subscribe to it.
 
@@ -208,7 +208,7 @@ import axios from ‘axios’;
 
 RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the (JavaScript) Axios one.
 
-![code snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/code-snippet.jpg)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/code-snippet.jpg)
 
 Now I need to save the user input in the state variable ‘city` so it can be sent through the API later. For this, I am setting the `onChange` event in the `input` tag. I am also writing a `getWeather` function that will make the API call when the search button is clicked. Once the API provides a response, the data will be saved in the state variables.
 
@@ -317,6 +317,6 @@ If you take a look at the `getWeather` function, you will see I have copy-pasted
 
 This is it. We have successfully built a weather application using the Open Weather Map API. It will look something like this:
 
-[![weather app](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/app.png)](https://rapidapi-example-weather-app.vercel.app/)
+[![Weather App built using Open Weather Map API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/ad3a94fa3204495482927b5171c767fb8a5e57b3/guides/posts/saad/build-weather-app/images/app.png)](https://rapidapi-example-weather-app.vercel.app/)
 
 If you want to take a look at the code, you can find it [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/weather-app). I have also deployed it on Vercel. Here is the live [link](https://rapidapi-example-weather-app.vercel.app/) to it.

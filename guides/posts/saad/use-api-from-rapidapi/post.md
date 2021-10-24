@@ -58,6 +58,6 @@ If you scroll down in the middle part, you will see an option called `X-RapidAPI
 
 Now select the endpoint you need from the left sidebar and the language you are using for your application from the right sidebar. Once selected, you will see the code you need to write to use the API. I am going to use the `(JavaScript) fetch` option.
 
-![API Code Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9375cbac274a15059e98e43d39839408e79db5e6/guides/posts/saad/use-api-from-rapidapi/images/code-snippet.jpg)
+![Fetch data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/9375cbac274a15059e98e43d39839408e79db5e6/guides/posts/saad/use-api-from-rapidapi/images/code-snippet.jpg)
 
 Copy this code and paste it into your application, and that’s it. You have successfully integrated the Open Weather Map API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) Hub into your application.

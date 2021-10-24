@@ -44,7 +44,7 @@ Last but not least, there is the header. Some REST APIs work without a header, a
 
 Take a look at the image below. You will see that there is a method, a URL, parameters, and a header object.
 
-![REST API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-rest-and-when-you-should-use-it/images/1.png)
+![Calling a REST API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-rest-and-when-you-should-use-it/images/1.png)
 
 ## When To Use REST APIs?
 
