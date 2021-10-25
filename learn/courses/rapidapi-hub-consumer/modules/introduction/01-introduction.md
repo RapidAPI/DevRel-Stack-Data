@@ -20,3 +20,7 @@ You can resolve this issue by using different API providers who provide APIs for
 ## About this course
 
 This course is an interactive one that will guide you through understanding RapidAPI Hub and how to use its APIs in your application.
+
+You can go through the interactive component below to understand the steps for integrating an API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
+
+<RapidAPIConsumer />

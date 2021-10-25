@@ -24,3 +24,20 @@ These integrations are done in the form of Application Programming Interfaces or
 ## About this course
 
 This is an interactive course that will guide you through understanding what a REST API is and how it works.
+
+Use the interactive component below to understand the response from a `GET` request. Click on the **Submit** button to request a response from the server:
+
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="GET"
+  isRequestMethodChangeDisabled
+/>
+
+Use the interactive component below to understand the response from a `POST` request. Click on the **Submit** button to request a response from the server:
+
+<HTTPClient
+  url="https://reqres.in/api/users"
+  method="POST"
+  body={'{\n    "name": "morpheus",\n    "job": "leader"\n}'}
+  isRequestMethodChangeDisabled
+/>

@@ -22,3 +22,7 @@ lessons:
 ## About this course
 
 This course is an interactive one that will guide you through understanding how you can add your API to RapidAPI.
+
+You can go through the interactive component below to understand how much your can earn by publishing an API on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
+
+<RapidAPIPricing />
