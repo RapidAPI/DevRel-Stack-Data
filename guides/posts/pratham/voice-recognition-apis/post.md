@@ -1,6 +1,6 @@
 ---
 title: "Top Five Voice Recognition APIs"
-description: "Publish/Subscribe (Pub/Sub) is an asynchronous messaging style used in serverless and microservices architectures."
+description: "Top five Voice Recognition APIs you can use to build excellent full-stack applications."
 slug: "top-five-voice-recognition-apis"
 authors:
   - pratham
