@@ -119,7 +119,11 @@ Now import `axios` at the top of the `pages/index.js`.
 import axios from ‘axios’;
 ```
 
-RapidAPI Hub provides you with code snippets in different languages for integrating the API. I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
+<Callout>
+  RapidAPI Hub provides you with code snippets in different languages for integrating the API.
+</Callout>
+
+I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
 
 ![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/227bfcd965602d732b7562e98d9adf2231304ec7/guides/posts/saad/build-news-app/images/javascript-axios.jpg)
 
@@ -129,7 +133,7 @@ Now create a file with the name `news` inside the `pages/api` directory. This is
 http://localhost:3000/api/news
 ```
 
-Now copy the following code in this file:
+Now copy the following code from this file:
 
 ```js
 import axios from "axios";
@@ -218,7 +222,13 @@ export async function getServerSideProps() {
 }
 ```
 
-I am using the Next.js `getServerSideProps` function to fetch the data from the server. It is going to make my application server-side, and the user will never see a loading state. You can also use `getStaticProps` instead of `getServerSideProps` and the application will then fetch the data at build time.
+I am using the Next.js `getServerSideProps` function to fetch the data from the server. It is going to make my application server-side, and the user will never see a loading state.
+
+<Callout>
+
+You can also use `getStaticProps` instead of `getServerSideProps` and the application will then fetch the data at build time.
+
+</Callout>
 
 Once the data is fetched, I am converting the response to JSON and then using object destructuring to extract the property `value`.
 

@@ -35,10 +35,16 @@ There are various HTTP security schemes that you can use with your REST APIs for
 
 Another authentication method widely used with REST APIs is API keys. It provides first-time users with a unique generated key. When the user tries to access the requested resources, they use their API key. The API key tells the server this is the same user as before.
 
-API keys must not be sent to the server as query parameters. Instead, they should be sent in the Authorization header using REST APIs.
+<Callout>
+    API keys must not be sent to the server as query parameters. Instead, they should be sent in the Authorization header using REST APIs.
+</Callout>
 
 ### OAuth 2.0
 
 OAuth 2.0 (Open Authorization) is a standard developed to allow a user access to resources from a third-party application. It is an authorization protocol designed only to grant access to resources, and it works by using access tokens.
 
-The access token is information that provides authorization to access resources on behalf of the user. Usually, the JSON Web Token (JWT) format is used for the access token. They also may have an expiration date because of security reasons.
+The access token is information that provides authorization to access resources on behalf of the user. Usually, the JSON Web Token (JWT) format is used for the access token.
+
+<Callout type="warning">
+    They also may have an expiration date because of security reasons.
+</Callout>
