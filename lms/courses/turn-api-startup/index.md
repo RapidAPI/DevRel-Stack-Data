@@ -20,6 +20,7 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/rapidapi-marketplace.md
 likesCount: 6.6K
 commentsCount: 421
+viewsCount: "445,744"
 commenters:
   - https://yt3.ggpht.com/ytc/AKedOLSi5CGBCTp8ce4xIeeLIPThmFnWuDLnnYMSi3TsoA=s88-c-k-c0x00ffffff-no-rj
   - https://yt3.ggpht.com/ytc/AKedOLTD4QIJUnOYeZKr5DKhymz72V229B3Y6pqR9pA2Ig=s88-c-k-c0x00ffffff-no-rj
