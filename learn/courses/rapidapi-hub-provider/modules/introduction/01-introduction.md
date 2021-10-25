@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Learn RapidAPI Hub as a Provider
 slug: introduction
 description: ""
 publishedDate: 2021-09-22T17:49:44.101Z
