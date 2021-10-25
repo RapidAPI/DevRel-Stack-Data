@@ -16,11 +16,11 @@ draft: false
 
 <Lead>
 
-There are a lot of APIs out there that you can use for your projects. But finding these APIs often becomes a hassle. [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub and it can provide you with all the APIs you need. Anyone can look up any API they need in seconds and also monetize their APIs.
+There are a lot of APIs out there that you can use for your projects. But finding these APIs often becomes a hassle. [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub and it can provide you with all the APIs you need. Anyone can look up any API they need in seconds and also monetize their APIs.
 
 </Lead>
 
-Today, I have decided to use one of the APIs from [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and develop a small application using it. I am going to build a news application using an API from Microsoft.
+Today, I have decided to use one of the APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and develop a small application using it. I am going to build a news application using an API from Microsoft.
 
 ## Stack
 
@@ -32,9 +32,9 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://rapidapi.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “news” in the search section.
+Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “news” in the search section.
 
-I am going to use the [Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by Microsoft Azure.
+I am going to use the [Bing News Search API](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by Microsoft Azure.
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
@@ -105,7 +105,7 @@ Let’s integrate the API now. For this, first create a `.env.local` file and pa
 NEXT_PUBLIC_BING_NEWS_API_KEY=YOUR-RAPIDAPI-KEY
 ```
 
-You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) API. It is the value of `x-rapidapi-key` that you saved earlier.
+You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [Bing News Search](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/) API. It is the value of `x-rapidapi-key` that you saved earlier.
 
 Now download and add `axios` in your project. For this, run the following command in the terminal:
 
@@ -226,6 +226,6 @@ This `value` property is passed to my component as props. Since it is an array, 
 
 ## Wrap Up
 
-This is it. We have successfully built a [weather application](https://rapidapi-example-news-app.vercel.app/) using the [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
+This is it. We have successfully built a [weather application](https://RapidAPI-example-news-app.vercel.app/) using the [Bing News Search](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
 
 ![News Application With Next.js And Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/news-app.png)
