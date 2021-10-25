@@ -34,6 +34,14 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "news" in the search section.
 
+<Callout
+  title="Deep dive"
+  linkText="Read more"
+  linkHref="https://learn.rapidapi.com/rapidapi-hub-consumer/introduction"
+>
+  Learn more about how to use RapidAPI Hub
+</Callout>
+
 I am going to use the [Bing News Search API](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by Microsoft Azure.
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
