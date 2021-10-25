@@ -30,7 +30,15 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “news” in the search section.
+Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "currency conversion" in the search section.
+
+<Callout
+  title="Deep dive"
+  linkText="Read more"
+  linkHref="https://learn.rapidapi.com/rapidapi-hub-consumer/introduction"
+>
+  Learn more about how to use RapidAPI Hub
+</Callout>
 
 I am using [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by [Principal APIs](https://rapidapi.com/user/principalapis/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).
 
