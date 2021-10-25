@@ -1,5 +1,8 @@
 [
   {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-currency-conversion-app/post.md"
+  },
+  {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-news-app/post.md"
   },
   {
@@ -25,6 +28,9 @@
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-caching/post.md"
+  },
+  {
+    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/optimize-api/post.md"
   },
   {
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-rest-graphql/post.md"
