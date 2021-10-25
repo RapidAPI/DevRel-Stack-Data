@@ -1,86 +1,93 @@
 {
-  "richardDoe": {
-    "name": "Richard Doe",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/richard%20doe/avatar.png",
-    "designation": "Content Producer @ RapidAPI",
-    "isDeveloperProgramMember": false,
-    "bio": "Sample user bio."
-  },
-  "saad": {
-    "name": "Saad Irfan",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/saad/avatar.png",
-    "designation": "Jr Content Developer (External Contractor)",
-    "isDeveloperProgramMember": true,
-    "bio": "Saad is a frontend developer, Student Expert at RapidAPI, Next.js Conf 2021 speaker, open-sourcerer, Major League Hacking fellow, former Developer Advocate at Worwox, Technical Writer, and a guitarist. He has authored 20+ open-source tools that are used by thousands of developers. He also founded Google’s Developer Students Club at his college and is a part of Microsoft’s Student program."
-  },
-  "pratham": {
-    "name": "Pratham",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/pratham/avatar.png",
-    "designation": "Developer Advocate @ RapidAPI",
-    "isDeveloperProgramMember": true,
-    "bio": "I am a Delhi based Web Developer💻. I have a passion for web development and love💖 to create websites for web and mobile devices. I love creating content on Twitter and try to make web dev easier for you"
-  },
-  "javascriptMastery": {
-    "name": "JavaScript Mastery",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/javascriptMastery/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps."
-  },
-  "sirajRaval": {
-    "name": "Siraj Raval",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/sirajRaval/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": " I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! "
-  },
-  "coderCoder": {
-    "name": "Jessica Chan",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/coderCoder/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "Practical tips for the beginner web developer."
-  },
-  "codeStackr": {
-    "name": "codeSTACKr",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeStackr/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "I create the best content I possibly can to give away free. My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript.  Subscribe to my YouTube channel for the latest content."
-  },
-  "weibenfalk": {
-    "name": "Weibenfalk",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/weibenfalk/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "I'm Thomas Weibenfalk. A developer and designer from Sweden. I share my knowledge of modern front end development in a (hopefully) down to earth and fun way! I'll cover topics as React, Vanilla Javascript, Gatsby, CSS, HTML and occasional backend development. A lot of the focus is on ReactJS cause I love it! As I'm also a designer there might even be some UI/UX stuff from time to time."
-  },
-  "naveenKumarNamachivayam": {
-    "name": "NaveenKumar Namachivayam",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/naveenKumarNamachivayam/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "I am a performance engineer ⚡. I break stuffs 🔨. I make videos about performance testing tools, performance engineering and more. If you are still reading this 💙, here is the special discount for you https://qain.si/devweb, coupon code: YOUTUBE. 🙏 Please connect me on LinkedIn https://www.linkedin.com/in/naveenkumarn/ | Join QAInsights Community at https://community.qainsights.com/"
-  },
-  "catalinPit": {
-    "name": "Catalin Pit",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/catalinPit/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "A software engineer that talks about all topics in tech. I create programming tutorials; mostly about Web Development and JavaScript. Occasionally, I cover other topics as well! I also create developer vlogs where I talk about other topics than coding."
-  },
-  "programWithGio": {
-    "name": "Gio",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/programWithGio/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "I've been coding since 2005 & my very first website was built with HTML, CSS, & PHP all in a single index.php file (good old times). I decided to make my own channel and start producing content on things that I know & have learned over the years as well as the things that I will learn along the way. Currently, my main stack consists of PHP, Laravel, GraphQL, React JS (Next.js & Gatsby) & Tailwind CSS. (Though, I am planning on exploring others soon like Flutter & Dart)"
-  },
-  "codeWithTomi": {
-    "name": "Tomi Tokko",
-    "avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeWithTomi/avatar.png",
-    "designation": "",
-    "isDeveloperProgramMember": false,
-    "bio": "I teach about coding and i build cool projects. So, stay tuned to the channel to get quality contents."
-  }
+	"ahmadawais": {
+		"name": "Ahmad Awais",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/AhmadAwais/avatar.png",
+		"designation": "Head of Developer Relations, RapidAPI",
+		"isDeveloperProgramMember": true,
+		"bio": "Ahmad Awais is an award-winning open-source engineer. Head of Developer Relations at RapidAPI. His software serves millions of developers. Code he wrote went to Mars. “What an awesome example for developers,” said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. He’s a Google Devs Expert and recipient of the 8th GitHub Stars gold award.​"
+	},
+	"richardDoe": {
+		"name": "Richard Doe",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/richard%20doe/avatar.png",
+		"designation": "Content Producer @ RapidAPI",
+		"isDeveloperProgramMember": false,
+		"bio": "Sample user bio."
+	},
+	"saad": {
+		"name": "Saad Irfan",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/saad/avatar.png",
+		"designation": "Jr Content Developer (External Contractor)",
+		"isDeveloperProgramMember": true,
+		"bio": "Saad is a frontend developer, Student Expert at RapidAPI, Next.js Conf 2021 speaker, open-sourcerer, Major League Hacking fellow, former Developer Advocate at Worwox, Technical Writer, and a guitarist. He has authored 20+ open-source tools that are used by thousands of developers. He also founded Google’s Developer Students Club at his college and is a part of Microsoft’s Student program."
+	},
+	"pratham": {
+		"name": "Pratham",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/pratham/avatar.png",
+		"designation": "Developer Advocate @ RapidAPI",
+		"isDeveloperProgramMember": true,
+		"bio": "I am a Delhi based Web Developer💻. I have a passion for web development and love💖 to create websites for web and mobile devices. I love creating content on Twitter and try to make web dev easier for you"
+	},
+	"javascriptMastery": {
+		"name": "JavaScript Mastery",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/javascriptMastery/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps."
+	},
+	"sirajRaval": {
+		"name": "Siraj Raval",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/sirajRaval/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": " I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! "
+	},
+	"coderCoder": {
+		"name": "Jessica Chan",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/coderCoder/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "Practical tips for the beginner web developer."
+	},
+	"codeStackr": {
+		"name": "codeSTACKr",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeStackr/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I create the best content I possibly can to give away free. My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript.  Subscribe to my YouTube channel for the latest content."
+	},
+	"weibenfalk": {
+		"name": "Weibenfalk",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/weibenfalk/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I'm Thomas Weibenfalk. A developer and designer from Sweden. I share my knowledge of modern front end development in a (hopefully) down to earth and fun way! I'll cover topics as React, Vanilla Javascript, Gatsby, CSS, HTML and occasional backend development. A lot of the focus is on ReactJS cause I love it! As I'm also a designer there might even be some UI/UX stuff from time to time."
+	},
+	"naveenKumarNamachivayam": {
+		"name": "NaveenKumar Namachivayam",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/naveenKumarNamachivayam/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I am a performance engineer ⚡. I break stuffs 🔨. I make videos about performance testing tools, performance engineering and more. If you are still reading this 💙, here is the special discount for you https://qain.si/devweb, coupon code: YOUTUBE. 🙏 Please connect me on LinkedIn https://www.linkedin.com/in/naveenkumarn/ | Join QAInsights Community at https://community.qainsights.com/"
+	},
+	"catalinPit": {
+		"name": "Catalin Pit",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/catalinPit/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "A software engineer that talks about all topics in tech. I create programming tutorials; mostly about Web Development and JavaScript. Occasionally, I cover other topics as well! I also create developer vlogs where I talk about other topics than coding."
+	},
+	"programWithGio": {
+		"name": "Gio",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/programWithGio/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I've been coding since 2005 & my very first website was built with HTML, CSS, & PHP all in a single index.php file (good old times). I decided to make my own channel and start producing content on things that I know & have learned over the years as well as the things that I will learn along the way. Currently, my main stack consists of PHP, Laravel, GraphQL, React JS (Next.js & Gatsby) & Tailwind CSS. (Though, I am planning on exploring others soon like Flutter & Dart)"
+	},
+	"codeWithTomi": {
+		"name": "Tomi Tokko",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/codeWithTomi/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I teach about coding and i build cool projects. So, stay tuned to the channel to get quality contents."
+	}
 }
