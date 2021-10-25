@@ -19,7 +19,11 @@ There are several kinds of APIs available. The REST API, SOAP API, and GraphQL A
 
 You use Web APIs when you are developing a website, and it provides you with functionalities that you can use to add more features to your website. Web APIs are primarily used with JavaScript though this is not always the case.
 
+<Callout>
+
 There is a [massive number](https://developer.mozilla.org/en-US/docs/Web/API) of Web APIs available that you can use according to your need. Let’s take a look at some of them.
+
+</Callout>
 
 ## DOM
 

@@ -37,7 +37,7 @@ The Application Programming Interface (API) might be the most critical part of t
 
 You can use as many APIs as you need in your Jamstack application. For instance, you are building an online e-commerce store with Jamstack. You can use Firebase Authentication API to sign up and sign in, stripe API to allow your users to purchase online, and Cloudinary API to store media content.
 
-APIs can also be used to request data from the Internet. You can use APIs from [RapidAPI Hub](https://rapidapi.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to build Jamstack applications. For instance, you can develop a news application using Microsoft’s [Bing Search News](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API, or you can make a weather app using the [Open Weather Map](https://rapidapi.com/community/api/open-weather-map/) API.
+APIs can also be used to request data from the Internet. You can use APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to build Jamstack applications. For instance, you can develop a news application using Microsoft’s [Bing Search News](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API, or you can make a weather app using the [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/) API.
 
 In the end, it all comes down to using APIs to improve your Jamstack site’s user experience.
 

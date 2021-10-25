@@ -18,7 +18,11 @@ draft: false
 The APIs are a crucial part of web development. You heavily rely on them to get the required resource from the Internet. But it often becomes difficult to find an API that is perfect for your need. There are some repositories on the Internet, but they only have listed down APIs and not provided a way to use them.
 </Lead>
 
+<Callout>
+
 [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub that provides over 30,000 APIs to its users. It is simple and provides all types of APIs ranging from data to weather to payments APIs. Everything is present in one place.
+
+</Callout>
 
 ## Using An API From RapidAPI
 
