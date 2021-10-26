@@ -244,6 +244,6 @@ This `value` property is passed to my component as props. Since it is an array, 
 
 ## Wrap Up
 
-This is it. We have successfully built a [weather application](https://RapidAPI-example-news-app.vercel.app/) using the [Bing News Search](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
+This is it. We have successfully built a [news application](https://RapidAPI-example-news-app.vercel.app/) using the [Bing News Search](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
 
 ![News Application With Next.js And Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/53e0cefe888eaff1f43dbce9d886c5ed1e7fb917/guides/posts/saad/build-news-app/images/news-app.png)
