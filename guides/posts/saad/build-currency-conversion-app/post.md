@@ -37,7 +37,7 @@ Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://Rapid
   linkText="Read more"
   linkHref="https://learn.rapidapi.com/rapidapi-hub-consumer/introduction"
 >
-  Learn more about how to use RapidAPI Hub
+  Learn more about how to use RapidAPI Hub.
 </Callout>
 
 I am using [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by [Principal APIs](https://rapidapi.com/user/principalapis/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).

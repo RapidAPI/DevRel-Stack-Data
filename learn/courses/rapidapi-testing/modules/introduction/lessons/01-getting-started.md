@@ -35,7 +35,7 @@ Select an endpoint that you want to test and click on the "Send Request" button.
 
 ![Testing an endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image4.png)
 
-Click on the "Add to test" button to add the request to test.
+Click on the "Add to test" button to add the response to test.
 
 ![Selecting a request for testing](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image5.png)
 

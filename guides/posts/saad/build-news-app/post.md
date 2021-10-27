@@ -39,7 +39,7 @@ Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://Rapid
   linkText="Read more"
   linkHref="https://learn.rapidapi.com/rapidapi-hub-consumer/introduction"
 >
-  Learn more about how to use RapidAPI Hub
+  Learn more about how to use RapidAPI Hub.
 </Callout>
 
 I am going to use the [Bing News Search API](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by Microsoft Azure.

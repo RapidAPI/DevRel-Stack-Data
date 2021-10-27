@@ -9,8 +9,8 @@ coverImage: ""
 points: 5
 lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/01-getting-started.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/02-monitoring-tests.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/03-scheduling-tests.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/02-scheduling-tests.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/03-monitoring-tests.md
 ---
 
 <Lead>
@@ -22,3 +22,7 @@ lessons:
 With RapidAPI Testing, you can create tests intuitively via drag and drop. You have granular control over these tests. These tests can also run across global data centres.
 
 RapidAPI Testings seamlessly integrates with RapidAPI Hub without any additional overhead. You can also run tests on your CI/CD pipeline.
+
+You can go through the interactive component below to understand how [RapidAPI Testing](https://RapidAPI.com/testing?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) can help you write tests for your APIs.
+
+<RapidAPITesting />
