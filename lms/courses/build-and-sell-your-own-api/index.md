@@ -25,5 +25,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-and-sell-your-own-api/12-adding-endpoints-rapidapi.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-and-sell-your-own-api/13-adding-pricing-plans.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-and-sell-your-own-api/14-publishing-api.md
-videoId: NFToND6x_nI
+videoId: GK4Pl-GmPHk
 ---
