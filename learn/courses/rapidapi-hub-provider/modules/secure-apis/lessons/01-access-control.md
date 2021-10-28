@@ -24,7 +24,9 @@ Authorization: Basic <credentials>
 The Base64 encoding of the username and password joined by a single colon `:` is passed in place of `credentials`. This is the simplest form of enforcing access control for API requests.
 
 <Callout>
+
   When the **Basic** authentication option is selected, the credentials (username and password) should be sent by the API consumer in the request header (in addition to the `X-RapidAPI-Key` header) while making requests to the API.
+
 </Callout>
 
 ## Header

@@ -1,6 +1,6 @@
 ---
-title: Steps to use RapidAPI Hub?
-slug: use-rapidapi-hub
+title: How can you use RapidAPI Hub?
+slug: how-can-you-use-rapidapi-hub
 description: ""
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:32:39.415Z
@@ -8,6 +8,14 @@ draft: false
 coverImage: ""
 points: 5
 ---
+
+[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) is the world's largest API hub, with over 3 million developers accessing more than 30,000 APIs. You can find APIs for all these components from RapidAPI Hub.
+
+RapidAPI Hub provides various features like **Discovery**, **Integration**, and **Consumption Management** to make it very easy to integrate any API from RapidAPI Hub into your application.
+
+<Callout>
+  RapidAPI provides code snippets in 20 programming languages with support for 40 libraries.
+</Callout>
 
 To use an API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel), you will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel). Some of the APIs that are available on RapidAPI Hub offer freemium plans. So, you can try them out without adding your credit card details.
 
@@ -36,3 +44,16 @@ A collection is a list of APIs with similar characteristics like [Top Meme APIs]
 You can also use [our advanced search functionality](https://RapidAPI.com/search/weather?utm_source=learn.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel) to filter APIs based on categories, collections, verified, official, GraphQL, and Kafka API types.
 
 ![Advanced search](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/images/image2.png)
+
+<Quiz
+  question={
+    <div><span tw="font-semibold">Quick Review:</span> In RapidAPI Hub, you can use multiple APIs using a single API key?</div>
+  }
+  options={[{
+    label: 'Yes',
+    isCorrect: true,
+  }, {
+    label: 'No',
+    isCorrect: false,
+  }]}
+/>
