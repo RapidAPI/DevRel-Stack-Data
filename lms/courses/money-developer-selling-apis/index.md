@@ -9,14 +9,14 @@ draft: false
 authors:
   - catalinPit
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/index.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/01-introduction.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/02-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/03-apis.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/04-rapidapi-hub.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/05-build-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/06-deploy-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/07-rapidapi-monetize-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/08-leaving.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/01-introduction.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/02-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/03-apis.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/04-rapidapi-hub.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/05-build-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/06-deploy-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/07-rapidapi-monetize-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/money-developer-selling-apis/08-leaving.md
 ---

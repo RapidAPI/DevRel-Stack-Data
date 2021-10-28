@@ -9,17 +9,17 @@ draft: false
 authors:
   - javascriptMastery
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/index.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/01-intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/02-rapidapi.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/03-layout.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/04-homepage.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/05-redux-toolkit-api-dev.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/06-cryptocurrencies.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/07-crypto-news.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/08-crypto-details.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/09-chart.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/10-mobile-navigation.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/11-challenge.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/01-intro.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/02-rapidapi.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/03-layout.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/04-homepage.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/05-redux-toolkit-api-dev.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/06-cryptocurrencies.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/07-crypto-news.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/08-crypto-details.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/09-chart.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/10-mobile-navigation.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/11-challenge.md
 ---

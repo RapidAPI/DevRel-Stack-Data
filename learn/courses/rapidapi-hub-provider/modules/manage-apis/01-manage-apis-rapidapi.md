@@ -8,9 +8,9 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/01-plans-pricing.md'
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/02-global-settings.md'
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/03-docs-announcements.md'
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/01-plans-pricing.md'
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/02-global-settings.md'
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-provider/modules/manage-apis/lessons/03-docs-announcements.md'
 ---
 
 Once you build your APIs, you will need a way to manage them.

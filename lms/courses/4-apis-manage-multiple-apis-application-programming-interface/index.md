@@ -9,15 +9,15 @@ draft: false
 authors:
   - codeStackr
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/index.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/01-intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/02-rapidapi-marketplace.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/03-project-setup-vite-js.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/04-index-html.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/05-main-js-setup.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/06-geo-location-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/07-open-weather-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/08-chuck-norris-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/09-breaking-news-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/01-intro.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/02-rapidapi-marketplace.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/03-project-setup-vite-js.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/04-index-html.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/05-main-js-setup.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/06-geo-location-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/07-open-weather-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/08-chuck-norris-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/09-breaking-news-api.md
 ---

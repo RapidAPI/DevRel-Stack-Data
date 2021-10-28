@@ -8,9 +8,9 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/01-getting-started.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/02-scheduling-tests.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/03-monitoring-tests.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-testing/modules/introduction/lessons/01-getting-started.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-testing/modules/introduction/lessons/02-scheduling-tests.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-testing/modules/introduction/lessons/03-monitoring-tests.md
 ---
 
 <Lead>
