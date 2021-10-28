@@ -89,5 +89,12 @@
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "I teach about coding and i build cool projects. So, stay tuned to the channel to get quality contents."
+	},
+	"aniaKubow": {
+		"name": "Ania Kubów",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/aniaKubow/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "My name is Ania Kubow and I am a Software Developer (ex-Eurostar) who quit the rat race to focus on my channel and teach others how to code by building retro Games and awesome projects. I am also part of the core team @FreeCodeCamp. You can find me putting out videos on there, as well as on my own channel every Wednesday (and sometimes an extra one during the week too)!"
 	}
 }
