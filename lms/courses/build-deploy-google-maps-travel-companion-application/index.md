@@ -28,4 +28,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/change-map-styles.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/env.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/deployment.md
+videoId: UKdQjQX1Pko
 ---

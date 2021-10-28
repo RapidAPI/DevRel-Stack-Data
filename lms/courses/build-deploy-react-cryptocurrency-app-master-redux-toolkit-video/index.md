@@ -22,4 +22,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/09-chart.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/10-mobile-navigation.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/11-challenge.md
+videoId: 9DDX3US3kss
 ---

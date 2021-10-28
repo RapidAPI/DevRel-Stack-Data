@@ -12,4 +12,5 @@ modules:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/index.md
 lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/01-index.md
+videoId: c8Zc0kbaR5I
 ---

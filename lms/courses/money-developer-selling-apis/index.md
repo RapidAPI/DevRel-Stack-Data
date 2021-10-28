@@ -19,4 +19,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/06-deploy-api.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/07-rapidapi-monetize-api.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/08-leaving.md
+videoId: TvRe8NLbF30
 ---
