@@ -8,5 +8,4 @@ draft: false
 coverImage: ""
 modules:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/01-introduction.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/rapidapi-hub/01-how-can-you-use-rapidapi-hub.md
 ---

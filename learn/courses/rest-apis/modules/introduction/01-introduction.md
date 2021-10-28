@@ -10,9 +10,8 @@ points: 5
 lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/01-what-is-an-api.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/02-what-is-a-rest-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/03-principles-of-rest-api-design.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/04-how-does-a-rest-api-work.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/05-versioning-rest-apis.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/03-how-does-a-rest-api-work.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rest-apis/modules/introduction/lessons/04-versioning-rest-apis.md
 ---
 
 <Lead>In this guide, you will learn about how REST APIs work and what their best practices are.</Lead>
