@@ -332,6 +332,6 @@ You can see that I have created a function, `fetchStats`, for getting the statis
 
 ## Wrap Up
 
-This is it. We have successfully built a [COVID Stats App](https://rapidapi-example-covid-stat.vercel.app/) using the [COVID-19 data API](https://RapidAPI.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/covid-stats-app?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
+This is it. We have successfully built a [COVID Stats App](https://rapidapi-example-covid-stats.vercel.app/) using the [COVID-19 data API](https://RapidAPI.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/covid-stats-app?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
 ![COVID Stats Application With Next.js and COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/3aebea4fabe475e4d8db3996e6dda9b1540e84de/guides/posts/saad/build-covid-app/images/covid-stats-app.png)
