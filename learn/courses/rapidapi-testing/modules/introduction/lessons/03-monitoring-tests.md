@@ -9,10 +9,10 @@ coverImage: ''
 points: 5
 ---
 
-From the "Analytics" tab, you can view a snapshot of all your tests.
+From the "Analytics" tab, you can view a snapshot of all runs of your test. This will give you a quick overview of the number of the successful and failed runs for a particular test.
 
-![Snapshot of all test runs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image14.png)
+![Snapshot of all runs for a single test](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image14.png)
 
-You can also sort and filter the results of all the tests from the "Results" tab.
+You can also sort and filter the results of all the runs for your test from the "Results" tab. You can sort and filter between successful and failed test runs.
 
-![Snapshot of all test runs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image15.png)
+![Results of all runs for a single test](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/images/image15.png)
