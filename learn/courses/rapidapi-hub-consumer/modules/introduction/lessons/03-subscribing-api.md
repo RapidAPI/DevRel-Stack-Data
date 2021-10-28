@@ -13,4 +13,4 @@ For subscribing to an API, you will need to visit the pricing page of the API on
 
 An API can also have free plans with hard or soft limits. The pricing page of an API will also show the monthly quota and the overage fee. An API can also have Rate Limits like **10 requests per minute**.
 
-![Subscribing to an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/images/image3.png)
+![Subscribing to an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/images/image3.png)

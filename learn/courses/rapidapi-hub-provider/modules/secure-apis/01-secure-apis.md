@@ -8,8 +8,8 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-provider/modules/secure-apis/lessons/01-access-control.md'
-  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-provider/modules/secure-apis/lessons/02-security.md'
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/modules/secure-apis/lessons/01-access-control.md'
+  - source: 'https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-provider/modules/secure-apis/lessons/02-security.md'
 ---
 
 Security is critical to any business. Securing the APIs that you provide will ensure that the consumers of your APIs can run their application properly. By securing your APIs, you can inspire confidence for your API consumers.

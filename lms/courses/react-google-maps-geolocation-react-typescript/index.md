@@ -9,13 +9,13 @@ draft: false
 authors:
   - weibenfalk
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/index.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/01-intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/02-tech-starter-files.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/03-create-google-map.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/04-api-data-map-markers.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/05-api-water-data.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/06-geolocation.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/01-intro.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/02-tech-starter-files.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/03-create-google-map.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/04-api-data-map-markers.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/05-api-water-data.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/06-geolocation.md
 videoId: I9F-CMiKOz4
 ---

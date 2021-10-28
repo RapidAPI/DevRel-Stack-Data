@@ -8,11 +8,11 @@ draft: false
 coverImage: ""
 points: 5
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/02-how-can-you-use-rapidapi-hub.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/03-subscribing-api.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/04-developer-dashboard.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/05-integrate-rapidapi-hubs-api-application.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/01-rapidapi-hub.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/02-how-can-you-use-rapidapi-hub.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/03-subscribing-api.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/04-developer-dashboard.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-hub-consumer/modules/introduction/lessons/05-integrate-rapidapi-hubs-api-application.md
 ---
 
 <Lead>In this guide, you will learn about RapidAPI Hub and its use in your application.</Lead>
