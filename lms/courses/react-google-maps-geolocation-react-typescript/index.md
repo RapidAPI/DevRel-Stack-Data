@@ -17,4 +17,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/04-api-data-map-markers.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/05-api-water-data.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/react-google-maps-geolocation-react-typescript/06-geolocation.md
+videoId: I9F-CMiKOz4
 ---

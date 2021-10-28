@@ -12,4 +12,5 @@ modules:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/convolutional-networks-heart-disease-prediction/index.md
 lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/convolutional-networks-heart-disease-prediction/01-index.md
+videoId: fGv6VmfGMLc
 ---

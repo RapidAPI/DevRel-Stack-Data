@@ -29,4 +29,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/crash-api-testing-rapidapi-github-actions/16-[demo]-rapidapi-github-action.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/crash-api-testing-rapidapi-github-actions/17-[demo]-executing-rapidapi-github-action.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/crash-api-testing-rapidapi-github-actions/18-conclusion.md
+videoId: yCE7QvwG1-c
 ---

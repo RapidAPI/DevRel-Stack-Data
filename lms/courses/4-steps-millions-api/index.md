@@ -19,4 +19,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-steps-millions-api/06-host.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-steps-millions-api/07-sell.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/4-steps-millions-api/08-conclusion.md
+videoId: GpYboktUnTY
 ---

@@ -15,4 +15,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-full-working-api-django-publicizing-rapidapi/02-build-api-django.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-full-working-api-django-publicizing-rapidapi/03-deploy-django-api-heroku.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/build-full-working-api-django-publicizing-rapidapi/04-putting-api-rapidapi-hub.md
+videoId: Zy0k1KnkO9w
 ---

@@ -18,4 +18,5 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/building-node-js-app-javascript-noob/05-dynamically-generate-image-tag-javascript.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/building-node-js-app-javascript-noob/06-api-key-secure-dotenv.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/improve/lms-yt-data/lms/courses/building-node-js-app-javascript-noob/07-style-website-css.md
+videoId: wYALykLb5oY
 ---
