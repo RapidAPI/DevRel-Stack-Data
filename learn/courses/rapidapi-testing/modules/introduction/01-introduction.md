@@ -11,6 +11,7 @@ lessons:
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/01-getting-started.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/02-scheduling-tests.md
   - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/03-monitoring-tests.md
+  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/courses/rapidapi-testing/modules/introduction/lessons/04-api-client.md
 ---
 
 <Lead>
