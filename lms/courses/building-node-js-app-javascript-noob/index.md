@@ -9,14 +9,14 @@ draft: false
 authors:
   - coderCoder
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/index.md
+  - source: building-node-js-app-javascript-noob/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/01-intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/02-set-website-files-local-express-js-site.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/03-set-route-node-js-load-api-data-fetch.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/04-asynchronous-javascript-json-data-server-side-client.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/05-dynamically-generate-image-tag-javascript.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/06-api-key-secure-dotenv.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/07-style-website-css.md
+  - source: building-node-js-app-javascript-noob/01-intro.md
+  - source: building-node-js-app-javascript-noob/02-set-website-files-local-express-js-site.md
+  - source: building-node-js-app-javascript-noob/03-set-route-node-js-load-api-data-fetch.md
+  - source: building-node-js-app-javascript-noob/04-asynchronous-javascript-json-data-server-side-client.md
+  - source: building-node-js-app-javascript-noob/05-dynamically-generate-image-tag-javascript.md
+  - source: building-node-js-app-javascript-noob/06-api-key-secure-dotenv.md
+  - source: building-node-js-app-javascript-noob/07-style-website-css.md
 videoId: wYALykLb5oY
 ---

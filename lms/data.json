@@ -1,41 +1,41 @@
 [
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-and-sell-your-own-api/index.md"
+    "source": "build-and-sell-your-own-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md"
+    "source": "turn-api-startup"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-google-maps-travel-companion-application/index.md"
+    "source": "build-deploy-google-maps-travel-companion-application"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/index.md"
+    "source": "build-deploy-react-cryptocurrency-app-master-redux-toolkit-video"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/building-node-js-app-javascript-noob/index.md"
+    "source": "building-node-js-app-javascript-noob"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/convolutional-networks-heart-disease-prediction/index.md"
+    "source": "convolutional-networks-heart-disease-prediction"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-apis-manage-multiple-apis-application-programming-interface/index.md"
+    "source": "4-apis-manage-multiple-apis-application-programming-interface"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/4-steps-millions-api/index.md"
+    "source": "4-steps-millions-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/money-developer-selling-apis/index.md"
+    "source": "money-developer-selling-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/integrate-multiple-apis-laravel-app-rapidapi/index.md"
+    "source": "integrate-multiple-apis-laravel-app-rapidapi"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/react-google-maps-geolocation-react-typescript/index.md"
+    "source": "react-google-maps-geolocation-react-typescript"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/build-full-working-api-django-publicizing-rapidapi/index.md"
+    "source": "build-full-working-api-django-publicizing-rapidapi"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/index.md"
+    "source": "crash-api-testing-rapidapi-github-actions"
   }
 ]

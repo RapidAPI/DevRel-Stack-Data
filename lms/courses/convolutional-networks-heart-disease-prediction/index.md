@@ -9,8 +9,8 @@ draft: false
 authors:
   - sirajRaval
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/convolutional-networks-heart-disease-prediction/index.md
+  - source: convolutional-networks-heart-disease-prediction/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/convolutional-networks-heart-disease-prediction/01-index.md
+  - source: convolutional-networks-heart-disease-prediction/01-index.md
 videoId: fGv6VmfGMLc
 ---

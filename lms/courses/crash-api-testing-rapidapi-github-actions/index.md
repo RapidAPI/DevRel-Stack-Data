@@ -9,25 +9,25 @@ draft: false
 authors:
   - naveenKumarNamachivayam
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/index.md
+  - source: crash-api-testing-rapidapi-github-actions/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/01-intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/02-rapidapi.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/03-rapidapi-products.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/04-rapidapi-testing.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/05-rapidapi-github-action.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/06-[demo]-rapidapi-signin.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/07-[demo]-rapidapi-marketplace.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/08-[demo]-rapidapi-developer-dashboard.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/09-[demo]-rapidapi-marketplace-search.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/10-[demo]-rapidapi-test-endpoint.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/11-[demo]-rapidapi-provide-dashboard.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/12-[demo]-rapidapi-testing.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/13-[demo]-creating-test-rapidapi-testing.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/14-[demo]-testing-apis.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/15-[demo]-api-performance.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/16-[demo]-rapidapi-github-action.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/17-[demo]-executing-rapidapi-github-action.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/crash-api-testing-rapidapi-github-actions/18-conclusion.md
+  - source: crash-api-testing-rapidapi-github-actions/01-intro.md
+  - source: crash-api-testing-rapidapi-github-actions/02-rapidapi.md
+  - source: crash-api-testing-rapidapi-github-actions/03-rapidapi-products.md
+  - source: crash-api-testing-rapidapi-github-actions/04-rapidapi-testing.md
+  - source: crash-api-testing-rapidapi-github-actions/05-rapidapi-github-action.md
+  - source: crash-api-testing-rapidapi-github-actions/06-[demo]-rapidapi-signin.md
+  - source: crash-api-testing-rapidapi-github-actions/07-[demo]-rapidapi-marketplace.md
+  - source: crash-api-testing-rapidapi-github-actions/08-[demo]-rapidapi-developer-dashboard.md
+  - source: crash-api-testing-rapidapi-github-actions/09-[demo]-rapidapi-marketplace-search.md
+  - source: crash-api-testing-rapidapi-github-actions/10-[demo]-rapidapi-test-endpoint.md
+  - source: crash-api-testing-rapidapi-github-actions/11-[demo]-rapidapi-provide-dashboard.md
+  - source: crash-api-testing-rapidapi-github-actions/12-[demo]-rapidapi-testing.md
+  - source: crash-api-testing-rapidapi-github-actions/13-[demo]-creating-test-rapidapi-testing.md
+  - source: crash-api-testing-rapidapi-github-actions/14-[demo]-testing-apis.md
+  - source: crash-api-testing-rapidapi-github-actions/15-[demo]-api-performance.md
+  - source: crash-api-testing-rapidapi-github-actions/16-[demo]-rapidapi-github-action.md
+  - source: crash-api-testing-rapidapi-github-actions/17-[demo]-executing-rapidapi-github-action.md
+  - source: crash-api-testing-rapidapi-github-actions/18-conclusion.md
 videoId: yCE7QvwG1-c
 ---
