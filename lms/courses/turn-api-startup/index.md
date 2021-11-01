@@ -9,14 +9,14 @@ draft: false
 authors:
   - javascriptMastery
 modules:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/index.md
+  - source: turn-api-startup/index.md
 lessons:
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/intro.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/about-apis-and-setup.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/create-server.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/adding-endpoints.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/deployment-preparation.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/hosting.md
-  - source: https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/lms/courses/turn-api-startup/rapidapi-marketplace.md
+  - source: turn-api-startup/intro.md
+  - source: turn-api-startup/about-apis-and-setup.md
+  - source: turn-api-startup/create-server.md
+  - source: turn-api-startup/adding-endpoints.md
+  - source: turn-api-startup/deployment-preparation.md
+  - source: turn-api-startup/hosting.md
+  - source: turn-api-startup/rapidapi-marketplace.md
 videoId: be9sHQ7xqo0
 ---
