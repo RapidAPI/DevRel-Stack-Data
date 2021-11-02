@@ -55,6 +55,6 @@ This is another area where [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=gu
 
 ## Performance
 
-Finally, the most crucial benchmark before a developer adopts your API is its performance. The response time of the first call to the API is the decisive factor in adoption. The journey of adoption starting from discovering your API comes down to this point. Therefore it is always worth focusing on optimizing performance of the API.
+Finally, the most crucial benchmark before a developer adopts your API is its performance. The response time of the first call to the API is the decisive factor in adoption. The journey of adoption, starting from discovering your API comes down to this point. Therefore it is always worth focusing on optimizing the performance of the API.
 
 If you are interested, consider going through these [ways to optimize your API performance](https://guides.rapidapi.com/optimize-api).

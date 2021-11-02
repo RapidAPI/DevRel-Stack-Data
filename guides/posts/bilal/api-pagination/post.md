@@ -19,7 +19,7 @@ draft: false
 If you have ever navigated through multiple pages of Google Search results or clicked the "load more posts" button on a blog, you have seen pagination. API pagination works in a similar way.
 </Lead>
 
-## Why is API Pagination Needed?
+## Why is API Pagination needed?
 
 Imagine if Google showed all the search results on a single page. What would be the effect? For starters, it will take ages to compile and fit so many results on a single page. Not to mention the immense load each request will put on the server.
 
@@ -31,7 +31,7 @@ Typically, all the endpoints of an API that return a list of entities must be pa
 
 You can choose what endpoint needs to be paginated. Depending upon the data, you can define a "Size" parameter that dictates how many entities are returned per page. Another endpoint, typically named "Page"(as in the current page number), will work together with Size to handle pagination. Paging also assumes that the responses are in some sort of order.
 
-## Is API Pagination Neccessary?
+## Is API Pagination necessary?
 
 Do you always need pagination? It depends on the API in question.
 
