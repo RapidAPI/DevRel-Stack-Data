@@ -6,225 +6,225 @@
     "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/bilal/increase-api-adoption/post.md"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-covid-app/post.md"
+    "source": "build-covid-app"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/internal-api/post.md"
+    "source": "internal-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-news-app/post.md"
+    "source": "build-news-app"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/authentication-authorization/post.md"
+    "source": "authentication-authorization"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/voice-recognition-apis/post.md"
+    "source": "voice-recognition-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/composite-api/post.md"
+    "source": "composite-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-api-microservices/post.md"
+    "source": "difference-api-microservices"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/create-a-text-sentiment-analysis-app/post.md"
+    "source": "create-a-text-sentiment-analysis-app"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-management-practices/post.md"
+    "source": "api-management-practices"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/everything-you-need-to-know-about-http-request-methods/post.md"
+    "source": "everything-you-need-to-know-about-http-request-methods"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/http-compression/post.md"
+    "source": "http-compression"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/rest-api-principles/post.md"
+    "source": "rest-api-principles"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-currency-conversion-app/post.md"
+    "source": "build-currency-conversion-app"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/web3-apis/post.md"
+    "source": "web3-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-gateway/post.md"
+    "source": "api-gateway"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/sms-apis/post.md"
+    "source": "sms-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/use-api-from-rapidapi/post.md"
+    "source": "use-api-from-rapidapi"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/text-analysis-apis/post.md"
+    "source": "text-analysis-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/sports-apis/post.md"
+    "source": "sports-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-caching/post.md"
+    "source": "api-caching"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/optimize-api/post.md"
+    "source": "optimize-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-rest-graphql/post.md"
+    "source": "difference-rest-graphql"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/food-recipe-apis/post.md"
+    "source": "food-recipe-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/machine-learning-apis/post.md"
+    "source": "machine-learning-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/movies-apis/post.md"
+    "source": "movies-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-vulnerabilities/post.md"
+    "source": "api-vulnerabilities"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/facial-recognition-apis/post.md"
+    "source": "facial-recognition-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/covid-apis/post.md"
+    "source": "covid-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api/post.md"
+    "source": "api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/quote-generator-apis/post.md"
+    "source": "quote-generator-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/geocoding-and-location-apis/post.md"
+    "source": "geocoding-and-location-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/http-request-method/post.md"
+    "source": "http-request-method"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/practices-designing-rest-apis/post.md"
+    "source": "practices-designing-rest-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/pubsub-apis/post.md"
+    "source": "pubsub-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/http-status-codes/post.md"
+    "source": "http-status-codes"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/authentication-rest-api/post.md"
+    "source": "authentication-rest-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/http-headers/post.md"
+    "source": "http-headers"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/secure-api/post.md"
+    "source": "secure-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/introduction-to-api-testing/post.md"
+    "source": "introduction-to-api-testing"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/build-weather-app/post.md"
+    "source": "build-weather-app"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/web-api/post.md"
+    "source": "web-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/jamstack/post.md"
+    "source": "jamstack"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/authenticate-authorize-graphql/post.md"
+    "source": "authenticate-authorize-graphql"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/dns/post.md"
+    "source": "dns"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/update-graphql-api/post.md"
+    "source": "update-graphql-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-gRPC-rest/post.md"
+    "source": "difference-gRPC-rest"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-gRPC-graphql/post.md"
+    "source": "difference-gRPC-graphql"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/gRPC/post.md"
+    "source": "gRPC"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/websockets/post.md"
+    "source": "websockets"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/tls/post.md"
+    "source": "tls"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/webrtc/post.md"
+    "source": "webrtc"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/common-http-status-code/post.md"
+    "source": "common-http-status-code"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/oath2.0/post.md"
+    "source": "oath2.0"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/ssl/post.md"
+    "source": "ssl"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-gateway/post.md"
+    "source": "api-gateway"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-spec/post.md"
+    "source": "api-spec"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-json-xml/post.md"
+    "source": "difference-json-xml"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/http-2/post.md"
+    "source": "http-2"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/intro-http-headers/post.md"
+    "source": "intro-http-headers"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/open-api-spec/post.md"
+    "source": "open-api-spec"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/API/post.md"
+    "source": "application-programming-interface"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/http-cookies/post.md"
+    "source": "http-cookies"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/webhooks/post.md"
+    "source": "webhooks"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/practices-designing-soap-api/post.md"
+    "source": "practices-designing-soap-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/difference-rest-soap/post.md"
+    "source": "difference-rest-soap"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/practices-designing-graphql-api/post.md"
+    "source": "practices-designing-graphql-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/practices-versioning-rest-api/post.md"
+    "source": "practices-versioning-rest-api"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/http/post.md"
+    "source": "http"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/cors/post.md"
+    "source": "cors"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/api-testing/post.md"
+    "source": "api-testing"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/gaming-apis/post.md"
+    "source": "gaming-apis"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-rest-and-when-you-should-use-it/post.md"
+    "source": "what-is-rest-and-when-you-should-use-it"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/saad/what-is-graphql-and-when-you-should-use-it/post.md"
+    "source": "what-is-graphql-and-when-you-should-use-it"
   },
   {
-    "source": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/pratham/five-powerful-http-headers/post.md"
+    "source": "five-powerful-http-headers"
   }
 ]
