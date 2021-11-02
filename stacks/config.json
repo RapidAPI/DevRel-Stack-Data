@@ -1,10 +1,10 @@
 {
   "siteName": "RapidAPI Stacks",
   "type": "website",
-  "description": "RapidAPI DevRel Stacks",
+  "description": "RapidAPI Stacks",
   "language": "en",
   "locale": "en_US",
-  "siteUrl": "https://devrel-stack-stacks.vercel.app",
+  "siteUrl": "https://stacks.rapidapi.com",
   "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/stacks/assets/rapidapi-logo.png",
   "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/stacks/assets/rapidapi-og.png",
   "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/stacks/assets/rapidapi-logo.png",
