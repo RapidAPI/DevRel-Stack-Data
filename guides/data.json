@@ -1,5 +1,11 @@
 [
-   {
+  {
+    "source": "rapidapi-teams"
+  },
+  {
+    "source": "rapidql"
+  },
+  {
     "source": "api-pagination"
   },
   {
