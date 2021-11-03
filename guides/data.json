@@ -1,5 +1,38 @@
 [
-   {
+  {
+    "source": "rapidapi-testing"
+  },
+  {
+    "source": "rapidapi-client"
+  },
+  {
+    "source": "graphql-schema-stitching"
+  },
+  {
+    "source": "fetch-api"
+  },
+  {
+    "source": "dom-api"
+  },
+  {
+    "source": "canvas-api"
+  },
+  {
+    "source": "browser-api"
+  },
+  {
+    "source": "difference-kafka-rest"
+  },
+  {
+    "source": "difference-graphql-kafka"
+  },
+  {
+    "source": "practices-working-kafka-api"
+  },
+  {
+    "source": "apache-kafka"
+  },
+  {
     "source": "api-pagination"
   },
   {
