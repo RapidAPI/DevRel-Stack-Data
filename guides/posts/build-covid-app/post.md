@@ -48,7 +48,7 @@ You will see different search results related to COVID-19 APIs. For this piece, 
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![Subscribe to COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/3aebea4fabe475e4d8db3996e6dda9b1540e84de/guides/posts/saad/build-covid-app/images/subscribe.jpg)
+![Subscribe to COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-covid-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to another page where different available subscription packages will be shown. Let’s go with the free one for now.
 
@@ -200,7 +200,7 @@ import axios from ‘axios’;
 
 We are going to use the `getLatestCountryDataByName` endpoint of the [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to get the country-specific COVID-19 stats. I am also going to use the code snippet of `(JavaScript) Axios` that [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides us.
 
-![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/3aebea4fabe475e4d8db3996e6dda9b1540e84de/guides/posts/saad/build-covid-app/images/code-snippet.jpg)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-covid-app/images/code-snippet.jpg)
 
 Create a file called `stats` in the `pages/api` directory and copy-paste the following code there:
 
@@ -334,4 +334,4 @@ You can see that I have created a function, `fetchStats`, for getting the statis
 
 This is it. We have successfully built a [COVID Stats App](https://rapidapi-example-covid-stats.vercel.app/) using the [COVID-19 data API](https://RapidAPI.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/covid-stats-app?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
-![COVID Stats Application With Next.js and COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/3aebea4fabe475e4d8db3996e6dda9b1540e84de/guides/posts/saad/build-covid-app/images/covid-stats-app.png)
+![COVID Stats Application With Next.js and COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-covid-app/images/covid-stats-app.png)
