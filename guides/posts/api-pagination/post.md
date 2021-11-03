@@ -1,5 +1,5 @@
 ---
-title: What is API Pagination
+title: What is API Pagination?
 slug: api-pagination
 description: Performance is the most critical factor of an API, and pagination is one way of optimizing it. Let's learn why.
 publishedDate: 2021-10-01T17:10:30.765Z
