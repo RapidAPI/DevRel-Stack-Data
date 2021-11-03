@@ -29,7 +29,7 @@ gRPC is an open-source framework developed by Google in 2015 for implementing RP
 
 With gRPC, the abstraction has become easy since it is a function call. It also supports a lot of programming languages. So you can use gRPC in microservices to communicate with other services that are written in some different programming language
 
-![How gRPC works](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/4b35dafeacc6f9bb87915fea98c24aeef85094f0/guides/posts/saad/gRPC/images/gRPC.jpg)
+![How gRPC works](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/gRPC/images/gRPC.jpg)
 
 You can see in the picture that a C++ service is using gRPC to communicate with a Ruby and Android-Java client using protocol request and response.
 
