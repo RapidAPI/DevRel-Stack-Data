@@ -39,7 +39,7 @@ Let’s find an API that we can use to fetch the COVID-19 stats. Go to [RapidAPI
 <Callout
   title="Deep dive"
   linkText="Read more"
-  linkHref="https://learn.rapidapi.com/rapidapi-hub-consumer/introduction"
+  linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
 >
   Learn more about how to use RapidAPI Hub.
 </Callout>

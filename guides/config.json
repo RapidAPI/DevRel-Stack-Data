@@ -1,12 +1,12 @@
 {
-  "siteName": "RapidAPI Guides",
-  "type": "website",
-  "description": "RapidAPI Guides",
-  "language": "en",
-  "locale": "en_US",
-  "siteUrl": "https://guides.rapidapi.com",
-  "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
-  "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-og.png",
-  "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
-  "twitter": "rapid_api"
+	"siteName": "RapidAPI Guides",
+	"type": "website",
+	"description": "RapidAPI Guides",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/guides",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-og.png",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
 }

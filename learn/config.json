@@ -1,12 +1,12 @@
 {
-  "siteName": "RapidAPI Learn",
-  "type": "website",
-  "description": "RapidAPI Learn",
-  "language": "en",
-  "locale": "en_US",
-  "siteUrl": "https://learn.rapidapi.com",
-  "siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
-  "ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-og.png",
-  "socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
-  "twitter": "rapid_api"
+	"siteName": "RapidAPI Learn",
+	"type": "website",
+	"description": "RapidAPI Learn",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/learn",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-og.png",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
 }
