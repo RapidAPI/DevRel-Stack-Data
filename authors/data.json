@@ -1,7 +1,7 @@
 {
-	"ahmadawais": {
+	"ahmadAwais": {
 		"name": "Ahmad Awais",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/AhmadAwais/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/ahmadAwais/avatar.png",
 		"designation": "Head of Developer Relations, RapidAPI",
 		"isDeveloperProgramMember": true,
 		"bio": "Ahmad Awais is an award-winning open-source engineer. Head of Developer Relations at RapidAPI. His software serves millions of developers. Code he wrote went to Mars. “What an awesome example for developers,” said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. He’s a Google Devs Expert and recipient of the 8th GitHub Stars gold award.​"
@@ -26,6 +26,13 @@
 		"designation": "Developer Advocate @ RapidAPI",
 		"isDeveloperProgramMember": true,
 		"bio": "I am a Delhi based Web Developer💻. I have a passion for web development and love💖 to create websites for web and mobile devices. I love creating content on Twitter and try to make web dev easier for you"
+	},
+	"ahmadBilal": {
+		"name": "Ahmad Bilal",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/authors/ahmadBilal/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": true,
+		"bio": ""
 	},
 	"javascriptMastery": {
 		"name": "JavaScript Mastery",
