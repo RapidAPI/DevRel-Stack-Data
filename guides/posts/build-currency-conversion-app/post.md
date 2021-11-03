@@ -16,7 +16,7 @@ draft: false
 
 <Lead>
 
-There are thousands of APIs available on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) that you can use to build different products. [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides you with a broad category of APIs ranging from Finance to Payments. Today, I have decided to use a [Currency Conversion API](https://RapidAPI.com/principalapis/api/currency-conversion-and-exchange-rates/) from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to build a small application that will convert one concurrency to another. So without any further ado, let’s jump in.
+There are thousands of APIs available on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) that you can use to build different products. [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides you with a broad category of APIs ranging from Finance to Payments. Today, I have decided to use a [Currency Conversion API](https://RapidAPI.com/principalapis/api/currency-conversion-and-exchange-rates/) from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to build a small application that will convert one concurrency to another. So without any further ado, let’s jump in.
 
 </Lead>
 
@@ -30,7 +30,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "currency conversion" in the search section.
+Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "currency conversion" in the search section.
 
 <Callout
   title="Deep dive"
@@ -40,7 +40,7 @@ Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://Rapid
   Learn more about how to use RapidAPI Hub.
 </Callout>
 
-I am using [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) by [Principal APIs](https://rapidapi.com/user/principalapis/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).
+I am using [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) by [Principal APIs](https://rapidapi.com/user/principalapis/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
@@ -158,7 +158,7 @@ Let’s integrate the API now. For this, first, create a `.env.local` file and p
 NEXT_PUBLIC_RAPIDAPI_KEY=YOUR-RAPIDAPI-KEY
 ```
 
-You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It is the value of `x-rapidapi-key` that you saved earlier.
+You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It is the value of `x-rapidapi-key` that you saved earlier.
 
 Now download and add `axios` in your project. For this, run the following command in the terminal:
 
@@ -176,7 +176,7 @@ import axios from ‘axios’;
 
 There are more than 190+ countries in the world. Since almost everyone has a different currency, it was challenging to write down their three code currency symbols.
 
-The [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides an endpoint that can get you all these symbols as a response. I am going to this endpoint along with the code snippet [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides us.
+The [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides an endpoint that can get you all these symbols as a response. I am going to this endpoint along with the code snippet [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides us.
 
 ![Symbols endpoint of Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/symbols-endpoint.jpg)
 
@@ -429,7 +429,7 @@ export async function getServerSideProps() {
 }
 ```
 
-You can see that I have added another function called `convertCurrency` that will trigger when the user clicks on the `Convert` button. Inside the function, I am making an API call to my Next.js API `convert` route. This API route will request the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and then send the response it receives to the client.
+You can see that I have added another function called `convertCurrency` that will trigger when the user clicks on the `Convert` button. Inside the function, I am making an API call to my Next.js API `convert` route. This API route will request the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and then send the response it receives to the client.
 
 I have created another state variable to store the converted amount. When the request is successful at client-side, the converted amount is stored to the `convertedAmount` state variable.
 
@@ -437,6 +437,6 @@ When the `convertedAmount` changes from null to some other value, it will trigge
 
 ## Wrap Up
 
-This is it. We have successfully built a [Currency Converter application](https://rapidapi-example-currency-conversion.vercel.app/) using the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/currency-converter-app?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
+This is it. We have successfully built a [Currency Converter application](https://rapidapi-example-currency-conversion.vercel.app/) using the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/currency-converter-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
 ![Currency Conversion application using Next.js and Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/currency-conversion-app.png)

@@ -18,5 +18,5 @@ Use the [FrontMatter](https://frontmatter.codes/) VS Code extension to generate 
 - Use the UTM parameter **?utm_source=<APP_NAME>.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel** when you are linking to RapidAPI Hub. When you are adding a link from our Guides, you would use the following:
 
 ```md
-[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel)
+[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)
 ```

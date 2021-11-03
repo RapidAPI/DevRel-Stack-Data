@@ -20,17 +20,17 @@ The APIs are a crucial part of web development. You heavily rely on them to get 
 
 <Callout>
 
-[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub that provides over 30,000 APIs to its users. It is simple and provides all types of APIs ranging from data to weather to payments APIs. Everything is present in one place.
+[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is the world’s largest API hub that provides over 30,000 APIs to its users. It is simple and provides all types of APIs ranging from data to weather to payments APIs. Everything is present in one place.
 
 </Callout>
 
 ## Using An API From RapidAPI
 
-Let’s look at how you can get your desired API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).
+Let’s look at how you can get your desired API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 ### STEP #1
 
-If you are new to the website, the first thing you would have to do is sign up on RapidAPI Hub. For this, you can click [here](https://RapidAPI.com/auth/sign-up?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel), or you can open RapidAPI’s [website](https://RapidAPI.com/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and click on the Sign Up button at the top right corner.
+If you are new to the website, the first thing you would have to do is sign up on RapidAPI Hub. For this, you can click [here](https://RapidAPI.com/auth/sign-up?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), or you can open RapidAPI’s [website](https://RapidAPI.com/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and click on the Sign Up button at the top right corner.
 
 ![RapidAPI Sign Up Page](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/use-api-from-rapidapi/images/sign-up.png)
 
@@ -46,7 +46,7 @@ Here you have categories in the left sidebar, a search box at the top, and some 
 
 ### STEP #3
 
-You will see a lot of different APIs as a search result. Let’s select the [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) API for this example. Now click on Subscribe to Test.
+You will see a lot of different APIs as a search result. Let’s select the [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) API for this example. Now click on Subscribe to Test.
 
 ![API Subscription](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/use-api-from-rapidapi/images/subscribe.jpg)
 
@@ -56,7 +56,7 @@ Once clicked, it will take you to another page. Here you would have to select a 
 
 This page is divided into three sections: The leftmost part shows different endpoints, the middle one where you can set options related to the API, and the right part where you can see different code examples of how to use the API.
 
-If you scroll down in the middle part, you will see an option called `X-RapidAPI-Key`. It is the API key that you would need to use any API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). Make sure that it is secure.
+If you scroll down in the middle part, you will see an option called `X-RapidAPI-Key`. It is the API key that you would need to use any API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). Make sure that it is secure.
 
 ![RapidAPI API Key](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/use-api-from-rapidapi/images/api-key.jpg)
 
@@ -64,4 +64,4 @@ Now select the endpoint you need from the left sidebar and the language you are 
 
 ![JavaScript code snippet for fetching data](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/use-api-from-rapidapi/images/code-snippet.jpg)
 
-Copy this code and paste it into your application, and that’s it. You have successfully integrated the Open Weather Map API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) Hub into your application.
+Copy this code and paste it into your application, and that’s it. You have successfully integrated the Open Weather Map API from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) Hub into your application.

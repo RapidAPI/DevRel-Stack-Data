@@ -23,7 +23,7 @@ Here are a few pointers to consider.
 
 You need a medium where you can connect with the developers who are looking for a solution your API provides. Marketing the API yourself can be a hassle. What you need is an API Hub where thousands of developers are on the prowl for suitable APIs to use.
 
-[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is the world's largest API hub, with over 3 million developers accessing more than 30,000 APIs. Besides reaching so many developers, RapidAPI makes API management easy. It takes care of the nuts and bolts of billing so you can focus on building APIs.
+[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is the world's largest API hub, with over 3 million developers accessing more than 30,000 APIs. Besides reaching so many developers, RapidAPI makes API management easy. It takes care of the nuts and bolts of billing so you can focus on building APIs.
 
 <Callout
   title="Deep dive"
@@ -49,7 +49,7 @@ APIs can be confusing if they lack proper, explanatory documentation. Make sure 
 
 While browsing your API, developers may want to know whether it fits their requirements or exactly what kind of data it returns. They will want to dive deeper by testing the API endpoints. If you make this process convenient, you can increase adoption.
 
-This is another area where [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) comes handy. Using its interactive preview, developers can test the API endpoints directly from their browser and see what the responses look like.
+This is another area where [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) comes handy. Using its interactive preview, developers can test the API endpoints directly from their browser and see what the responses look like.
 
 ![Testing API Endpoints](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/increase-api-adoption/images/endpoints.jpg)
 

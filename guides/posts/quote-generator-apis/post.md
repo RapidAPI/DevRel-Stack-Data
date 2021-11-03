@@ -19,23 +19,23 @@ coverImage: ""
 
 ## 1. Quotes
 
-[Quotes API](https://rapidapi.com/martin.svoboda/api/quotes15/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides free multilingual API for famous random quotes in many languages.
+[Quotes API](https://rapidapi.com/martin.svoboda/api/quotes15/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides free multilingual API for famous random quotes in many languages.
 
 - Popularity: 9.7/10
 - Latency: 552ms
-- Service Level: 100%   
+- Service Level: 100%
 
 ## 2. Universal Inspirational Quotes
 
-Get inspirational images, motivational pictures, healing quotes, and more. Get started with [Universal Inspirational Quotes API](https://rapidapi.com/HealThruWords/api/universal-inspirational-quotes/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) today.
+Get inspirational images, motivational pictures, healing quotes, and more. Get started with [Universal Inspirational Quotes API](https://rapidapi.com/HealThruWords/api/universal-inspirational-quotes/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) today.
 
 - Popularity: 8.8/10
 - Latency: 1303ms
-- Service Level: 99% 
+- Service Level: 99%
 
 ## 3. Quotel - Quotes
 
-[Quotel-Quotes API](https://rapidapi.com/skjaldbaka17/api/quotel-quotes/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides thousands of quotes from famous authors, speakers, and writers.
+[Quotel-Quotes API](https://rapidapi.com/skjaldbaka17/api/quotel-quotes/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides thousands of quotes from famous authors, speakers, and writers.
 
 - Popularity: 8.8/10
 - Latency: 807ms
@@ -43,7 +43,7 @@ Get inspirational images, motivational pictures, healing quotes, and more. Get s
 
 ## 4. Motivational Quotes
 
-Get a random motivational quote with [Motivational Quotes API](https://rapidapi.com/bitbiscuit-bitbiscuit-default/api/motivational-quotes1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).
+Get a random motivational quote with [Motivational Quotes API](https://rapidapi.com/bitbiscuit-bitbiscuit-default/api/motivational-quotes1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 - Popularity: 9.4/10
 - Latency: 268ms
@@ -51,8 +51,8 @@ Get a random motivational quote with [Motivational Quotes API](https://rapidapi.
 
 ## 5. Famous Quotes
 
-[Famous Quotes APIs](https://rapidapi.com/saicoder/api/famous-quotes4/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) has over 100,000 famous quotes, 100 categories, and 10K authors.
+[Famous Quotes APIs](https://rapidapi.com/saicoder/api/famous-quotes4/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) has over 100,000 famous quotes, 100 categories, and 10K authors.
 
 - Popularity: 9.3/10
 - Latency: 182ms
-- Service Level: 100%  
+- Service Level: 100%

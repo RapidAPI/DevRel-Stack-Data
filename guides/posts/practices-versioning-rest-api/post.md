@@ -17,7 +17,7 @@ draft: false
 The REST API is used to get data from the server. The client requests a record, the API takes that request to the server, the server fetches the record from the database, and lastly, the REST API brings it back to the client.
 </Lead>
 
-You develop a REST API when you are building a full-stack application. You can also build public REST APIs and monetize them using [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.RapidAPI.com&utm_medium=DevRel&utm_campaign=DevRel).
+You develop a REST API when you are building a full-stack application. You can also build public REST APIs and monetize them using [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 You need to version your REST API every time you introduce a breaking change. This gives your API consumers time to update to the latest version while their products are still active.
 

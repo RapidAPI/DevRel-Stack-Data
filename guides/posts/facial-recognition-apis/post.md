@@ -19,23 +19,23 @@ coverImage: ""
 
 ## 1. Mirror-AI
 
-Upload photos and get personalized avatars and emojis for your users. Get started with [Mirror-AI API](https://rapidapi.com/mirror-dev-team/api/mirror-ai/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) today.
+Upload photos and get personalized avatars and emojis for your users. Get started with [Mirror-AI API](https://rapidapi.com/mirror-dev-team/api/mirror-ai/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) today.
 
 - Popularity: 9.2/10
 - Latency: 2846ms
-- Service Level: 100%   
+- Service Level: 100%
 
 ## 2. Face Detection
 
-Use [Face Detection API](https://rapidapi.com/inferdo/api/face-detection6/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to detect the location of human faces in your images with optional extra features like Age and Gender.
+Use [Face Detection API](https://rapidapi.com/inferdo/api/face-detection6/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to detect the location of human faces in your images with optional extra features like Age and Gender.
 
 - Popularity: 9.7/10
 - Latency: 1183ms
-- Service Level: 100% 
+- Service Level: 100%
 
 ## 3. Microsoft Face
 
-[Microsoft Face API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-face1/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) is an AI service from Microsoft Azure that analyzes faces in images.
+[Microsoft Face API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-face1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is an AI service from Microsoft Azure that analyzes faces in images.
 
 - Popularity: 9.1/10
 - Latency: 1659ms
@@ -43,18 +43,18 @@ Use [Face Detection API](https://rapidapi.com/inferdo/api/face-detection6/?utm_s
 
 ## 4. Face Detection
 
-- PresentID [Face detection API](https://rapidapi.com/PresentID/api/face-detection11/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) can detect the face(s) in your image and retrieve some features such as Age, Gender, Landmarks, etc.
+- PresentID [Face detection API](https://rapidapi.com/PresentID/api/face-detection11/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) can detect the face(s) in your image and retrieve some features such as Age, Gender, Landmarks, etc.
 
 - Popularity: 8.7/10
-- Latency: 703ms  
+- Latency: 703ms
 - Service Level: 100%
 
 ## 5. Facial Emotion Recognition
 
-[Facial Emotion Recognition API](https://rapidapi.com/cloud-actions-cloud-actions-default/api/facial-emotion-recognition/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) detects faces and analyzes their emotions.
+[Facial Emotion Recognition API](https://rapidapi.com/cloud-actions-cloud-actions-default/api/facial-emotion-recognition/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) detects faces and analyzes their emotions.
 
 - Popularity: 7.5/10
 - Latency: 4047ms
-- Service Level: 100%  
+- Service Level: 100%
 
-You can head over to [RapidAPI Hub](https://rapidapi.com/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) for more such excellent APIs. 
+You can head over to [RapidAPI Hub](https://rapidapi.com/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) for more such excellent APIs.

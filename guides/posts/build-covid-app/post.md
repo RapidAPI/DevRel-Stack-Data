@@ -20,7 +20,7 @@ There are several public APIs out there that you can use to develop small to lar
 
 </Lead>
 
-[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides you with thousands of these public APIs that you can use in your apps. Many APIs on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) have free versions available, but you can also buy a premium version if the free version does not satisfy your need.
+[RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides you with thousands of these public APIs that you can use in your apps. Many APIs on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) have free versions available, but you can also buy a premium version if the free version does not satisfy your need.
 
 Today, I am building an application that will show the user coronavirus stats of any country they enter. So without any further ado, let’s jump in.
 
@@ -34,7 +34,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s find an API that we can use to fetch the COVID-19 stats. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "covid-19" in the search section.
+Let’s find an API that we can use to fetch the COVID-19 stats. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "covid-19" in the search section.
 
 <Callout
   title="Deep dive"
@@ -44,7 +44,7 @@ Let’s find an API that we can use to fetch the COVID-19 stats. Go to [RapidAPI
   Learn more about how to use RapidAPI Hub.
 </Callout>
 
-You will see different search results related to COVID-19 APIs. For this piece, I am using [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel).
+You will see different search results related to COVID-19 APIs. For this piece, I am using [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
@@ -182,7 +182,7 @@ Let’s integrate the API now. For this, first, create a `.env.local` file and p
 NEXT_PUBLIC_RAPIDAPI_KEY=YOUR-RAPIDAPI-KEY
 ```
 
-You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It is the value of `x-rapidapi-key` that you saved earlier.
+You need to replace `YOUR-RAPIDAPI-KEY` here with the API key you got when you subscribed to the [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It is the value of `x-rapidapi-key` that you saved earlier.
 
 Now download and add `axios` to your project. For this, run the following command in the terminal:
 
@@ -198,7 +198,7 @@ import axios from ‘axios’;
 
 ### → STEP #5
 
-We are going to use the `getLatestCountryDataByName` endpoint of the [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to get the country-specific COVID-19 stats. I am also going to use the code snippet of `(JavaScript) Axios` that [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) provides us.
+We are going to use the `getLatestCountryDataByName` endpoint of the [COVID-19 data API](https://rapidapi.com/Gramzivi/api/covid-19-data/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to get the country-specific COVID-19 stats. I am also going to use the code snippet of `(JavaScript) Axios` that [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides us.
 
 ![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-covid-app/images/code-snippet.jpg)
 
@@ -332,6 +332,6 @@ You can see that I have created a function, `fetchStats`, for getting the statis
 
 ## Wrap Up
 
-This is it. We have successfully built a [COVID Stats App](https://rapidapi-example-covid-stats.vercel.app/) using the [COVID-19 data API](https://RapidAPI.com/Gramzivi/api/covid-19-data/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/covid-stats-app?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
+This is it. We have successfully built a [COVID Stats App](https://rapidapi-example-covid-stats.vercel.app/) using the [COVID-19 data API](https://RapidAPI.com/Gramzivi/api/covid-19-data/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/covid-stats-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
 ![COVID Stats Application With Next.js and COVID-19 data API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-covid-app/images/covid-stats-app.png)
