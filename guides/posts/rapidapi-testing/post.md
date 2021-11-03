@@ -1,5 +1,5 @@
 ---
-title: What is RapidAPI Testing
+title: What is RapidAPI Testing?
 slug: rapidapi-testing
 description: RapidAPI Testing is a functional API testing and monitoring solution by RapidAPI that provides you an intuitive UX and support for any type of API
 publishedDate: 2021-11-03T16:27:05.876Z
