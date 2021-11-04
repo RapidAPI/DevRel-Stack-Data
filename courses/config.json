@@ -6,6 +6,7 @@
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/courses",
 	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/favicon-96x96.png",
 	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/rapidapi-og.png",
 	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/rapidapi-logo.png",
 	"twitter": "rapid_api"
