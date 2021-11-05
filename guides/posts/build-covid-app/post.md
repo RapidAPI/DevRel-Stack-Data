@@ -68,14 +68,14 @@ This command is going to take a minute to set everything up. After generating th
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
-`pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
-`public` directory: This directory contains icons. You place your static files here to load later in the application.
-`node_modules`: It’s another directory that contains all the node modules you are using in your application.
-`package.json`: This file contains the metadata of your project.
-`package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-`postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-`tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-`readme.md`: It’s a markdown file for documentation.
+- `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called - - - `api`. You only need to know about the `index.js` file that is the main entry point in your project.
+- `public` directory: This directory contains icons. You place your static files here to load later in the application.
+- `node_modules`: It’s another directory that contains all the node modules you are using in your application.
+- `package.json`: This file contains the metadata of your project.
+- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+- `readme.md`: It’s a markdown file for documentation.
 
 Before we move on to writing the code, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/covid-stats-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are some TailwindCSS configurations I have done specifically for this project. I have added some colors that you do not have by default with TailwindCSS and set some screen sizes.
 
