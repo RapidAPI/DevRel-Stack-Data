@@ -75,9 +75,7 @@ In our project folder, we will have the following folders and files. I will brie
 - `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
 - `readme.md`: It’s a markdown file for documentation.
 
-I will be using a particular set of colors for this app. You can use colors of your preference, but if you are interested in mine, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/qrcode-generator-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are Tailwind configurations for the colors I have added.
-
-Now let’s start writing the code. I am going to do it in steps so you can follow along.
+I will be using a particular set of colors for this app. You can use colors of your preference, but if you are interested in mine, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/qrcode-generator-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are Tailwind configurations for the colors I will be using.
 
 With all that set, it's time to code the app. Let's jump right into it.
 
