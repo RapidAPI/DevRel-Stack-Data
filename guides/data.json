@@ -1,5 +1,8 @@
 [
   {
+    "source": "build-music-app"
+  },
+  {
     "source": "build-qrcode-app"
   },
   {
