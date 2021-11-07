@@ -1,5 +1,8 @@
 [
   {
+    "source": "build-qrcode-app"
+  },
+  {
     "source": "rapidapi-teams"
   },
   {
