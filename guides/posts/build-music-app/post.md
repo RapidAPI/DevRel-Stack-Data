@@ -34,7 +34,7 @@ Even if you don’t know about Next.js, being familiar with react will be enough
 
 ## Choosing The API
 
-Let’s find an API which provides Shazam-like features. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already. Then, search for "Shazam" in the search section.
+Let’s find an API that provides Shazam-like features. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already. Then, search for "Shazam" in the search section.
 
 <Callout
   title="Deep dive"
@@ -46,11 +46,11 @@ Let’s find an API which provides Shazam-like features. Go to [RapidAPI Hub](ht
 
 You will see that we have a lot of options for Shazam-related APIs. For our app, I am going to use the most popular one, [Shazam API](https://rapidapi.com/apidojo/api/shazam/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
-To use this API, you need to subscribe it first. You can do this by clicking on the **Subscribe to Test** button.
+To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
 ![Subscribe to Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-music-app/images/subscribe.jpg)
 
-Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows upto 500 requests per month. We are going to subscribe to the free plan for this guide.
+Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 500 requests per month. We are going to subscribe to the free plan for this guide.
 
 Once subscribed, you will be back on the **Endpoints** page. In the central section, you should see a field named `x-rapidapi-key`. Save its value. We will need it later to call the API.
 
@@ -180,7 +180,7 @@ I am using the `setTerm(e.target.value)` to save the value of the input field in
 
 ### → STEP #4
 
-Let’s integrate the API now. For this, first, create a `.env.local` file in the root directory of your project and paste the following in it:
+Let’s integrate the API now. For this, first, create a `.env.local` file in the root directory of your project and paste the following into it:
 
 ```sh
 NEXT_PUBLIC_RAPIDAPI_KEY=YOUR-RAPIDAPI-KEY
@@ -306,9 +306,9 @@ See the `getSearchResults` function I have created to get the response. It sends
 
 ### → FINAL STEP
 
-In the final step, we will display the results. The API returns an object having a number of songs which match our query. `data.tracks.hits` represents an array of objects, one object for each song. Each object has all the information you will need about the given song from its name to cover images.
+In the final step, we will display the results. The API returns an object having a number of songs that match our query. `data.tracks.hits` represents an array of objects, one object for each song. Each object has all the information you will need about the given song from its name to cover images.
 
-We are going to use a map function to iterate through this array of objects. I will be displaying title, subtitle, Shazam url and cover image of each song. For the desing, I used a grid to organize cards for each song. Our final code looks like this:
+We are going to use a map function to iterate through this array of objects. I will be displaying the title, subtitle, Shazam URL, and cover image of each song. For the design, I used a grid to organize cards for each song. Our final code looks like this:
 
 ```js
 import axios from "axios";
