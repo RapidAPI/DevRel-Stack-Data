@@ -10,4 +10,8 @@ authors:
   - sirajRaval
 ---
 
-!(https://youtu.be/fGv6VmfGMLc?t=0)
+<Embed
+  type="youtube"
+  url="https://youtu.be/fGv6VmfGMLc?t=0"
+  title="Convolutional Networks for Heart Disease Prediction"
+/>

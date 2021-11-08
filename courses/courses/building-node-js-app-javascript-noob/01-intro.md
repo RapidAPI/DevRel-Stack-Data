@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=0)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=0"
+  title="Intro"
+/>

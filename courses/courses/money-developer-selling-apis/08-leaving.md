@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=1255)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=1255"
+  title="Before leaving"
+/>

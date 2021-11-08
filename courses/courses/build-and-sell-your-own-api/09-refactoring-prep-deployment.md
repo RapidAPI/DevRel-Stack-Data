@@ -10,4 +10,8 @@ authors:
   - aniaKubow
 ---
 
-!(https://youtu.be/GK4Pl-GmPHk?t=2939)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GK4Pl-GmPHk?t=2939"
+  title="Refactoring and Prep for Deployment"
+/>

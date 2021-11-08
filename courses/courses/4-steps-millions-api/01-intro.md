@@ -10,4 +10,8 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/GpYboktUnTY?t=0)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GpYboktUnTY?t=0"
+  title="Intro"
+/>

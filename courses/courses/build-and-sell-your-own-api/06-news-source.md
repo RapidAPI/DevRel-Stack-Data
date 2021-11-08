@@ -10,4 +10,8 @@ authors:
   - aniaKubow
 ---
 
-!(https://youtu.be/GK4Pl-GmPHk?t=1304)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GK4Pl-GmPHk?t=1304"
+  title="Getting a news source"
+/>

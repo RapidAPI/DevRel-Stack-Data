@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=4839)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=4839"
+  title="Display Places on the Map"
+/>

@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=580)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=580"
+  title="Set up route in Node.js to load API data using fetch()"
+/>

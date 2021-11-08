@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=26)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=26"
+  title="What's an API?"
+/>

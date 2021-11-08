@@ -10,4 +10,8 @@ authors:
   - codeWithTomi
 ---
 
-!(https://youtu.be/Zy0k1KnkO9w?t=62)
+<Embed
+  type="youtube"
+  url="https://youtu.be/Zy0k1KnkO9w?t=62"
+  title="Build An API In Django"
+/>

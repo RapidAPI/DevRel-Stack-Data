@@ -1,12 +1,13 @@
 {
 	"siteName": "RapidAPI Guides",
 	"type": "website",
-	"description": "RapidAPI Guides",
+	"description": "Guides by RapidAPI offer short and long from API Development content with interactive examples & visuals to help you become a pro API Developer.",
 	"language": "en",
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/guides",
 	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
-	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-og.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/ogg.jpg",
 	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/assets/rapidapi-logo.png",
 	"twitter": "rapid_api"
 }

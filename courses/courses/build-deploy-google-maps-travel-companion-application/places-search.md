@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=6399)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=6399"
+  title="Places Search"
+/>

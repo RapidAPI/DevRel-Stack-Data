@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/9DDX3US3kss?t=1979)
+<Embed
+  type="youtube"
+  url="https://youtu.be/9DDX3US3kss?t=1979"
+  title="Homepage"
+/>

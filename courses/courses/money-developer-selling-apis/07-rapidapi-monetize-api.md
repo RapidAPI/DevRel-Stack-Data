@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=718)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=718"
+  title="Use RapidAPI to monetize the API"
+/>

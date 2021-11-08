@@ -10,4 +10,8 @@ authors:
   - weibenfalk
 ---
 
-!(https://youtu.be/I9F-CMiKOz4?t=3349)
+<Embed
+  type="youtube"
+  url="https://youtu.be/I9F-CMiKOz4?t=3349"
+  title="Geolocation"
+/>
