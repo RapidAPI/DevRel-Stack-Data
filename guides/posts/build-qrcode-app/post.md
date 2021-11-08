@@ -374,6 +374,6 @@ The library takes the response and renders the SVG for us. I also used a snippet
 
 ## Wrap Up
 
-All done. We have successfully built a QR Code Generator app. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/qrcode-generator-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). This is what it looks like:
+All done. We have successfully built a QR Code Generator app. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/qrcode-generator-app). This is what it looks like:
 
 ![QR Code Generator built with Next.js and QRcode API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-qrcode-app/images/qrcode-generator-app.png)

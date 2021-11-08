@@ -47,9 +47,9 @@ Whether your team is selling APIs or consuming them, the private workspace allow
 
 ## Create a new organization on RapidAPI Teams
 
-Enough talk, let’s go ahead and create our new organization in RapidAPI Teams. Navigate to the [Teams page](https://rapidapi.com/products/teams/?utm_source=rapidapi.com/guides&utm_medium=DevRel&utm_campaign=DevRel). [Create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=rapidapi.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already.
+Enough talk, let’s go ahead and create our new organization in RapidAPI Teams. Navigate to the [Teams page](https://rapidapi.com/products/teams/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). [Create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already.
 
-Once you’re logged in, click the [explore teams](https://rapidapi.com/org/organizations/create?utm_source=rapidapi.com/guides&utm_medium=DevRel&utm_campaign=DevRel) button. You will end up on this page, where you can start adding information to create your organization.
+Once you’re logged in, click the [explore teams](https://rapidapi.com/org/organizations/create?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) button. You will end up on this page, where you can start adding information to create your organization.
 
 ![Creating a new organization](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/guides/posts/rapidapi-teams/images/dashboard.jpg)
 
