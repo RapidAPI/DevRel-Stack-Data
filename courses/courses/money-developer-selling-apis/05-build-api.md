@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=345)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=345"
+  title="Build the API"
+/>

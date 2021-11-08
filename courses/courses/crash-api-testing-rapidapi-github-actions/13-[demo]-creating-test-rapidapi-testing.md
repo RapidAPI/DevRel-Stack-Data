@@ -10,4 +10,9 @@ authors:
   - naveenKumarNamachivayam
 ---
 
-!(https://youtu.be/yCE7QvwG1-c?t=623)
+<Embed
+  type="youtube"
+  url="https://youtu.be/yCE7QvwG1-c?t=623"
+  title="[Demo] Creating a Test in RapidAPI Testing"
+/>
+

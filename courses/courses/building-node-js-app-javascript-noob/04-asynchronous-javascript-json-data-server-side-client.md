@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=863)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=863"
+  title="Use asynchronous JavaScript to get JSON data from server-side to client"
+/>

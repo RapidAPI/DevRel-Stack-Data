@@ -10,4 +10,8 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/GpYboktUnTY?t=593)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GpYboktUnTY?t=593"
+  title="The Host"
+/>

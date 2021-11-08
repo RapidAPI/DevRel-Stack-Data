@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/be9sHQ7xqo0?t=157)
+<Embed
+  type="youtube"
+  url="https://youtu.be/be9sHQ7xqo0?t=157"
+  title="About APIs and Setup"
+/>

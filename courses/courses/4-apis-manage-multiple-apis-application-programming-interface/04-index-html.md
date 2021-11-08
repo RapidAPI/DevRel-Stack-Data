@@ -10,4 +10,9 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/NFToND6x_nI?t=238)
+
+<Embed
+  type="youtube"
+  url="https://youtu.be/NFToND6x_nI?t=238"
+  title="index.html"
+/>

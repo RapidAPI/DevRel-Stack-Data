@@ -10,4 +10,8 @@ authors:
   - naveenKumarNamachivayam
 ---
 
-!(https://youtu.be/yCE7QvwG1-c?t=516)
+<Embed
+  type="youtube"
+  url="https://youtu.be/yCE7QvwG1-c?t=516"
+  title="[Demo] RapidAPI Provide Dashboard"
+/>

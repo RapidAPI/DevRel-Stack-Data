@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=429)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=429"
+  title="Project Setup"
+/>

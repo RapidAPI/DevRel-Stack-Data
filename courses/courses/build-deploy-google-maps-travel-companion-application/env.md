@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=7568)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=7568"
+  title="ENV"
+/>

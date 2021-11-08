@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=3342)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=3342"
+  title="Style the website with CSS"
+/>

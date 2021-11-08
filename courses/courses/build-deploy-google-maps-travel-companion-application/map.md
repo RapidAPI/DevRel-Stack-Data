@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=1660)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=1660"
+  title="Map"
+/>

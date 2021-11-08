@@ -10,4 +10,8 @@ authors:
   - naveenKumarNamachivayam
 ---
 
-!(https://youtu.be/yCE7QvwG1-c?t=1239)
+<Embed
+  type="youtube"
+  url="https://youtu.be/yCE7QvwG1-c?t=1239"
+  title="[Demo] Executing RapidAPI GitHub Action"
+/>

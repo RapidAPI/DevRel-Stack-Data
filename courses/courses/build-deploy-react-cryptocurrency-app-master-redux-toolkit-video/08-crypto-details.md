@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/9DDX3US3kss?t=5522)
+<Embed
+  type="youtube"
+  url="https://youtu.be/9DDX3US3kss?t=5522"
+  title="Crypto Details"
+/>

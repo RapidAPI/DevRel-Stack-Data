@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=7044)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=7044"
+  title="Weather API"
+/>

@@ -10,4 +10,8 @@ authors:
   - codeWithTomi
 ---
 
-!(https://youtu.be/Zy0k1KnkO9w?t=2377)
+<Embed
+  type="youtube"
+  url="https://youtu.be/Zy0k1KnkO9w?t=2377"
+  title="Putting Our API On RapidAPI Hub"
+/>

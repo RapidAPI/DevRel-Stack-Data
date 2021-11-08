@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/be9sHQ7xqo0?t=450)
+<Embed
+  type="youtube"
+  url="https://youtu.be/be9sHQ7xqo0?t=450"
+  title="Create a Server"
+/>

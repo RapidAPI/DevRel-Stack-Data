@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=0)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=0"
+  title="Introduction"
+/>

@@ -10,4 +10,8 @@ authors:
   - codeWithTomi
 ---
 
-!(https://youtu.be/Zy0k1KnkO9w?t=1379)
+<Embed
+  type="youtube"
+  url="https://youtu.be/Zy0k1KnkO9w?t=1379"
+  title="Deploy A Django API To Heroku"
+/>
