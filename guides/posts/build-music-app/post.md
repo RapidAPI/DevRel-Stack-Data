@@ -30,7 +30,7 @@ Today, we will be building a web application that is about music. We will see ho
 
 The stack for our app is going to be as follows. I am going to use [Next.js](https://nextjs.org/) for the client-side of our app and [TailwindCSS](https://tailwindcss.com/) for styling it.
 
-Even if you don’t know about Next.js, being familiar with react will be enough for this guide. Tailwind is a CSS framework that provides utility classes to use directly in the markup, saving time during the development process.
+Even if you don’t know about Next.js, being familiar with React will be enough for this guide. Tailwind is a CSS framework that provides utility classes to use directly in the markup, saving time during the development process.
 
 ## Choosing The API
 
@@ -101,7 +101,7 @@ export default function Home() {
 
 ### → STEP #2
 
-We want to add the functionality of searching any music or artists using Shazam. So we will need an input field where the query will go. The query will be submitted by clicking a button, so let's add both of these.
+We want to add the functionality of searching for any music or artists using Shazam. So we will need an input field where the query will go. The query will be submitted by clicking a button, so let's add both of these.
 
 ```js
 export default function Home() {
@@ -408,4 +408,4 @@ This is what our app looks like:
 
 ## Wrap Up
 
-All done. Our [music app](https://rapidapi-example-music-app.vercel.app/) is ready. Just like this, you can utilize the remaining endpoints to create a full-fledged music application. Find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/music-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+All done. Our [music app](https://rapidapi-example-music-app.vercel.app/) is ready. Just like this, you can utilize the remaining endpoints to create a full-fledged music application. Find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/music-app).

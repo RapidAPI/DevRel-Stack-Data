@@ -70,6 +70,6 @@ rql.query(`{
 }`)
 ```
 
-First, it will send a request to the database for the city. Then, using the response, it will invoke the [Open Weather API](https://rapidapi.com/community/api/open-weather-map/?utm_source=guides.rapidapi.com&utm_medium=DevRel&utm_campaign=DevRel) to find the weather in that city.
+First, it will send a request to the database for the city. Then, using the response, it will invoke the [Open Weather API](https://rapidapi.com/community/api/open-weather-map/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to find the weather in that city.
 
 Pretty neat stuff, right? You can read the documentation and explore RapidQL further in its [GitHub Repository](https://github.com/RapidAPI/rapidql).
