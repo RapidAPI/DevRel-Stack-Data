@@ -1,5 +1,17 @@
 [
   {
+    "source": "build-music-app"
+  },
+  {
+    "source": "build-qrcode-app"
+  },
+  {
+    "source": "rapidapi-teams"
+  },
+  {
+    "source": "rapidql"
+  },
+  {
     "source": "rapidapi-testing"
   },
   {
