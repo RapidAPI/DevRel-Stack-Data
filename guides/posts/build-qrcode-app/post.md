@@ -5,7 +5,7 @@ description: Let's build an app that will generate a QR code for a given input.
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
-    - bilal
+    - ahmadBilal
 category: api
 tags:
     - rapidapi

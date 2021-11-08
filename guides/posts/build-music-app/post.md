@@ -5,7 +5,7 @@ description: Let's see how we can build a music app using Shazam API.
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
-    - bilal
+    - ahmadBilal
 category: api
 tags:
     - rapidapi
