@@ -10,4 +10,8 @@ authors:
   - catalinPit
 ---
 
-!(https://youtu.be/TvRe8NLbF30?t=149)
+<Embed
+  type="youtube"
+  url="https://youtu.be/TvRe8NLbF30?t=149"
+  title="Why do we need APIs?"
+/>

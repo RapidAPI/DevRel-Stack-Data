@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/be9sHQ7xqo0?t=1722)
+<Embed
+  type="youtube"
+  url="https://youtu.be/be9sHQ7xqo0?t=1722"
+  title="RapidAPI Marketplace"
+/>

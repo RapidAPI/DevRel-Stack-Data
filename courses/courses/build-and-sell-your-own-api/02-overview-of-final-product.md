@@ -10,4 +10,8 @@ authors:
   - aniaKubow
 ---
 
-!(https://youtu.be/GK4Pl-GmPHk?t=200)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GK4Pl-GmPHk?t=200"
+  title="Overview of the final product"
+/>

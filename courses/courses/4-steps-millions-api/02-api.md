@@ -10,4 +10,8 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/GpYboktUnTY?t=11)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GpYboktUnTY?t=11"
+  title="What is an API?"
+/>

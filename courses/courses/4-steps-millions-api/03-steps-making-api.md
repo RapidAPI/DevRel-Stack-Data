@@ -10,4 +10,8 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/GpYboktUnTY?t=43)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GpYboktUnTY?t=43"
+  title="Steps to making an API"
+/>

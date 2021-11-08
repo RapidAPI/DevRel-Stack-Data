@@ -10,4 +10,8 @@ authors:
   - aniaKubow
 ---
 
-!(https://youtu.be/GK4Pl-GmPHk?t=3399)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GK4Pl-GmPHk?t=3399"
+  title="Adding Pricing Plans"
+/>

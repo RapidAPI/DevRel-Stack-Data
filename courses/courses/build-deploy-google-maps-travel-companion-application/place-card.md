@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/UKdQjQX1Pko?t=2751)
+<Embed
+  type="youtube"
+  url="https://youtu.be/UKdQjQX1Pko?t=3908"
+  title="Place Card"
+/>

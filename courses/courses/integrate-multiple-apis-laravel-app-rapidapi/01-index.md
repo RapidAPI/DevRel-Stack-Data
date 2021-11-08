@@ -10,4 +10,8 @@ authors:
   - programWithGio
 ---
 
-!(https://youtu.be/c8Zc0kbaR5I?t=0)
+<Embed
+  type="youtube"
+  url="https://youtu.be/c8Zc0kbaR5I?t=0"
+  title="How to integrate multiple APIs with your Laravel app using RapidAPI"
+/>

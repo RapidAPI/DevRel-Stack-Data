@@ -10,4 +10,8 @@ authors:
   - codeStackr
 ---
 
-!(https://youtu.be/NFToND6x_nI?t=149)
+<Embed
+  type="youtube"
+  url="https://youtu.be/NFToND6x_nI?t=149"
+  title="Project Setup (Vite.js)"
+/>

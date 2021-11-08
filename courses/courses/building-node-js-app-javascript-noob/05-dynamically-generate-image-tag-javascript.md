@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=1991)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=1991"
+  title="Dynamically generate image tag using JavaScript"
+/>

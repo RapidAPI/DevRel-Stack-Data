@@ -10,4 +10,8 @@ authors:
   - javascriptMastery
 ---
 
-!(https://youtu.be/be9sHQ7xqo0?t=1127)
+<Embed
+  type="youtube"
+  url="https://youtu.be/be9sHQ7xqo0?t=1127"
+  title="Adding endpoints"
+/>

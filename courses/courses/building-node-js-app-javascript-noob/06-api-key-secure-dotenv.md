@@ -10,4 +10,8 @@ authors:
   - coderCoder
 ---
 
-!(https://youtu.be/wYALykLb5oY?t=2707)
+<Embed
+  type="youtube"
+  url="https://youtu.be/wYALykLb5oY?t=2707"
+  title="How to keep your API key secure using dotenv"
+/>

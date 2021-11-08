@@ -10,4 +10,8 @@ authors:
   - aniaKubow
 ---
 
-!(https://youtu.be/GK4Pl-GmPHk?t=2322)
+<Embed
+  type="youtube"
+  url="https://youtu.be/GK4Pl-GmPHk?t=2322"
+  title="Getting an individual news source by parameter"
+/>
