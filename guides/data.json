@@ -1,5 +1,14 @@
 [
   {
+    "source": "build-spell-checker-app"
+  },
+  {
+    "source": "build-paraphrase-app"
+  },
+  {
+    "source": "build-movie-details-app"
+  },
+  {
     "source": "build-music-app"
   },
   {
