@@ -1,0 +1,15 @@
+{
+	"name": "devrel-stack-data",
+	"scripts": {
+		"lint": "prettier",
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"husky": "^7.0.4",
+		"lint-staged": "^11.2.6",
+		"prettier": "^2.4.1"
+	},
+	"lint-staged": {
+		"*.{js,ts,tsx,json,css,md}": "prettier --write"
+	}
+}
