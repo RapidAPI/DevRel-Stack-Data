@@ -1,6 +1,5 @@
 ---
 title: What is RapidAPI Client?
-slug: rapidapi-client
 description: RapidAPI Client is an API testing product developed by RapidAPI that provides you with all the right tools you need for API testing.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
@@ -11,7 +10,6 @@ tags:
     - rapidapi
     - rapidapi-client
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -23,11 +21,12 @@ While developing APIs, you need to test them to ensure they are working as they 
 [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides you with a product that you can use to test your APIs and make them more performant. Let’s take a look at it.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
 >
-  Learn more about using RapidAPI Hub as an API provider in this interactive guide.
+	Learn more about using RapidAPI Hub as an API provider in this interactive
+	guide.
 </Callout>
 
 ## RapidAPI Client

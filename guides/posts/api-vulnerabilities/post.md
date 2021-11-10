@@ -1,6 +1,5 @@
 ---
 title: Introduction To API Security Vulnerabilities
-slug: api-vulnerabilities
 description: Everyone is using APIs to build large-scale applications. APIs are made scalable so they can grow as an application grows.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
@@ -11,11 +10,13 @@ tags:
     - api
     - vulnerabilities
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-Everyone is using APIs to build large-scale applications. APIs are made scalable so they can grow as an application grows. You also need to ensure that your APIs are secure; otherwise, anyone can unethically access its data.
+	Everyone is using APIs to build large-scale applications. APIs are made
+	scalable so they can grow as an application grows. You also need to ensure
+	that your APIs are secure; otherwise, anyone can unethically access its
+	data.
 </Lead>
 
 There are many different vulnerabilities that you need to take care of while developing an API. Let’s take a look at some of them.

@@ -1,20 +1,20 @@
 ---
-title: "Application Programming Interface"
-description: "Let’s see what is an API and how APIs can make your life as a Developer easier."
-slug: "application-programming-interface"
+title: 'Application Programming Interface'
+description: 'Let’s see what is an API and how APIs can make your life as a Developer easier.'
 authors:
-  - pratham
+    - pratham
 category: api
 tags:
-  - api
+    - api
 publishedDate: 2021-10-13T08:00:00+08:00
 lastModifiedDate: 2021-10-13T08:00:00+08:00
-coverImage: ""
 ---
 
 <Lead>
-  API is the acronym for Application Programming Interface.
-  API is a set of definitions and protocols that allow technology products and services to communicate with each other via the internet. APIs are how apps talk to each other.
+	API is the acronym for Application Programming Interface. API is a set of
+	definitions and protocols that allow technology products and services to
+	communicate with each other via the internet. APIs are how apps talk to each
+	other.
 </Lead>
 
 API is a set of definitions and protocols that allow technology products and services to communicate with each other via the internet. APIs are how apps talk to each other.
@@ -33,14 +33,14 @@ Instead, you could use an API - a 3rd party service that already implements the 
 
 Hence we can say that APIs help developers in 4 key ways:
 
-1. APIs increase the development speed   
-By leveraging APIs — developers spend less time implementing trivial features and get more time to focus on their essential business. Execution speed matters.
+1. APIs increase the development speed
+   By leveraging APIs — developers spend less time implementing trivial features and get more time to focus on their essential business. Execution speed matters.
 
 2. APIs reduce the overall software cost
-When you need to implement and maintain less code (relying on APIs), your development cost goes down. It’s a classic Build vs Buy argument.
+   When you need to implement and maintain less code (relying on APIs), your development cost goes down. It’s a classic Build vs Buy argument.
 
-3. APIs can increase the quality of the software    
-Using a good API can make your software better. Each API component is developed by a business primarily focused on making it the best possible solution rather than one team that has to be good at many things.
+3. APIs can increase the quality of the software
+   Using a good API can make your software better. Each API component is developed by a business primarily focused on making it the best possible solution rather than one team that has to be good at many things.
 
-4. APIs yield new possibilities     
-With APIs, developers can now integrate with data sets and implement features like AI and Machine Learning that they wouldn't have been able to use before, creating new business opportunities.
+4. APIs yield new possibilities
+   With APIs, developers can now integrate with data sets and implement features like AI and Machine Learning that they wouldn't have been able to use before, creating new business opportunities.

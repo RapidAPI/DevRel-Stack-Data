@@ -1,6 +1,5 @@
 ---
 title: What are the differences between JSON and XML?
-slug: difference-json-xml
 description: XML and JSON are the two most common formats to receive data from the server. Before understanding the differences between these two, let’s see what they are first.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -11,11 +10,12 @@ tags:
     - json
     - xml
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-XML and JSON are the two most common formats to receive data from the server. Before understanding the differences between these two, let’s see what they are first.
+	XML and JSON are the two most common formats to receive data from the
+	server. Before understanding the differences between these two, let’s see
+	what they are first.
 </Lead>
 
 ## JSON

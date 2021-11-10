@@ -1,6 +1,5 @@
 ---
 title: Difference between APIs and Microservices
-slug: difference-api-microservices
 description: 'The API is like a middle man, connecting two sides; a waiter takes your order and brings you food. A microservice is an individual service in the microservice architecture.'
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
@@ -11,11 +10,12 @@ tags:
     - api
     - microservice
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are a lot of components that make an application. There is client-side code, server-side codebase, internal APIs, public APIs, microservices, etc. All these implementations work together and perform different operations.
+	There are a lot of components that make an application. There is client-side
+	code, server-side codebase, internal APIs, public APIs, microservices, etc.
+	All these implementations work together and perform different operations.
 </Lead>
 
 Let’s shed some light on APIs, microservices, and the difference between these two.
@@ -35,7 +35,7 @@ A microservice is an individual service in the microservice architecture. Micros
 Let’s take a look at the differences between APIs and microservices:
 
 | API                                                                                                          | Microservices                                                                                                                                                     |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | An API is a communication service used to send and receive data between client and server.                   | A microservice is an application design that breaks up a monolithic architecture into small, self-containing services.                                            |
 | If an API is compromised, the hacker will have access to the information transmitted through it.             | With microservices, each service is autonomous and independent from one another. So even if it is compromised, it will ideally not affect the entire application. |
 | If an API breaks, it will break the application along with it.                                               | If one microservice fails, it will not affect the whole application.                                                                                              |

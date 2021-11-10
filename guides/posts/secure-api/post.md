@@ -1,6 +1,5 @@
 ---
 title: How to make your API secure?
-slug: secure-api
 description: While creating an API is simple, the next thing that comes along with it is securing it.
 publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
@@ -10,20 +9,22 @@ category: api
 tags:
     - secure
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are many APIs available on the Internet that you can use for your applications. Anyone can build an API and make it available for everyone. While creating an API is simple, the next thing that comes along with it is securing it.
+	There are many APIs available on the Internet that you can use for your
+	applications. Anyone can build an API and make it available for everyone.
+	While creating an API is simple, the next thing that comes along with it is
+	securing it.
 </Lead>
 
 If your API is vulnerable, the users’ sensitive information will be at risk. The attacks can easily gain access to your network by exploiting vulnerabilities in your APIs. Here are some of the attacks that hackers can use against your API:
 
-- Code injection
-- Cross-site scripting
-- Distributed Denial of Service (DDoS)
-- Man-in-the-middle
-- Credential Stuffing
+-   Code injection
+-   Cross-site scripting
+-   Distributed Denial of Service (DDoS)
+-   Man-in-the-middle
+-   Credential Stuffing
 
 ## API Securing Methods
 
@@ -40,7 +41,6 @@ Your API needs to have a standard way to authenticate and authorize users to its
 ### Rating Limiting
 
 The DDoS attack can bring down your API and, with it, crashes every application that relies on your API. To prevent this, you can implement rate-limiting by setting a threshold above which requests will be rejected.
-
 
 ### Validate Input
 

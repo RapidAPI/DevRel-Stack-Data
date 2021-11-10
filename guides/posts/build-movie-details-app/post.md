@@ -1,6 +1,5 @@
 ---
 title: How to build a Movie Details App using Next.js and IMDb API?
-slug: build-movie-details-app
 description: 'There are a lot of different movie APIs available on the Internet. Instead of looking for them, you can visit RapidAPI Hub and search for "movies" to see all the available APIs.'
 publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
@@ -11,7 +10,6 @@ tags:
     - rapidapi
     - movie-details-app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -41,7 +39,7 @@ Let’s find an API that we can use to fetch the movie information. Go to [Rapid
   linkText="Read more"
   linkHref="https://rapidapi.com/learn/rest"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 You will see different search results related to all the available movie APIs. For this piece, I am using [IMDb API](https://rapidapi.com/apidojo/api/imdb8/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) by [Api Dojo](https://rapidapi.com/user/apidojo?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
@@ -68,14 +66,14 @@ This command is going to take a minute to set everything up. After generating th
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
-- `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the - - - `index.js` file that is the main entry point in your project.
-- `public` directory: This directory contains icons. You place your static files here to load later in the application.
-- `node_modules`: It’s another directory that contains all the node modules you are using in your application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the - - - `index.js` file that is the main entry point in your project.
+-   `public` directory: This directory contains icons. You place your static files here to load later in the application.
+-   `node_modules`: It’s another directory that contains all the node modules you are using in your application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 Before we move on to writing the code, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/movie-details-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are some TailwindCSS configurations I have done specifically for this project. I have added some colors that you do not have by default with TailwindCSS and set some screen sizes.
 
@@ -89,16 +87,16 @@ Open the `pages/index.js` file and remove all the existing code. After this, cop
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Movie <span className="text-secondary">Details</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Get info about any movie
-      </h3>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Movie <span className="text-secondary">Details</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Get info about any movie
+			</h3>
+		</div>
+	);
 }
 ```
 
@@ -110,67 +108,67 @@ Now let’s create an input field and search button. For this, copy the followin
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Movie <span className="text-secondary">Details</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Get info about any movie
-      </h3>
-      <div className="flex flex-col justify-between items-center w-full md:items-center">
-        <div className="flex w-full justify-center md:flex-col md:w-5/6 ">
-          <input
-            type="text"
-            className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
-            placeholder="Search for any movie..."
-          />
-          <button className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4">
-            Search
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Movie <span className="text-secondary">Details</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Get info about any movie
+			</h3>
+			<div className="flex flex-col justify-between items-center w-full md:items-center">
+				<div className="flex w-full justify-center md:flex-col md:w-5/6 ">
+					<input
+						type="text"
+						className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
+						placeholder="Search for any movie..."
+					/>
+					<button className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4">
+						Search
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
-This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS]((https://tailwindcss.com/)).
+This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS](<(https://tailwindcss.com/)>).
 
 ### → STEP #3
 
 Let’s create some states to store the user input and the movie information we will receive from the API. For this, copy-paste the following code in `pages/index.js`.
 
 ```js
-import { useState } from "react";
+import {useState} from 'react';
 
 export default function Home() {
-  const [movieName, setMovieName] = useState(null);
-  const [movieInfo, setMovieInfo] = useState(null);
+	const [movieName, setMovieName] = useState(null);
+	const [movieInfo, setMovieInfo] = useState(null);
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Movie <span className="text-secondary">Details</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Get info about any movie
-      </h3>
-      <div className="flex flex-col justify-between items-center w-full md:items-center">
-        <div className="flex w-full justify-center md:flex-col md:w-5/6 ">
-          <input
-            type="text"
-            className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
-            placeholder="Search for any movie..."
-            onChange={(e) => setMovieName(e.target.value)}
-          />
-          <button className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4">
-            Search
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Movie <span className="text-secondary">Details</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Get info about any movie
+			</h3>
+			<div className="flex flex-col justify-between items-center w-full md:items-center">
+				<div className="flex w-full justify-center md:flex-col md:w-5/6 ">
+					<input
+						type="text"
+						className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
+						placeholder="Search for any movie..."
+						onChange={e => setMovieName(e.target.value)}
+					/>
+					<button className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4">
+						Search
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -209,122 +207,128 @@ I am also going to use the code snippet of `(JavaScript) Axios` that [RapidAPI H
 Create a file called `movie` in the `pages/api` directory and copy-paste the following code there:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  if (req.method === "GET") {
-    const options = {
-      method: "GET",
-      url: "https://imdb8.p.rapidapi.com/title/find",
-      params: { q: req.query.movieName },
-      headers: {
-        "x-rapidapi-host": "imdb8.p.rapidapi.com",
-        "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
-      },
-    };
+	if (req.method === 'GET') {
+		const options = {
+			method: 'GET',
+			url: 'https://imdb8.p.rapidapi.com/title/find',
+			params: {q: req.query.movieName},
+			headers: {
+				'x-rapidapi-host': 'imdb8.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY
+			}
+		};
 
-    axios
-      .request(options)
-      .then(function (response) {
-        res.status(200).json(response.data);
-      })
-      .catch(function (error) {
-        console.error(error);
-        res.status(response.status);
-      });
-  } else {
-    res.status(400);
-  }
+		axios
+			.request(options)
+			.then(function (response) {
+				res.status(200).json(response.data);
+			})
+			.catch(function (error) {
+				console.error(error);
+				res.status(response.status);
+			});
+	} else {
+		res.status(400);
+	}
 }
 ```
 
 Now let’s create a function in the `pages/index.js` file to request the `http://localhost:3000/api/movie` for the movie details. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
-import { useState } from "react";
-import Image from "next/image";
-import Link from "next/link";
-import axios from "axios";
+import {useState} from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
+import axios from 'axios';
 
 export default function Home() {
-  const [movieName, setMovieName] = useState(null);
-  const [movieInfo, setMovieInfo] = useState(null);
+	const [movieName, setMovieName] = useState(null);
+	const [movieInfo, setMovieInfo] = useState(null);
 
-  /**
-   *
-   *
-   * Fetch Movie Info from the IMDB
-   */
-  const fetchMovieInfo = async () => {
-    try {
-      const res = await axios.get(`http://localhost:3000/api/movie`, {
-        params: { movieName },
-      });
-      const { data } = res;
-      const { results } = data;
-      setMovieInfo(results[0]);
-    } catch (err) {
-      console.log(err);
-    }
-  };
+	/**
+	 *
+	 *
+	 * Fetch Movie Info from the IMDB
+	 */
+	const fetchMovieInfo = async () => {
+		try {
+			const res = await axios.get(`http://localhost:3000/api/movie`, {
+				params: {movieName}
+			});
+			const {data} = res;
+			const {results} = data;
+			setMovieInfo(results[0]);
+		} catch (err) {
+			console.log(err);
+		}
+	};
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Movie <span className="text-secondary">Details</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Get info about any movie
-      </h3>
-      <div className="flex flex-col justify-between items-center w-full md:items-center">
-        <div className="flex w-full justify-center md:flex-col md:w-5/6 ">
-          <input
-            type="text"
-            className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
-            placeholder="Search for any movie..."
-            onChange={(e) => setMovieName(e.target.value)}
-          />
-          <button
-            className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4"
-            onClick={fetchMovieInfo}
-          >
-            Search
-          </button>
-        </div>
-        {movieInfo && (
-          <div className="flex mt-12 w-3/6 h-4/5 border border-primary md:flex-col md:w-4/6 md:h-full md:mb-12">
-            <Image
-              src={movieInfo.image.url}
-              width={220}
-              height={300}
-              alt={movieInfo.title}
-            />
-            <div className="flex flex-col justify-center ml-8 md:mt-6">
-              <h2 className="text-primary text-xl text-raleway font-bold tracking-wider md:text-base">
-                <span className="text-secondary uppercase">Title: </span>{" "}
-                {movieInfo.title}
-              </h2>
-              <h2 className="text-primary text-xl text-raleway font-bold mt-8 tracking-wider md:text-base md:mt-6">
-                <span className="text-secondary uppercase">Year: </span>{" "}
-                {movieInfo.year}
-              </h2>
-              <h2 className="text-primary text-xl text-raleway font-bold mt-8 tracking-wider md:text-base md:mt-6">
-                <span className="text-secondary uppercase">Run Time: </span>{" "}
-                {movieInfo.runningTimeInMinutes}
-              </h2>
-              <Link href={`https://www.imdb.com${movieInfo.id}`}>
-                <a>
-                  <button className="outline-none border border-danger font-bold font-raleway mt-8 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:my-4">
-                    Visit on IMDB
-                  </button>
-                </a>
-              </Link>
-            </div>
-          </div>
-        )}
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Movie <span className="text-secondary">Details</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Get info about any movie
+			</h3>
+			<div className="flex flex-col justify-between items-center w-full md:items-center">
+				<div className="flex w-full justify-center md:flex-col md:w-5/6 ">
+					<input
+						type="text"
+						className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
+						placeholder="Search for any movie..."
+						onChange={e => setMovieName(e.target.value)}
+					/>
+					<button
+						className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4"
+						onClick={fetchMovieInfo}
+					>
+						Search
+					</button>
+				</div>
+				{movieInfo && (
+					<div className="flex mt-12 w-3/6 h-4/5 border border-primary md:flex-col md:w-4/6 md:h-full md:mb-12">
+						<Image
+							src={movieInfo.image.url}
+							width={220}
+							height={300}
+							alt={movieInfo.title}
+						/>
+						<div className="flex flex-col justify-center ml-8 md:mt-6">
+							<h2 className="text-primary text-xl text-raleway font-bold tracking-wider md:text-base">
+								<span className="text-secondary uppercase">
+									Title:{' '}
+								</span>{' '}
+								{movieInfo.title}
+							</h2>
+							<h2 className="text-primary text-xl text-raleway font-bold mt-8 tracking-wider md:text-base md:mt-6">
+								<span className="text-secondary uppercase">
+									Year:{' '}
+								</span>{' '}
+								{movieInfo.year}
+							</h2>
+							<h2 className="text-primary text-xl text-raleway font-bold mt-8 tracking-wider md:text-base md:mt-6">
+								<span className="text-secondary uppercase">
+									Run Time:{' '}
+								</span>{' '}
+								{movieInfo.runningTimeInMinutes}
+							</h2>
+							<Link href={`https://www.imdb.com${movieInfo.id}`}>
+								<a>
+									<button className="outline-none border border-danger font-bold font-raleway mt-8 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:my-4">
+										Visit on IMDB
+									</button>
+								</a>
+							</Link>
+						</div>
+					</div>
+				)}
+			</div>
+		</div>
+	);
 }
 ```
 

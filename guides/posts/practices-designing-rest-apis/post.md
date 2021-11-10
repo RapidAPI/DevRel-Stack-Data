@@ -1,20 +1,22 @@
 ---
-title: "Best Practices for Designing REST APIs"
-slug: "practices-designing-rest-apis"
-description: "Take a look at best practices for designing a REST API."
+title: 'Best Practices for Designing REST APIs'
+description: 'Take a look at best practices for designing a REST API.'
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:
   - saad
-category: Best Practices
+category: bestPractices
 tags:
-  - best-practices
-coverImage: ""
-draft: false
+    - best-practices
+coverImage: ''
 ---
 
 <Lead>
-REST API is the most common type of API, and many people often confuse the term API with the REST API. REST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. It connects your backend with your frontend so they can communicate with each other.
+	REST API is the most common type of API, and many people often confuse the
+	term API with the REST API. REST APIs allow you to perform CRUD (create,
+	read, update, and delete) operations between a client and a server. It
+	connects your backend with your frontend so they can communicate with each
+	other.
 </Lead>
 
 While working with REST API is simple, there are some practices that you should follow if you are developing one. Let’s take a look at them.

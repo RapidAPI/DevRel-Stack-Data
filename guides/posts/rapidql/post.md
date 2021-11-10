@@ -1,21 +1,20 @@
 ---
 title: How to use RapidQL to get data from multiple APIs and databases
-slug: rapidql
-description:  RapidQL lets developers query multiple API resources and databases at a time, combining them to create one unified query.
+description: RapidQL lets developers query multiple API resources and databases at a time, combining them to create one unified query.
 publishedDate: 2021-10-02T19:10:30.765Z
 lastModifiedDate: 2021-10-02T19:10:30.765Z
 authors:
   - ahmadBilal
-category: RapidAPI
+category: rapidapi
 tags:
-  - api
-  - rapidql
+    - api
+    - rapidql
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-RapidQL lets developers query more than one API resource and database at a time, combining them to create one unified query.
+	RapidQL lets developers query more than one API resource and database at a
+	time, combining them to create one unified query.
 </Lead>
 
 ## RapidQL
@@ -67,7 +66,7 @@ rql.query(`{
         )
         {}
     }
-}`)
+}`);
 ```
 
 First, it will send a request to the database for the city. Then, using the response, it will invoke the [Open Weather API](https://rapidapi.com/community/api/open-weather-map/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to find the weather in that city.

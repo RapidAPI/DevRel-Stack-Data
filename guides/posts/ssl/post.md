@@ -1,6 +1,5 @@
 ---
 title: What is SSL?
-slug: ssl
 description: There are various ways for implementing website security, and one of them is SSL.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
@@ -10,11 +9,12 @@ category: http
 tags:
     - ssl
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The websites you develop must be secure; otherwise, users' data may fall prey to different hacking attacks. There are various ways for implementing website security, and one of them is SSL. Let's take a look at it.
+	The websites you develop must be secure; otherwise, users' data may fall
+	prey to different hacking attacks. There are various ways for implementing
+	website security, and one of them is SSL. Let's take a look at it.
 </Lead>
 
 ## SSL

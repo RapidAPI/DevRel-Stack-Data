@@ -1,6 +1,5 @@
 ---
 title: What is OpenAPI spec?
-slug: open-api-spec
 description: There are different kinds of specifications available that you can use while building an API.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -12,11 +11,13 @@ tags:
     - open-api
     - specs
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are different kinds of specifications available that you can use while building an API. These specifications provide a standard for data exchange between web services, and one of these specifications is REST that further follows OpenAPI specifications.
+	There are different kinds of specifications available that you can use while
+	building an API. These specifications provide a standard for data exchange
+	between web services, and one of these specifications is REST that further
+	follows OpenAPI specifications.
 </Lead>
 
 ## OpenAPI Specification

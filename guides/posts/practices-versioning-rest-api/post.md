@@ -1,20 +1,21 @@
 ---
 title: Best Practices for Versioning REST APIs
-slug: practices-versioning-rest-api
 description: To version REST APIs, there are some practices that should be followed. Let's take a look at some of them.
 publishedDate: 2021-10-07T17:01:53.644Z
 lastModifiedDate: 2021-10-07T17:01:53.644Z
 authors:
   - saad
-category: Best Practices
+category: bestPractices
 tags:
-  - best-practices
+    - best-practices
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The REST API is used to get data from the server. The client requests a record, the API takes that request to the server, the server fetches the record from the database, and lastly, the REST API brings it back to the client.
+	The REST API is used to get data from the server. The client requests a
+	record, the API takes that request to the server, the server fetches the
+	record from the database, and lastly, the REST API brings it back to the
+	client.
 </Lead>
 
 You develop a REST API when you are building a full-stack application. You can also build public REST APIs and monetize them using [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).

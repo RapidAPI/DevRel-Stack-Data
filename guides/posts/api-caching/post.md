@@ -1,20 +1,23 @@
 ---
 title: How does API caching work?
-slug: api-caching
 description: REST APIs cache its response. This cache can be used to fetch the same response later. Let's take a look at it.
 publishedDate: 2021-10-07T17:01:53.644Z
 lastModifiedDate: 2021-10-07T17:01:53.644Z
 authors:
-  - saad
+    - saad
 category: api
 tags:
-  - cache
+    - cache
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-A REST API works by sending a request to the server and getting a response in return. Every time you request data, it uses the GET method to fetch that information. Do you think that if you visit a different page of the same website and then get back to the original page, another GET request will be sent to the server to get the same data? The answer to it is no. Let’s take a look at it.
+	A REST API works by sending a request to the server and getting a response
+	in return. Every time you request data, it uses the GET method to fetch that
+	information. Do you think that if you visit a different page of the same
+	website and then get back to the original page, another GET request will be
+	sent to the server to get the same data? The answer to it is no. Let’s take
+	a look at it.
 </Lead>
 
 ## API Caching
@@ -25,9 +28,9 @@ When a client requests some resources, the request first goes through a cache an
 
 There are three types of caches:
 
-- Client Cache
-- Server Cache
-- Proxy Cache
+-   Client Cache
+-   Server Cache
+-   Proxy Cache
 
 The client cache caches the response on the browser level. The server cache does the same thing but on the server. And proxy cache implements caching on the proxy server between the client and the server.
 
@@ -41,7 +44,7 @@ The PUT and DELETE methods’ responses are not cacheable.
 
 There are several benefits of caching your API’s response. Here are some of them:
 
-- Your quality of service improves.
-- The website consumes less bandwidth.
-- The website latency decreases.
-- Server load also decreases.
+-   Your quality of service improves.
+-   The website consumes less bandwidth.
+-   The website latency decreases.
+-   Server load also decreases.

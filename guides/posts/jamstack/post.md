@@ -1,6 +1,5 @@
 ---
 title: What is Jamstack?
-slug: jamstack
 description: 'Over the years, Jamstack is becoming more and more popular, and developers have started to adopt it to build entire applications.'
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
@@ -10,7 +9,6 @@ category: api
 tags:
     - jamstack
 coverImage: ''
-draft: false
 ---
 
 <Lead>

@@ -1,22 +1,21 @@
 ---
 title: Share and Collaborate on APIs using RapidAPI for Teams
-slug: rapidapi-teams
 description: If your team consumes, develops, or manages APIs, try Rapid API Teams. Today, more than 60,000 teams are using it for collaborating on APIs.
 publishedDate: 2021-10-02T19:10:30.765Z
 lastModifiedDate: 2021-10-02T19:10:30.765Z
 authors:
   - ahmadBilal
-category: RapidAPI
+category: rapidapi
 tags:
-  - api
-  - teams
-  - collaboration
+    - api
+    - teams
+    - collaboration
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-If your team consumes, develops, or manages APIs, then consider Rapid API Teams. Today, more than 60,000 teams are using it for collaborating on APIs.
+	If your team consumes, develops, or manages APIs, then consider Rapid API
+	Teams. Today, more than 60,000 teams are using it for collaborating on APIs.
 </Lead>
 
 It lets you share, publish and collaborate on your APIs in a private workspace.

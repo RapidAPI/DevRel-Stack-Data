@@ -1,6 +1,5 @@
 ---
 title: Best Practices for Designing SOAP APIs
-slug: practices-designing-soap-api
 description: Take a look at best practices for designing a SOAP API.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
@@ -10,11 +9,15 @@ category: Best Practices
 tags:
     - best-practices
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are multiple ways that you can use to request data from the server. Some of the most common are REST and SOAP API. The web service called SOAP (Simple Object Access Protocol) provides a way for the client to communicate with the server. Any web service that complies with the SOAP web services specification is a SOAP web service. The W3C (World Wide Web Consortium) is behind these specifications.
+	There are multiple ways that you can use to request data from the server.
+	Some of the most common are REST and SOAP API. The web service called SOAP
+	(Simple Object Access Protocol) provides a way for the client to communicate
+	with the server. Any web service that complies with the SOAP web services
+	specification is a SOAP web service. The W3C (World Wide Web Consortium) is
+	behind these specifications.
 </Lead>
 
 If you are planning to implement a SOAP API, there are some best practices that you should adopt. Let’s take a look at some of them.

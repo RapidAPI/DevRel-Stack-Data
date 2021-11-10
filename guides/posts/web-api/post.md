@@ -1,6 +1,5 @@
 ---
 title: What is the Web API?
-slug: web-api
 description: Take a look at what Web API is and for what it is used.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
@@ -10,7 +9,6 @@ category: Web API
 tags:
     - web-api
 coverImage: ''
-draft: false
 ---
 
 There are several kinds of APIs available. The REST API, SOAP API, and GraphQL API help establish communication between a client and a server. The browser API is used to develop browser extensions or any product that needs to control the browser settings. Similarly, there are Web APIs that you use to code websites.

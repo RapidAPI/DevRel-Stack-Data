@@ -1,6 +1,5 @@
 ---
 title: How to build a weather app using Next.js and WeatherAPI?
-slug: build-weather-app
 description: RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs available. Let's build an application using one of the APIs from RapidAPI.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
@@ -11,11 +10,13 @@ tags:
     - rapidapi
     - weather-app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs available. Anyone can build an API and monetize it on RapidAPI. The developers use these APIs in their applications. They can try the API for free, and if they like it, they can purchase them.
+	RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs
+	available. Anyone can build an API and monetize it on RapidAPI. The
+	developers use these APIs in their applications. They can try the API for
+	free, and if they like it, they can purchase them.
 </Lead>
 
 Today, I have decided to use one of the APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and build a small application from it. Let’s build this application together.
@@ -56,14 +57,14 @@ This command is going to take a minute to set everything up. After it is finishe
 
 When you will open the project in your code editor, you will see the following directories and files in the root directory:
 
-- `pages` directory — Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
-- `public` directory — This directory contains icons. You place your static files here to load later in the application.
-- `node_modules` — It’s another directory that contains all the node modules you are using in your application.
-- `package.json` — This file contains the metadata of your project.
-- `package-lock.json` — This file is responsible for tracking the exact version of every package that is installed.
-- `postcss.config.js` — This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js` — It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md` — It’s a markdown file for documentation.
+-   `pages` directory — Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
+-   `public` directory — This directory contains icons. You place your static files here to load later in the application.
+-   `node_modules` — It’s another directory that contains all the node modules you are using in your application.
+-   `package.json` — This file contains the metadata of your project.
+-   `package-lock.json` — This file is responsible for tracking the exact version of every package that is installed.
+-   `postcss.config.js` — This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js` — It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md` — It’s a markdown file for documentation.
 
 Now let’s create the user interface of our application. I am going to do it in steps.
 
@@ -73,15 +74,15 @@ Open the `pages/index.js` file and remove all the boilerplate code. You can copy
 
 ```js
 export default function Home() {
- return (
-  <div className="flex justify-center items-center h-screen flex-col">
-   <div>
-    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-     Weather App
-    </h2>
-   </div>
-  </div>
- );
+	return (
+		<div className="flex justify-center items-center h-screen flex-col">
+			<div>
+				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+					Weather App
+				</h2>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -128,59 +129,59 @@ We also need to do error handling in case the API responds with status code 404.
 Here is the code till this point:
 
 ```js
-import { useState } from 'react';
+import {useState} from 'react';
 import axios from 'axios';
 
 export default function Home() {
- const [temp, setTemp] = useState(null);
- const [minTemp, setMinTemp] = useState('');
- const [maxTemp, setMaxTemp] = useState('');
- const [err, setErr] = useState(false);
+	const [temp, setTemp] = useState(null);
+	const [minTemp, setMinTemp] = useState('');
+	const [maxTemp, setMaxTemp] = useState('');
+	const [err, setErr] = useState(false);
 
- return (
-  <div className="flex justify-center items-center h-screen flex-col">
-   <div>
-    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-     Weather App
-    </h2>
-   </div>
-   <div className="flex sm:flex-col">
-    <input
-     type="text"
-     placeholder="City..."
-     className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
-     onChange={e => setCity(e.target.value)}
-    />
-    <button
-     onClick={getWeather}
-     className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
-    >
-     Search
-    </button>
-   </div>
-   {temp && (
-    <div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-     <div className="flex mb-4">
-      <p className="w-64 sm:w-41">Temperature:</p>
-      <p>{temp} ° C</p>
-     </div>
-     <div className="flex mb-4 sm:w-41">
-      <p className="w-64">Temperature Min:</p>
-      <p>{minTemp}° C</p>
-     </div>
-     <div className="flex">
-      <p className="w-64 sm:w-41">Temperature Max:</p>
-      <p>{maxTemp}° C</p>
-     </div>
-    </div>
-   )}
-   {err && (
-    <div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-     <p>Couldn't fetch weather results.</p>
-    </div>
-   )}
-  </div>
- );
+	return (
+		<div className="flex justify-center items-center h-screen flex-col">
+			<div>
+				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+					Weather App
+				</h2>
+			</div>
+			<div className="flex sm:flex-col">
+				<input
+					type="text"
+					placeholder="City..."
+					className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
+					onChange={e => setCity(e.target.value)}
+				/>
+				<button
+					onClick={getWeather}
+					className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
+				>
+					Search
+				</button>
+			</div>
+			{temp && (
+				<div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+					<div className="flex mb-4">
+						<p className="w-64 sm:w-41">Temperature:</p>
+						<p>{temp} ° C</p>
+					</div>
+					<div className="flex mb-4 sm:w-41">
+						<p className="w-64">Temperature Min:</p>
+						<p>{minTemp}° C</p>
+					</div>
+					<div className="flex">
+						<p className="w-64 sm:w-41">Temperature Max:</p>
+						<p>{maxTemp}° C</p>
+					</div>
+				</div>
+			)}
+			{err && (
+				<div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+					<p>Couldn't fetch weather results.</p>
+				</div>
+			)}
+		</div>
+	);
 }
 ```
 
@@ -210,103 +211,103 @@ RapidAPI Hub provides you with code snippets in different languages for integrat
 
 ![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-weather-app/images/code-snippet.jpg)
 
-Now I need to save the user input in the state variable ‘city` so it can be sent through the API later. For this, I am setting the `onChange` event in the `input` tag. I am also writing a `getWeather` function that will make the API call when the search button is clicked. Once the API provides a response, the data will be saved in the state variables.
+Now I need to save the user input in the state variable ‘city`so it can be sent through the API later. For this, I am setting the`onChange`event in the`input`tag. I am also writing a`getWeather` function that will make the API call when the search button is clicked. Once the API provides a response, the data will be saved in the state variables.
 
 Here is the code so far:
 
 ```js
-import { useState } from 'react';
+import {useState} from 'react';
 import axios from 'axios';
 
 export default function Home() {
- const [city, setCity] = useState('');
- const [temp, setTemp] = useState(null);
- const [minTemp, setMinTemp] = useState('');
- const [maxTemp, setMaxTemp] = useState('');
- const [err, setErr] = useState(false);
+	const [city, setCity] = useState('');
+	const [temp, setTemp] = useState(null);
+	const [minTemp, setMinTemp] = useState('');
+	const [maxTemp, setMaxTemp] = useState('');
+	const [err, setErr] = useState(false);
 
- /**
-  *
-  * fetch weather information of the given city
-  */
- const getWeather = () => {
-  // resetting states
-  setErr(false);
-  setTemp(null);
+	/**
+	 *
+	 * fetch weather information of the given city
+	 */
+	const getWeather = () => {
+		// resetting states
+		setErr(false);
+		setTemp(null);
 
-  const options = {
-   method: 'GET',
-   url: 'https://community-open-weather-map.p.rapidapi.com/weather',
-   params: { q: `${city}`, units: 'metric' },
-   headers: {
-    'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',
-    'x-rapidapi-key': process.env.NEXT_PUBLIC_OPEN_WEATHER_API_KEY
-   }
-  };
+		const options = {
+			method: 'GET',
+			url: 'https://community-open-weather-map.p.rapidapi.com/weather',
+			params: {q: `${city}`, units: 'metric'},
+			headers: {
+				'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_OPEN_WEATHER_API_KEY
+			}
+		};
 
-  axios
-   .request(options)
-   .then(function (response) {
-    console.log(response.data);
-    const { data } = response;
-    const newTemp = Math.ceil(data.main.temp);
-    const newMinTemp = Math.ceil(data.main.temp_min);
-    const newMaxTemp = Math.ceil(data.main.temp_max);
+		axios
+			.request(options)
+			.then(function (response) {
+				console.log(response.data);
+				const {data} = response;
+				const newTemp = Math.ceil(data.main.temp);
+				const newMinTemp = Math.ceil(data.main.temp_min);
+				const newMaxTemp = Math.ceil(data.main.temp_max);
 
-    setTemp(newTemp);
-    setMinTemp(newMinTemp);
-    setMaxTemp(newMaxTemp);
-   })
-   .catch(function (error) {
-    console.error(error);
-    setErr(true);
-   });
- };
+				setTemp(newTemp);
+				setMinTemp(newMinTemp);
+				setMaxTemp(newMaxTemp);
+			})
+			.catch(function (error) {
+				console.error(error);
+				setErr(true);
+			});
+	};
 
- return (
-  <div className="flex justify-center items-center h-screen flex-col">
-   <div>
-    <h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
-     Weather App
-    </h2>
-   </div>
-   <div className="flex sm:flex-col">
-    <input
-     type="text"
-     placeholder="City..."
-     className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
-     onChange={e => setCity(e.target.value)}
-    />
-    <button
-     onClick={getWeather}
-     className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
-    >
-     Search
-    </button>
-   </div>
-   {temp && (
-    <div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-     <div className="flex mb-4">
-      <p className="w-64 sm:w-41">Temperature:</p>
-      <p>{temp} ° C</p>
-     </div>
-     <div className="flex mb-4 sm:w-41">
-      <p className="w-64">Temperature Min:</p>
-      <p>{minTemp}° C</p>
-     </div>
-     <div className="flex">
-      <p className="w-64 sm:w-41">Temperature Max:</p>
-      <p>{maxTemp}° C</p>
-     </div>
-    </div>
-   )}
-   {err && (
-    <div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
-     <p>Couldn't fetch weather results.</p>
-    </div>
-   )}
-  </div>
- );
+	return (
+		<div className="flex justify-center items-center h-screen flex-col">
+			<div>
+				<h2 className="font-raleway text-5xl font-extrabold mb-10 sm:text-4xl">
+					Weather App
+				</h2>
+			</div>
+			<div className="flex sm:flex-col">
+				<input
+					type="text"
+					placeholder="City..."
+					className="outline-indigo mr-6 rounded-sm pl-4 w-64 font-raleway sm:mr-0 sm:mb-4 sm:py-1"
+					onChange={e => setCity(e.target.value)}
+				/>
+				<button
+					onClick={getWeather}
+					className="outline-none border-none font-bold font-raleway px-12 py-2 rounded-sm bg-indigo-300 text-gray-700 transition duration-300 hover:bg-indigo-600 hover:text-white"
+				>
+					Search
+				</button>
+			</div>
+			{temp && (
+				<div className="mt-10 flex flex-col justify-start bg-indigo-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+					<div className="flex mb-4">
+						<p className="w-64 sm:w-41">Temperature:</p>
+						<p>{temp} ° C</p>
+					</div>
+					<div className="flex mb-4 sm:w-41">
+						<p className="w-64">Temperature Min:</p>
+						<p>{minTemp}° C</p>
+					</div>
+					<div className="flex">
+						<p className="w-64 sm:w-41">Temperature Max:</p>
+						<p>{maxTemp}° C</p>
+					</div>
+				</div>
+			)}
+			{err && (
+				<div className="mt-10 bg-red-200 px-12 py-4 rounded font-raleway text-xl font-semibold text-gray-700 sm:text-base sm:px-8">
+					<p>Couldn't fetch weather results.</p>
+				</div>
+			)}
+		</div>
+	);
 }
 ```
 

@@ -1,6 +1,5 @@
 ---
 title: Introduction to the Fetch API
-slug: fetch-api
 description: Fetch API is a Web API that uses promises to make network requests over the HTTP/1.1 protocol.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
@@ -10,7 +9,6 @@ category: Web API
 tags:
     - fetch-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -31,12 +29,12 @@ Let’s take a look at how you can use fetch API.
 
 ```js
 fetch(`YOUR-API`)
-.then(res => {
-  res = res.json();
- })
- .catch(err => {
-  console.log(err);
- });
+	.then(res => {
+		res = res.json();
+	})
+	.catch(err => {
+		console.log(err);
+	});
 ```
 
 You call the fetch API by invoking the `fetch` function. Since it returns a promise, you can use `then` to capture the response. The `catch` will capture any error you may encounter while making an API request. If you do not specify the HTTP method, the fetch API will use GET by default.
@@ -45,17 +43,17 @@ If you want to make a POST, PUT or DELETE request, you will need to provide a se
 
 ```js
 fetch(`YOUR-API`, {
- method: 'METHOD-NAME',
- body: JSON.stringify({
-  payLoadkey: `value`,
- }),
+	method: 'METHOD-NAME',
+	body: JSON.stringify({
+		payLoadkey: `value`
+	})
 })
-.then(res => {
- res = res.json();
-})
-.catch(err => {
- console.log(err);
-});
+	.then(res => {
+		res = res.json();
+	})
+	.catch(err => {
+		console.log(err);
+	});
 ```
 
 You can call any REST API using the fetch API in your websites.

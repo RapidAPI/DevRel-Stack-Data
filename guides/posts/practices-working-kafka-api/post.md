@@ -1,6 +1,5 @@
 ---
 title: Best Practices for Working with Kafka API
-slug: practices-working-kafka-api
 description: 'Apache Kafka is an event streaming platform that provides five core APIs for Java and Scala: Admin API, Producer API, Consumer API, Stream API, and Kafka Connect API.'
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
@@ -12,7 +11,6 @@ tags:
     - kafka
     - best-practices
 coverImage: ''
-draft: false
 ---
 
 <Lead>

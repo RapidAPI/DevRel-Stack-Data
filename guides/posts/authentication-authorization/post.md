@@ -1,6 +1,5 @@
 ---
 title: Introduction to Authentication and Authorization
-slug: authentication-authorization
 description: 'Authentication and authorization are two different features that often play a crucial role in your application’s security, and you implement them using APIs.'
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
@@ -11,11 +10,13 @@ tags:
     - authentication
     - authorization
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are different kinds of APIs that you can use for client-server communication. There are REST APIs, GraphQL APIs, gRPC, SOAP APIs. Each of these provides various options, and you can implement all kinds of features for your app using them.
+	There are different kinds of APIs that you can use for client-server
+	communication. There are REST APIs, GraphQL APIs, gRPC, SOAP APIs. Each of
+	these provides various options, and you can implement all kinds of features
+	for your app using them.
 </Lead>
 
 Authentication and authorization are two different features that often play a crucial role in your application’s security, and you implement them using APIs. Let’s take a look at them.
