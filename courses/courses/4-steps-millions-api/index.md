@@ -7,15 +7,15 @@ coverImage: ''
 authors:
     - codeStackr
 modules:
-    - source: 4-steps-millions-api/index.md
+    - source: index
 lessons:
-    - source: 4-steps-millions-api/01-intro.md
-    - source: 4-steps-millions-api/02-api.md
-    - source: 4-steps-millions-api/03-steps-making-api.md
-    - source: 4-steps-millions-api/04-idea.md
-    - source: 4-steps-millions-api/05-build.md
-    - source: 4-steps-millions-api/06-host.md
-    - source: 4-steps-millions-api/07-sell.md
-    - source: 4-steps-millions-api/08-conclusion.md
+    - source: 01-intro
+    - source: 02-api
+    - source: 03-steps-making-api
+    - source: 04-idea
+    - source: 05-build
+    - source: 06-host
+    - source: 07-sell
+    - source: 08-conclusion
 videoId: GpYboktUnTY
 ---

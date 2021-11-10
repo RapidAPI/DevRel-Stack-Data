@@ -7,8 +7,8 @@ coverImage: ''
 authors:
     - sirajRaval
 modules:
-    - source: convolutional-networks-heart-disease-prediction/index.md
+    - source: index
 lessons:
-    - source: convolutional-networks-heart-disease-prediction/01-index.md
+    - source: 01-index
 videoId: fGv6VmfGMLc
 ---

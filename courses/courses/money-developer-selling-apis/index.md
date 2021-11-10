@@ -7,15 +7,15 @@ coverImage: ''
 authors:
     - catalinPit
 modules:
-    - source: money-developer-selling-apis/index.md
+    - source: index
 lessons:
-    - source: money-developer-selling-apis/01-introduction.md
-    - source: money-developer-selling-apis/02-api.md
-    - source: money-developer-selling-apis/03-apis.md
-    - source: money-developer-selling-apis/04-rapidapi-hub.md
-    - source: money-developer-selling-apis/05-build-api.md
-    - source: money-developer-selling-apis/06-deploy-api.md
-    - source: money-developer-selling-apis/07-rapidapi-monetize-api.md
-    - source: money-developer-selling-apis/08-leaving.md
+    - source: 01-introduction
+    - source: 02-api
+    - source: 03-apis
+    - source: 04-rapidapi-hub
+    - source: 05-build-api
+    - source: 06-deploy-api
+    - source: 07-rapidapi-monetize-api
+    - source: 08-leaving
 videoId: TvRe8NLbF30
 ---

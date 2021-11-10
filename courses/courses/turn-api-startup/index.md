@@ -7,14 +7,14 @@ coverImage: ''
 authors:
     - javascriptMastery
 modules:
-    - source: turn-api-startup/index.md
+    - source: index
 lessons:
-    - source: turn-api-startup/intro.md
-    - source: turn-api-startup/about-apis-and-setup.md
-    - source: turn-api-startup/create-server.md
-    - source: turn-api-startup/adding-endpoints.md
-    - source: turn-api-startup/deployment-preparation.md
-    - source: turn-api-startup/hosting.md
-    - source: turn-api-startup/rapidapi-marketplace.md
+    - source: intro
+    - source: about-apis-and-setup
+    - source: create-server
+    - source: adding-endpoints
+    - source: deployment-preparation
+    - source: hosting
+    - source: rapidapi-marketplace
 videoId: be9sHQ7xqo0
 ---

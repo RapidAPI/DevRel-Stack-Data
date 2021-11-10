@@ -1,6 +1,5 @@
 ---
 title: How to use RapidAPI Client - An API Developer Tool
-slug: use-rapidapi-client
 description: RapidAPI Client is a cross-platform fully-featured API developer tool. Available for Web, macOS, Windows, and Linux, it offers an API client to debug, test, and interact with HTTP APIs.
 publishedDate: 2021-11-11T16:18:42.178Z
 lastModifiedDate: 2021-11-11T16:18:42.178Z
@@ -12,7 +11,6 @@ tags:
     - rapidapi-client
     - api-tool
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -73,7 +71,7 @@ The response is shown in a JSON Tree by default. You can choose multiple formats
 
 ## → FINAL STEP: Analyzing the API call
 
-Click on the **Info** tab in the response section. Here we can see  header response times, total response time, size of the response and more. You can test and evaluate your API's performance easily.
+Click on the **Info** tab in the response section. Here we can see header response times, total response time, size of the response and more. You can test and evaluate your API's performance easily.
 
 ![Information about the Response ](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/use-rapidapi-client/images/response-info.png)
 

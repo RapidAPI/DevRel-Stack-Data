@@ -7,8 +7,8 @@ coverImage: ''
 authors:
     - programWithGio
 modules:
-    - source: integrate-multiple-apis-laravel-app-rapidapi/index.md
+    - source: index
 lessons:
-    - source: integrate-multiple-apis-laravel-app-rapidapi/01-index.md
+    - source: 01-index
 videoId: c8Zc0kbaR5I
 ---

@@ -7,11 +7,11 @@ coverImage: ''
 authors:
     - codeWithTomi
 modules:
-    - source: build-full-working-api-django-publicizing-rapidapi/index.md
+    - source: index
 lessons:
-    - source: build-full-working-api-django-publicizing-rapidapi/01-intro.md
-    - source: build-full-working-api-django-publicizing-rapidapi/02-build-api-django.md
-    - source: build-full-working-api-django-publicizing-rapidapi/03-deploy-django-api-heroku.md
-    - source: build-full-working-api-django-publicizing-rapidapi/04-putting-api-rapidapi-hub.md
+    - source: 01-intro
+    - source: 02-build-api-django
+    - source: 03-deploy-django-api-heroku
+    - source: 04-putting-api-rapidapi-hub
 videoId: Zy0k1KnkO9w
 ---

@@ -7,13 +7,13 @@ coverImage: ''
 authors:
     - weibenfalk
 modules:
-    - source: react-google-maps-geolocation-react-typescript/index.md
+    - source: index
 lessons:
-    - source: react-google-maps-geolocation-react-typescript/01-intro.md
-    - source: react-google-maps-geolocation-react-typescript/02-tech-starter-files.md
-    - source: react-google-maps-geolocation-react-typescript/03-create-google-map.md
-    - source: react-google-maps-geolocation-react-typescript/04-api-data-map-markers.md
-    - source: react-google-maps-geolocation-react-typescript/05-api-water-data.md
-    - source: react-google-maps-geolocation-react-typescript/06-geolocation.md
+    - source: 01-intro
+    - source: 02-tech-starter-files
+    - source: 03-create-google-map
+    - source: 04-api-data-map-markers
+    - source: 05-api-water-data
+    - source: 06-geolocation
 videoId: I9F-CMiKOz4
 ---

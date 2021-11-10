@@ -7,14 +7,14 @@ coverImage: ''
 authors:
     - coderCoder
 modules:
-    - source: building-node-js-app-javascript-noob/index.md
+    - source: index
 lessons:
-    - source: building-node-js-app-javascript-noob/01-intro.md
-    - source: building-node-js-app-javascript-noob/02-set-website-files-local-express-js-site.md
-    - source: building-node-js-app-javascript-noob/03-set-route-node-js-load-api-data-fetch.md
-    - source: building-node-js-app-javascript-noob/04-asynchronous-javascript-json-data-server-side-client.md
-    - source: building-node-js-app-javascript-noob/05-dynamically-generate-image-tag-javascript.md
-    - source: building-node-js-app-javascript-noob/06-api-key-secure-dotenv.md
-    - source: building-node-js-app-javascript-noob/07-style-website-css.md
+    - source: 01-intro
+    - source: 02-set-website-files-local-express-js-site
+    - source: 03-set-route-node-js-load-api-data-fetch
+    - source: 04-asynchronous-javascript-json-data-server-side-client
+    - source: 05-dynamically-generate-image-tag-javascript
+    - source: 06-api-key-secure-dotenv
+    - source: 07-style-website-css
 videoId: wYALykLb5oY
 ---

@@ -7,25 +7,25 @@ coverImage: ''
 authors:
     - naveenKumarNamachivayam
 modules:
-    - source: crash-api-testing-rapidapi-github-actions/index.md
+    - source: index
 lessons:
-    - source: crash-api-testing-rapidapi-github-actions/01-intro.md
-    - source: crash-api-testing-rapidapi-github-actions/02-rapidapi.md
-    - source: crash-api-testing-rapidapi-github-actions/03-rapidapi-products.md
-    - source: crash-api-testing-rapidapi-github-actions/04-rapidapi-testing.md
-    - source: crash-api-testing-rapidapi-github-actions/05-rapidapi-github-action.md
-    - source: crash-api-testing-rapidapi-github-actions/06-[demo]-rapidapi-signin.md
-    - source: crash-api-testing-rapidapi-github-actions/07-[demo]-rapidapi-marketplace.md
-    - source: crash-api-testing-rapidapi-github-actions/08-[demo]-rapidapi-developer-dashboard.md
-    - source: crash-api-testing-rapidapi-github-actions/09-[demo]-rapidapi-marketplace-search.md
-    - source: crash-api-testing-rapidapi-github-actions/10-[demo]-rapidapi-test-endpoint.md
-    - source: crash-api-testing-rapidapi-github-actions/11-[demo]-rapidapi-provide-dashboard.md
-    - source: crash-api-testing-rapidapi-github-actions/12-[demo]-rapidapi-testing.md
-    - source: crash-api-testing-rapidapi-github-actions/13-[demo]-creating-test-rapidapi-testing.md
-    - source: crash-api-testing-rapidapi-github-actions/14-[demo]-testing-apis.md
-    - source: crash-api-testing-rapidapi-github-actions/15-[demo]-api-performance.md
-    - source: crash-api-testing-rapidapi-github-actions/16-[demo]-rapidapi-github-action.md
-    - source: crash-api-testing-rapidapi-github-actions/17-[demo]-executing-rapidapi-github-action.md
-    - source: crash-api-testing-rapidapi-github-actions/18-conclusion.md
+    - source: 01-intro
+    - source: 02-rapidapi
+    - source: 03-rapidapi-products
+    - source: 04-rapidapi-testing
+    - source: 05-rapidapi-github-action
+    - source: 06-[demo]-rapidapi-signin
+    - source: 07-[demo]-rapidapi-marketplace
+    - source: 08-[demo]-rapidapi-developer-dashboard
+    - source: 09-[demo]-rapidapi-marketplace-search
+    - source: 10-[demo]-rapidapi-test-endpoint
+    - source: 11-[demo]-rapidapi-provide-dashboard
+    - source: 12-[demo]-rapidapi-testing
+    - source: 13-[demo]-creating-test-rapidapi-testing
+    - source: 14-[demo]-testing-apis
+    - source: 15-[demo]-api-performance
+    - source: 16-[demo]-rapidapi-github-action
+    - source: 17-[demo]-executing-rapidapi-github-action
+    - source: 18-conclusion
 videoId: yCE7QvwG1-c
 ---

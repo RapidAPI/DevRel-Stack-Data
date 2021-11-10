@@ -7,18 +7,18 @@ coverImage: ''
 authors:
     - javascriptMastery
 modules:
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/index.md
+    - source: index
 lessons:
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/01-intro.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/02-rapidapi.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/03-layout.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/04-homepage.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/05-redux-toolkit-api-dev.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/06-cryptocurrencies.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/07-crypto-news.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/08-crypto-details.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/09-chart.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/10-mobile-navigation.md
-    - source: build-deploy-react-cryptocurrency-app-master-redux-toolkit-video/11-challenge.md
+    - source: 01-intro
+    - source: 02-rapidapi
+    - source: 03-layout
+    - source: 04-homepage
+    - source: 05-redux-toolkit-api-dev
+    - source: 06-cryptocurrencies
+    - source: 07-crypto-news
+    - source: 08-crypto-details
+    - source: 09-chart
+    - source: 10-mobile-navigation
+    - source: 11-challenge
 videoId: 9DDX3US3kss
 ---

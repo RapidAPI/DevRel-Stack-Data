@@ -7,24 +7,24 @@ coverImage: ''
 authors:
     - javascriptMastery
 modules:
-    - source: build-deploy-google-maps-travel-companion-application/index.md
+    - source: index
 lessons:
-    - source: build-deploy-google-maps-travel-companion-application/intro.md
-    - source: build-deploy-google-maps-travel-companion-application/setup.md
-    - source: build-deploy-google-maps-travel-companion-application/demo.md
-    - source: build-deploy-google-maps-travel-companion-application/project-setup.md
-    - source: build-deploy-google-maps-travel-companion-application/folder-structure.md
-    - source: build-deploy-google-maps-travel-companion-application/header.md
-    - source: build-deploy-google-maps-travel-companion-application/map.md
-    - source: build-deploy-google-maps-travel-companion-application/list.md
-    - source: build-deploy-google-maps-travel-companion-application/working-apis.md
-    - source: build-deploy-google-maps-travel-companion-application/place-card.md
-    - source: build-deploy-google-maps-travel-companion-application/display-places-map.md
-    - source: build-deploy-google-maps-travel-companion-application/scroll-places-filters.md
-    - source: build-deploy-google-maps-travel-companion-application/places-search.md
-    - source: build-deploy-google-maps-travel-companion-application/weather-api.md
-    - source: build-deploy-google-maps-travel-companion-application/change-map-styles.md
-    - source: build-deploy-google-maps-travel-companion-application/env.md
-    - source: build-deploy-google-maps-travel-companion-application/deployment.md
+    - source: intro
+    - source: setup
+    - source: demo
+    - source: project-setup
+    - source: folder-structure
+    - source: header
+    - source: map
+    - source: list
+    - source: working-apis
+    - source: place-card
+    - source: display-places-map
+    - source: scroll-places-filters
+    - source: places-search
+    - source: weather-api
+    - source: change-map-styles
+    - source: env
+    - source: deployment
 videoId: UKdQjQX1Pko
 ---

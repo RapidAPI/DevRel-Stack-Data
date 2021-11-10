@@ -7,16 +7,16 @@ coverImage: ''
 authors:
     - codeStackr
 modules:
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/index.md
+    - source: index
 lessons:
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/01-intro.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/02-rapidapi-marketplace.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/03-project-setup-vite-js.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/04-index-html.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/05-main-js-setup.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/06-geo-location-api.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/07-open-weather-api.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/08-chuck-norris-api.md
-    - source: 4-apis-manage-multiple-apis-application-programming-interface/09-breaking-news-api.md
+    - source: 01-intro
+    - source: 02-rapidapi-marketplace
+    - source: 03-project-setup-vite-js
+    - source: 04-index-html
+    - source: 05-main-js-setup
+    - source: 06-geo-location-api
+    - source: 07-open-weather-api
+    - source: 08-chuck-norris-api
+    - source: 09-breaking-news-api
 videoId: NFToND6x_nI
 ---
