@@ -3,7 +3,25 @@ const micromatch = require('micromatch');
 const path = require('path');
 const fs = require('fs');
 
-async function updateDataFile() {
+const cwd = process.cwd();
+
+const addNewPosts = (allStagedFiles, type) => {
+	const allMdFiles = micromatch(allStagedFiles, [`**/${type}/**/*.md`]);
+	const relativePaths = allMdFiles.map(file => path.relative(cwd, file));
+
+	relativePaths.map(relPath => {
+		const newDirName = relPath.split('/')[2];
+		const existingData = require(`../${type}/data.json`);
+		const newData = [{source: newDirName}].concat(existingData);
+		const data = JSON.stringify(newData);
+
+		[{path: `${cwd}/${type}/data.json`, data}].map(file => {
+			fs.writeFileSync(file.path, file.data);
+		});
+	});
+};
+
+const updateDataFile = async () => {
 	const stagedFiles = await sgf();
 	const allStagedFiles = stagedFiles
 		.map(file => {
@@ -13,22 +31,9 @@ async function updateDataFile() {
 		})
 		.filter(file => !!file);
 
-	const allGuidesMdFiles = micromatch(allStagedFiles, ['**/guides/**/*.md']);
-	const cwd = process.cwd();
-	const relativePaths = allGuidesMdFiles.map(file =>
-		path.relative(cwd, file)
-	);
-
-	relativePaths.map(relPath => {
-		const newDirName = relPath.split('/')[2];
-		const existingData = require('../guides/data.json');
-		const newData = [{source: newDirName}].concat(existingData);
-		const data = JSON.stringify(newData);
-
-		[{path: `${cwd}/guides/data.json`, data}].map(file => {
-			fs.writeFileSync(file.path, file.data);
-		});
+	['guides', 'courses', 'stacks', 'learn'].map(type => {
+		addNewPosts(allStagedFiles, type);
 	});
-}
+};
 
 updateDataFile();
