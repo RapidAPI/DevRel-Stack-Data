@@ -1,17 +1,15 @@
 ---
 title: Convolutional Networks for Heart Disease Prediction
-slug: index
 description: ''
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
-draft: false
 authors:
-  - sirajRaval
+    - sirajRaval
 ---
 
 <Embed
-  type="youtube"
-  url="https://youtu.be/fGv6VmfGMLc?t=0"
-  title="Convolutional Networks for Heart Disease Prediction"
+	type="youtube"
+	url="https://youtu.be/fGv6VmfGMLc?t=0"
+	title="Convolutional Networks for Heart Disease Prediction"
 />

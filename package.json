@@ -12,6 +12,6 @@
 	},
 	"lint-staged": {
 		"*.{js,ts,tsx,json,css}": "prettier --write",
-		"*.{md}": "prettier --write --parser mdx"
+		"*.md": "prettier --write --parser mdx"
 	}
 }
