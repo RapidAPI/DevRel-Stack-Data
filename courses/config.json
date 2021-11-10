@@ -5,9 +5,9 @@
 	"language": "en",
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/courses",
-	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/rapidapi-logo.png",
-	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/favicon-96x96.png",
-	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/ogg.jpg",
-	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/courses/assets/rapidapi-logo.png",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/courses/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/courses/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/courses/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/courses/assets/rapidapi-logo.png",
 	"twitter": "rapid_api"
 }

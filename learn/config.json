@@ -5,9 +5,9 @@
 	"language": "en",
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/learn",
-	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
-	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/favicon-96x96.png",
-	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/ogg.jpg",
-	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/learn/assets/rapidapi-logo.png",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/assets/rapidapi-logo.png",
 	"twitter": "rapid_api"
 }

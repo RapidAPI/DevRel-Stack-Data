@@ -46,7 +46,7 @@ I am going to use the [Bing News Search API](https://RapidAPI.com/microsoft-azur
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![Subscribe to Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-news-app/images/subscribe.jpg)
+![Subscribe to Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-news-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to another page where different available subscription packages will be shown. Let’s go with the free one for now.
 
@@ -133,7 +133,7 @@ import axios from ‘axios’;
 
 I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
 
-![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-news-app/images/javascript-axios.jpg)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-news-app/images/javascript-axios.jpg)
 
 Now create a file with the name `news` inside the `pages/api` directory. This is going to create a REST API endpoint for you. The endpoint point will look like this:
 
@@ -246,4 +246,4 @@ This `value` property is passed to my component as props. Since it is an array, 
 
 This is it. We have successfully built a [news application](https://RapidAPI-example-news-app.vercel.app/) using the [Bing News Search](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) API. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/news-app). It will look something like this:
 
-![News Application With Next.js And Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-news-app/images/news-app.png)
+![News Application With Next.js And Bing News Search API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-news-app/images/news-app.png)

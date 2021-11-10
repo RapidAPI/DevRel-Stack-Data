@@ -44,7 +44,7 @@ I am using [Currency Conversion and Exchange Rates API](https://rapidapi.com/pri
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![Subscribe to Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/subscribe.jpg)
+![Subscribe to Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to another page where different available subscription packages will be shown. Let’s go with the free one for now.
 
@@ -178,7 +178,7 @@ There are more than 190+ countries in the world. Since almost everyone has a dif
 
 The [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides an endpoint that can get you all these symbols as a response. I am going to this endpoint along with the code snippet [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides us.
 
-![Symbols endpoint of Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/symbols-endpoint.jpg)
+![Symbols endpoint of Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/symbols-endpoint.jpg)
 
 For this, create a `symbol.js` file in `pages/api` directory, and paste the following code in it:
 
@@ -287,7 +287,7 @@ I have used the `Input` component that we created earlier to render different fi
 
 Now let’s convert the currency. For this, we are going to use a different endpoint of our API.
 
-![Covert endpoint of Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/convert-endpoint.jpg)
+![Covert endpoint of Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/convert-endpoint.jpg)
 
 For this, create a `convert.js` file in the `pages/api` directory and paste the following code there:
 
@@ -439,4 +439,4 @@ When the `convertedAmount` changes from null to some other value, it will trigge
 
 This is it. We have successfully built a [Currency Converter application](https://rapidapi-example-currency-conversion.vercel.app/) using the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/currency-converter-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
-![Currency Conversion application using Next.js and Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-currency-conversion-app/images/currency-conversion-app.png)
+![Currency Conversion application using Next.js and Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/currency-conversion-app.png)

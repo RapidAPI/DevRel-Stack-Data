@@ -47,7 +47,7 @@ You will see that we have a lot of options for QR Code related APIs. For our app
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![Subscribe to qrcode utils API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-qrcode-app/images/subscribe.jpg)
+![Subscribe to qrcode utils API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-qrcode-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to the pricing page to see the subscription packages for the API. We are going to subscribe to the free plan for this guide.
 
@@ -192,7 +192,7 @@ import axios from ‘axios’;
 
 We are going to send a GET request to get the QR Code for our input. For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options. We are going to use the `(JavaScript) Axios` one.
 
-![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-qrcode-app/images/code-snippet.png)
+![Fetching data using (JavaScript) Axios](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-qrcode-app/images/code-snippet.png)
 
 Next, I am going to create a file named `qrcode.js` in the `pages/api` directory and use the code snippet there as follows:
 
@@ -376,4 +376,4 @@ The library takes the response and renders the SVG for us. I also used a snippet
 
 All done. We have successfully built a QR Code Generator app. You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/qrcode-generator-app). This is what it looks like:
 
-![QR Code Generator built with Next.js and QRcode API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-qrcode-app/images/qrcode-generator-app.png)
+![QR Code Generator built with Next.js and QRcode API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-qrcode-app/images/qrcode-generator-app.png)

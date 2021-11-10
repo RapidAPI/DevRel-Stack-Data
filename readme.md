@@ -2,7 +2,7 @@
 This repository will contain all the assets for the DevRel-Stack repository.
 
 ## Contributing
-When your changes are ready, create a Pull Request against the **dev** branch of this repository.
+When your changes are ready, create a Pull Request against the **production** branch of this repository.
 
 ### Commit messages
 

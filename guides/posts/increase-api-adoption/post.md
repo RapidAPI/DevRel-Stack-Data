@@ -51,7 +51,7 @@ While browsing your API, developers may want to know whether it fits their requi
 
 This is another area where [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) comes handy. Using its interactive preview, developers can test the API endpoints directly from their browser and see what the responses look like.
 
-![Testing API Endpoints](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/increase-api-adoption/images/endpoints.jpg)
+![Testing API Endpoints](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/increase-api-adoption/images/endpoints.jpg)
 
 ## Performance
 

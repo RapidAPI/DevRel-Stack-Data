@@ -37,4 +37,4 @@ A website that is using an SSL certificate has HTTPS instead of HTTP in its URL.
 
 A website that is not using the SSL certificate has **"Not Secure"** written before its domain.
 
-![Example of how a website without SSL appears on the Chrome browser's address bar](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/ssl/images/not-secure.png)
+![Example of how a website without SSL appears on the Chrome browser's address bar](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/ssl/images/not-secure.png)

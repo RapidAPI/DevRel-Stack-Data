@@ -48,7 +48,7 @@ You will see that we have a lot of options for Shazam-related APIs. For our app,
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
-![Subscribe to Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-music-app/images/subscribe.jpg)
+![Subscribe to Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-music-app/images/subscribe.jpg)
 
 Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 500 requests per month. We are going to subscribe to the free plan for this guide.
 
@@ -204,7 +204,7 @@ import axios from ‘axios’;
 
 The [Shazam API](https://rapidapi.com/apidojo/api/shazam/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides a bunch of very useful endpoints like list recommendations, song detection and global charts. You can see these endpoints on the left pane. For this guide, we are going to use the `search` endpoint.
 
-![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-music-app/images/code-snippet.png)
+![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-music-app/images/code-snippet.png)
 
 We will send a GET request to search for songs and artists that match the input term. For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options. We are going to copy the `(JavaScript) Axios` one as you can see above.
 
@@ -404,7 +404,7 @@ export default function Home() {
 
 This is what our app looks like:
 
-![Music App built with Next.js and Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/dev/guides/posts/build-music-app/images/music-app.png)
+![Music App built with Next.js and Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-music-app/images/music-app.png)
 
 ## Wrap Up
 
