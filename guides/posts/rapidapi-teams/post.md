@@ -51,14 +51,14 @@ Enough talk, let’s go ahead and create our new organization in RapidAPI Teams.
 
 Once you’re logged in, click the [explore teams](https://rapidapi.com/org/organizations/create?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) button. You will end up on this page, where you can start adding information to create your organization.
 
-![Creating a new organization](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/guides/posts/rapidapi-teams/images/dashboard.jpg)
+![Creating a new organization](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/rapidapi-teams/images/dashboard.jpg)
 
 RapidAPI for Teams allows organizations up to 5 members for free and a decent pricing for more. You can also invite team members right away. Once you are done, you will be navigated to the Organization Dashboard. This dashboard is where you will manage and monitor all your APIs.
 
-![Organization Dashboard](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/guides/posts/rapidapi-teams/images/dashboard-2.jpg)
+![Organization Dashboard](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/rapidapi-teams/images/dashboard-2.jpg)
 
 Besides bulk inviting your team members, you can get started quickly by bulk importing your existing APIs into RapidAPI.
 
-![Bulk Import APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/guides/posts/rapidapi-teams/images/dashboard-3.jpg)
+![Bulk Import APIs](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/rapidapi-teams/images/dashboard-3.jpg)
 
 That’s it. Your personal space for collaborating on APIs of your organization is all set. Feel free to explore it further and use it for your APIs.
