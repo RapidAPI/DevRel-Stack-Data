@@ -90,6 +90,6 @@ If you are using the `then` keyword, you need to put all the logic related to ha
 
 There are two ways to go about error handling with fetch API. Using the async/await function, you can put your API call in the try/catch block. The try block will try to make the API call, and if it receives an error, the catch block will handle it.
 
-The second way is if you are using the promising chaining with the `then` method, you can add another method called ‘catch` to handle the error. You can log the error on the console, or you can notify the user or both.
+The second way is if you are using the promising chaining with the `then` method, you can add another method called `catch` to handle the error. You can log the error on the console, or you can notify the user or both.
 
 That’s pretty much it, folks! I hope you have a deep understanding of how to use the fetch API in your web applications to build incredible products.
