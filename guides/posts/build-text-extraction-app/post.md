@@ -39,7 +39,7 @@ Let’s find an API that we can use to fetch the movie information. Go to [Rapid
 <Callout
   title="Deep dive"
   linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rest-apis/introduction"
+  linkHref="https://rapidapi.com/learn/rest"
 >
   Learn more about how to use RapidAPI Hub.
 </Callout>
