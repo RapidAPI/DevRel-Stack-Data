@@ -1,5 +1,11 @@
 [
   {
+    "source": "build-text-extraction-app"
+  },
+  {
+    "source": "async-api"
+  },
+  {
     "source": "build-spell-checker-app"
   },
   {
