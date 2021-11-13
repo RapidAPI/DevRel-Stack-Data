@@ -34,7 +34,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s find an API that we can use to fetch the movie information. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “paraphrase” in the search section.
+Let’s find an API that we can use to paraphrase some content. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “paraphrase” in the search section.
 
 <Callout
   title="Deep dive"
@@ -249,7 +249,7 @@ export default async function handler(req, res) {
 }
 ```
 
-Now let’s create a function in the `pages/index.js` file to request the `/api/movie` to get the paraphrased content. You can just copy and replace the following code in `pages/index.js` file:
+Now let’s create a function in the `pages/index.js` file to request the `/api/paraphrase` to get the paraphrased content. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
 import { useState } from "react";
