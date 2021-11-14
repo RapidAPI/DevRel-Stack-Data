@@ -15,6 +15,9 @@
     "source": "use-graphql-apis"
   },
   {
+    "source": "graphql-fields-arguments"
+  },
+  {
     "source": "build-dictionary-app"
   },
   {
