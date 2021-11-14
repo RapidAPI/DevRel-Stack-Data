@@ -1,5 +1,17 @@
 [
   {
+    "source": "build-dictionary-app"
+  },
+  {
+    "source": "learn-fetch-api"
+  },
+  {
+    "source": "build-text-extraction-app"
+  },
+  {
+    "source": "async-api"
+  },
+  {
     "source": "build-spell-checker-app"
   },
   {
