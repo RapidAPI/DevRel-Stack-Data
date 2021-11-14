@@ -35,14 +35,13 @@ Let's take a deep dive to understand how these queries work.
 
 In other API standards, especially REST, you have different methods like GET, POST, PUT, etc. In GraphQL, you use queries to fetch data. These queries can be in short-hand syntax or wrapped in a custom named operation along with the query keyword.
 
-```sql
-// Shorthand syntax
+```graphql
+# Shorthand syntax
 users {
     name
 }
 
-// Named query
-
+# Named query
 query getUsers {
     users {
         name
@@ -52,8 +51,7 @@ query getUsers {
 
 Here `getUsers` is just a name we assign to the query operation to avoid ambiguity. Here is an example response to the above queries:
 
-```JSON
-
+```json
 {
   "data": {
     "users": [
@@ -80,8 +78,7 @@ You can tell that fields shape the responses in GraphQL as the request and respo
 
 Each field can further be an object having two or more fields. This is the area where GraphQL shines. Like above, you can specify a selection for these subfields as well. Take a look at the following query:
 
-```sql
-
+```graphql
 users {
     name
     posts {
@@ -100,7 +97,7 @@ In GraphQL, you can pass arguments to any field provided that it is specified in
 
 RESTful APIs allow you to pass arguments only to a single endpoint. GraphQL enables you to give arguments for a field and its sub-fields in a single call. As a result, the server returns transformed data and eliminates the need to make multiple API calls. For example, the following query will return all the unfinished tasks of a selected user.
 
-```sql
+```graphql
 {
   user(id: "300") {
     name
