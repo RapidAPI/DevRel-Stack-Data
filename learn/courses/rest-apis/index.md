@@ -8,4 +8,5 @@ draft: false
 coverImage: ""
 modules:
   - source: 01.00-introduction
+  - source: 02.00-rest-api-for-experts
 ---
