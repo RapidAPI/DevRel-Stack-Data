@@ -53,7 +53,7 @@ RapidAPI Hub provides an API playground where you can test all endpoints and che
 
 For GraphQL APIs, RapidAPI Hub has a dedicated field for testing and formulating your queries. Let's say I wanted to test the following query, which fetches a given country's details:
 
-```sql
+```graphql
 {
   countries(namePrefix: "America") {
     edges {

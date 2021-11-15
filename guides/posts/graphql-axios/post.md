@@ -67,7 +67,7 @@ import axios from ‘axios’;
 
 Following is the GraphQL query we will use for fetching a given country’s details. You can just copy and paste it into your code. If you are using an API of your choice, move on to the next step.
 
-```sql
+```graphql
 {
   countries(namePrefix: "Ame") {
     edges {

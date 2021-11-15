@@ -209,7 +209,7 @@ Before we use the API, we need to find out what kind of a query is required for 
 
 Our GraphQL query should look something like this:
 
-```sql
+```graphql
 {
   countries(namePrefix: "Ame") {
     edges {
