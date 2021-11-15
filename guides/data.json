@@ -3,6 +3,21 @@
     "source": "build-superhero-app"
   },
   {
+    "source": "build-graphql-app"
+  },
+  {
+    "source": "use-rapidapi-client"
+  },
+  {
+    "source": "graphql-axios"
+  },
+  {
+    "source": "graphql-fetch-ways"
+  },
+  {
+    "source": "use-graphql-apis"
+  },
+  {
     "source": "graphql-fields-arguments"
   },
   {
