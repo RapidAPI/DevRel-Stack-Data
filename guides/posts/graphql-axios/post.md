@@ -37,7 +37,7 @@ There are many GraphQL APIs available on [RapidAPI Hub](https://RapidAPI.com/hub
 
 For this guide, I will use [GeoDB Cities API](https://rapidapi.com/apidojo/api/shazam/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which can serve the global city, region, and country data. Subscribe to the API.
 
-![Subscribe to GeoDB API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-graphql-app/images/subscribe.jpg)
+![Subscribe to GeoDB API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-graphql-app/images/subscribe.png)
 
 Once subscribed, you should see a field named `x-rapidapi-key`. This is the API key which we will use in our React code.
 
