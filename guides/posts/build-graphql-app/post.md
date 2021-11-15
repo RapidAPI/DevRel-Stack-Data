@@ -48,7 +48,7 @@ For our app, I will use [GeoDB Cities API](https://rapidapi.com/wirefreethought/
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
-![Subscribe to GeoDB API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-graphql-app/images/subscribe.jpg)
+![Subscribe to GeoDB API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-graphql-app/images/subscribe.png)
 
 Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 1000 requests per day with restricted features, and we will use it for this guide.
 
