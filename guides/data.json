@@ -1,5 +1,8 @@
 [
   {
+    "source": "build-superhero-app"
+  },
+  {
     "source": "build-graphql-app"
   },
   {
