@@ -51,7 +51,7 @@ Enough talk, let’s go ahead and create our new organization in RapidAPI Teams.
 
 Once you’re logged in, click the [explore teams](https://rapidapi.com/org/organizations/create?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) button. You will end up on this page, where you can start adding information to create your organization.
 
-![Creating a new organization](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/rapidapi-teams/images/dashboard.jpg)
+![Creating a new organization](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/rapidapi-teams/images/dashboard-1.jpg)
 
 RapidAPI for Teams allows organizations up to 5 members for free and a decent pricing for more. You can also invite team members right away. Once you are done, you will be navigated to the Organization Dashboard. This dashboard is where you will manage and monitor all your APIs.
 
