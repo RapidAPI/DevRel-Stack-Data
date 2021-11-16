@@ -48,7 +48,7 @@ You will see that we have a lot of options for Shazam-related APIs. For our app,
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
-![Subscribe to Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-music-app/images/subscribe.jpg)
+![Subscribe to Shazam API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-music-app/images/subscribe.png)
 
 Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 500 requests per month. We are going to subscribe to the free plan for this guide.
 

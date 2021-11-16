@@ -47,7 +47,7 @@ You will see that we have a lot of options for QR Code related APIs. For our app
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
-![Subscribe to qrcode utils API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-qrcode-app/images/subscribe.jpg)
+![Subscribe to qrcode utils API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-qrcode-app/images/subscribe.png)
 
 Once you click the button, you will be redirected to the pricing page to see the subscription packages for the API. We are going to subscribe to the free plan for this guide.
 
