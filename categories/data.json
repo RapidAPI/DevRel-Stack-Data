@@ -6,5 +6,9 @@
   "http": {
     "name": "HTTP",
     "color": "yellow"
+  },
+  "interactive": {
+    "name": "Interactive",
+    "color": "green"
   }
 }

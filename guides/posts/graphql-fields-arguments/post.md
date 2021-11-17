@@ -4,7 +4,7 @@ description: "GraphQL queries enable declarative data fetching and expose only a
 slug: "graphql-fields-arguments"
 authors:
   - ahmadBilal
-category: api
+category: interactive
 tags:
   - graphql
   - api
