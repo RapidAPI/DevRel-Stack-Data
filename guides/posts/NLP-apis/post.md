@@ -19,7 +19,7 @@ coverImage: ""
 
 ## 1. Text-to-Speech
 
-The Voice RSS [Text-to-Speech (TTS) API](https://rapidapi.com/voicerss/api/text-to-speech-1/?utm_source=twitter.com%2FRapid_API&utm_medium=DevRel&utm_campaign=DevRel) allows conversion of textual content to speech easier than ever. 
+The Voice RSS [Text-to-Speech (TTS) API](https://rapidapi.com/voicerss/api/text-to-speech-1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) allows conversion of textual content to speech easier than ever. 
 
 
 - Popularity: 9.7/10
@@ -28,7 +28,7 @@ The Voice RSS [Text-to-Speech (TTS) API](https://rapidapi.com/voicerss/api/text-
 
 ## 2. Rev.AI
 
-[Rev.AI API](https://rapidapi.com/Rev.AI/api/rev-ai/?utm_source=twitter.com%2FRapid_API&utm_medium=DevRel&utm_campaign=DevRel) will let you maximize the value of your audio/video data in just a few steps by recognizing all spoken words in your media files.
+[Rev.AI API](https://rapidapi.com/Rev.AI/api/rev-ai/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) will let you maximize the value of your audio/video data in just a few steps by recognizing all spoken words in your media files.
 
 - Popularity: 7/10
 - Latency: 4,376ms
@@ -36,7 +36,7 @@ The Voice RSS [Text-to-Speech (TTS) API](https://rapidapi.com/voicerss/api/text-
 
 ## 3. TextAPI
 
-[TextAPI](https://rapidapi.com/textapi/api/textapi/?utm_source=twitter.com%2FRapid_API&utm_medium=DevRel&utm_campaign=DevRel) is a text extraction, manipulation, and analysis API.
+[TextAPI](https://rapidapi.com/textapi/api/textapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is a text extraction, manipulation, and analysis API.
 
 - Popularity: 8.8/10
 - Latency: 27,181ms
@@ -44,7 +44,7 @@ The Voice RSS [Text-to-Speech (TTS) API](https://rapidapi.com/voicerss/api/text-
 
 ## 4. Twinword Text Analysis Bundle
 
-One API for all your text analysis needs. Sentiment Analysis, Topic Tagging, Lemmatizer, and much more. Get started with [Twinword Text Analysis Bundle](https://rapidapi.com/twinword/api/twinword-text-analysis-bundle/?utm_source=twitter.com%2FRapid_API&utm_medium=DevRel&utm_campaign=DevRel) today.
+One API for all your text analysis needs. Sentiment Analysis, Topic Tagging, Lemmatizer, and much more. Get started with [Twinword Text Analysis Bundle](https://rapidapi.com/twinword/api/twinword-text-analysis-bundle/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) today.
 
 - Popularity: 9/10
 - Latency: 261ms
@@ -52,7 +52,7 @@ One API for all your text analysis needs. Sentiment Analysis, Topic Tagging, Lem
 
 ## 5. TextProbe
 
-[TextProbe API](https://rapidapi.com/textprobe/api/textprobe/?utm_source=twitter.com%2FRapid_API&utm_medium=DevRel&utm_campaign=DevRel) will let you perform emotion and sentiment analysis, topic categorization, quote extraction, keyword extraction, measurement extraction, and entity sentiment.
+[TextProbe API](https://rapidapi.com/textprobe/api/textprobe/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) will let you perform emotion and sentiment analysis, topic categorization, quote extraction, keyword extraction, measurement extraction, and entity sentiment.
 
 - Popularity: 8.5/10
 - Latency: 2,027ms
