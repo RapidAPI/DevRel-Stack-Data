@@ -1,5 +1,14 @@
 [
   {
+    "source": "image-apis"
+  },
+  {
+    "source": "AI-apis"
+  },
+  {
+    "source": "NLP-apis"
+  },
+  {
     "source": "build-spell-checker-app"
   },
   {
