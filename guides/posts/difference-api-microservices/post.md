@@ -6,7 +6,7 @@ publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
 authors:
     - saad
-category: api
+category: Comparison
 tags:
     - api
     - microservice

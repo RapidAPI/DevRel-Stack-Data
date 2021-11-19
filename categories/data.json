@@ -10,5 +10,25 @@
   "interactive": {
     "name": "Interactive",
     "color": "green"
+  },
+  "apps": {
+    "name": "Apps",
+    "color": "brown"
+  },
+  "webApis": {
+    "name": "Web APIs",
+    "color": "purple"
+  },
+  "bestPractices": {
+    "name": "Best Practices",
+    "color": "maroon"
+  },
+  "rapidapi": {
+    "name": "RapidAPI",
+    "color": "blue"
+  },
+  "comparison": {
+    "name": "Comparison",
+    "color": "cyan"
   }
 }

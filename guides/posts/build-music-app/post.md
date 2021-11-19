@@ -6,7 +6,7 @@ publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
     - ahmadBilal
-category: api
+category: Apps
 tags:
     - rapidapi
     - music

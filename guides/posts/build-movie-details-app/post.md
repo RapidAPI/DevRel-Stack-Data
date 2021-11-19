@@ -6,7 +6,7 @@ publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
 authors:
     - saad
-category: api
+category: Apps
 tags:
     - rapidapi
     - movie-details-app

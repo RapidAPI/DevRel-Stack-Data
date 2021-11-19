@@ -4,7 +4,7 @@ description: "Client and server can pass the extra bit of information with the r
 slug: "ten-widely-used-http-headers"
 authors:
   - pratham
-category: api
+category: http
 tags:
   - http
   - api

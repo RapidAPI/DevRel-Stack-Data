@@ -6,7 +6,7 @@ publishedDate: 2021-10-25T16:19:49.280Z
 lastModifiedDate: 2021-10-25T16:19:49.280Z
 authors:
     - saad
-category: api
+category: Apps
 tags:
     - rapidapi
     - currency-conversion-app

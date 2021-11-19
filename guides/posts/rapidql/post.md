@@ -6,7 +6,7 @@ publishedDate: 2021-10-02T19:10:30.765Z
 lastModifiedDate: 2021-10-02T19:10:30.765Z
 authors:
   - ahmadBilal
-category: api
+category: RapidAPI
 tags:
   - api
   - rapidql

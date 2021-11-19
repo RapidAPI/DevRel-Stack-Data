@@ -4,7 +4,7 @@ description: "HTTP status codes are divided into five categories. Informational,
 slug: "http-status-code"
 authors:
   - pratham
-category: api
+category: http
 tags:
   - http
   - api

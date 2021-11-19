@@ -6,7 +6,7 @@ publishedDate: 2021-11-11T15:59:08.034Z
 lastModifiedDate: 2021-11-11T15:59:08.034Z
 authors:
     - saad
-category: api
+category: Apps
 tags:
     - rapidapi
     - text-extraction-api
