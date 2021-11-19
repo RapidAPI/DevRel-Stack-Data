@@ -1,5 +1,14 @@
 [
   {
+    "source": "learn-dom-api"
+  },
+  {
+    "source": "rest-api-concepts"
+  },
+  {
+    "source": "api-rate-limiting"
+  },
+  {
     "source": "build-superhero-app"
   },
   {
