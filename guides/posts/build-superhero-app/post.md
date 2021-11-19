@@ -6,7 +6,7 @@ publishedDate: 2021-11-15T13:36:22.391Z
 lastModifiedDate: 2021-11-15T13:36:22.391Z
 authors:
     - saad
-category: api
+category: Apps
 tags:
     - rapidapi
     - superhero-app

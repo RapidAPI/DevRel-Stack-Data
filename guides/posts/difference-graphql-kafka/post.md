@@ -6,7 +6,7 @@ publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
-category: api
+category: Comparison
 tags:
     - apache-kafka
     - kafka

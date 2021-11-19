@@ -6,7 +6,7 @@ publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:
   - saad
-category: api
+category: Best Practices
 tags:
   - best-practices
 coverImage: ""

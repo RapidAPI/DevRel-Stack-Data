@@ -4,7 +4,7 @@ description: "HTTP request methods are the actions initiated from the client-sid
 slug: "everything-need-know-http-request-methods"
 authors:
   - pratham
-category: api
+category: http
 tags:
   - api
   - http
