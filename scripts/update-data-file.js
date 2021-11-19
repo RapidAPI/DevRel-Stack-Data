@@ -25,6 +25,8 @@ const updateDataFile = async () => {
 	const stagedFiles = await sgf();
 	const allStagedFiles = stagedFiles
 		.map(file => {
+			// TODO: For renamed directories, use the 'Modifed' string and replace the value in the data.json file. For now, only adding new files is supported.
+
 			if (file.status === 'Added') {
 				return file.filename;
 			}
