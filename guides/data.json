@@ -1,36 +1,37 @@
-[{
-  "source": "build-superhero-app"
-},
-{
-  "source": "build-graphql-app"
-},
-{
-  "source": "use-rapidapi-client"
-},
-{
-  "source": "graphql-axios"
-},
-{
-  "source": "graphql-fetch-ways"
-},
-{
-  "source": "use-graphql-apis"
-},
-{
-  "source": "graphql-fields-arguments"
-},
-{
-  "source": "build-dictionary-app"
-},
-{
-  "source": "learn-fetch-api"
-},
-{
-  "source": "build-text-extraction-app"
-},
-{
-  "source": "async-api"
-},
+[
+	{
+		"source": "build-superhero-app"
+	},
+	{
+		"source": "build-graphql-app"
+	},
+	{
+		"source": "use-rapidapi-client"
+	},
+	{
+		"source": "graphql-axios"
+	},
+	{
+		"source": "graphql-fetch-ways"
+	},
+	{
+		"source": "use-graphql-apis"
+	},
+	{
+		"source": "graphql-fields-arguments"
+	},
+	{
+		"source": "build-dictionary-app"
+	},
+	{
+		"source": "learn-fetch-api"
+	},
+	{
+		"source": "build-text-extraction-app"
+	},
+	{
+		"source": "async-api"
+	},
 	{
 		"source": "build-spell-checker-app"
 	},
