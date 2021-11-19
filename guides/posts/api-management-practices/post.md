@@ -5,7 +5,7 @@ publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
 authors:
     - saad
-category: Best Practices
+category: bestPractices
 tags:
     - api
     - management

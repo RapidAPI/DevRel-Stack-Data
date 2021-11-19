@@ -5,7 +5,7 @@ publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
 authors:
     - saad
-category: Comparison
+category: comparison
 tags:
     - json
     - xml

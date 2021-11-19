@@ -5,7 +5,7 @@ publishedDate: 2021-10-28T15:57:17.709Z
 lastModifiedDate: 2021-10-28T15:57:17.709Z
 authors:
     - saad
-category: Apps
+category: apps
 tags:
     - rapidapi
     - covid-stats-app

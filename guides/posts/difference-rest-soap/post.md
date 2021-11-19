@@ -5,7 +5,7 @@ publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:
     - saad
-category: Comparison
+category: comparison
 tags:
     - rest
     - soap

@@ -5,7 +5,7 @@ publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:
     - saad
-category: Apps
+category: apps
 tags:
     - build-dictionary-app
 coverImage: ''
