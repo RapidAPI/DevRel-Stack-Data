@@ -3,10 +3,10 @@
     "source": "image-apis"
   },
   {
-    "source": "AI-apis"
+    "source": "ai-apis"
   },
   {
-    "source": "NLP-apis"
+    "source": "nlp-apis"
   },
   {
     "source": "build-spell-checker-app"
