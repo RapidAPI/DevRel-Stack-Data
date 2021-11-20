@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Image Search and Image Recognition APIs"
 description: "Here are Top 5 Image Search and Image Recognition APIs you can use in your next project."
-slug: "top-image-search-image-recognition-apis"
+slug: "image-apis"
 authors:
   - pratham
 category: api
