@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Artificial Intelligence APIs"
 description: "Top 5 Artificial Intelligence APIs to build excellent full-stack applications."
-slug: "top-artificial-intelligence-apis"
+slug: "ai-apis"
 authors:
   - pratham
 category: api
