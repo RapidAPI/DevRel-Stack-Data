@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Natural Language Processing APIs"
 description: "Top 5 Natural Language Processing APIs that can help you build excellent web projects."
-slug: "top-natural-language-processing-apis"
+slug: "nlp-apis"
 authors:
   - pratham
 category: api
