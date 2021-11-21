@@ -1,6 +1,5 @@
 ---
 title: How to use a GraphQL API in React using Axios?
-slug: graphql-axios
 description: Let's see how we can fetch and use data from GraphQL in React using Axios.
 publishedDate: 2021-11-12T14:17:11.709Z
 lastModifiedDate: 2021-11-12T14:17:11.709Z
@@ -12,7 +11,6 @@ tags:
     - graphql
     - axios
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -28,11 +26,11 @@ If you have an API set up already, you can skip to Step 3.
 There are many GraphQL APIs available on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). [Create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on it if you haven’t already. Then, you can look for [GraphQL APIs](https://rapidapi.com/search/graphql?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/hub"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/hub"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 For this guide, I will use [GeoDB Cities API](https://rapidapi.com/apidojo/api/shazam/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which can serve the global city, region, and country data. Subscribe to the API.
@@ -69,34 +67,34 @@ Following is the GraphQL query we will use for fetching a given country’s deta
 
 ```graphql
 {
-  countries(namePrefix: "Ame") {
-    edges {
-      node {
-        name
-        capital
-        currencyCodes
-      }
-    }
-  }
+	countries(namePrefix: "Ame") {
+		edges {
+			node {
+				name
+				capital
+				currencyCodes
+			}
+		}
+	}
 }
 ```
 
 Then, create a function that fetches the data using Axios. I am calling mine `getCountries`.
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 const getCountries = async () => {
-  const options = {
-    method: "POST",
-    url: "https://geodb-cities-graphql.p.rapidapi.com/",
-    headers: {
-      "content-type": "application/json",
-      "x-rapidapi-host": "geodb-cities-graphql.p.rapidapi.com",
-      "x-rapidapi-key": process.env.REACT_PUBLIC_RAPIDAPI_KEY,
-    },
-    data: {
-      query: `{
+	const options = {
+		method: 'POST',
+		url: 'https://geodb-cities-graphql.p.rapidapi.com/',
+		headers: {
+			'content-type': 'application/json',
+			'x-rapidapi-host': 'geodb-cities-graphql.p.rapidapi.com',
+			'x-rapidapi-key': process.env.REACT_PUBLIC_RAPIDAPI_KEY
+		},
+		data: {
+			query: `{
         countries(namePrefix: "Ame") {
           edges {
             node {
@@ -106,19 +104,19 @@ const getCountries = async () => {
             }
           }
         }
-      }`,
-    },
-  };
+      }`
+		}
+	};
 
-  axios
-    .request(options)
-    .then(function (response) {
-      const res = response.data // Response received from the API
-    })
-    .catch(function (error) {
-      console.error(error);
-    });
-}
+	axios
+		.request(options)
+		.then(function (response) {
+			const res = response.data; // Response received from the API
+		})
+		.catch(function (error) {
+			console.error(error);
+		});
+};
 ```
 
 Do you notice the hard-coded query parameter `"Ame"`? What if we want to pass a parameter dynamically from the client-side? We can do that by making these changes to the `data` object.
@@ -147,10 +145,10 @@ First, create a query operation `country`, which takes a parameter `prefix` of t
 
 That's all. Our API call is ready. To summarize, we are specifying these four things in our getter function using Axios:
 
-- **HTTP METHOD:** We need to specify the HTTP Method (GET, POST, PUT, etc.). We use the POST method for GraphQL APIs.
+-   **HTTP METHOD:** We need to specify the HTTP Method (GET, POST, PUT, etc.). We use the POST method for GraphQL APIs.
 
-- **URL:** The URL for the endpoint of the GraphQL API.
+-   **URL:** The URL for the endpoint of the GraphQL API.
 
-- **Header:** We have to set the header to `content-type` of `application/json` for all GraphQL APIs.
+-   **Header:** We have to set the header to `content-type` of `application/json` for all GraphQL APIs.
 
-- **Query:** The query itself. It includes the request and variables.
+-   **Query:** The query itself. It includes the request and variables.

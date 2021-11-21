@@ -1,22 +1,22 @@
 ---
-title: "Interactive Guide to GraphQL Queries: Fields and Arguments"
-description: "GraphQL queries enable declarative data fetching and expose only a single endpoint that you can use to get data."
-slug: "graphql-fields-arguments"
+title: 'Interactive Guide to GraphQL Queries: Fields and Arguments'
+description: 'GraphQL queries enable declarative data fetching and expose only a single endpoint that you can use to get data.'
 authors:
-  - ahmadBilal
+    - ahmadBilal
 category: interactive
 tags:
-  - graphql
-  - api
-  - interactive
+    - graphql
+    - api
+    - interactive
 publishedDate: 2021-11-12T14:17:11.709Z
 lastModifiedDate: 2021-11-12T14:17:11.709Z
-coverImage: ""
-draft: false
+coverImage: ''
 ---
 
 <Lead>
-    GraphQL, a query language, is an API standard for data query and manipulation. GraphQL queries enable declarative data fetching and expose only a single endpoint that you can use to get data.
+	GraphQL, a query language, is an API standard for data query and
+	manipulation. GraphQL queries enable declarative data fetching and expose
+	only a single endpoint that you can use to get data.
 </Lead>
 
 This guide will cover the ins and outs of GraphQL queries and how we can use them to fetch data.
@@ -53,16 +53,16 @@ Here `getUsers` is just a name we assign to the query operation to avoid ambigui
 
 ```json
 {
-  "data": {
-    "users": [
-        {
-          "name": "Leanne Graham"
-        },
-        {
-          "name": "Ervin Howell"
-        },
-      ]
-  }
+	"data": {
+		"users": [
+			{
+				"name": "Leanne Graham"
+			},
+			{
+				"name": "Ervin Howell"
+			}
+		]
+	}
 }
 ```
 
@@ -99,10 +99,10 @@ RESTful APIs allow you to pass arguments only to a single endpoint. GraphQL enab
 
 ```graphql
 {
-  user(id: "300") {
-    name
-    tasks(finished: false)
-  }
+	user(id: "300") {
+		name
+		tasks(finished: false)
+	}
 }
 ```
 

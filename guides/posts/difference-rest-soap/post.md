@@ -1,17 +1,15 @@
 ---
 title: What is the difference between REST and SOAP APIs?
-slug: difference-rest-soap
 description: Take a look at some of the differences between REST and SOAP API.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:
     - saad
-category: Comparison
+category: comparison
 tags:
     - rest
     - soap
 coverImage: ''
-draft: false
 ---
 
 There are different services available for communication between client and server. Two of them are widely used, i.e., REST and SOAP APIs. Both services have a client that requests data and a server that responds.
@@ -32,16 +30,16 @@ There are several differences between REST and SOAP APIs because the entire arch
 
 Here are how SOAP API is different from the REST API:
 
-- Language, platform, and transport-independent. On the contrary, the REST API requires the use of HTTP.
-- Works well in distributed enterprise environments, whereas REST assumes direct point-to-point communication.
-- The SOAP API is more standardized.
-- SOAP API provides significant pre-build extensibility in the form of the WS* standards.
-- There is built-in error handling in the SOAP API.
+-   Language, platform, and transport-independent. On the contrary, the REST API requires the use of HTTP.
+-   Works well in distributed enterprise environments, whereas REST assumes direct point-to-point communication.
+-   The SOAP API is more standardized.
+-   SOAP API provides significant pre-build extensibility in the form of the WS\* standards.
+-   There is built-in error handling in the SOAP API.
 
 Now here are how REST API is different from the SOAP API:
 
-- It has a smaller learning curve as compared to the SOAP API.
-- It is more efficient. SOAP uses XML for all messages, whereas REST primarily uses smaller message formats like JSON.
-- REST API is faster than SOAP API because it does not require extensive processing.
-- REST API uses easy-to-understand standards like swagger and OpenAPI Specification 3.0.
-- It is much closer to other web technologies in design philosophy than SOAP.
+-   It has a smaller learning curve as compared to the SOAP API.
+-   It is more efficient. SOAP uses XML for all messages, whereas REST primarily uses smaller message formats like JSON.
+-   REST API is faster than SOAP API because it does not require extensive processing.
+-   REST API uses easy-to-understand standards like swagger and OpenAPI Specification 3.0.
+-   It is much closer to other web technologies in design philosophy than SOAP.

@@ -1,6 +1,5 @@
 ---
 title: What is OAuth2.0?
-slug: oauth2.0
 description: OAuth 2.0 (Open Authorization) is a standard developed to allow a user access to resources from a third-party application.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
@@ -10,11 +9,14 @@ category: api
 tags:
     - oauth2.0
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-When building a website, you often have to implement user authentication and authorization systems. These systems need to be meticulously developed because they are responsible for granting access to resources. To do this, you need to follow a particular standard when implementing the authorization feature.
+	When building a website, you often have to implement user authentication and
+	authorization systems. These systems need to be meticulously developed
+	because they are responsible for granting access to resources. To do this,
+	you need to follow a particular standard when implementing the authorization
+	feature.
 </Lead>
 
 ## OAuth 2.0
@@ -39,7 +41,7 @@ It is the user that is trying to access the third-party resources. The user need
 
 ### Authorization Server
 
- The authenticated user requests the authorization server for the access token. Once the request owner provides the consent, the authorization server sends back the newly generated access token.
+The authenticated user requests the authorization server for the access token. Once the request owner provides the consent, the authorization server sends back the newly generated access token.
 
 ### Resource Server
 

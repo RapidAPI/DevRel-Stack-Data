@@ -1,18 +1,16 @@
 ---
 title: How to build a QR Code Generator app using Next.js and a QR Code API?
-slug: build-qrcode-app
 description: Let's build an app that will generate a QR code for a given input.
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
     - ahmadBilal
-category: Apps
+category: apps
 tags:
     - rapidapi
     - qrcode
     - app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -36,11 +34,11 @@ Even if you don’t know about Next.js, being familiar with React will be enough
 Let’s find an API that we can send input to and get a QR Code as a response. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already. Then, search for "QR Code" in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 You will see that we have a lot of options for QR Code related APIs. For our app, I am going to use [qrcode utils API](https://rapidapi.com/digicatech/api/qrcodeutils/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
@@ -67,13 +65,13 @@ It will take some time to install the packages. After generating the boilerplate
 
 In our project folder, we will have the following folders and files. I will briefly break them down for you:
 
-- `pages` directory: It has the `index.js` file, which is the entry point of our app, basically the home page. It also has`_app.js` and another directory named `api` where we will store the requests to our API.
-- `public` directory: It holds assets. You can place your static files here to load later in the application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: It has the `index.js` file, which is the entry point of our app, basically the home page. It also has`_app.js` and another directory named `api` where we will store the requests to our API.
+-   `public` directory: It holds assets. You can place your static files here to load later in the application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 I will be using a particular set of colors for this app. You can use colors of your preference, but if you are interested in mine, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/qrcode-generator-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are Tailwind configurations for the colors I will be using.
 
@@ -85,16 +83,16 @@ Open the `pages/index.js` file and remove all the existing code. Let's add the l
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
-      <h1 className="text-6xl font-bold text-primary mt-20">
-        QR Code <span className="text-active">Generator</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Generate a QR Code for sharing your content.
-      </h2>
-    </div>
-  );
+	return (
+		<div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
+			<h1 className="text-6xl font-bold text-primary mt-20">
+				QR Code <span className="text-active">Generator</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Generate a QR Code for sharing your content.
+			</h2>
+		</div>
+	);
 }
 ```
 
@@ -104,63 +102,59 @@ The next thing we need is an input field where the text will go. There should al
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
-      <h1 className="text-6xl font-bold text-primary mt-20">
-        QR Code <span className="text-active">Generator</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Generate a QR Code for sharing your content.
-      </h2>
-      <input
-        type="text"
-        placeholder="Enter a link, number or any text to generate the QR Code"
-        className="mt-10 text-sm w-1/2 p-4 rounded"
-      ></input>
-      <button
-        className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
-      >
-        Generate QR Code
-      </button>
-    </div>
-  );
+	return (
+		<div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
+			<h1 className="text-6xl font-bold text-primary mt-20">
+				QR Code <span className="text-active">Generator</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Generate a QR Code for sharing your content.
+			</h2>
+			<input
+				type="text"
+				placeholder="Enter a link, number or any text to generate the QR Code"
+				className="mt-10 text-sm w-1/2 p-4 rounded"
+			></input>
+			<button className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex">
+				Generate QR Code
+			</button>
+		</div>
+	);
 }
 ```
 
-This code is going to create an input field and a button. I have also styled them a little bit using [TailwindCSS]((https://tailwindcss.com/)).
+This code is going to create an input field and a button. I have also styled them a little bit using [TailwindCSS](<(https://tailwindcss.com/)>).
 
 ### → STEP #3
 
 Let’s create some states to store the user input and the response from the API.
 
 ```js
-import { useState } from "react";
+import {useState} from 'react';
 
 export default function Home() {
-  // States
-  const [input, setInput] = useState(null);
-  const [response, setResponse] = useState(null);
-  return (
-    <div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
-      <h1 className="text-6xl font-bold text-primary mt-20">
-        QR Code <span className="text-active">Generator</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Generate a QR Code for sharing your content.
-      </h2>
-      <input
-        type="text"
-        placeholder="Enter a link, number or any text to generate the QR Code"
-        className="mt-10 text-sm w-1/2 p-4 rounded"
-        onChange={(e) => setInput(e.target.value)}
-      ></input>
-      <button
-        className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
-      >
-        Generate QR Code
-      </button>
-    </div>
-  );
+	// States
+	const [input, setInput] = useState(null);
+	const [response, setResponse] = useState(null);
+	return (
+		<div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
+			<h1 className="text-6xl font-bold text-primary mt-20">
+				QR Code <span className="text-active">Generator</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Generate a QR Code for sharing your content.
+			</h2>
+			<input
+				type="text"
+				placeholder="Enter a link, number or any text to generate the QR Code"
+				className="mt-10 text-sm w-1/2 p-4 rounded"
+				onChange={e => setInput(e.target.value)}
+			></input>
+			<button className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex">
+				Generate QR Code
+			</button>
+		</div>
+	);
 }
 ```
 
@@ -197,91 +191,91 @@ We are going to send a GET request to get the QR Code for our input. For easy in
 Next, I am going to create a file named `qrcode.js` in the `pages/api` directory and use the code snippet there as follows:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  if (req.method === "GET") {
-    const options = {
-      method: "GET",
-      url: "https://qrcodeutils.p.rapidapi.com/qrcodefree",
-      params: {
-        text: req.query.input,
-        validate: "true",
-        size: "150",
-        type: "svg", // type: svg, png etc
-        level: "M", // level of validation
-      },
-      headers: {
-        "x-rapidapi-host": "qrcodeutils.p.rapidapi.com",
-        "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
-      },
-    };
+	if (req.method === 'GET') {
+		const options = {
+			method: 'GET',
+			url: 'https://qrcodeutils.p.rapidapi.com/qrcodefree',
+			params: {
+				text: req.query.input,
+				validate: 'true',
+				size: '150',
+				type: 'svg', // type: svg, png etc
+				level: 'M' // level of validation
+			},
+			headers: {
+				'x-rapidapi-host': 'qrcodeutils.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY
+			}
+		};
 
-    axios
-      .request(options)
-      .then(function (response) {
-        res.status(200).json(response.data);
-      })
-      .catch(function (error) {
-        console.error(error);
-      });
-  } else {
-    res.status(400);
-  }
+		axios
+			.request(options)
+			.then(function (response) {
+				res.status(200).json(response.data);
+			})
+			.catch(function (error) {
+				console.error(error);
+			});
+	} else {
+		res.status(400);
+	}
 }
 ```
 
 We have also specified the parameters. Our API call is ready. Let’s create a function in the `pages/index.js` file to send the request from the client-side to our API at `http://localhost:3000/api/qrcode` for the QR code. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
-import axios from "axios";
-import { useState } from "react";
+import axios from 'axios';
+import {useState} from 'react';
 
 export default function Home() {
-  const [input, setInput] = useState(null);
-  const [response, setResponse] = useState(null);
+	const [input, setInput] = useState(null);
+	const [response, setResponse] = useState(null);
 
-  /**
-   * Fetches QR Code of the text input
-   */
-  const getQrcode = async () => {
-    try {
-      const res = await axios.get("api/qrcode/", {
-        params: { input },
-      });
-      setResponse(res.data);
-    } catch (error) {
-      console.log(error);
-    }
-  };
+	/**
+	 * Fetches QR Code of the text input
+	 */
+	const getQrcode = async () => {
+		try {
+			const res = await axios.get('api/qrcode/', {
+				params: {input}
+			});
+			setResponse(res.data);
+		} catch (error) {
+			console.log(error);
+		}
+	};
 
-  return (
-    <div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
-      <Head>
-        <title>QR Code Generator</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+	return (
+		<div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
+			<Head>
+				<title>QR Code Generator</title>
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
 
-      <h1 className="text-6xl font-bold text-primary mt-20">
-        QR Code <span className="text-active">Generator</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Generate a QR Code for sharing your content.
-      </h2>
-      <input
-        type="text"
-        placeholder="Enter a link, number or any text to generate the QR Code"
-        className="mt-10 text-sm w-1/2 p-4 rounded"
-        onChange={(e) => setInput(e.target.value)}
-      ></input>
-      <button
-        className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
-        onClick={() => getQrcode()}
-      >
-        Generate QR Code
-      </button>
-    </div>
-  );
+			<h1 className="text-6xl font-bold text-primary mt-20">
+				QR Code <span className="text-active">Generator</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Generate a QR Code for sharing your content.
+			</h2>
+			<input
+				type="text"
+				placeholder="Enter a link, number or any text to generate the QR Code"
+				className="mt-10 text-sm w-1/2 p-4 rounded"
+				onChange={e => setInput(e.target.value)}
+			></input>
+			<button
+				className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
+				onClick={() => getQrcode()}
+			>
+				Generate QR Code
+			</button>
+		</div>
+	);
 }
 ```
 
@@ -298,75 +292,75 @@ npm install react-inlinesvg
 and import it:
 
 ```js
-import SVG from "react-inlinesvg";
+import SVG from 'react-inlinesvg';
 ```
 
 Finally, we can render the QR Code SVG by checking the `response` state.
 
 ```js
-import axios from "axios";
-import { useState } from "react";
-import SVG from "react-inlinesvg";
+import axios from 'axios';
+import {useState} from 'react';
+import SVG from 'react-inlinesvg';
 
 export default function Home() {
-  const [input, setInput] = useState(null);
-  const [response, setResponse] = useState(null);
+	const [input, setInput] = useState(null);
+	const [response, setResponse] = useState(null);
 
-  const getQrcode = async () => {
-    try {
-      const res = await axios.get("api/qrcode/", {
-        params: { input },
-      });
+	const getQrcode = async () => {
+		try {
+			const res = await axios.get('api/qrcode/', {
+				params: {input}
+			});
 
-      setResponse(res.data);
-    } catch (error) {
-      console.log(error);
-    }
-  };
-  // Standard snippet to download the QR Code svg
-  const downloadQrcode = () => {
-    const url = window.URL.createObjectURL(new Blob([response]));
-    const urlObject = document.createElement("a");
-    urlObject.href = url;
-    urlObject.setAttribute("download", "file.svg");
-    document.body.appendChild(urlObject);
-    urlObject.click();
-  };
+			setResponse(res.data);
+		} catch (error) {
+			console.log(error);
+		}
+	};
+	// Standard snippet to download the QR Code svg
+	const downloadQrcode = () => {
+		const url = window.URL.createObjectURL(new Blob([response]));
+		const urlObject = document.createElement('a');
+		urlObject.href = url;
+		urlObject.setAttribute('download', 'file.svg');
+		document.body.appendChild(urlObject);
+		urlObject.click();
+	};
 
-  return (
-    <div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
-      <h1 className="text-6xl font-bold text-primary mt-20">
-        QR Code <span className="text-active">Generator</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Generate a QR Code for sharing your content.
-      </h2>
-      <input
-        type="text"
-        placeholder="Enter a link, number or any text to generate the QR Code"
-        className="mt-10 text-sm w-1/2 p-4 rounded"
-        onChange={(e) => setInput(e.target.value)}
-      ></input>
-      <button
-        className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
-        onClick={() => getQrcode()}
-      >
-        Generate QR Code
-      </button>
+	return (
+		<div className="flex flex-col relative bg-grey font-mono items-center min-h-screen border-t-2 border-active">
+			<h1 className="text-6xl font-bold text-primary mt-20">
+				QR Code <span className="text-active">Generator</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Generate a QR Code for sharing your content.
+			</h2>
+			<input
+				type="text"
+				placeholder="Enter a link, number or any text to generate the QR Code"
+				className="mt-10 text-sm w-1/2 p-4 rounded"
+				onChange={e => setInput(e.target.value)}
+			></input>
+			<button
+				className="mt-6 p-4 bg-active hover:opacity-90 rounded text-primary font-bold inline-flex"
+				onClick={() => getQrcode()}
+			>
+				Generate QR Code
+			</button>
 
-      {response && (
-        <div className="mt-10 bg-active">
-          <SVG src={response} />
-          <button
-            className="w-full text-primary text-base p-1"
-            onClick={() => downloadQrcode()}
-          >
-            Download
-          </button>
-        </div>
-      )}
-    </div>
-  );
+			{response && (
+				<div className="mt-10 bg-active">
+					<SVG src={response} />
+					<button
+						className="w-full text-primary text-base p-1"
+						onClick={() => downloadQrcode()}
+					>
+						Download
+					</button>
+				</div>
+			)}
+		</div>
+	);
 }
 ```
 

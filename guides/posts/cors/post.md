@@ -1,20 +1,20 @@
 ---
-title: "What is CORS?"
-slug: "cors"
-description: "Understanding what CORS is and how to deal with it."
+title: 'What is CORS?'
+description: 'Understanding what CORS is and how to deal with it.'
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:
   - saad
 category: http
 tags:
-  - cors
-coverImage: ""
-draft: false
+    - cors
+coverImage: ''
 ---
 
 <Lead>
-Have you ever requested data from some API but instead got an error like Cross-Origin Request Blocked? You might have also seen this while developing a full-stack application, and let’s take a look at it.
+	Have you ever requested data from some API but instead got an error like
+	Cross-Origin Request Blocked? You might have also seen this while developing
+	a full-stack application, and let’s take a look at it.
 </Lead>
 
 ## Cross-Origin Resource Sharing (CORS)

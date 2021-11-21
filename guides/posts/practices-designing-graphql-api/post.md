@@ -1,20 +1,20 @@
 ---
 title: Best Practices for Designing GraphQL APIs
-slug: practices-designing-graphql-api
 description: To design GraphQL API, there are some practices that should be followed. Let's take a look at some of them.
 publishedDate: 2021-10-07T17:01:53.644Z
 lastModifiedDate: 2021-10-07T17:01:53.644Z
 authors:
   - saad
-category: Best Practices
+category: bestPractices
 tags:
-  - best-practices
+    - best-practices
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The GraphQL API is designed to provide you with the precise amount of data you request. With the REST API, you often encounter the problem of over-fetching and under-fetching. GraphQL solves these problems.
+	The GraphQL API is designed to provide you with the precise amount of data
+	you request. With the REST API, you often encounter the problem of
+	over-fetching and under-fetching. GraphQL solves these problems.
 </Lead>
 
 Some predefined best practices should be followed when developing a GraphQL API. Let’s take a look at some of them.

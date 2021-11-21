@@ -1,6 +1,5 @@
 ---
 title: Introduction to HTTP headers
-slug: intro-http-headers
 description: A lot goes in when you make an HTTP request. You define a method, provide some payload, and wait for a response.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -10,11 +9,12 @@ category: http
 tags:
     - http
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-A lot goes in when you make an HTTP request. You define a method, provide some payload, and wait for a response. Sometimes, you use HTTP headers for passing some additional information.
+	A lot goes in when you make an HTTP request. You define a method, provide
+	some payload, and wait for a response. Sometimes, you use HTTP headers for
+	passing some additional information.
 </Lead>
 
 ## What are HTTP headers?
@@ -23,10 +23,10 @@ They use HTTP headers when the client or server needs to pass more information l
 
 The header names are case-sensitive. It is followed by a colon and then by the name's value. There are four types of headers according to the context:
 
-- Request headers
-- Response headers
-- Representation headers
-- Payload headers
+-   Request headers
+-   Response headers
+-   Representation headers
+-   Payload headers
 
 ## Request Headers
 

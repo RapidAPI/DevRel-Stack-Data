@@ -1,20 +1,21 @@
 ---
 title: Introduction to APIs
-slug: api
 description: APIs are used to communicate between two architectures in order to perform CRUD operations. Let's take a deeper look at it.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:
-  - saad
+    - saad
 category: api
 tags:
-  - api
+    - api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-In a web application, the server and the client codebase are autonomous. But the client needs to communicate with the server to work correctly. But how does this communication work? It is done through APIs, and there are many other instances where APIs come into action.
+	In a web application, the server and the client codebase are autonomous. But
+	the client needs to communicate with the server to work correctly. But how
+	does this communication work? It is done through APIs, and there are many
+	other instances where APIs come into action.
 </Lead>
 
 ## What is an API?
@@ -25,10 +26,10 @@ Many different types of APIs exist. You can use them to build web, desktop, mobi
 
 Here are different types of APIs that are available to use:
 
-- REST API
-- GraphQL API
-- Web API
-- Browser API
+-   REST API
+-   GraphQL API
+-   Web API
+-   Browser API
 
 ## REST API
 

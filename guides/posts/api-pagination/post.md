@@ -1,22 +1,22 @@
 ---
 title: What is API Pagination?
-slug: api-pagination
 description: Performance is the most critical factor of an API, and pagination is one way of optimizing it. Let's learn why.
 publishedDate: 2021-10-01T17:10:30.765Z
 lastModifiedDate: 2021-10-01T17:10:30.765Z
 authors:
-  - ahmadBilal
+    - ahmadBilal
 category: api
 tags:
-  - api
-  - pagination
-  - paging
+    - api
+    - pagination
+    - paging
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-If you have ever navigated through multiple pages of Google Search results or clicked the "load more posts" button on a blog, you have seen pagination. API pagination works in a similar way.
+	If you have ever navigated through multiple pages of Google Search results
+	or clicked the "load more posts" button on a blog, you have seen pagination.
+	API pagination works in a similar way.
 </Lead>
 
 ## Why is API Pagination needed?

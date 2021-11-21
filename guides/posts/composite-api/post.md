@@ -1,6 +1,5 @@
 ---
 title: What are Composite APIs?
-slug: composite-api
 description: 'Composite API is a design approach in which the developer sequentially batch API requests into a single API call.'
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
@@ -10,11 +9,14 @@ category: api
 tags:
     - composite-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are many different types of APIs available that you can use in your applications. There are Open APIs, also known as public APIs, partner APIs that are visible to the strategic partners of your product, internal or private APIs designed to handle the inner working of your product, and last but not least, composite APIs.
+	There are many different types of APIs available that you can use in your
+	applications. There are Open APIs, also known as public APIs, partner APIs
+	that are visible to the strategic partners of your product, internal or
+	private APIs designed to handle the inner working of your product, and last
+	but not least, composite APIs.
 </Lead>
 
 Let’s take a look at composite APIs in detail.

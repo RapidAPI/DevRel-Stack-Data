@@ -1,6 +1,5 @@
 ---
 title: Introduction to API Gateways
-slug: api-gateway
 description: API Gateway sends the incoming API traffic to the API management system that handles various other functions.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -11,11 +10,12 @@ tags:
     - api
     - gateway
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-When working with APIs, you will come across API Gateways sooner or later. It sends the incoming API traffic to the API management system that handles various other functions. Let’s take a look at it.
+	When working with APIs, you will come across API Gateways sooner or later.
+	It sends the incoming API traffic to the API management system that handles
+	various other functions. Let’s take a look at it.
 </Lead>
 
 ## What is an API Gateway?
@@ -32,7 +32,7 @@ As briefly mentioned above, API Gateway has several usages. You can use it to im
 
 There are several benefits of using API Gateways. Let’s take a look at some of them:
 
-- You can standardize and also centralize the delivery of services through APIs or microservices using API Gateway.
-- It provides flexibility because they are highly configurable. The developers can write the internal structure of an application in multiple ways to invoke multiple backend services using the API Gateway.
-- It allows enterprises that rely on legacy applications to work with those apps or extend their functionality.
-- It contributes towards monitoring and observability. The API Gateway logs can pinpoint an issue during a monitoring failure.
+-   You can standardize and also centralize the delivery of services through APIs or microservices using API Gateway.
+-   It provides flexibility because they are highly configurable. The developers can write the internal structure of an application in multiple ways to invoke multiple backend services using the API Gateway.
+-   It allows enterprises that rely on legacy applications to work with those apps or extend their functionality.
+-   It contributes towards monitoring and observability. The API Gateway logs can pinpoint an issue during a monitoring failure.

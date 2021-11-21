@@ -1,6 +1,5 @@
 ---
 title: How to authenticate and authorize with GraphQL?
-slug: authenticate-authorize-graphql
 description: You can use REST APIs, GraphQL API, and gRPC to communicate between client and server. These communications also involve user authentications and authorization.
 publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
@@ -12,7 +11,6 @@ tags:
     - authorize
     - graphql
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -36,34 +34,32 @@ You can use [ApolloServer](https://www.apollographql.com/) for setting up GraphQ
 Once everything is done, each resolver can use this object to determine what data the user can access and what the user can request.
 
 ```js
-const { ApolloServer } = require('apollo-server');
+const {ApolloServer} = require('apollo-server');
 
 const server = new ApolloServer({
- typeDefs,
- resolvers,
- context: ({ req }) => {
+	typeDefs,
+	resolvers,
+	context: ({req}) => {
+		// Get the user token from the headers.
+		const token = req.headers.authorization || '';
 
-   // Get the user token from the headers.
-   const token = req.headers.authorization || '';
+		// Try to retrieve a user with the token
+		const user = getUser(token);
 
-   // Try to retrieve a user with the token
-   const user = getUser(token);
-
-   // Add the user to the context
-   return { user };
- },
+		// Add the user to the context
+		return {user};
+	}
 });
 
-server.listen().then(({ url }) => {
- console.log(`Server running at ${url}`)
+server.listen().then(({url}) => {
+	console.log(`Server running at ${url}`);
 });
-
 ```
 
 ## Authorization
 
 There are different authorization methods that you can use with GraphQL. Here are some of them:
 
-- **In Resolvers:** The individual field resolvers in GraphQL servers check the user role and then make decisions if the user is authorized or not.
-- **With Data Models:** You can use the data models to put the authorization logic in one place and then use it in different areas.
-- **With Custom Directives:** You can use the GraphQL schema directive to implement authorization.
+-   **In Resolvers:** The individual field resolvers in GraphQL servers check the user role and then make decisions if the user is authorized or not.
+-   **With Data Models:** You can use the data models to put the authorization logic in one place and then use it in different areas.
+-   **With Custom Directives:** You can use the GraphQL schema directive to implement authorization.

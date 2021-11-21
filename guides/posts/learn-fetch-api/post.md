@@ -1,6 +1,5 @@
 ---
 title: A Guide To Learn Fetch API
-slug: learn-fetch-api
 description: 'In the simplest terms, the fetch API lets you talk with other REST APIs. It is an asynchronous web API that comes with native JavaScript, and it returns the data in the form of promises.'
 publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
@@ -10,7 +9,6 @@ category: interactive
 tags:
     - fetch-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -42,17 +40,14 @@ To call a REST API, you need to use the HTTP methods. These methods let the call
 
 Here is a quick overview of the four most commonly used HTTP methods.
 
-- `GET`: You request data with this HTTP method. It can also take some query parameters if you need to send some data along with the API request.
-- `POST`: When you need to create some records in the database, you use the HTTP POST method.
-- `PUT`: This method lets you update the existing database record.
-- `DELETE`: As the name suggests, you can remove or delete data from the database with the DELETE method.
+-   `GET`: You request data with this HTTP method. It can also take some query parameters if you need to send some data along with the API request.
+-   `POST`: When you need to create some records in the database, you use the HTTP POST method.
+-   `PUT`: This method lets you update the existing database record.
+-   `DELETE`: As the name suggests, you can remove or delete data from the database with the DELETE method.
 
 The fetch API uses the GET method by default if you do not provide any method type. Let’s look at how you can use the fetch API with different HTTP methods to call an API.
 
-<HTTPClient
-    appName="guides"
-    isSampleCodeVisible
-/>
+<HTTPClient appName="guides" isSampleCodeVisible />
 
 ## What are `method`, `headers` and `body`?
 
@@ -68,17 +63,13 @@ The `headers` is an object that you send along with your API request. It lets yo
 
 You can use the headers to let the server know the type of data the client can accept. Here you can also define the type of encoding that the client can understand. You also put your API key here, so it is securely sent to the calling API or server.
 
-<HTTPClient
-    appName="guides"
-    isResponseHeadersVisible
-    isSampleCodeVisible
-/>
+<HTTPClient appName="guides" isResponseHeadersVisible isSampleCodeVisible />
 
 If you want to have a deeper look into Headers, you can look at [this](https://rapidapi.com/guides/ten-widely-used-http-headers?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) piece.
 
 ### Body
 
-When you use HTTP methods like `POST`, `PUT`, `DETELE`,  etc., you need to send some information along with your request. It can be an object ID you want to delete from the database or some new object you want to store in the database. All this information goes into the body object.
+When you use HTTP methods like `POST`, `PUT`, `DETELE`, etc., you need to send some information along with your request. It can be an object ID you want to delete from the database or some new object you want to store in the database. All this information goes into the body object.
 
 ## How to handle API responses with Fetch API?
 
