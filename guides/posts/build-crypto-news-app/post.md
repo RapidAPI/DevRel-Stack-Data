@@ -1,6 +1,5 @@
 ---
 title: How to build a Crypto News Next.js app using a Cryptocurrency API from RapidAPI Hub?
-slug: build-crypto-news-app
 description: Let's see how we can build a Crypto News app using a Cryptocurrency API.
 publishedDate: 2021-11-18T15:57:17.709Z
 lastModifiedDate: 2021-11-18T15:57:17.709Z
