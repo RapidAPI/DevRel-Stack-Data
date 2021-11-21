@@ -1,4 +1,6 @@
 [
+	{"source": "response-chaining"},
+	{"source": "build-crypto-news-app"},
 	{"source": "build-text-sentiment-analysis-app"},
 	{"source": "build-time-app"},
 	{"source": "learn-dom-api"},
