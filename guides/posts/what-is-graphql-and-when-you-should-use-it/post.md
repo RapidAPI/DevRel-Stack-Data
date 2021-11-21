@@ -1,20 +1,21 @@
 ---
-title: "What is GraphQL and when you should use it?"
-slug: "what-is-graphql-and-when-you-should-use-it"
-description: "Learn when GraphQL is useful and when you should consider using it."
+title: 'What is GraphQL and when you should use it?'
+description: 'Learn when GraphQL is useful and when you should consider using it.'
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:
-  - saad
+    - saad
 category: api
 tags:
-  - graphql
-coverImage: ""
-draft: false
+    - graphql
+coverImage: ''
 ---
 
 <Lead>
-  When you are working on a large-scale application, it often happens that you would need to fetch large chunks of data. Sometimes, you need to perform multiple API calls to get the desired results using a REST API. It is called under-fetching.
+	When you are working on a large-scale application, it often happens that you
+	would need to fetch large chunks of data. Sometimes, you need to perform
+	multiple API calls to get the desired results using a REST API. It is called
+	under-fetching.
 </Lead>
 
 Sometimes you need a small amount of data, but instead, you get a lot of unnecessary data with a single API call. This is called over-fetching.
@@ -37,7 +38,7 @@ When a user performs a data action from the frontend, the generated query is sen
 
 There are many scenarios where you can make use of GraphQL. Let's take a look at some of them:
 
-- In applications where problems of under-fetching and over-fetching exist, GraphQL can take care of it.
-- When you want to get precise data from the API using a single API, you can use GraphQL.
-- When you want to reduce the miscommunication between the client and the server, you can use GraphQL because of its strongly defined data types.
-- You can use GraphQL for applications that you know will be used by people with limited bandwidth.
+-   In applications where problems of under-fetching and over-fetching exist, GraphQL can take care of it.
+-   When you want to get precise data from the API using a single API, you can use GraphQL.
+-   When you want to reduce the miscommunication between the client and the server, you can use GraphQL because of its strongly defined data types.
+-   You can use GraphQL for applications that you know will be used by people with limited bandwidth.

@@ -1,21 +1,22 @@
 ---
 title: What are the different HTTP request methods?
-slug: http-request-method
 description: There are nine HTTP request method that exist. Let's take a look at them.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:
-  - saad
+    - saad
 category: http
 tags:
-  - method
-  - rest
+    - method
+    - rest
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The web applications communicate to servers through REST APIs. These APIs use HTTP methods to perform different operations, and nine HTTP methods exist for making requests to the server. Four methods are the most common because they execute CRUD (Create, Read, Update, and Delete) operations.
+	The web applications communicate to servers through REST APIs. These APIs
+	use HTTP methods to perform different operations, and nine HTTP methods
+	exist for making requests to the server. Four methods are the most common
+	because they execute CRUD (Create, Read, Update, and Delete) operations.
 </Lead>
 
 ## GET
@@ -40,7 +41,7 @@ The PATCH request method is used to modify only the necessary part of the data o
 
 Here is a list of the rest of the HTTP methods:
 
-- HEAD
-- CONNECT
-- OPTIONS
-- TRACE
+-   HEAD
+-   CONNECT
+-   OPTIONS
+-   TRACE

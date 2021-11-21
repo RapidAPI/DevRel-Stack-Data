@@ -1,6 +1,5 @@
 ---
 title: Introduction to Async APIs
-slug: async-api
 description: AsyncAPI is an open-source project aimed at improving the current state of EDA.
 publishedDate: 2021-11-11T15:59:08.034Z
 lastModifiedDate: 2021-11-11T15:59:08.034Z
@@ -10,7 +9,6 @@ category: api
 tags:
     - async-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>

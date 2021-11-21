@@ -1,6 +1,5 @@
 ---
 title: How to use GraphQL APIs from RapidAPI Hub?
-slug: use-graphql-apis
 description: RapidAPI Hub allows you to find and use GraphQL APIs effortlessly.
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
@@ -12,7 +11,6 @@ tags:
     - graphql
     - hub
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -30,11 +28,11 @@ Finding an API that fits your requirements well can be a demanding task. [RapidA
 [Create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on it if you haven’t already. Then, you can look for [GraphQL APIs](https://rapidapi.com/search/graphql?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/hub"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/hub"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 ## Subscribe
@@ -55,16 +53,16 @@ For GraphQL APIs, RapidAPI Hub has a dedicated field for testing and formulating
 
 ```graphql
 {
-  countries(namePrefix: "America") {
-    edges {
-      node {
-        name
-        capital
-        flagImageUri
-        currencyCodes
-      }
-    }
-  }
+	countries(namePrefix: "America") {
+		edges {
+			node {
+				name
+				capital
+				flagImageUri
+				currencyCodes
+			}
+		}
+	}
 }
 ```
 

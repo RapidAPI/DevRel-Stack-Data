@@ -1,6 +1,5 @@
 ---
 title: Introduction to Apache Kafka
-slug: apache-kafka
 description: You can use Apache Kafka to build services like real-time data streams, and it provides five core APIs for Java and Scala to implement such services.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
@@ -11,7 +10,6 @@ tags:
     - apache-kafka
     - kafka
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -26,9 +24,9 @@ When developing an application, sometimes you need to implement a data pipeline 
 
 The three capabilities are as follow:
 
-- Publishing and subscribing to the streams of events
-- The user might need to store streams of events. So Apache Kafka also stores streams of events durably and reliably.
-- Process streams of events as they occur.
+-   Publishing and subscribing to the streams of events
+-   The user might need to store streams of events. So Apache Kafka also stores streams of events durably and reliably.
+-   Process streams of events as they occur.
 
 Let’s take a look at the core APIs of Apache Kafka.
 

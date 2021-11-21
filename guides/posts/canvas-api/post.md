@@ -1,16 +1,14 @@
 ---
 title: Introduction to Canvas API
-slug: canvas-api
 description: You can draw graphics using JavaScript and the HTML canvas element.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
-category: Web API
+category: webApis
 tags:
     - canvas-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -34,12 +32,12 @@ You need to have a `canvas` HTML element in your webpage.
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>Canvas API</title>
-</head>
-<body>
- <canvas id="canvas"></canvas>
-</body>
+	<head>
+		<title>Canvas API</title>
+	</head>
+	<body>
+		<canvas id="canvas"></canvas>
+	</body>
 </html>
 ```
 
@@ -50,16 +48,16 @@ The next thing you need to do is to fetch this `canvas` element from the viewpor
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>Canvas API</title>
-</head>
-<body>
- <canvas id="canvas"></canvas>
- <script type="application/javascript">
-  const cnv = document.getElementById('canvas');
-  const ctx = cnv.getContext();
- </script>
-</body>
+	<head>
+		<title>Canvas API</title>
+	</head>
+	<body>
+		<canvas id="canvas"></canvas>
+		<script type="application/javascript">
+			const cnv = document.getElementById('canvas');
+			const ctx = cnv.getContext();
+		</script>
+	</body>
 </html>
 ```
 
@@ -70,18 +68,18 @@ Now all you need to do is draw using the Canvas API. You can see in the code bel
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>Canvas API</title>
-</head>
-<body>
- <canvas id="canvas"></canvas>
- <script type="application/javascript">
-  const cnv = document.getElementById('canvas');
-  const ctx = cnv.getContext();
+	<head>
+		<title>Canvas API</title>
+	</head>
+	<body>
+		<canvas id="canvas"></canvas>
+		<script type="application/javascript">
+			const cnv = document.getElementById('canvas');
+			const ctx = cnv.getContext();
 
-  ctx.fillStyle = 'red';
-  ctx.fillRect(20, 20, 130, 100);
- </script>
-</body>
+			ctx.fillStyle = 'red';
+			ctx.fillRect(20, 20, 130, 100);
+		</script>
+	</body>
 </html>
 ```

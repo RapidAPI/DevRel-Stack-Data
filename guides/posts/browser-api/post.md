@@ -1,16 +1,14 @@
 ---
 title: Introduction to Browser API
-slug: browser-api
 description: Browser APIs are used to build browser extensions and other web applications that utilize the functionalities of a web browser.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
-category: Web API
+category: webApis
 tags:
     - browser-api
 coverImage: ''
-draft: false
 ---
 
 <Lead>

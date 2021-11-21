@@ -1,6 +1,5 @@
 ---
 title: Introduction to HTTP/2
-slug: http-2
 description: The client and server communicate via protocols on the Internet.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -11,11 +10,13 @@ tags:
     - http
     - http/2
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The client and server communicate via protocols on the Internet. The protocol – HTTP – was introduced in 1991, and its last major release, HTTP/1.1, was published more than two decades ago. In 2015, HTTP/2 was introduced that resolved a lot of significant challenges of HTTP.
+	The client and server communicate via protocols on the Internet. The
+	protocol – HTTP – was introduced in 1991, and its last major release,
+	HTTP/1.1, was published more than two decades ago. In 2015, HTTP/2 was
+	introduced that resolved a lot of significant challenges of HTTP.
 </Lead>
 
 ## What is HTTP/2?
@@ -28,11 +29,11 @@ HTTP/2 is an extension of the previous version, not a replacement. The applicati
 
 Here are the features of HTTP/2:
 
-- Binary framing layer that defines how the HTTP messages are encapsulated and transferred between the client and the server.
-- Header compression.
-- It provides request and response multiplexing using the new binary framing layer. This allows the client and server to break down an HTTP message into independent frames, interleave them, and then reassemble them on the other end.
-- It offers one connection per origin.
-- The ability of the server to send multiple streams responses for a single client request.
+-   Binary framing layer that defines how the HTTP messages are encapsulated and transferred between the client and the server.
+-   Header compression.
+-   It provides request and response multiplexing using the new binary framing layer. This allows the client and server to break down an HTTP message into independent frames, interleave them, and then reassemble them on the other end.
+-   It offers one connection per origin.
+-   The ability of the server to send multiple streams responses for a single client request.
 
 ## Benefits of HTTP/2
 

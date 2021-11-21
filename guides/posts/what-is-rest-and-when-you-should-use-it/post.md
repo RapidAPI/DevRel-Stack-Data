@@ -1,20 +1,21 @@
 ---
-title: "What is REST and when you should use it?"
-slug: "what-is-rest-and-when-you-should-use-it"
-description: "Learn when REST API is useful and when you should consider using it."
+title: 'What is REST and when you should use it?'
+description: 'Learn when REST API is useful and when you should consider using it.'
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:
-  - saad
+    - saad
 category: api
 tags:
-  - rest
-coverImage: ""
-draft: false
+    - rest
+coverImage: ''
 ---
 
 <Lead>
-  Before we discuss the REST APIs, let's first understand what an API is and what it does. In the simplest terms, an API is a middle man, a bridge that connects two sides, a waiter that takes your order and gets you food. It lets you communicate with the other side.
+	Before we discuss the REST APIs, let's first understand what an API is and
+	what it does. In the simplest terms, an API is a middle man, a bridge that
+	connects two sides, a waiter that takes your order and gets you food. It
+	lets you communicate with the other side.
 </Lead>
 
 ## What is the REST API?
@@ -27,10 +28,10 @@ Let's talk about how you can use a REST API. Generally, you can write your REST 
 
 There are four things that you need to do to use a REST API. Here is a list of what they are:
 
-- Method
-- REST Endpoint
-- Parameters/Body
-- Header (optional)
+-   Method
+-   REST Endpoint
+-   Parameters/Body
+-   Header (optional)
 
 Let's take a look at each of them one by one.
 
@@ -50,7 +51,7 @@ Take a look at the image below. You will see that there is a method, a URL, para
 
 The big question is still there of when should you use a REST API? Well, here are some scenarios where you can use REST APIs:
 
-- When you are building a Jamstack based application.
-- When you need your web app to be easily scalable.
-- When you need flexibility and portability in your web app.
-- Since the client and server are entirely separate, the REST API allows the development to occur quickly across different areas of your project, whether it is client or server.
+-   When you are building a Jamstack based application.
+-   When you need your web app to be easily scalable.
+-   When you need flexibility and portability in your web app.
+-   Since the client and server are entirely separate, the REST API allows the development to occur quickly across different areas of your project, whether it is client or server.

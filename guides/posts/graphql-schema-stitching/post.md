@@ -1,6 +1,5 @@
 ---
 title: What is GraphQL Schema Stitching?
-slug: graphql-schema-stitching
 description: GraphQL schema stitching is the process of creating a single GraphQL schema from multiple underlying GraphQL APIs.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
@@ -11,7 +10,6 @@ tags:
     - graphql
     - graphql-schema
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -38,6 +36,6 @@ With `sitchSchemas`, you can combine multiple GraphQL APIs into one unified gate
 
 Here are some of its use cases:
 
-- You can stitch internal schemas with other internal schemas to ease deployment or versioning.
-- You can integrate different services by adding public APIs to your schema.
-- You can create a mashup API by combining multiple public APIs.
+-   You can stitch internal schemas with other internal schemas to ease deployment or versioning.
+-   You can integrate different services by adding public APIs to your schema.
+-   You can create a mashup API by combining multiple public APIs.
