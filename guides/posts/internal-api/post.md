@@ -1,6 +1,5 @@
 ---
 title: What are Internal APIs?
-slug: internal-api
 description: Internal APIs or Private APIs are the ones that are only exposed to the clients and developers within the organization.
 publishedDate: 2021-10-28T15:57:17.709Z
 lastModifiedDate: 2021-10-28T15:57:17.709Z
@@ -11,11 +10,13 @@ tags:
     - internal-api
     - api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-Since APIs are used everywhere now, companies heavily rely on them to keep up their digital infrastructure. APIs further have different types: Composite APIs, Internal APIs, etc. The Internal APIs are built scalable because they have to tend to the growing needs of a business.
+	Since APIs are used everywhere now, companies heavily rely on them to keep
+	up their digital infrastructure. APIs further have different types:
+	Composite APIs, Internal APIs, etc. The Internal APIs are built scalable
+	because they have to tend to the growing needs of a business.
 </Lead>
 
 Let’s take a look at them.

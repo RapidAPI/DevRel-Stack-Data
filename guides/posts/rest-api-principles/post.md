@@ -1,6 +1,5 @@
 ---
 title: Introduction to REST API Principles
-slug: rest-api-principles
 description: Let’s look at six ground principles of REST API laid down by Dr. Fielding (creator of REST API).
 publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
@@ -11,7 +10,6 @@ tags:
     - rest
     - principles
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -20,14 +18,14 @@ These days REST APIs are used everywhere for client-server communication. Develo
 
 </Lead>
 
-Let’s look at six ground principles of REST API laid down by Dr. Fielding *(creator of REST API)*.
+Let’s look at six ground principles of REST API laid down by Dr. Fielding _(creator of REST API)_.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
 >
-  Learn more about how to use RapidAPI Hub
+	Learn more about how to use RapidAPI Hub
 </Callout>
 
 ## Representational State Transfer (REST) API
@@ -48,10 +46,10 @@ Both the client and the server are completely autonomous in every way. Their com
 
 REST API provides four interfaces to achieve uniformity.
 
-- Resource identification
-- Resource manipulation using representations
-- Self-descriptive messages
-- Hypermedia as the engine of application state
+-   Resource identification
+-   Resource manipulation using representations
+-   Self-descriptive messages
+-   Hypermedia as the engine of application state
 
 ## Cacheable
 

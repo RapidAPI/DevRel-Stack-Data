@@ -1,17 +1,15 @@
 ---
 title: How to build a Spell Checker App Using Next.js and JSpell Checker API?
-slug: build-spell-checker-app
 description: 'You often have to write detailed documents at work. They can be proposals, guides, some documentation, etc. You need to ensure that you are not making any spelling errors in such important documents.'
 publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
 authors:
     - saad
-category: Apps
+category: apps
 tags:
     - rapidapi
     - spell-checker-app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -37,11 +35,11 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 Let’s find an API that we can use to get the spelling information. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “spell checker” in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rest"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rest"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 You will see different search results related to all the available spell check APIs. For this piece, I am using [JSpell Checker API](https://rapidapi.com/page-scholar-inc-page-scholar-inc-default/api/jspell-checker/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
@@ -68,14 +66,14 @@ This command is going to take a minute to set everything up. After generating th
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
-- `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the - - - `index.js` file that is the main entry point in your project.
-- `public` directory: This directory contains icons. You place your static files here to load later in the application.
-- `node_modules`: It’s another directory that contains all the node modules you are using in your application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the - - - `index.js` file that is the main entry point in your project.
+-   `public` directory: This directory contains icons. You place your static files here to load later in the application.
+-   `node_modules`: It’s another directory that contains all the node modules you are using in your application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 Before we move on to writing the code, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/spell-checker-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are some TailwindCSS configurations I have done specifically for this project. I have added some colors that you do not have by default with TailwindCSS and set some screen sizes.
 
@@ -87,16 +85,16 @@ Open the `pages/index.js` file and remove all the existing code. After this, cop
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Spell <span className="text-active">Checker</span> App
-      </h2>
-      <h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Quickly See All Your Spelling Errors
-      </h3>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Spell <span className="text-active">Checker</span> App
+			</h2>
+			<h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Quickly See All Your Spelling Errors
+			</h3>
+		</div>
+	);
 }
 ```
 
@@ -110,32 +108,32 @@ For this, copy the following code and paste it in `pages/index.js`:
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Spell <span className="text-active">Checker</span> App
-      </h2>
-      <h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Quickly See All Your Spelling Errors
-      </h3>
-      <div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
-        <textarea
-          type="text"
-          className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
-          placeholder="Write/paste any content..."
-        />
-        <div className="flex items-center">
-          <button className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12">
-            Check
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Spell <span className="text-active">Checker</span> App
+			</h2>
+			<h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Quickly See All Your Spelling Errors
+			</h3>
+			<div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
+				<textarea
+					type="text"
+					className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
+					placeholder="Write/paste any content..."
+				/>
+				<div className="flex items-center">
+					<button className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12">
+						Check
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
-This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS]((https://tailwindcss.com/)).
+This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS](<(https://tailwindcss.com/)>).
 
 ### → STEP #3
 
@@ -144,35 +142,35 @@ Let’s create some states to store the user input and the spelling error inform
 For this, copy-paste the following code in `pages/index.js`.
 
 ```js
-import { useState } from "react";
+import {useState} from 'react';
 
 export default function Home() {
-  const [content, setContent] = useState("");
-  const [spellCheckData, setSpellCheckData] = useState([]);
-  const [spellErr, setSpellErr] = useState(true);
+	const [content, setContent] = useState('');
+	const [spellCheckData, setSpellCheckData] = useState([]);
+	const [spellErr, setSpellErr] = useState(true);
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Spell <span className="text-active">Checker</span> App
-      </h2>
-      <h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Quickly See All Your Spelling Errors
-      </h3>
-      <div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
-        <textarea
-          type="text"
-          className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
-          placeholder="Write/paste any content..."
-        />
-        <div className="flex items-center">
-          <button className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12">
-            Check
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Spell <span className="text-active">Checker</span> App
+			</h2>
+			<h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Quickly See All Your Spelling Errors
+			</h3>
+			<div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
+				<textarea
+					type="text"
+					className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
+					placeholder="Write/paste any content..."
+				/>
+				<div className="flex items-center">
+					<button className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12">
+						Check
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -207,143 +205,143 @@ We are going to use the `check` endpoint of the [JSpell Checker API](https://rap
 Create a file called `check` in the `pages/api` directory and copy-paste the following code there:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  if (req.method === "POST") {
-    var options = {
-      method: "POST",
-      url: "https://jspell-checker.p.rapidapi.com/check",
-      headers: {
-        "x-rapidapi-host": "jspell-checker.p.rapidapi.com",
-        "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
-      },
-      data: {
-        language: "enUS",
-        fieldvalues: req.body.content,
-        config: {
-          forceUpperCase: false,
-          ignoreIrregularCaps: false,
-          ignoreFirstCaps: true,
-          ignoreNumbers: true,
-          ignoreUpper: false,
-          ignoreDouble: false,
-          ignoreWordsWithNumbers: true,
-        },
-      },
-    };
+	if (req.method === 'POST') {
+		var options = {
+			method: 'POST',
+			url: 'https://jspell-checker.p.rapidapi.com/check',
+			headers: {
+				'x-rapidapi-host': 'jspell-checker.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY
+			},
+			data: {
+				language: 'enUS',
+				fieldvalues: req.body.content,
+				config: {
+					forceUpperCase: false,
+					ignoreIrregularCaps: false,
+					ignoreFirstCaps: true,
+					ignoreNumbers: true,
+					ignoreUpper: false,
+					ignoreDouble: false,
+					ignoreWordsWithNumbers: true
+				}
+			}
+		};
 
-    axios
-      .request(options)
-      .then(function (response) {
-        res.status(200).json(response.data);
-      })
-      .catch(function (error) {
-        console.error(error);
-        res.status(response.status);
-      });
-  } else {
-    res.status(400);
-  }
+		axios
+			.request(options)
+			.then(function (response) {
+				res.status(200).json(response.data);
+			})
+			.catch(function (error) {
+				console.error(error);
+				res.status(response.status);
+			});
+	} else {
+		res.status(400);
+	}
 }
 ```
 
 Now let’s create a function in the `pages/index.js` file to request the `/api/check` to get spell check details. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
-import { useState } from "react";
-import axios from "axios";
+import {useState} from 'react';
+import axios from 'axios';
 
 export default function Home() {
-  const [content, setContent] = useState("");
-  const [spellCheckData, setSpellCheckData] = useState([]);
-  const [spellErr, setSpellErr] = useState(true);
+	const [content, setContent] = useState('');
+	const [spellCheckData, setSpellCheckData] = useState([]);
+	const [spellErr, setSpellErr] = useState(true);
 
-  /**
-   *
-   *
-   * Fetch Spell Errors and Suggestions
-   */
-  const fetchSpellErrSugg = async () => {
-    try {
-      const res = await axios.post(`/api/check`, {
-        content,
-      });
-      const { data } = res;
+	/**
+	 *
+	 *
+	 * Fetch Spell Errors and Suggestions
+	 */
+	const fetchSpellErrSugg = async () => {
+		try {
+			const res = await axios.post(`/api/check`, {
+				content
+			});
+			const {data} = res;
 
-      if (data.spellingErrorCount === 0) {
-        setSpellErr(false);
-      }
-      {
-        const { elements } = data;
-        setSpellCheckData(elements[0].errors);
-        setSpellErr(true);
-      }
-    } catch (err) {
-      console.log(err);
-    }
-  };
+			if (data.spellingErrorCount === 0) {
+				setSpellErr(false);
+			}
+			{
+				const {elements} = data;
+				setSpellCheckData(elements[0].errors);
+				setSpellErr(true);
+			}
+		} catch (err) {
+			console.log(err);
+		}
+	};
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        Spell <span className="text-active">Checker</span> App
-      </h2>
-      <h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Quickly See All Your Spelling Errors
-      </h3>
-      <div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
-        <textarea
-          type="text"
-          className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
-          placeholder="Write/paste any content..."
-          onChange={(e) => setContent(e.target.value)}
-        />
-        <div className="flex items-center">
-          <button
-            className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12"
-            onClick={fetchSpellErrSugg}
-          >
-            Check
-          </button>
-        </div>
-        {spellErr ? (
-          <div className="h-96 w-2/5 overflow-scroll md:w-full">
-            <table className="bg-white w-full text-primary border-danger border md:text-sm md:mx-2">
-              <thead className="font-raleway uppercase tracking-wide">
-                <tr>
-                  <th className="border-danger border text-left px-4 py-4">
-                    Word
-                  </th>
-                  <th className="border-danger border text-left px-4 py-4">
-                    Suggestions
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                {spellCheckData.map((obj) => {
-                  return (
-                    <tr key={spellCheckData.indexOf(obj)}>
-                      <td className="border-danger border px-4 py-4">
-                        {obj.word}
-                      </td>
-                      <td className="border-danger border px-4 py-4">
-                        {`${obj.suggestions[0]}, ${obj.suggestions[1]}, ${obj.suggestions[2]}, ${obj.suggestions[3]}`}
-                      </td>
-                    </tr>
-                  );
-                })}
-              </tbody>
-            </table>
-          </div>
-        ) : (
-          <h2 className="font-raleway font-bold text-3xl text-secondary pt-20 pb-6 md:text-3xl">
-            No Spelling Error.{" "}
-          </h2>
-        )}
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				Spell <span className="text-active">Checker</span> App
+			</h2>
+			<h3 className="text-danger text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Quickly See All Your Spelling Errors
+			</h3>
+			<div className="flex justify-between w-5/6 h-96 mt-8 md:flex-col md:items-center md:justify-start">
+				<textarea
+					type="text"
+					className="border border-primary outline-none w-2/5 px-4 py-2 rounded-sm font-raleway md:w-full"
+					placeholder="Write/paste any content..."
+					onChange={e => setContent(e.target.value)}
+				/>
+				<div className="flex items-center">
+					<button
+						className="h-1/6 outline-none border border-active font-bold font-raleway mx-12 px-12 rounded-sm bg-active text-primary transition duration-300 hover:bg-bc hover:text-black hover:border-primary md:h-16 md:my-12"
+						onClick={fetchSpellErrSugg}
+					>
+						Check
+					</button>
+				</div>
+				{spellErr ? (
+					<div className="h-96 w-2/5 overflow-scroll md:w-full">
+						<table className="bg-white w-full text-primary border-danger border md:text-sm md:mx-2">
+							<thead className="font-raleway uppercase tracking-wide">
+								<tr>
+									<th className="border-danger border text-left px-4 py-4">
+										Word
+									</th>
+									<th className="border-danger border text-left px-4 py-4">
+										Suggestions
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								{spellCheckData.map(obj => {
+									return (
+										<tr key={spellCheckData.indexOf(obj)}>
+											<td className="border-danger border px-4 py-4">
+												{obj.word}
+											</td>
+											<td className="border-danger border px-4 py-4">
+												{`${obj.suggestions[0]}, ${obj.suggestions[1]}, ${obj.suggestions[2]}, ${obj.suggestions[3]}`}
+											</td>
+										</tr>
+									);
+								})}
+							</tbody>
+						</table>
+					</div>
+				) : (
+					<h2 className="font-raleway font-bold text-3xl text-secondary pt-20 pb-6 md:text-3xl">
+						No Spelling Error.{' '}
+					</h2>
+				)}
+			</div>
+		</div>
+	);
 }
 ```
 

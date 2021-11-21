@@ -1,18 +1,16 @@
 ---
 title: Difference between GraphQL and Kafka API
-slug: difference-graphql-kafka
 description: Let’s take a look at GraphQL, Kafka APIs, and some of the differences between them.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
-category: Comparison
+category: comparison
 tags:
     - apache-kafka
     - kafka
     - graphql
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -33,18 +31,18 @@ It is a query language that allows you to read and mutate the data in APIs. With
 
 To perform different operations, Apache Kafka provides five core APIs:
 
-- Admin API
-- Producer API
-- Consumer API
-- Streams API
-- Kafka Connect API
+-   Admin API
+-   Producer API
+-   Consumer API
+-   Streams API
+-   Kafka Connect API
 
 ## Difference Between GraphQL API and Kafka APIs
 
 Let’s take a look at the differences between these two:
 
 | GraphQL API                                                                                                      | Kafka APIs                                                                    |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | GraphQL uses queries and mutations to perform data operations.                                                   | Kafka APIs are used to implement data pipelines, real-time data streams, etc. |
 | With GraphQL, you get only the data you have requested.                                                          | With Kafka API, you often are not interested in a response.                   |
 | With GraphQL APIs, you can store data in the database on the server.                                             | Kafka APIs store data in topics.                                              |

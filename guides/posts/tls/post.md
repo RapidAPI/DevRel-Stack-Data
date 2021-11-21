@@ -1,6 +1,5 @@
 ---
 title: What is TLS?
-slug: tls
 description: Transport Layer Security (TLS) is a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet.
 publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
@@ -10,11 +9,12 @@ category: http
 tags:
     - tls
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-You need to make your websites secure from external threats. One of the ways is by implementing a Secure Socket Layer (SSL). Today, there is another security technology that you can use, i.e., TLS. Let’s take a look at it.
+	You need to make your websites secure from external threats. One of the ways
+	is by implementing a Secure Socket Layer (SSL). Today, there is another
+	security technology that you can use, i.e., TLS. Let’s take a look at it.
 </Lead>
 
 ## TLS
@@ -45,8 +45,8 @@ The last component is **integrity** that verifies that the data has not been for
 
 There are several advantages of using TLS. Here are some of them:
 
-- It provides data integrity.
-- It shows that a site is secured and, therefore, reliable.
-- TLS provides better security than SSL because it uses a cryptographic method known as [HMAC](https://www.okta.com/identity-101/hmac/)
-- TLS protects against malware.
-- It provides a more advanced and reactive alert system. Users are immediately alerted if there is any problem during sessions.
+-   It provides data integrity.
+-   It shows that a site is secured and, therefore, reliable.
+-   TLS provides better security than SSL because it uses a cryptographic method known as [HMAC](https://www.okta.com/identity-101/hmac/)
+-   TLS protects against malware.
+-   It provides a more advanced and reactive alert system. Users are immediately alerted if there is any problem during sessions.

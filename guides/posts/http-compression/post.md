@@ -1,6 +1,5 @@
 ---
 title: How to use HTTP Compression to make your website faster?
-slug: http-compression
 description: You need to be extra careful with your site’s performance and ensure that you have taken enough measures to decrease its load time and not compromise on the performance.
 publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
@@ -11,7 +10,6 @@ tags:
     - http
     - compression
 coverImage: ''
-draft: false
 ---
 
 <Lead>

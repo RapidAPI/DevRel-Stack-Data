@@ -1,6 +1,5 @@
 ---
 title: What is DNS?
-slug: dns
 description: A lot goes in when you type a website address in your browser address bar and hit enter.
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 publishedDate: 2021-10-21T16:18:42.178Z
@@ -10,11 +9,13 @@ category: http
 tags:
     - dns
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-A lot goes in when you type a website address in your browser address bar and hit enter. This address is translated to an IP address, and the server serves the website on that IP. This is done using DNS. Let’s take a look at it.
+	A lot goes in when you type a website address in your browser address bar
+	and hit enter. This address is translated to an IP address, and the server
+	serves the website on that IP. This is done using DNS. Let’s take a look at
+	it.
 </Lead>
 
 ## Domain Name Server (DNS)
@@ -33,7 +34,7 @@ You open a website on your computer. If its DNS record is found in your computer
 
 Four website DNS servers work together to load a webpage.
 
-- **DNS Recursor:** The first one is the DNS Recursor designed to receive queries from the user’s machine through applications like web browsers.
-- **Root Name Server:** Then there is a Root Name Server that can be thought of as an index in a library that provides information where a book is located.
-- **TLD Nameserver:** This server hosts the last portion of a hostname, i.e., com, org, etc.
-- **Authoritative Nameserver:** This is the last step of loading a webpage. If the authorization nameserver has access to the requested record, it will send back the IP address for the requested hostname back to the DNS Recursor.
+-   **DNS Recursor:** The first one is the DNS Recursor designed to receive queries from the user’s machine through applications like web browsers.
+-   **Root Name Server:** Then there is a Root Name Server that can be thought of as an index in a library that provides information where a book is located.
+-   **TLD Nameserver:** This server hosts the last portion of a hostname, i.e., com, org, etc.
+-   **Authoritative Nameserver:** This is the last step of loading a webpage. If the authorization nameserver has access to the requested record, it will send back the IP address for the requested hostname back to the DNS Recursor.

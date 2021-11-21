@@ -1,20 +1,20 @@
 ---
 title: How to Increase Adoption of your API
-slug: increase-api-adoption
 description: Let more developers discover and use your API. These few ways can increase API adoption.
 publishedDate: 2021-10-01T16:10:30.765Z
 lastModifiedDate: 2021-10-01T16:10:30.765Z
 authors:
-  - ahmadBilal
+    - ahmadBilal
 category: api
 tags:
-  - api
+    - api
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-So you have built and deployed an excellent API. The next step is clear; reach the right developers and accelerate the adoption of your API. But how? Start by thinking like a developer who is looking for your API.
+	So you have built and deployed an excellent API. The next step is clear;
+	reach the right developers and accelerate the adoption of your API. But how?
+	Start by thinking like a developer who is looking for your API.
 </Lead>
 
 Here are a few pointers to consider.
@@ -26,11 +26,12 @@ You need a medium where you can connect with the developers who are looking for 
 [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is the world's largest API hub, with over 3 million developers accessing more than 30,000 APIs. Besides reaching so many developers, RapidAPI makes API management easy. It takes care of the nuts and bolts of billing so you can focus on building APIs.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
 >
-  Learn more about using RapidAPI Hub as an API provider in this interactive guide.
+	Learn more about using RapidAPI Hub as an API provider in this interactive
+	guide.
 </Callout>
 
 ## Solve a Problem

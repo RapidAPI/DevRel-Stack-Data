@@ -1,6 +1,5 @@
 ---
 title: Introduction to Websockets
-slug: websockets
 description: WebSockets allow creating a full-duplex connection between the client and the server to pass bi-directional messages.
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
@@ -10,11 +9,15 @@ category: api
 tags:
     - websockets
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-Sometimes you are developing an application that requires real-time communication between two users. There are a few ways to achieve this. Either the user will have to refresh their page manually every few minutes, or you can set the page to request the server for new data every few seconds. Both of these ways are not ideal. And that’s where WebSocket comes into the picture.
+	Sometimes you are developing an application that requires real-time
+	communication between two users. There are a few ways to achieve this.
+	Either the user will have to refresh their page manually every few minutes,
+	or you can set the page to request the server for new data every few
+	seconds. Both of these ways are not ideal. And that’s where WebSocket comes
+	into the picture.
 </Lead>
 
 ## What is WebSocket?

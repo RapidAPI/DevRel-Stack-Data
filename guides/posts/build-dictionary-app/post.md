@@ -1,16 +1,14 @@
 ---
 title: How to build a Dictionary app using Next.js and dictionary API?
-slug: build-dictionary-app
 description: "Let's take a look at how you can build a dictionary application."
 publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:
     - saad
-category: Apps
+category: apps
 tags:
     - build-dictionary-app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -34,11 +32,11 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 Let’s find an API that we can use to fetch the meaning of a word. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “dictionary apis” in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rest"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rest"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 You will see different search results related to all the available spell check APIs. For this piece, I am using [Dictionary by API-Ninjas](https://rapidapi.com/apininjas/api/dictionary-by-api-ninjas/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel).
@@ -59,14 +57,14 @@ This command is going to take a minute to set everything up. After generating th
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
-- `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
-- `public` directory: This directory contains icons. You place your static files here to load later in the application.
-- `node_modules`: It’s another directory that contains all the node modules you are using in your application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
+-   `public` directory: This directory contains icons. You place your static files here to load later in the application.
+-   `node_modules`: It’s another directory that contains all the node modules you are using in your application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 Before we move on to writing the code, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/dictionary-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are some TailwindCSS configurations I have done specifically for this project. I have added some colors that you do not have by default with TailwindCSS and set some screen sizes.
 
@@ -78,16 +76,16 @@ Open the `pages/index.js` file and remove all the existing code. After this, cop
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        <span className="text-secondary">Dictionary</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Check Meaning of any word
-      </h3>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				<span className="text-secondary">Dictionary</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Check Meaning of any word
+			</h3>
+		</div>
+	);
 }
 ```
 
@@ -132,48 +130,46 @@ export default function Home() {
 }
 ```
 
-This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS]((https://tailwindcss.com/)).
+This code is going to create an input field and button. I have also styled them a little bit using [TailwindCSS](<(https://tailwindcss.com/)>).
 
 ### → STEP #3
 
 Let’s create some states to store the user input and the meaning we will receive from the API. For this, copy-paste the following code in `pages/index.js`.
 
 ```js
-import { useState } from "react";
+import {useState} from 'react';
 
 export default function Home() {
-  const [word, setWord] = useState("");
-  const [wordInfo, setWordInfo] = useState(null);
+	const [word, setWord] = useState('');
+	const [wordInfo, setWordInfo] = useState(null);
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        <span className="text-secondary">Dictionary</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Check Meaning of any word
-      </h3>
-      <div className="flex flex-col justify-between items-center w-full md:items-center">
-        <form
-          onSubmit={(e) => fetchInfo(e)}
-          className="flex w-full justify-center md:flex-col md:w-5/6 "
-        >
-          <input
-            autoFocus={true}
-            type="text"
-            className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
-            placeholder="Enter any word..."
-            onChange={(e) => setWord(e.target.value)}
-          />
-          <button
-            className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4"
-          >
-            Search
-          </button>
-        </form>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				<span className="text-secondary">Dictionary</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Check Meaning of any word
+			</h3>
+			<div className="flex flex-col justify-between items-center w-full md:items-center">
+				<form
+					onSubmit={e => fetchInfo(e)}
+					className="flex w-full justify-center md:flex-col md:w-5/6 "
+				>
+					<input
+						autoFocus={true}
+						type="text"
+						className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
+						placeholder="Enter any word..."
+						onChange={e => setWord(e.target.value)}
+					/>
+					<button className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4">
+						Search
+					</button>
+				</form>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -212,132 +208,140 @@ I am also going to use the code snippet of `(JavaScript) Axios` that [RapidAPI H
 Create a file called `info.js` in the `pages/api` directory and copy-paste the following code there:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  if (req.method === "GET") {
-    const options = {
-      method: "GET",
-      url: "https://dictionary-by-api-ninjas.p.rapidapi.com/v1/dictionary",
-      params: { word: req.query.word },
-      headers: {
-        "x-rapidapi-host": "dictionary-by-api-ninjas.p.rapidapi.com",
-        "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
-      },
-    };
+	if (req.method === 'GET') {
+		const options = {
+			method: 'GET',
+			url: 'https://dictionary-by-api-ninjas.p.rapidapi.com/v1/dictionary',
+			params: {word: req.query.word},
+			headers: {
+				'x-rapidapi-host': 'dictionary-by-api-ninjas.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY
+			}
+		};
 
-    axios
-      .request(options)
-      .then(function (response) {
-        res.status(200).json(response.data);
-      })
-      .catch(function (error) {
-        console.error(error);
-      });
-  } else {
-    res.status(400);
-  }
+		axios
+			.request(options)
+			.then(function (response) {
+				res.status(200).json(response.data);
+			})
+			.catch(function (error) {
+				console.error(error);
+			});
+	} else {
+		res.status(400);
+	}
 }
 ```
 
 Now let’s create a function in the `pages/index.js` file to request the `/api/info` for the word meaning. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
-import { useState } from "react";
-import axios from "axios";
+import {useState} from 'react';
+import axios from 'axios';
 
 export default function Home() {
-  const [word, setWord] = useState("");
-  const [wordInfo, setWordInfo] = useState(null);
+	const [word, setWord] = useState('');
+	const [wordInfo, setWordInfo] = useState(null);
 
-  /**
-   *
-   *
-   * Fetch word information
-   */
-  const fetchInfo = async (e) => {
-    e.preventDefault();
-    try {
-      const res = await axios.get(`/api/info`, {
-        params: { word },
-      });
-      const { data } = res;
-      const { definition } = data;
+	/**
+	 *
+	 *
+	 * Fetch word information
+	 */
+	const fetchInfo = async e => {
+		e.preventDefault();
+		try {
+			const res = await axios.get(`/api/info`, {
+				params: {word}
+			});
+			const {data} = res;
+			const {definition} = data;
 
-      // split the response string into an array using regex
-      const newDefinition = definition.split(/1. |2. | 3. /);
-      setWordInfo(newDefinition);
-    } catch (err) {
-      console.log(err);
-    }
-  };
+			// split the response string into an array using regex
+			const newDefinition = definition.split(/1. |2. | 3. /);
+			setWordInfo(newDefinition);
+		} catch (err) {
+			console.log(err);
+		}
+	};
 
-  return (
-    <div className="flex flex-col items-center relative min-h-screen">
-      <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
-        <span className="text-secondary">Dictionary</span> App
-      </h2>
-      <h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
-        Check Meaning of any word
-      </h3>
-      <div className="flex flex-col justify-between items-center w-full md:items-center">
-        <form
-          onSubmit={(e) => fetchInfo(e)}
-          className="flex w-full justify-center md:flex-col md:w-5/6 "
-        >
-          <input
-            autoFocus={true}
-            type="text"
-            className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
-            placeholder="Enter any word..."
-            onChange={(e) => setWord(e.target.value)}
-          />
-          <button
-            className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4"
-            onClick={fetchInfo}
-          >
-            Search
-          </button>
-        </form>
-        {wordInfo && (
-          <div className="flex flex-col text-primary text-raleway mt-12 w-3/6 h-4/5  md:flex-col md:w-4/6 md:h-full md:mb-12">
-            <table className="bg-white w-full text-primary mb-8 md:text-sm md:mx-2">
-              <thead className="font-raleway uppercase tracking-wide">
-                <tr>
-                  <th className="border text-left px-4 py-4">
-                    <span className="text-secondary">{word}</span>
-                  </th>
-                  <th className="border text-left px-4 py-4">
-                    <span className="text-secondary">Definition</span>
-                  </th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td className="border px-4 py-4">1.</td>
-                  <td className="border px-4 py-4">{wordInfo[1]}</td>
-                </tr>
-                <tr>
-                  <td className="border px-4 py-4">2.</td>
-                  <td className="border px-4 py-4">{wordInfo[2]}</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        )}
-      </div>
-      <div className="absolute bottom-0 flex justify-center items-end h-36 md:h-44">
-        <p className="text-primary pb-12 md:w-60 md:text-center">
-          Made by RapidAPI DevRel Team –{" "}
-          <a href="https://github.com/RapidAPI/DevRel-Examples-External">
-            <span className="transition duration-300 hover:text-secondary">
-              See Examples Like this
-            </span>
-          </a>
-        </p>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col items-center relative min-h-screen">
+			<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-6 md:text-3xl">
+				<span className="text-secondary">Dictionary</span> App
+			</h2>
+			<h3 className="text-lightGrey text-2xl font-raleway font-bold uppercase tracking-wide mb-12 md:text-base md:px-4 md:text-center">
+				Check Meaning of any word
+			</h3>
+			<div className="flex flex-col justify-between items-center w-full md:items-center">
+				<form
+					onSubmit={e => fetchInfo(e)}
+					className="flex w-full justify-center md:flex-col md:w-5/6 "
+				>
+					<input
+						autoFocus={true}
+						type="text"
+						className="border-none outline-none w-2/5 bg-primary px-4 py-2 rounded-sm font-raleway md:w-full"
+						placeholder="Enter any word..."
+						onChange={e => setWord(e.target.value)}
+					/>
+					<button
+						className="outline-none border border-danger font-bold font-raleway ml-4 px-12 py-2 rounded-sm bg-danger text-primary transition duration-300 hover:bg-bc hover:text-black md:ml-0 md:mt-4"
+						onClick={fetchInfo}
+					>
+						Search
+					</button>
+				</form>
+				{wordInfo && (
+					<div className="flex flex-col text-primary text-raleway mt-12 w-3/6 h-4/5  md:flex-col md:w-4/6 md:h-full md:mb-12">
+						<table className="bg-white w-full text-primary mb-8 md:text-sm md:mx-2">
+							<thead className="font-raleway uppercase tracking-wide">
+								<tr>
+									<th className="border text-left px-4 py-4">
+										<span className="text-secondary">
+											{word}
+										</span>
+									</th>
+									<th className="border text-left px-4 py-4">
+										<span className="text-secondary">
+											Definition
+										</span>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td className="border px-4 py-4">1.</td>
+									<td className="border px-4 py-4">
+										{wordInfo[1]}
+									</td>
+								</tr>
+								<tr>
+									<td className="border px-4 py-4">2.</td>
+									<td className="border px-4 py-4">
+										{wordInfo[2]}
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				)}
+			</div>
+			<div className="absolute bottom-0 flex justify-center items-end h-36 md:h-44">
+				<p className="text-primary pb-12 md:w-60 md:text-center">
+					Made by RapidAPI DevRel Team –{' '}
+					<a href="https://github.com/RapidAPI/DevRel-Examples-External">
+						<span className="transition duration-300 hover:text-secondary">
+							See Examples Like this
+						</span>
+					</a>
+				</p>
+			</div>
+		</div>
+	);
 }
 ```
 

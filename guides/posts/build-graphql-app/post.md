@@ -1,19 +1,17 @@
 ---
 title: How to build a Next.js app using a GraphQL API?
-slug: build-graphql-app
 description: Let's see how we can fetch and use data from GraphQL in a Next.js app.
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:
     - ahmadBilal
-category: Apps
+category: apps
 tags:
     - rapidapi
     - graphql
     - app
     - nextjs
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -37,11 +35,11 @@ Even if you don’t know about Next.js, being familiar with React will be enough
 There are many GraphQL APIs available on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). [Create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on it if you haven’t already. Then, you can look for [GraphQL APIs](https://rapidapi.com/search/graphql?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/hub"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/hub"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 For our app, I will use [GeoDB Cities API](https://rapidapi.com/wirefreethought/api/geodb-cities-graphql/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which can serve the global city, region, and country data.
@@ -68,13 +66,13 @@ It will take some time to install the packages. After generating the boilerplate
 
 In our project folder, we will have the following folders and files. I will briefly break them down for you:
 
-- `pages` directory: It has the `index.js` file, which is the entry point of our app, basically the home page. It also has`_app.js` and another directory named `api`, where we will store the requests to our API.
-- `public` directory: It holds assets. You can place your static files here to load later in the application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: It has the `index.js` file, which is the entry point of our app, basically the home page. It also has`_app.js` and another directory named `api`, where we will store the requests to our API.
+-   `public` directory: It holds assets. You can place your static files here to load later in the application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 I will be using a particular set of colors for this app. You can use colors of your preference, but if you are interested in mine, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/graphql-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are Tailwind configurations for the colors I will be using.
 
@@ -86,17 +84,17 @@ Open the `pages/index.js` file and remove all the existing code. Let's add the l
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
-      <h1 className="text-6xl text-primary font-bold mt-10">
-        Example GraphQl <span className="text-active">App</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Next.js app which provides information about a given country using a
-        GraphQl API.
-      </h2>
-    </div>
-  );
+	return (
+		<div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
+			<h1 className="text-6xl text-primary font-bold mt-10">
+				Example GraphQl <span className="text-active">App</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Next.js app which provides information about a given country
+				using a GraphQl API.
+			</h2>
+		</div>
+	);
 }
 ```
 
@@ -106,76 +104,74 @@ We want to add the functionality of searching for any country. So we will need a
 
 ```js
 export default function Home() {
-  return (
-    <div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
-      <h1 className="text-6xl text-primary font-bold mt-10">
-        Example GraphQl <span className="text-active">App</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Next.js app which provides information about a given country using a
-        GraphQl API.
-      </h2>
-      <div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
-        <input
-          type="text"
-          className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
-          placeholder="Search for any country using full name or first few letters"
-        />
-        <div className="mt-4 sm:mt-0 sm:ml-3">
-          <button
-            className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10"
-          >
-            Search
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+	return (
+		<div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
+			<h1 className="text-6xl text-primary font-bold mt-10">
+				Example GraphQl <span className="text-active">App</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Next.js app which provides information about a given country
+				using a GraphQl API.
+			</h2>
+			<div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
+				<input
+					type="text"
+					className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
+					placeholder="Search for any country using full name or first few letters"
+				/>
+				<div className="mt-4 sm:mt-0 sm:ml-3">
+					<button className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10">
+						Search
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
-This code is going to create the search field and the submit button. I have also styled and made them responsive using [TailwindCSS]((https://tailwindcss.com/)).
+This code is going to create the search field and the submit button. I have also styled and made them responsive using [TailwindCSS](<(https://tailwindcss.com/)>).
 
 ### → STEP #3
 
 Let’s create two states, `countryName` to store the search input and `response` to hold the response from the API.
 
 ```js
-import { useState } from "react";
+import {useState} from 'react';
 
 export default function Home() {
-  const [countryName, setCountryName] = useState(null);
-  const [response, setResponse] = useState(null);
+	const [countryName, setCountryName] = useState(null);
+	const [response, setResponse] = useState(null);
 
-  return (
-    <div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
-      <h1 className="text-6xl text-primary font-bold mt-10">
-        Example GraphQl <span className="text-active">App</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Next.js app, which provides information about a given country using a
-        GraphQl API.
-      </h2>
+	return (
+		<div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
+			<h1 className="text-6xl text-primary font-bold mt-10">
+				Example GraphQl <span className="text-active">App</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Next.js app, which provides information about a given country
+				using a GraphQl API.
+			</h2>
 
-      <div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
-        <input
-          type="text"
-          className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
-          placeholder="Search for any country using full name or first few letters"
-          onChange={(e) => setCountryName(e.target.value)}
-        />
+			<div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
+				<input
+					type="text"
+					className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
+					placeholder="Search for any country using full name or first few letters"
+					onChange={e => setCountryName(e.target.value)}
+				/>
 
-        <div className="mt-4 sm:mt-0 sm:ml-3">
-          <button
-            className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10"
-            onClick={() => getSearchResults()}
-          >
-            Search
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+				<div className="mt-4 sm:mt-0 sm:ml-3">
+					<button
+						className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10"
+						onClick={() => getSearchResults()}
+					>
+						Search
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -211,16 +207,16 @@ Our GraphQL query should look something like this:
 
 ```graphql
 {
-  countries(namePrefix: "Ame") {
-    edges {
-      node {
-        name
-        capital
-        flagImageUri
-        currencyCodes
-      }
-    }
-  }
+	countries(namePrefix: "Ame") {
+		edges {
+			node {
+				name
+				capital
+				flagImageUri
+				currencyCodes
+			}
+		}
+	}
 }
 ```
 
@@ -235,19 +231,19 @@ Let's test it. On the [endpoints page](https://rapidapi.com/wirefreethought/api/
 Our query was successful, and we received the details for our input **"Ame"**. Now, it is time to integrate it into our app. I am going to create a file named `countries.js` in the `pages/api` directory and use the JavaScript (Axios) code snippet we copied above. as follows:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  const options = {
-    method: "POST",
-    url: "https://geodb-cities-graphql.p.rapidapi.com/",
-    headers: {
-      "content-type": "application/json",
-      "x-rapidapi-host": "geodb-cities-graphql.p.rapidapi.com",
-      "x-rapidapi-key": process.env.NEXT_PUBLIC_RAPIDAPI_KEY,
-    },
-    data: {
-      query: `{
+	const options = {
+		method: 'POST',
+		url: 'https://geodb-cities-graphql.p.rapidapi.com/',
+		headers: {
+			'content-type': 'application/json',
+			'x-rapidapi-host': 'geodb-cities-graphql.p.rapidapi.com',
+			'x-rapidapi-key': process.env.NEXT_PUBLIC_RAPIDAPI_KEY
+		},
+		data: {
+			query: `{
         countries(namePrefix: "Ame") {
           edges {
             node {
@@ -258,19 +254,19 @@ export default async function handler(req, res) {
             }
           }
         }
-      }`,
-    },
-  };
+      }`
+		}
+	};
 
-  axios
-    .request(options)
-    .then(function (response) {
-      res.status(200).json(response.data);
-    })
-    .catch(function (error) {
-      console.error(error);
-      res.status(response.status);
-    });
+	axios
+		.request(options)
+		.then(function (response) {
+			res.status(200).json(response.data);
+		})
+		.catch(function (error) {
+			console.error(error);
+			res.status(response.status);
+		});
 }
 ```
 
@@ -301,57 +297,57 @@ We create a query function `getCountry`, which takes a parameter `prefix` of typ
 Finally, our API call is ready. Now we need to write a function in the `pages/index.js` file to send the request from the client-side to our API at `http://localhost:3000/api/countries`. You can just copy and replace the following code in `pages/index.js` file:
 
 ```js
-import axios from "axios";
-import { useState } from "react";
+import axios from 'axios';
+import {useState} from 'react';
 
 export default function Home() {
-  const [countryName, setCountryName] = useState(null);
-  const [response, setResponse] = useState(null);
+	const [countryName, setCountryName] = useState(null);
+	const [response, setResponse] = useState(null);
 
-  /**
-   * Fetches search results for the input country name
-   */
-  const getSearchResults = async () => {
-    try {
-      const res = await axios.get("api/countries/", {
-        params: { countryName },
-      });
-      const { data } = res;
-      setResponse(data.data.countries.edges);
-    } catch (error) {
-      console.error(error);
-    }
-  };
+	/**
+	 * Fetches search results for the input country name
+	 */
+	const getSearchResults = async () => {
+		try {
+			const res = await axios.get('api/countries/', {
+				params: {countryName}
+			});
+			const {data} = res;
+			setResponse(data.data.countries.edges);
+		} catch (error) {
+			console.error(error);
+		}
+	};
 
-  return (
-    <div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
-      <h1 className="text-6xl text-primary font-bold mt-10">
-        Example GraphQl <span className="text-active">App</span>
-      </h1>
-      <h2 className="text-active text-2xl mt-6">
-        Next.js app which provides information about a given country using a
-        GraphQl API.
-      </h2>
+	return (
+		<div className="flex flex-col relative bg-background font-raleway items-center min-h-screen ">
+			<h1 className="text-6xl text-primary font-bold mt-10">
+				Example GraphQl <span className="text-active">App</span>
+			</h1>
+			<h2 className="text-active text-2xl mt-6">
+				Next.js app which provides information about a given country
+				using a GraphQl API.
+			</h2>
 
-      <div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
-        <input
-          type="text"
-          className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
-          placeholder="Search for any country using full name or first few letters"
-          onChange={(e) => setCountryName(e.target.value)}
-        />
+			<div className="mt-12 sm:mx-auto justify-center sm:w-full sm:flex">
+				<input
+					type="text"
+					className="block w-1/3 border border-transparent rounded-md px-5 py-3 text-base text-background shadow-sm focus:outline-none focus:border-transparent focus:ring-2 focus:ring-active"
+					placeholder="Search for any country using full name or first few letters"
+					onChange={e => setCountryName(e.target.value)}
+				/>
 
-        <div className="mt-4 sm:mt-0 sm:ml-3">
-          <button
-            className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10"
-            onClick={() => getSearchResults()}
-          >
-            Search
-          </button>
-        </div>
-      </div>
-    </div>
-  );
+				<div className="mt-4 sm:mt-0 sm:ml-3">
+					<button
+						className="block w-full rounded-md px-5 py-3 bg-active text-base font-bold text-background focus:outline-none focus:ring-2 focus:ring-primary sm:px-10"
+						onClick={() => getSearchResults()}
+					>
+						Search
+					</button>
+				</div>
+			</div>
+		</div>
+	);
 }
 ```
 

@@ -1,6 +1,5 @@
 ---
 title: Most common HTTP status codes
-slug: common-http-status-code
 description: HTTP status codes are there to help the client understand whether the request was successful or not.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
@@ -10,11 +9,12 @@ category: http
 tags:
     - http
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-When you are building a REST API, make sure you follow all the best practices. One of them is using HTTP status codes. Let’s take a look at them.
+	When you are building a REST API, make sure you follow all the best
+	practices. One of them is using HTTP status codes. Let’s take a look at
+	them.
 </Lead>
 
 ## What are HTTP status codes?

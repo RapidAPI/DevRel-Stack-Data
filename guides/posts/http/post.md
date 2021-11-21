@@ -1,20 +1,21 @@
 ---
 title: What is HTTP?
-slug: http
 description: HTTP is a protocol that web apps use to fetch data from the internet.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:
-  - saad
+    - saad
 category: http
 tags:
-  - http
+    - http
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-The HyperText Transfer Protocol (HTTP) is used to fetch resources from the Internet. It is used to load web pages using URLs. HTTP is a client-server protocol that means the request is initiated by the recipient, usually a web browser. The recipient requests HTTP and receives a response.
+	The HyperText Transfer Protocol (HTTP) is used to fetch resources from the
+	Internet. It is used to load web pages using URLs. HTTP is a client-server
+	protocol that means the request is initiated by the recipient, usually a web
+	browser. The recipient requests HTTP and receives a response.
 </Lead>
 
 The HTTP protocol exists at the application layer in the Open Systems Interconnection (OSI) model. It is highly extensible, and because of this, it is used to fetch not only web pages but also images and videos.

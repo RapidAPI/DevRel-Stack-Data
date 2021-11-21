@@ -1,17 +1,15 @@
 ---
 title: How to build a News app using Next.js and News API?
-slug: build-news-app
 description: There are a lot of APIs out there that you can use for your projects. But finding these APIs often becomes a hassle.
 publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 authors:
     - saad
-category: Apps
+category: apps
 tags:
     - rapidapi
     - news-app
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -35,11 +33,11 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for "news" in the search section.
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
 >
-  Learn more about how to use RapidAPI Hub.
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 I am going to use the [Bing News Search API](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) by Microsoft Azure.
@@ -66,14 +64,14 @@ This command is going to take a minute to set everything up. After it is finishe
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
-- `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
-- `public` directory: This directory contains icons. You place your static files here to load later in the application.
-- `node_modules`: It’s another directory that contains all the node modules you are using in your application.
-- `package.json`: This file contains the metadata of your project.
-- `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
-- `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
-- `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
-- `readme.md`: It’s a markdown file for documentation.
+-   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called `api`. You only need to know about the `index.js` file that is the main entry point in your project.
+-   `public` directory: This directory contains icons. You place your static files here to load later in the application.
+-   `node_modules`: It’s another directory that contains all the node modules you are using in your application.
+-   `package.json`: This file contains the metadata of your project.
+-   `package-lock.json`: This file is responsible for tracking the exact version of every installed package.
+-   `postcss.config.js`: This file contains [PostCSS](https://github.com/postcss/postcss) configurations.
+-   `tailwind.config.js`: It contains [TailwindCSS](https://tailwindcss.com/) configurations.
+-   `readme.md`: It’s a markdown file for documentation.
 
 Before we move on to writing the code, open [this](https://github.com/RapidAPI/DevRel-Examples-External/blob/main/news-app/tailwind.config.js) file, and copy all of its content, then paste it inside the `tailwind.config.js` file in your project. These are some TailwindCSS configurations I have done specifically for this project. I have added some colors that you do not have by default with TailwindCSS and also have set some screen sizes.
 
@@ -83,23 +81,22 @@ Now let’s start writing the code. I am going to do it in steps so you can foll
 
 Open the`pages/index.js` file and remove all the existing code. After this, copy-paste the following code there:
 
-
 ```js
 export default function Home() {
-  return (
-    <div className="bg-bc min-h-screen">
-      <div className="flex justify-center">
-        <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
-              News Application
-        </h2>
-      </div>
-      <div className="flex justify-center items-center flex-col">
-        <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
-            Get Top <span className="text-danger">News</span> Quickly
-        </h3>
-      </div>
-    </div>
-  );
+	return (
+		<div className="bg-bc min-h-screen">
+			<div className="flex justify-center">
+				<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
+					News Application
+				</h2>
+			</div>
+			<div className="flex justify-center items-center flex-col">
+				<h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
+					Get Top <span className="text-danger">News</span> Quickly
+				</h3>
+			</div>
+		</div>
+	);
 }
 ```
 
@@ -128,7 +125,8 @@ import axios from ‘axios’;
 ```
 
 <Callout>
-  RapidAPI Hub provides you with code snippets in different languages for integrating the API.
+	RapidAPI Hub provides you with code snippets in different languages for
+	integrating the API.
 </Callout>
 
 I am going to use the [(JavaScript) Axios](https://www.npmjs.com/package/axios) one.
@@ -144,35 +142,35 @@ http://localhost:3000/api/news
 Now copy the following code from this file:
 
 ```js
-import axios from "axios";
+import axios from 'axios';
 
 export default async function handler(req, res) {
-  if (req.method === "GET") {
-    var options = {
-      method: "GET",
-      url: "https://bing-news-search1.p.rapidapi.com/news",
-      params: { safeSearch: "Off", textFormat: "Raw" },
-      headers: {
-        "x-bingapis-sdk": "true",
-        "x-rapidapi-host": "bing-news-search1.p.rapidapi.com",
-        "x-rapidapi-key": process.env.NEXT_PUBLIC_BING_NEWS_API_KEY,
-      },
-    };
+	if (req.method === 'GET') {
+		var options = {
+			method: 'GET',
+			url: 'https://bing-news-search1.p.rapidapi.com/news',
+			params: {safeSearch: 'Off', textFormat: 'Raw'},
+			headers: {
+				'x-bingapis-sdk': 'true',
+				'x-rapidapi-host': 'bing-news-search1.p.rapidapi.com',
+				'x-rapidapi-key': process.env.NEXT_PUBLIC_BING_NEWS_API_KEY
+			}
+		};
 
-    axios
-      .request(options)
-      .then(function (response) {
-        const { data } = response;
-        const { value } = data;
+		axios
+			.request(options)
+			.then(function (response) {
+				const {data} = response;
+				const {value} = data;
 
-        res.status(200).json(value);
-      })
-      .catch(function (error) {
-        console.error(error);
-      });
-  } else {
-    res.status(400);
-  }
+				res.status(200).json(value);
+			})
+			.catch(function (error) {
+				console.error(error);
+			});
+	} else {
+		res.status(400);
+	}
 }
 ```
 
@@ -181,52 +179,50 @@ This code is making an API call to the Bing News API on the server and returns t
 Once you are done, copy the following code in the `pages/index.js` file:
 
 ```js
-import Link from "next/link";
-import axios from "axios";
+import Link from 'next/link';
+import axios from 'axios';
 
-export default function Home({ value }) {
-  return (
-    <div className="bg-bc min-h-screen">
-      <div className="flex justify-center">
-        <h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
-          News Application
-        </h2>
-      </div>
-      <div className="flex justify-center items-center flex-col">
-        <h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
-            Get Top <span className="text-danger">News</span> Quickly
-        </h3>
-        {value.map((news) => {
-            return (
-              <Link href={news.url}>
-                <div className="flex items-center text-lg px-10 mb-10 font-light font-raleway h-32 w-3/6 rounded-sm border-2 border-danger text-lightYellow cursor-pointer transition duration-300 hover:border-primary hover:text-danger md:w-80 md:h-40">
-                  <h3>{news.name}</h3>
-                </div>
-              </Link>
-          );
-        })}
-      </div>
-    </div>
-  );
+export default function Home({value}) {
+	return (
+		<div className="bg-bc min-h-screen">
+			<div className="flex justify-center">
+				<h2 className="font-raleway font-bold text-6xl text-primary pt-20 pb-10 md:text-4xl">
+					News Application
+				</h2>
+			</div>
+			<div className="flex justify-center items-center flex-col">
+				<h3 className="text-secondary text-2xl font-raleway font-bold uppercase tracking-wide mb-10 md:text-lg">
+					Get Top <span className="text-danger">News</span> Quickly
+				</h3>
+				{value.map(news => {
+					return (
+						<Link href={news.url}>
+							<div className="flex items-center text-lg px-10 mb-10 font-light font-raleway h-32 w-3/6 rounded-sm border-2 border-danger text-lightYellow cursor-pointer transition duration-300 hover:border-primary hover:text-danger md:w-80 md:h-40">
+								<h3>{news.name}</h3>
+							</div>
+						</Link>
+					);
+				})}
+			</div>
+		</div>
+	);
 }
 
 export async function getServerSideProps() {
-  const res = await axios.get(
-    "https://localhost:3000/api/news"
-  );
-  const { data: value } = res;
+	const res = await axios.get('https://localhost:3000/api/news');
+	const {data: value} = res;
 
-  if (!value) {
-    return {
-      notFound: true,
-    };
-  }
+	if (!value) {
+		return {
+			notFound: true
+		};
+	}
 
-  return {
-    props: {
-      value,
-    },
-  };
+	return {
+		props: {
+			value
+		}
+	};
 }
 ```
 

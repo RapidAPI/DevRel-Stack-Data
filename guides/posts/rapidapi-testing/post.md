@@ -1,17 +1,15 @@
 ---
 title: What is RapidAPI Testing?
-slug: rapidapi-testing
 description: RapidAPI Testing is a functional API testing and monitoring solution by RapidAPI that provides you an intuitive UX and support for any type of API
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
-category: RapidAPI
+category: rapidapi
 tags:
     - rapidapi
     - rapidapi-testing
 coverImage: ''
-draft: false
 ---
 
 <Lead>
@@ -21,11 +19,12 @@ API development and testing go side by side. If you are developing an API that i
 </Lead>
 
 <Callout
-  title="Deep dive"
-  linkText="Read more"
-  linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introductionn"
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introductionn"
 >
-  Learn more about using RapidAPI Hub as an API provider in this interactive guide.
+	Learn more about using RapidAPI Hub as an API provider in this interactive
+	guide.
 </Callout>
 
 ## RapidAPI Testing
@@ -34,9 +33,9 @@ API development and testing go side by side. If you are developing an API that i
 
 [RapidAPI Testing](https://rapidapi.com/products/api-testing/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) enables users and enterprises to:
 
-- Ensure API functionality
-- Centralized monitoring
-- Improve efficiency
+-   Ensure API functionality
+-   Centralized monitoring
+-   Improve efficiency
 
 You can quickly and easily create intricate functional tests for deep validation of APIs. You can also integrate the CI/CD pipeline and collaborate across teams.
 

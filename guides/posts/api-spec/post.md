@@ -1,6 +1,5 @@
 ---
 title: What is an API spec?
-slug: api-spec
 description: There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
@@ -11,11 +10,13 @@ tags:
     - api
     - specs
 coverImage: ''
-draft: false
 ---
 
 <Lead>
-There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API to set some standards right from the start. Let’s take a look at some of these specifications.
+	There are a lot of APIs out there, each with different specifications. The
+	developers define these specifications when building an API to set some
+	standards right from the start. Let’s take a look at some of these
+	specifications.
 </Lead>
 
 ## API Specs
@@ -26,10 +27,10 @@ The API specification provides a comprehensive understanding of how an API behav
 
 There are four types of API specifications:
 
-- Representational State Transfer (REST)
-- Simple Object Access Protocol (SOAP)
-- GraphQL
-- Remote Procedure Call (RPC)
+-   Representational State Transfer (REST)
+-   Simple Object Access Protocol (SOAP)
+-   GraphQL
+-   Remote Procedure Call (RPC)
 
 ## REST
 
