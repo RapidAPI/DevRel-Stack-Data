@@ -1,4 +1,10 @@
 [
+	{
+		"source": "build-crypto-news-app"
+	},
+	{
+		"source": "response-chaining"
+	},
   {
 		"source": "learn-dom-api"
 	},
