@@ -1,4 +1,6 @@
 [
+	{"source": "graphql-aliases-variables"},
+	{"source": "use-rapidapi-teams"},
 	{"source": "response-chaining"},
 	{"source": "build-crypto-news-app"},
 	{"source": "build-text-sentiment-analysis-app"},
