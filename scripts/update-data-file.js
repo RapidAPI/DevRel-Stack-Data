@@ -9,16 +9,26 @@ const addNewPosts = (allStagedFiles, type) => {
 	const allMdFiles = micromatch(allStagedFiles, [`**/${type}/**/*.md`]);
 	const relativePaths = allMdFiles.map(file => path.relative(cwd, file));
 
-	relativePaths.map(relPath => {
-		const newDirName = relPath.split('/')[2];
+	if (relativePaths.length) {
+		const newDirectories = relativePaths.reduce(
+			(previousValue, currentValue) => {
+				const newDirName = currentValue.split('/')[2];
+
+				return previousValue.concat({source: newDirName});
+			},
+			[]
+		);
+
 		const existingData = require(`../${type}/data.json`);
-		const newData = [{source: newDirName}].concat(existingData);
+		const newData = newDirectories.concat(existingData);
 		const data = JSON.stringify(newData);
 
-		[{path: `${cwd}/${type}/data.json`, data}].map(file => {
-			fs.writeFileSync(file.path, file.data);
-		});
-	});
+		fs.writeFileSync(`${cwd}/${type}/data.json`, data);
+
+		console.log(
+			`Data written to ${cwd}/${type}/data.json file for ${type}`
+		);
+	}
 };
 
 const updateDataFile = async () => {
