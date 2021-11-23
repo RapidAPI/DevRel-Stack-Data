@@ -9,16 +9,16 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-rapidapi
-    - source: 03-layout
-    - source: 04-homepage
-    - source: 05-redux-toolkit-api-dev
-    - source: 06-cryptocurrencies
-    - source: 07-crypto-news
-    - source: 08-crypto-details
-    - source: 09-chart
-    - source: 10-mobile-navigation
-    - source: 11-challenge
+    - source: intro
+    - source: rapidapi
+    - source: layout
+    - source: homepage
+    - source: redux-toolkit-api-dev
+    - source: cryptocurrencies
+    - source: crypto-news
+    - source: crypto-details
+    - source: chart
+    - source: mobile-navigation
+    - source: challenge
 videoId: 9DDX3US3kss
 ---

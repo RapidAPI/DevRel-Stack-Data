@@ -9,12 +9,12 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-set-website-files-local-express-js-site
-    - source: 03-set-route-node-js-load-api-data-fetch
-    - source: 04-asynchronous-javascript-json-data-server-side-client
-    - source: 05-dynamically-generate-image-tag-javascript
-    - source: 06-api-key-secure-dotenv
-    - source: 07-style-website-css
+    - source: intro
+    - source: set-website-files-local-express-js-site
+    - source: set-route-node-js-load-api-data-fetch
+    - source: asynchronous-javascript-json-data-server-side-client
+    - source: dynamically-generate-image-tag-javascript
+    - source: api-key-secure-dotenv
+    - source: style-website-css
 videoId: wYALykLb5oY
 ---

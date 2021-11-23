@@ -9,14 +9,14 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-rapidapi-marketplace
-    - source: 03-project-setup-vite-js
-    - source: 04-index-html
-    - source: 05-main-js-setup
-    - source: 06-geo-location-api
-    - source: 07-open-weather-api
-    - source: 08-chuck-norris-api
-    - source: 09-breaking-news-api
+    - source: intro
+    - source: rapidapi-marketplace
+    - source: project-setup-vite-js
+    - source: index-html
+    - source: main-js-setup
+    - source: geo-location-api
+    - source: open-weather-api
+    - source: chuck-norris-api
+    - source: breaking-news-api
 videoId: NFToND6x_nI
 ---
