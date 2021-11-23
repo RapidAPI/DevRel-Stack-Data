@@ -25,7 +25,7 @@ Let’s look at six ground principles of REST API laid down by Dr. Fielding _(cr
 	linkText="Read more"
 	linkHref="https://rapidapi.com/learn/hub"
 >
-	Learn more about how to use RapidAPI Hub
+	Learn more about how to use RapidAPI Hub.
 </Callout>
 
 ## Representational State Transfer (REST) API

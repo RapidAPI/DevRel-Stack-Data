@@ -9,11 +9,11 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-tech-starter-files
-    - source: 03-create-google-map
-    - source: 04-api-data-map-markers
-    - source: 05-api-water-data
-    - source: 06-geolocation
+    - source: intro
+    - source: tech-starter-files
+    - source: create-google-map
+    - source: api-data-map-markers
+    - source: api-water-data
+    - source: geolocation
 videoId: I9F-CMiKOz4
 ---

@@ -9,9 +9,9 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-build-api-django
-    - source: 03-deploy-django-api-heroku
-    - source: 04-putting-api-rapidapi-hub
+    - source: intro
+    - source: build-api-django
+    - source: deploy-django-api-heroku
+    - source: putting-api-rapidapi-hub
 videoId: Zy0k1KnkO9w
 ---

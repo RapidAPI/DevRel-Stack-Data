@@ -9,13 +9,13 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-api
-    - source: 03-steps-making-api
-    - source: 04-idea
-    - source: 05-build
-    - source: 06-host
-    - source: 07-sell
-    - source: 08-conclusion
+    - source: intro
+    - source: api
+    - source: steps-making-api
+    - source: idea
+    - source: build
+    - source: host
+    - source: sell
+    - source: conclusion
 videoId: GpYboktUnTY
 ---
