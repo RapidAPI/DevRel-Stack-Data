@@ -19,7 +19,7 @@ In this guide, you will learn about what [RapidAPI Testing](https://rapidapi.com
 
 </Lead>
 
-With RapidAPI Testing, you can create tests intuitively via drag and drop. You have granular control over these tests. These tests can also run across global data centres.
+With RapidAPI Testing, you can create tests intuitively via drag and drop. You have granular control over these tests. These tests can also run across global data centers.
 
 RapidAPI Testings seamlessly integrates with RapidAPI Hub without any additional overhead. You can also run tests on your CI/CD pipeline.
 

@@ -21,6 +21,6 @@ REST APIs communicate via HTTP requests to perform CRUD (or Create, Read, Update
 | Update | PUT, PATCH  |
 | Delete | DELETE      |
 
-Click on the **Create new user** button in the component below to understand how you can create, update, read and delete a resource via a REST API.
+Click on the **Create new user** button in the component below to understand how to create, update, read and delete a resource via a REST API.
 
 <RESTAPI />

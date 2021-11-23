@@ -21,7 +21,7 @@ lessons:
 
 ## About this course
 
-This is an interactive course that will guide you through understanding what a REST API is and how it works.
+This interactive course will guide you through understanding what a REST API is and how it works.
 
 Use the interactive component below to understand the response from a `GET` request. Click on the **Submit** button to request a response from the server:
 

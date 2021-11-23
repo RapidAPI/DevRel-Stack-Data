@@ -16,12 +16,12 @@ lessons:
 
 <Callout>
 
-This guide is only meant for beginners. If you already have an idea what REST APIs are, you can check out the [REST API guide for experts](https://rapidapi.com/learn/rest-apis/rest-api-for-experts).
+This guide is only meant for beginners. If you already know what REST APIs are, you can check out the [REST API guide for experts](https://rapidapi.com/learn/rest-apis/rest-api-for-experts).
 
 </Callout>
 
 At the end of this guide, you will know the following:
 
--   What an API is
--   What HTTP is
--   What REST APIs are
+-   What is an API?
+-   What is HTTP?
+-   What are REST APIs?

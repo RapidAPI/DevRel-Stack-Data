@@ -17,7 +17,7 @@ There are two ways of defining your endpoints:
 -   REST
 -   GraphQL
 
-If you click on the **Create REST Endpoint**, you will be able to add the Name, Description, External Doc URL and External Doc Description for the new endpoint.
+If you click on the **Create REST Endpoint**, you will be able to add the Name, Description, External Doc URL, and External Doc Description for the new endpoint.
 
 ![Providing details for the endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-hub-provider/images/image11.png)
 
@@ -27,7 +27,7 @@ Next, you will also be able to select the HTTP method and path for your endpoint
 
 You can also provide the following details along with your endpoint:
 
--   **Headers:** You can specify custom headers which the consumer will have to send as a part of the request to the API endpoint.
+-   **Headers:** You can specify custom headers that the consumer will have to send as a part of the request to the API endpoint.
 -   **Query:** Passing a query string is often necessary to provide certain details like **offset** or **limit** for paginated queries.
 -   **Body:** The **Body** can be sent only for `POST`, `PUT` and `PATCH` requests. You can select the expected type of **Body**.
 
