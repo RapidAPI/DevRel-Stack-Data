@@ -23,7 +23,7 @@ Let’s look at six ground principles of REST API laid down by Dr. Fielding _(cr
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub
 </Callout>

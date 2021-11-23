@@ -33,7 +33,7 @@ Let’s decide which API we are going to use. Go to [RapidAPI Hub](https://Rapid
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>
