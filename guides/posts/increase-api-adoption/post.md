@@ -28,7 +28,7 @@ You need a medium where you can connect with the developers who are looking for 
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	linkHref="https://rapidapi.com/learn/hub/provider"
 >
 	Learn more about using RapidAPI Hub as an API provider in this interactive
 	guide.

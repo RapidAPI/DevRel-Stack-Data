@@ -23,7 +23,7 @@ While developing APIs, you need to test them to ensure they are working as they 
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	linkHref="https://rapidapi.com/learn/hub/provider"
 >
 	Learn more about using RapidAPI Hub as an API provider in this interactive
 	guide.

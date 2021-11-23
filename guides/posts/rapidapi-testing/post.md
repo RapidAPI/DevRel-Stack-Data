@@ -21,7 +21,7 @@ API development and testing go side by side. If you are developing an API that i
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introductionn"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about using RapidAPI Hub as an API provider in this interactive
 	guide.
