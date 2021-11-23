@@ -7,12 +7,12 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 02.01-api
-    - source: 02.02-overview-tab
-    - source: 02.03-add-api-specs
-    - source: 02.04-versioning-apis
-    - source: 02.05-defining-endpoints-apis
-    - source: 02.06-secret-headers-parameters
+    - source: api
+    - source: overview-tab
+    - source: add-api-specs
+    - source: versioning-apis
+    - source: defining-endpoints-apis
+    - source: secret-headers-parameters
 ---
 
 To add an API to [RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel), you will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) first.

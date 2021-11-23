@@ -7,8 +7,8 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 03.01-access-control
-    - source: 03.02-security
+    - source: access-control
+    - source: security
 ---
 
 Security is critical to any business. Securing the APIs that you provide will ensure that the consumers of your APIs can run their application properly. By securing your APIs, you can inspire confidence for your API consumers.

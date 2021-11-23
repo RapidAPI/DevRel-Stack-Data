@@ -7,10 +7,10 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 01.01-getting-started
-    - source: 01.02-scheduling-tests
-    - source: 01.03-monitoring-tests
-    - source: 01.04-rapidapi-client
+    - source: getting-started
+    - source: scheduling-tests
+    - source: monitoring-tests
+    - source: rapidapi-client
 ---
 
 <Lead>
