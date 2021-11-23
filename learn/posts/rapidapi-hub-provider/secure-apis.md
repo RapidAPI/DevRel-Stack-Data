@@ -11,9 +11,9 @@ lessons:
     - source: security
 ---
 
-Security is critical to any business. Securing the APIs that you provide will ensure that the consumers of your APIs can run their application properly. By securing your APIs, you can inspire confidence for your API consumers.
+Security is critical to any business. Securing the APIs that you provide will ensure that the consumers of your APIs can run their applications properly. By securing your APIs, you can inspire confidence for your API consumers.
 
-[RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) provides various tools to safe-guard your APIs. Some of them include:
+[RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) provides various tools to safeguard your APIs. Some of them include:
 
 -   Access control
 -   Firewall settings

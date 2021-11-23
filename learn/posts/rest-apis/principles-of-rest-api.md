@@ -12,7 +12,7 @@ Roy Fielding created REST in 2000. REST (Representational State Transfer) APIs a
 
 REST APIs follows six design principles which are as follows:
 
-1. **Client-server Separation:** The application which is requesting the resource is called the client and the application which has the resource is called the server. When the client requests a request to the server, the server sends a response to the client. The server can’t initiate a request to the client. In a RESTful API, the client and server are always kept independent of each other. This ensures that both the client and the server can be scaled independently.
+1. **Client-server Separation:** The application which is requesting the resource is called the client, and the application which has the resource is called the server. When the client requests a request to the server, the server sends a response to the client. The server can’t initiate a request to the client. In a RESTful API, the client and server are always kept independent of each other. This ensures that both the client and the server can be scaled independently.
 
 2. **Stateless:** In a RESTful API, each request needs to contain the data that is necessary to process it. Servers aren’t allowed to store any data related to the client. No session or authentication state is stored on the server. If the client requires authentication, then the client needs to authenticate itself before sending a request to the server.
 

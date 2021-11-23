@@ -10,6 +10,6 @@ points: 5
 
 Other developers can build their applications using the API that you have built and provided in RapidAPI. You can also generate income by providing a pricing plan for your API.
 
-RapidAPI makes it very easy for you to manage your APIs. You can concentrate on building your APIs and RapidAPI will take care of the rest - monitoring your APIs, latency, and error rates.
+RapidAPI makes it very easy for you to manage your APIs. You can concentrate on building your APIs, and RapidAPI will take care of the rest - monitoring your APIs, latency, and error rates.
 
-RapidAPI also provides your services like user management and billing which are difficult to set up and manage.
+RapidAPI also provides your services like user management and billing that are difficult to set up and manage.

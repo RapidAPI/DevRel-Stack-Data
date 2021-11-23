@@ -10,7 +10,7 @@ points: 5
 
 <Callout>
 
-[RapidAPI Client](https://rapidapi.com/products/api-design?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) is an API developer tool with an intuitive UI that simplifies your API development flow. With RapidAPI Client, you can debug, test and interact with HTTP APIs. It supports REST, SOAP and GraphQL.
+[RapidAPI Client](https://rapidapi.com/products/api-design?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) is an API developer tool with an intuitive UI that simplifies your API , and interact with HTTP APIs. It supports REST, SOAP, and GraphQL.
 
 </Callout>
 
@@ -22,7 +22,7 @@ Once you sign up for [RapidAPI Client](https://paw.app?utm_source=RapidAPI.com/l
 
 ![The "Create new Project" button](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image16.png)
 
-Enter the "Project Name", select team and click on the "Create Project" button to create a new project in RapidAPI Client.
+Enter the "Project Name", select team, and click on the "Create Project" button to create a new project in RapidAPI Client.
 
 ![Creating a new project](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image17.png)
 
@@ -36,15 +36,15 @@ Enter the request URL and click on the "Send" button to send a new request. Once
 
 ![Viewing the response from a new request](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image19.png)
 
-The **GET**, **HEAD**, **POST**, **PUT**, **PATCH**, **DELETE**, **TRACE** and **OPTIONS** HTTP methods are supported by RapidAPI Client.
+The **GET**, **HEAD**, **POST**, **PUT**, **PATCH**, **DELETE**, **TRACE**, and **OPTIONS** HTTP methods are supported by RapidAPI Client.
 
 You can also add headers to your request as per your requirements.
 
 ![Adding headers for a request](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image20.png)
 
-Like headers, you can also send query parameters, body and authentication headers along with your request.
+Like headers, you can also send query parameters, body, and authentication headers along with your request.
 
-RapidAPI Client generates code snippet for your request so that you can copy and paste them in your code enhancing the development experience.
+RapidAPI Client generates code snippets for your request so that you can copy and paste them into your code, enhancing the development experience.
 
 ![Code snippets generation for a request](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image21.png)
 

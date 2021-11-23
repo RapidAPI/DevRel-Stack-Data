@@ -22,7 +22,7 @@ After you click on the button, you will need to choose a plan for the API. Click
 
 <Callout>
 	For Freemium and Paid APIs, you will have to enter credit card information.
-	For Free APIs, the credit card information isn't required.
+	For Free APIs, credit card information isn't required.
 </Callout>
 
 Once you have subscribed to an API, you can click on the **Endpoints** tab to view all the endpoints that the API provides:

@@ -10,7 +10,7 @@ points: 10
 
 ## What is HTTP?
 
-**HTTP** (or Hypertext Transfer Protocol) is a protocol generally used by web services for serving HTML documents. A client makes a request to a server for a resource and the server sends a response.
+**HTTP** (or Hypertext Transfer Protocol) is a protocol generally used by web services for serving HTML documents. A client requests to a server for a resource, and the server sends a response.
 
 ## What are the different methods of HTTP?
 
@@ -28,15 +28,15 @@ There are 9 HTTP methods:
 8. CONNECT
 9. OPTIONS
 
-Of these, GET, POST, PATCH, PUT and DELETE are the most popular.
+GET, POST, PATCH, PUT and DELETE are the most popular.
 
 ### GET
 
 The **GET** request is used to request data from a server.
 
-For example, when you visit an e-commerce website, the browser will do a **GET** request to fetch all the details. Once the server sends a response to the **GET** request, the browser will show a list of items.
+For example, when you visit an e-commerce website, the browser will make a **GET** request to fetch all the details. Once the server responds to the **GET** request, the browser will show a list of items.
 
-Click on the **Submit** button below to do a **GET** request.
+Click on the **Submit** button below to make a **GET** request.
 
 <HTTPClient method="GET" isRequestMethodChangeDisabled showSimplifiedResponse />
 
@@ -44,9 +44,9 @@ Click on the **Submit** button below to do a **GET** request.
 
 The **POST** request is used to send some data to the server.
 
-For example, when you want to place an order on an e-commerce website, the browser will do a **POST** request to save that information on the server.
+For example, when you want to place an order on an e-commerce website, the browser will make a **POST** request to save that information on the server.
 
-Click on the **Submit** button below to do a **POST** request.
+Click on the **Submit** button below to make a **POST** request.
 
 <HTTPClient
 	method="POST"
@@ -58,9 +58,9 @@ Click on the **Submit** button below to do a **POST** request.
 
 The **PATCH** AND **PUT** requests are used most often to update on the server.
 
-The main difference between **PATCH** and **PUT** is that **PATCH** is used to partially modifying a resource whereas **PUT** is used to update the entire resource on the server.
+The main difference between **PATCH** and **PUT** is that **PATCH** is used to partially modify a resource, whereas **PUT** is used to update the entire resource on the server.
 
-Click on the **Submit** button below to do a **PATCH** request.
+Click on the **Submit** button below to make a **PATCH** request.
 
 <HTTPClient
 	method="PATCH"
@@ -72,7 +72,7 @@ Click on the **Submit** button below to do a **PATCH** request.
 
 The **DELETE** request is used to delete the specified resource.
 
-Click on the **Submit** button below to do a **DELETE** request.
+Click on the **Submit** button below to make a **DELETE** request.
 
 <HTTPClient
 	method="DELETE"
@@ -82,7 +82,7 @@ Click on the **Submit** button below to do a **DELETE** request.
 
 ## What are status codes?
 
-When the server returns a response, a three-digit number is also sent as a part of the response. This three-digit number is also known as the "status code". Status codes helps in identifying the type of the response:
+When the server returns a response, a three-digit number is also sent as a part of the response. This three-digit number is also known as the "status code". Status codes help in identifying the type of the response:
 
 | Name          | Range of status codes |
 | ------------- | --------------------- |

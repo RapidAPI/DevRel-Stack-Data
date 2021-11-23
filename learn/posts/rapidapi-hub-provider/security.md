@@ -12,7 +12,7 @@ RapidAPI also provides various options to secure your API endpoints.
 
 ## Firewall Settings
 
-RapidAPI adds a unique `X-RapidAPI-Proxy-Secret` header on every API request. This header has a unique value for every API and if the value is invalid (missing or different), it can be assumed that it isn't coming from the RapidAPI infrastructure.
+RapidAPI adds a unique `X-RapidAPI-Proxy-Secret` header on every API request. This header has a unique value for every API, and if the value is invalid (missing or different), it can be assumed that it isn't coming from the RapidAPI infrastructure.
 
 ![Firewall Settings](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-hub-provider/images/image15.png)
 
@@ -26,7 +26,7 @@ When enabled, the `Content-Type` header must be specified if the request has a b
 
 ## Request Schema Validation
 
-If enabled, RapidAPI will automatically validate a bunch of parameters like path, query and header during run time and block all invalid requests. This requires `Content-Type` header in requests with a body.
+If enabled, RapidAPI will automatically validate a bunch of parameters like path, query, and header during run time and block all invalid requests. This requires a `Content-Type` header in requests with a body.
 
 ![Request Schema Validation](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-hub-provider/images/image17.png)
 
@@ -36,7 +36,7 @@ If enabled, RapidAPI will automatically validate a bunch of parameters like path
 
 This is the maximum allowed size of a request.
 
-**It can be less than or equal to 50 MB**, which is the default value. If left empty or configured as 0, the default value is applied. The request size includes request line, header, and request body.
+**It can be less than or equal to 50 MB**, which is the default value. If left empty or configured as 0, the default value is applied. The request size includes the request line, header, and request body.
 
 ### Proxy Timeout Setting
 
