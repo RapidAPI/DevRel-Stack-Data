@@ -7,10 +7,10 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 01.01-how-can-you-use-rapidapi-hub
-    - source: 01.02-subscribing-api
-    - source: 01.03-developer-dashboard
-    - source: 01.04-integrate-rapidapi-hubs-api-application
+    - source: how-can-you-use-rapidapi-hub
+    - source: subscribing-api
+    - source: developer-dashboard
+    - source: integrate-rapidapi-hubs-api-application
 ---
 
 <Lead>

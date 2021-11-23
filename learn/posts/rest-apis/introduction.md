@@ -7,16 +7,16 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 01.01-what-is-an-api
-    - source: 01.02-what-is-http
-    - source: 01.03-what-is-rest-api
+    - source: what-is-an-api
+    - source: what-is-http
+    - source: what-is-rest-api
 ---
 
 <Lead>In this guide, you will learn about what REST APIs are.</Lead>
 
 <Callout>
 
-This guide is only meant for beginners. If you already have an idea what REST APIs are, you can check out the [REST API guide for experts](https://rapidapi.com/learn/rest-apis/02.00-rest-api-for-experts).
+This guide is only meant for beginners. If you already have an idea what REST APIs are, you can check out the [REST API guide for experts](https://rapidapi.com/learn/rest-apis/rest-api-for-experts).
 
 </Callout>
 

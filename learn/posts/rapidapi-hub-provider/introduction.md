@@ -7,7 +7,7 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 01.01-provide-api-rapidapi
+    - source: provide-api-rapidapi
 ---
 
 <Lead>In this guide, you will learn about how to add an API to RapidAPI.</Lead>

@@ -7,9 +7,9 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 04.01-plans-pricing
-    - source: 04.02-global-settings
-    - source: 04.03-docs-announcements
+    - source: plans-pricing
+    - source: global-settings
+    - source: docs-announcements
 ---
 
 Once you build your APIs, you will need a way to manage them.

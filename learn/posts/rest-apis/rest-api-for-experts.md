@@ -7,11 +7,11 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 02.01-different-types-of-http-headers
-    - source: 02.02-different-types-of-http-methods
-    - source: 02.03-principles-of-rest-api
-    - source: 02.04-security
-    - source: 02.05-versioning
+    - source: different-types-of-http-headers
+    - source: different-types-of-http-methods
+    - source: principles-of-rest-api
+    - source: security
+    - source: versioning
 ---
 
 <Lead>
