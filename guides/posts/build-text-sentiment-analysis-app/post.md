@@ -35,7 +35,7 @@ Let’s find an API that we can use to get the sentiment analysis. Go to [RapidA
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rest"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>
