@@ -1,6 +1,5 @@
 ---
 title: Interactive Guide To Learn DOM API
-slug: learn-dom-api
 description: A Document Object Model (DOM) expresses your screen viewport as a series of DOM nodes.
 publishedDate: 2021-11-19T18:41:43.732Z
 lastModifiedDate: 2021-11-19T18:41:43.732Z
@@ -12,7 +11,6 @@ tags:
 coverImage: ''
 draft: false
 ---
-
 
 <Lead>
 
@@ -45,12 +43,10 @@ Create a basic HTML boilerplate. If you don’t know how to create one then just
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>DOM API</title>
-</head>
-<body>
-
-</body>
+	<head>
+		<title>DOM API</title>
+	</head>
+	<body></body>
 </html>
 ```
 
@@ -61,31 +57,30 @@ To manipulate the DOM, you need to add the script tag just before the closing ta
 ```html
 <!DOCTYPE html>
 <html lang="en">
-<head>
- <title>DOM API</title>
-</head>
-<body>
- <div id="main">
-  <p>Lorem Ipsum</p>
- </div>
- <div class="container">
-  <div class="subcontainer">
-   <h3>RapidAPI Hub</h3>
-  </div>
-  <div class="subcontainer">
-   <h3>RapidAPI Client</h3>
-  </div>
-  <div class="subcontainer">
-   <h3>RapidAPI Testing</h3>
-  </div>
-  <div class="subcontainer">
-   <h3>RapidAPI Provider</h3>
-  </div>
-  <button id="btn">Submit</button>
- </div>
- <script type="application/javascript">
- </script>
-</body>
+	<head>
+		<title>DOM API</title>
+	</head>
+	<body>
+		<div id="main">
+			<p>Lorem Ipsum</p>
+		</div>
+		<div class="container">
+			<div class="subcontainer">
+				<h3>RapidAPI Hub</h3>
+			</div>
+			<div class="subcontainer">
+				<h3>RapidAPI Client</h3>
+			</div>
+			<div class="subcontainer">
+				<h3>RapidAPI Testing</h3>
+			</div>
+			<div class="subcontainer">
+				<h3>RapidAPI Provider</h3>
+			</div>
+			<button id="btn">Submit</button>
+		</div>
+		<script type="application/javascript"></script>
+	</body>
 </html>
 ```
 
@@ -159,7 +154,7 @@ Copy and paste the following code inside the script tag.
 const btn = document.getElementById('btn');
 
 btn.addEventListener('onclick', function () {
-    console.log('RapidAPI Hub is GitHub for APIs.');
+	console.log('RapidAPI Hub is GitHub for APIs.');
 });
 ```
 
