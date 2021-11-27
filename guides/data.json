@@ -1,6 +1,5 @@
 [
 	{"source": "graphql-mutations"},
-	{"source": "graphql-mutations"},
 	{"source": "graphql-aliases-variables"},
 	{"source": "use-rapidapi-teams"},
 	{"source": "response-chaining"},
