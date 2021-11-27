@@ -37,7 +37,7 @@ Let’s find an API that we can use to fetch the superhero information. Go to [R
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rest"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>

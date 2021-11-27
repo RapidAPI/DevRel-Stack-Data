@@ -33,6 +33,14 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 The next thing we have to do is find the API we will be using. For this, head over to the [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and create an account. Once you do that, search for a "weather" API.
 
+<Callout
+	title="Deep dive"
+	linkText="Read more"
+	linkHref="https://rapidapi.com/learn/hub"
+>
+	Learn more about how to use RapidAPI Hub.
+</Callout>
+
 I have decided to go with the first result, i.e., [Open Weather Map](https://RapidAPI.com/community/api/open-weather-map/) API. It has a popularity of 9.9 out of 10. Its latency is 367ms and provides a 100% service level.
 
 To use the API, you need to subscribe to it first. For this, all you need to do is click on the Subscribe button, and you will be directed to another page.
