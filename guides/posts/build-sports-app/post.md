@@ -186,20 +186,19 @@ export default function Home() {
 
 ### → STEP #5
 
-We will require two states, one for holding our league selection and one for the response we will get from the API. I will also create a function `getLeague` in the `pages/index.js` file to send the request from the client-side to our API at `http://localhost:3000/api/league`.
+We will require two states, one for holding our league selection and one for the response we will get from the API. I will also create a function `getLeague` in the `pages/index.js` file to send the request from the client-side to our API at `http://localhost:3000/api/league`. Finally, we will need a `useEffect` hook to trigger this function whenever we select a different league.
 
 ```js
 import axios from 'axios';
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 
 export default function Home() {
 	const [league, setLeague] = useState(null);
 	const [leagueID, setLeagueID] = useState(null);
 
 	// Getter funciton for getting league table data.
-	const getLeague = async id => {
+	const getLeague = async () => {
 		try {
-			setLeagueID(id);
 			const res = await axios.get('api/league/', {
 				params: {leagueID}
 			});
@@ -209,6 +208,10 @@ export default function Home() {
 			console.error(error);
 		}
 	};
+	// Call the getLeague function only when user selects a different league.
+	useEffect(() => {
+		getLeague();
+	}, [leagueID]);
 
 	return (
 		<div className="flex flex-col bg-background font-raleway items-center min-h-screen">
@@ -222,7 +225,7 @@ export default function Home() {
 				<button
 					class="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('1');
+						setLeagueID('1');
 					}}
 				>
 					Premier League
@@ -230,7 +233,7 @@ export default function Home() {
 				<button
 					className="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('92');
+						setLeagueID('92');
 					}}
 				>
 					Bundesliga
@@ -238,7 +241,7 @@ export default function Home() {
 				<button
 					className="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('94');
+						setLeagueID('94');
 					}}
 				>
 					Spanish La Liga
@@ -249,7 +252,7 @@ export default function Home() {
 }
 ```
 
-See the `getLeague` function I have created to get the response from the API. We bind this function to the buttons we created, using the `onClick` event handler. It sends the `leagueID` state, which has the league ID of the selected league. You can find these IDs in the API's documentation. Once the response is received, it is destructured and stored in the `league` state.
+See the `getLeague` function I have created to get the response from the API. We bind this function to the `useEffect` hook, so that it fires only when `leagueID` changes (using onClick handlers on the buttons). It sends the `leagueID` state, which has the ID of the selected league as a query parameter. You can find these IDs in the API's documentation. Once the response is received, it is stored in the `league` state.
 
 ### → FINAL STEP
 
@@ -257,15 +260,14 @@ In the final step, we will display the response. Since we use the `League Table`
 
 ```js
 import axios from 'axios';
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 
 export default function Home() {
 	const [league, setLeague] = useState(null);
 	const [leagueID, setLeagueID] = useState(null);
 
-	const getLeague = async id => {
+	const getLeague = async () => {
 		try {
-			setLeagueID(id);
 			const res = await axios.get('api/league/', {
 				params: {leagueID}
 			});
@@ -276,10 +278,14 @@ export default function Home() {
 		}
 	};
 
+	useEffect(() => {
+		getLeague();
+	}, [leagueID]);
+
 	return (
 		<div className="flex flex-col relative bg-background font-raleway items-center min-h-screen">
 			<h1 className="text-6xl text-primary font-bold mt-20">
-				Footbal Scores <span className="text-active">App</span>
+				Sports <span className="text-active">App</span>
 			</h1>
 			<h2 className="text-active text-2xl mt-6">
 				Select a league to get its data.
@@ -289,7 +295,7 @@ export default function Home() {
 				<button
 					class="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('1');
+						setLeagueID('1');
 					}}
 				>
 					Premier League
@@ -297,7 +303,7 @@ export default function Home() {
 				<button
 					className="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('92');
+						setLeagueID('92');
 					}}
 				>
 					Bundesliga
@@ -305,7 +311,7 @@ export default function Home() {
 				<button
 					className="block w-full rounded-md px-5 py-3 bg-primary text-base font-bold text-background focus:outline-none hover:bg-active sm:px-10"
 					onClick={() => {
-						getLeague('94');
+						setLeagueID('94');
 					}}
 				>
 					Spanish La Liga
