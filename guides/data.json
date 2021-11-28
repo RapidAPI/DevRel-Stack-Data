@@ -1,4 +1,9 @@
 [
+	{"source": "web-services"},
+	{"source": "learn-browser-api"},
+	{"source": "difference-api-sdk"},
+	{"source": "build-language-detection-app"},
+	{"source": "build-email-validator-app"},
 	{"source": "graphql-mutations"},
 	{"source": "api-governance"},
 	{"source": "api-mocking"},
