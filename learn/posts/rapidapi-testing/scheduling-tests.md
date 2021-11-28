@@ -12,7 +12,7 @@ You can also schedule your tests to run at regular intervals. To schedule tests,
 
 ![The "Schedule" link on the sidebar](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image11.png)
 
-Next, click on the "Add Schedule" button and select the Frequency, Environment and Locations where the tests should run.
+Next, click on the "Add Schedule" button and select the Frequency, Environment, and Locations where the tests should run.
 
 ![Settings for scheduling tests](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image12.png)
 

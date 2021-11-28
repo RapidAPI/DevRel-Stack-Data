@@ -9,13 +9,13 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-introduction
-    - source: 02-api
-    - source: 03-apis
-    - source: 04-rapidapi-hub
-    - source: 05-build-api
-    - source: 06-deploy-api
-    - source: 07-rapidapi-monetize-api
-    - source: 08-leaving
+    - source: introduction
+    - source: api
+    - source: apis
+    - source: rapidapi-hub
+    - source: build-api
+    - source: deploy-api
+    - source: rapidapi-monetize-api
+    - source: leaving
 videoId: TvRe8NLbF30
 ---

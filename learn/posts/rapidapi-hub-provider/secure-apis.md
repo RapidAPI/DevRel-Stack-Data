@@ -1,0 +1,23 @@
+---
+title: How can your secure your APIs?
+description: ''
+publishedDate: 2021-09-22T17:49:44.101Z
+lastModifiedDate: 2021-09-22T16:42:00.638Z
+draft: false
+coverImage: ''
+points: 5
+lessons:
+    - source: access-control
+    - source: security
+---
+
+Security is critical to any business. Securing the APIs that you provide will ensure that the consumers of your APIs can run their applications properly. By securing your APIs, you can inspire confidence for your API consumers.
+
+[RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) provides various tools to safeguard your APIs. Some of them include:
+
+-   Access control
+-   Firewall settings
+-   Threat Protection
+-   Request schema validation
+
+In this module, you will learn how to secure your APIs on RapidAPI.

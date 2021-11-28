@@ -9,23 +9,23 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-intro
-    - source: 02-rapidapi
-    - source: 03-rapidapi-products
-    - source: 04-rapidapi-testing
-    - source: 05-rapidapi-github-action
-    - source: 06-[demo]-rapidapi-signin
-    - source: 07-[demo]-rapidapi-marketplace
-    - source: 08-[demo]-rapidapi-developer-dashboard
-    - source: 09-[demo]-rapidapi-marketplace-search
-    - source: 10-[demo]-rapidapi-test-endpoint
-    - source: 11-[demo]-rapidapi-provide-dashboard
-    - source: 12-[demo]-rapidapi-testing
-    - source: 13-[demo]-creating-test-rapidapi-testing
-    - source: 14-[demo]-testing-apis
-    - source: 15-[demo]-api-performance
-    - source: 16-[demo]-rapidapi-github-action
-    - source: 17-[demo]-executing-rapidapi-github-action
-    - source: 18-conclusion
+    - source: intro
+    - source: rapidapi
+    - source: rapidapi-products
+    - source: rapidapi-testing
+    - source: rapidapi-github-action
+    - source: demo-rapidapi-signin
+    - source: demo-rapidapi-marketplace
+    - source: demo-rapidapi-developer-dashboard
+    - source: demo-rapidapi-marketplace-search
+    - source: demo-rapidapi-test-endpoint
+    - source: demo-rapidapi-provide-dashboard
+    - source: demo-rapidapi-testing
+    - source: demo-creating-test-rapidapi-testing
+    - source: demo-testing-apis
+    - source: demo-api-performance
+    - source: demo-rapidapi-github-action
+    - source: demo-executing-rapidapi-github-action
+    - source: conclusion
 videoId: yCE7QvwG1-c
 ---

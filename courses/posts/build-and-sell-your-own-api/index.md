@@ -9,19 +9,19 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-introduction
-    - source: 02-overview-of-final-product
-    - source: 03-creating-rapidapi-account
-    - source: 04-creating-node-js-project
-    - source: 05-routing-express
-    - source: 06-news-source
-    - source: 07-multiple-news-sources
-    - source: 08-individual-news-source-parameter
-    - source: 09-refactoring-prep-deployment
-    - source: 10-creating-api-rapidapi
-    - source: 11-deploying-heroku
-    - source: 12-adding-endpoints-rapidapi
-    - source: 13-adding-pricing-plans
-    - source: 14-publishing-api
+    - source: introduction
+    - source: overview-of-final-product
+    - source: creating-rapidapi-account
+    - source: creating-node-js-project
+    - source: routing-express
+    - source: news-source
+    - source: multiple-news-sources
+    - source: individual-news-source-parameter
+    - source: refactoring-prep-deployment
+    - source: creating-api-rapidapi
+    - source: deploying-heroku
+    - source: adding-endpoints-rapidapi
+    - source: adding-pricing-plans
+    - source: publishing-api
 videoId: GK4Pl-GmPHk
 ---

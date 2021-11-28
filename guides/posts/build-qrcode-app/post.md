@@ -36,7 +36,7 @@ Let’s find an API that we can send input to and get a QR Code as a response. G
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>

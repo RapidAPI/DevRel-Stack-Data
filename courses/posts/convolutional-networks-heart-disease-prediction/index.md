@@ -9,6 +9,6 @@ authors:
 modules:
     - source: index
 lessons:
-    - source: 01-index
+    - source: intro
 videoId: fGv6VmfGMLc
 ---

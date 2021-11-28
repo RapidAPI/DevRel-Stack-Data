@@ -7,10 +7,10 @@ draft: false
 coverImage: ''
 points: 5
 lessons:
-    - source: 01.01-getting-started
-    - source: 01.02-scheduling-tests
-    - source: 01.03-monitoring-tests
-    - source: 01.04-rapidapi-client
+    - source: getting-started
+    - source: scheduling-tests
+    - source: monitoring-tests
+    - source: rapidapi-client
 ---
 
 <Lead>
@@ -19,7 +19,7 @@ In this guide, you will learn about what [RapidAPI Testing](https://rapidapi.com
 
 </Lead>
 
-With RapidAPI Testing, you can create tests intuitively via drag and drop. You have granular control over these tests. These tests can also run across global data centres.
+With RapidAPI Testing, you can create tests intuitively via drag and drop. You have granular control over these tests. These tests can also run across global data centers.
 
 RapidAPI Testings seamlessly integrates with RapidAPI Hub without any additional overhead. You can also run tests on your CI/CD pipeline.
 

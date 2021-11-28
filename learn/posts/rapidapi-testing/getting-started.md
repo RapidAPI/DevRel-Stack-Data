@@ -8,12 +8,12 @@ coverImage: ''
 points: 5
 ---
 
-To create a new test, you will need to add an API to [RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel), you will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) first.
+To create a new test, you will need to add an API to [RapidAPI](https://RapidAPI.com/hub?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel). You will need to [create an account](https://RapidAPI.com/auth/sign-up?utm_source=RapidAPI.com/learn&utm_medium=DevRel&utm_campaign=DevRel) first.
 
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	linkHref="https://rapidapi.com/learn/hub/provider"
 >
 	Learn more about how to add an API to RapidAPI Hub.
 </Callout>
@@ -34,7 +34,7 @@ Select an endpoint that you want to test and click on the "Send Request" button.
 
 ![Testing an endpoint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image4.png)
 
-Click on the "Add to test" button to add the response to test.
+Click on the "Add to test" button to add the response to the test.
 
 ![Selecting a request for testing](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image5.png)
 
@@ -54,6 +54,6 @@ If oy click on the result, you will be able to view the details.
 
 ![Details of the latest assertion](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image9.png)
 
-RapidAPI offers a selections of action presets from which you can choose to add to your tests.
+RapidAPI offers a selection of action presets from which you can choose to add to your tests.
 
 ![List of action presets](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/learn/posts/rapidapi-testing/images/image10.png)

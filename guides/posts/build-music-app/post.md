@@ -37,7 +37,7 @@ Let’s find an API that provides Shazam-like features. Go to [RapidAPI Hub](htt
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-consumer/introduction"
+	linkHref="https://rapidapi.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>
