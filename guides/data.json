@@ -1,5 +1,8 @@
 [
 	{"source": "graphql-mutations"},
+	{"source": "api-governance"},
+	{"source": "api-mocking"},
+	{"source": "build-sports-app"},
 	{"source": "graphql-aliases-variables"},
 	{"source": "use-rapidapi-teams"},
 	{"source": "response-chaining"},
