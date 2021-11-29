@@ -17,21 +17,21 @@ coverImage: ''
 
 <Lead>
 	Today, more and more applications use APIs for one reason or another. React
-	Hooks are the way to go if you want to utilize an API in your React
-	application. This guide will show you why and how.
+	Hooks are the way to go to utilize an API in your React application. This
+	guide will show you why and how.
 </Lead>
 
 ## React Hooks
 
-Hooks were introduced in React 16.8. They let you use state, and other React features in your functional components without writing a class. For interacting with APIs, you will mostly need to use the following Hooks:
+Hooks were introduced in [React 16.8](https://github.com/facebook/react/blob/main/CHANGELOG.md#1680-february-6-2019). They let you use state, and other React features in your functional components without writing a class. For interacting with APIs, you will mostly need to use the following Hooks:
 
 ### useState
 
-The React `useState` Hook allows us to track the state of a functional component. This state can be any type of property such as the input value of an input field, the value of a selected checkbox, or multiple values of a form.
+The React [useState](https://reactjs.org/docs/hooks-reference.html#usestate) Hook allows us to track the state of a functional component. This state can be any type of property such as the input value of an input field, the value of a selected checkbox, or multiple values of a form.
 
 ### useEffect
 
-This Hook is used when you want to run some functions during a component's lifecycle, such as running a function on a page’s first load or calling a function whenever a state changes.
+The [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect) Hook is used to run some functions during a component's lifecycle, such as running a function on a page’s first load or calling a function whenever a state changes.
 
 ## Fetching Data from APIs
 
@@ -106,17 +106,17 @@ export default function Home() {
 				onChange={e => setInput(e.target.value)}
 			/>
 			<button onClick={() => getSearchResults()}>Search</button>
-			{repsonse && <span>{response.title}</span>}
+			{response && <span>{response.title}</span>}
 		</div>
 	);
 }
 ```
 
-Now, whenever the "Search" button is clicked, our function will run and send the search field input as a parameter of our API Request. This is how we can utilize the `useState` hook. You can also store the response in another state and render it in your application as I have done above.
+Now, whenever the "Search" button is clicked, our function will run and send the search field input as a parameter of our API Request. This is how we can utilize the `useState` hook. You can also store the response in another state and render it in your application, as I have done above.
 
 ### useEffect
 
-We can use this Hook in cases like fetching data from an API whenever a component is loaded, removed, or updated. For example, we might want to display a list of popular songs on the home page of our music app whenever it is loaded.
+We can use this Hook in cases like fetching data from an API whenever a component is loaded, removed, or updated. For example, we might want to display a list of popular songs on the homepage of our music app whenever it is loaded.
 
 To start using the `useEffect` hook, we need to import it:
 
