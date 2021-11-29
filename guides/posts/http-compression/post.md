@@ -7,6 +7,7 @@ authors:
     - saad
 categories:
 		- http
+        - api
 tags:
     - http
     - compression
