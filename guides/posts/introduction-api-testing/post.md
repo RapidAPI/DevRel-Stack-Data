@@ -3,7 +3,8 @@ title: 'Introduction to API Testing'
 description: 'API testing is performed to test whether a particular API meets pre-defined parameters or not.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
 publishedDate: 2021-09-28T08:00:00+08:00

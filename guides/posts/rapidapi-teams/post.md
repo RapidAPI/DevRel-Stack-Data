@@ -4,8 +4,9 @@ description: If your team consumes, develops, or manages APIs, try Rapid API Tea
 publishedDate: 2021-10-02T19:10:30.765Z
 lastModifiedDate: 2021-10-02T19:10:30.765Z
 authors:
-  - ahmadBilal
-category: rapidapi
+    - ahmadBilal
+categories:
+    - rapidapi
 tags:
     - api
     - teams

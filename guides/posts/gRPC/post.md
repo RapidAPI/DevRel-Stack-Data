@@ -5,7 +5,8 @@ publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:
     - saad
-category: api
+categories:
+    - api
 tags:
     - gRPC
 coverImage: ''

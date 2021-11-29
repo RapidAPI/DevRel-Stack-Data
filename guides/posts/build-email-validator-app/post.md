@@ -5,7 +5,8 @@ publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:
     - saad
-category: apps
+categories:
+		- apps
 tags:
     - email-validator-app
 coverImage: ''

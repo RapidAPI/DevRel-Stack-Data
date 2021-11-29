@@ -5,7 +5,8 @@ publishedDate: 2021-11-19T16:18:42.178Z
 lastModifiedDate: 2021-11-19T16:18:42.178Z
 authors:
     - ahmadBilal
-category: api
+categories:
+    - api
 tags:
     - paw
     - rapidapi-client

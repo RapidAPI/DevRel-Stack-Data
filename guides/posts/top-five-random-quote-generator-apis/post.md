@@ -3,7 +3,8 @@ title: 'Top Five Random Quote Generator APIs'
 description: 'Top five APIs you can use to build a Random Quote Generator web application.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

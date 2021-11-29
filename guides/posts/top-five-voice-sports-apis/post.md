@@ -3,7 +3,8 @@ title: 'Top Five Sports APIs'
 description: 'Top 5 sports APIs to build some of the best full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

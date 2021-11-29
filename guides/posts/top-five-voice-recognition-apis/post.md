@@ -3,7 +3,8 @@ title: 'Top Five Voice Recognition APIs'
 description: 'Top five Voice Recognition APIs you can use to build excellent full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

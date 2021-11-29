@@ -5,7 +5,8 @@ lastModifiedDate: 2021-10-21T16:18:42.178Z
 publishedDate: 2021-10-21T16:18:42.178Z
 authors:
     - saad
-category: http
+categories:
+		- http
 tags:
     - dns
 coverImage: ''

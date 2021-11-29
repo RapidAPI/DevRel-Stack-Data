@@ -3,7 +3,8 @@ title: 'Top Five COVID-19 APIs'
 description: 'You can use COVID-19 APIs available on RapidAPI Hub to create excellent statistical applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

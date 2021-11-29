@@ -3,7 +3,8 @@ title: 'Top Five Geocoding and Location APIs'
 description: 'Top five Geocoding and Location APIs you can use in your next full-stack application.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

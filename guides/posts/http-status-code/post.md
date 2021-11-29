@@ -3,7 +3,8 @@ title: 'HTTP Status Codes'
 description: 'HTTP status codes are divided into five categories. Informational, successful, redirects, client errors, and server errors.'
 authors:
   - pratham
-category: http
+categories:
+		- http
 tags:
     - http
     - api

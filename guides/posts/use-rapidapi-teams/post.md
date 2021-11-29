@@ -5,7 +5,8 @@ publishedDate: 2021-11-17T19:10:30.765Z
 lastModifiedDate: 2021-11-17T19:10:30.765Z
 authors:
     - ahmadBilal
-category: interactive
+categories:
+    - interactive
 tags:
     - api
     - teams

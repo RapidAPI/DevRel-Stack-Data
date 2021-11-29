@@ -3,7 +3,8 @@ title: 'Top Four APIs That Can Make Web 3.0 More Accessible'
 description: 'Top four APIs that can make Web 3.0 more accessible and manageable.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

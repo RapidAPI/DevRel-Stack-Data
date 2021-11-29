@@ -5,7 +5,8 @@ publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:
     - saad
-category: webApis
+categories:
+    - webApis
 tags:
     - web-api
 coverImage: ''

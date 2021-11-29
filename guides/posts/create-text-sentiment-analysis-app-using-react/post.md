@@ -3,7 +3,8 @@ title: 'How to Create a Text Sentiment Analysis App using React'
 description: 'Text sentiment analysis is a machine learning and natural language processing technique to analyze the text sentiment of a writer.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - react
     - api

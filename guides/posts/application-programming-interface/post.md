@@ -3,7 +3,8 @@ title: 'Application Programming Interface'
 description: 'Let’s see what is an API and how APIs can make your life as a Developer easier.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
 publishedDate: 2021-10-13T08:00:00+08:00

@@ -3,7 +3,8 @@ title: 'Ten Widely Used HTTP Headers'
 description: 'Client and server can pass the extra bit of information with the request and response using HTTP headers.'
 authors:
   - pratham
-category: http
+categories:
+		- http
 tags:
     - http
     - api

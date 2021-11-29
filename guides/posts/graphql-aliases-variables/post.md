@@ -1,21 +1,24 @@
 ---
-title: "Interactive Guide to GraphQL Queries: Aliases and Variables"
+title: 'Interactive Guide to GraphQL Queries: Aliases and Variables'
 description: "Let's try to understand the Aliases, Variables in GraphQL queries."
 authors:
-  - ahmadBilal
-category: interactive
+    - ahmadBilal
+categories:
+    - interactive
 tags:
-  - graphql
-  - api
-  - interactive
+    - graphql
+    - api
+    - interactive
 publishedDate: 2021-11-18T14:17:11.709Z
 lastModifiedDate: 2021-11-18T14:17:11.709Z
-coverImage: ""
+coverImage: ''
 draft: false
 ---
 
 <Lead>
-    GraphQL, a query language, is an API standard for data query and manipulation. GraphQL queries enable declarative data fetching and expose only a single endpoint that you can use to get data.
+	GraphQL, a query language, is an API standard for data query and
+	manipulation. GraphQL queries enable declarative data fetching and expose
+	only a single endpoint that you can use to get data.
 </Lead>
 
 This guide is a continuation of our interactive series on GraphQL. In the [previous one](https://rapidapi.com/guides/graphql-fields-arguments), we learned about GraphQL queries, fields, and arguments. This guide will cover the use of aliases and variables in GraphQL queries.
@@ -32,16 +35,16 @@ What if you wanted to query the same field with different arguments? The initial
 
 ```graphql
 {
-    user(id: 2) {
-        name
-        username
-        email
-    }
-    user(id: 4) {
-        name
-        username
-        email
-    }
+	user(id: 2) {
+		name
+		username
+		email
+	}
+	user(id: 4) {
+		name
+		username
+		email
+	}
 }
 ```
 
@@ -53,16 +56,16 @@ Let's change the above query using aliases:
 
 ```graphql
 {
-    firstUser: user(id: 2) {
-        name
-        username
-        email
-    }
-    secondUser: user(id: 4) {
-        name
-        username
-        email
-    }
+	firstUser: user(id: 2) {
+		name
+		username
+		email
+	}
+	secondUser: user(id: 4) {
+		name
+		username
+		email
+	}
 }
 ```
 
@@ -102,11 +105,11 @@ To use variables for our arguments, we need to do these three things:
 
 3. Pass the value for this variable in a separate dictionary when making the request. For the above query, we will pass variables in JSON like this:
 
-   ```json
-   variables: {
-          "input": "3"
-    }
-   ```
+    ```json
+    variables: {
+           "input": "3"
+     }
+    ```
 
 The following interactive playground uses variables to pass arguments to the query. Enter an `id` value and submit it to see the response.
 
@@ -118,11 +121,11 @@ You can also set default values of the variables. You can assign them after the 
 
 ```graphql
 query getUser($input: ID = 3) {
-   user (id: $input) {
-      id
-      name
-      email
-   }
+	user(id: $input) {
+		id
+		name
+		email
+	}
 }
 ```
 
