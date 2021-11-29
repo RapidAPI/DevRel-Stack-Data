@@ -5,7 +5,8 @@ publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 authors:
     - saad
-category: api
+categories:
+    - api
 tags:
     - authenticate
     - authorize

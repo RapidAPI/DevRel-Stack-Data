@@ -3,7 +3,8 @@ title: 'Top Five Gaming APIs'
 description: 'I bring you the top 5 Gaming APIs to build excellent full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

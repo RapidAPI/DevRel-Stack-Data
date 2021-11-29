@@ -3,7 +3,8 @@ title: 'Top Five Machine Learning APIs'
 description: 'I bring you the top 5 Machine Learning APIs to build excellent full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

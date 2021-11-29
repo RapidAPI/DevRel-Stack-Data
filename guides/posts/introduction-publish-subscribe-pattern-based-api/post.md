@@ -3,7 +3,8 @@ title: 'Introduction to Publish/Subscribe Pattern Based API'
 description: 'Publish/Subscribe (Pub/Sub) is an asynchronous messaging style used in serverless and microservices architectures.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
 publishedDate: 2021-10-12T08:00:00+08:00

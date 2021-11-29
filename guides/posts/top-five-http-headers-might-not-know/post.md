@@ -3,7 +3,8 @@ title: 'Top Five HTTP headers you might not know about'
 description: 'HTTP headers allow clients and servers to talk to each other and pass extra bits of information or instructions.'
 authors:
   - pratham
-category: http
+categories:
+		- http
 tags:
     - http
     - api

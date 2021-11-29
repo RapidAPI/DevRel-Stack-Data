@@ -5,7 +5,8 @@ publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:
     - ahmadBilal
-category: apps
+categories:
+		- apps
 tags:
     - rapidapi
     - graphql

@@ -5,7 +5,8 @@ publishedDate: 2021-11-22T15:57:17.709Z
 lastModifiedDate: 2021-11-22T15:57:17.709Z
 authors:
     - ahmadBilal
-category: api
+categories:
+    - api
 tags:
     - api
     - governance

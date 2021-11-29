@@ -3,7 +3,8 @@ title: 'Top Five SMS APIs'
 description: 'Top Five SMS APIs available on RapidAPI Hub to send text messages. You can use them in your next project.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

@@ -3,7 +3,8 @@ title: 'Top Five Facial Recognition APIs'
 description: 'Top 5 Facial Recognition APIs you can use to build excellent full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

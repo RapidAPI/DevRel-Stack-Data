@@ -5,7 +5,8 @@ publishedDate: 2021-11-27T09:30:14.724Z
 lastModifiedDate: 2021-11-27T09:30:14.724Z
 authors:
     - saad
-category: interactive
+categories:
+    - interactive
 tags:
     - browser-api
 coverImage: ''

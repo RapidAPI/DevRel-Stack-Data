@@ -4,8 +4,9 @@ description: 'Understand the different between REST APIs and GraphQL APIs.'
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:
-  - saad
-category: comparison
+    - saad
+categories:
+    - comparison
 tags:
     - rest
     - graphql

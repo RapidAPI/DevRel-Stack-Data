@@ -5,7 +5,8 @@ publishedDate: 2021-11-27T09:45:44.160Z
 lastModifiedDate: 2021-11-27T09:45:44.160Z
 authors:
     - saad
-category: comparison
+categories:
+    - comparison
 tags:
     - api
     - sdk

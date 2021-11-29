@@ -5,7 +5,8 @@ publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
 authors:
     - saad
-category: api
+categories:
+    - api
 tags:
     - secure
 coverImage: ''

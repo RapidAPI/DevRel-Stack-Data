@@ -5,7 +5,8 @@ publishedDate: 2021-10-01T16:10:30.765Z
 lastModifiedDate: 2021-10-01T16:10:30.765Z
 authors:
     - ahmadBilal
-category: api
+categories:
+    - api
 tags:
     - api
 coverImage: ''

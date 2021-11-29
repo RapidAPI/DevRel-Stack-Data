@@ -5,7 +5,8 @@ publishedDate: 2021-10-07T17:01:53.644Z
 lastModifiedDate: 2021-10-07T17:01:53.644Z
 authors:
     - saad
-category: api
+categories:
+    - api
 tags:
     - cache
 coverImage: ''

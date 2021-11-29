@@ -3,7 +3,8 @@ title: 'Top Five Amazing Text Analysis APIs'
 description: 'Check out these five amazing Text Analysis APIs. Feel free to use them in your next application.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

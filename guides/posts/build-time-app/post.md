@@ -5,7 +5,8 @@ publishedDate: 2021-11-21T16:52:44.523Z
 lastModifiedDate: 2021-11-21T16:52:44.523Z
 authors:
     - saad
-category: apps
+categories:
+		- apps
 tags:
     - rapidapi
     - utc-time-api

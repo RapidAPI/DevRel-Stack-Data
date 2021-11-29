@@ -6,7 +6,8 @@ publishedDate: 2021-11-19T18:41:43.732Z
 lastModifiedDate: 2021-11-19T18:41:43.732Z
 authors:
     - saad
-category: api
+categories:
+    - api
 tags:
     - rate-limiting
     - api
@@ -44,6 +45,6 @@ This rate-limiting type deals with all the traffic coming to the API from all th
 
 Here are some of the methods you can use for API rate limiting.
 
-- **Hard Stop:** Your API consumers will get an error when they call the API if they are over the limit.
-- **Soft Stop:** You can implement a small period where the API calls will continue to succeed after the limit has been reached. You can use this period to let your API consumer know that they may have to subscribe to a new package.
-- **Throttled Stop:** Another thing you can implement is to slow down the response time once the user has reached the limit.
+-   **Hard Stop:** Your API consumers will get an error when they call the API if they are over the limit.
+-   **Soft Stop:** You can implement a small period where the API calls will continue to succeed after the limit has been reached. You can use this period to let your API consumer know that they may have to subscribe to a new package.
+-   **Throttled Stop:** Another thing you can implement is to slow down the response time once the user has reached the limit.

@@ -3,7 +3,8 @@ title: 'Everything You Need to Know About HTTP Request Methods'
 description: 'HTTP request methods are the actions initiated from the client-side to perform certain actions.'
 authors:
   - pratham
-category: http
+categories:
+		- http
 tags:
     - api
     - http

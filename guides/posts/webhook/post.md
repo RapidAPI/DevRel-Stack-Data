@@ -3,7 +3,8 @@ title: 'What is a Webhook'
 description: 'No request is required for a webhook. Instead, the response is sent whenever a specified event occurs.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
 publishedDate: 2021-10-12T08:00:00+08:00

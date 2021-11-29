@@ -5,7 +5,8 @@ publishedDate: 2021-11-26T20:53:04.094Z
 lastModifiedDate: 2021-11-26T20:53:04.094Z
 authors:
     - ahmadBilal
-category: api
+categories:
+    - api
 tags:
     - react
     - hooks

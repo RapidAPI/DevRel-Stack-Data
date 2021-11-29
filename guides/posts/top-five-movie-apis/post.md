@@ -3,7 +3,8 @@ title: 'Top Five Movie APIs'
 description: 'We bring you the top 5 Movie APIs to build some of the best full-stack applications.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread

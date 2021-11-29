@@ -3,7 +3,8 @@ title: 'Top Five Food Recipe APIs'
 description: 'Top 5 Food Recipe APIs you can use to build an excellent project.'
 authors:
     - pratham
-category: api
+categories:
+    - api
 tags:
     - api
     - thread
