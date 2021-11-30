@@ -1,41 +1,27 @@
 [
-	{
-		"source": "build-and-sell-your-own-api"
-	},
-	{
-		"source": "turn-api-startup"
-	},
-	{
-		"source": "build-deploy-google-maps-travel-companion-application"
-	},
+	{"source": "word-association-game"},
+	{"source": "perceiver-for-cardiac-video-data-classification"},
+	{"source": "multiomics-data-for-cancer-diagnosis"},
+	{"source": "mint-genome-nft"},
+	{"source": "building-health-dao-with-github-copilot"},
+	{"source": "build-deploy-number-fact-discord-bot-using-node.js-and-heroku"},
+	{"source": "build-deploy-modern-real-estate-app"},
+	{"source": "build-deploy-google-search-with-react-tailwind-css"},
+	{"source": "build-crypto-dashboard"},
+	{"source": "api-crash-course-integrate-build-sell-api"},
+	{"source": "build-and-sell-your-own-api"},
+	{"source": "turn-api-startup"},
+	{"source": "build-deploy-google-maps-travel-companion-application"},
 	{
 		"source": "build-deploy-react-cryptocurrency-app-master-redux-toolkit-video"
 	},
-	{
-		"source": "building-node-js-app-javascript-noob"
-	},
-	{
-		"source": "convolutional-networks-heart-disease-prediction"
-	},
-	{
-		"source": "4-apis-manage-multiple-apis-application-programming-interface"
-	},
-	{
-		"source": "4-steps-millions-api"
-	},
-	{
-		"source": "money-developer-selling-apis"
-	},
-	{
-		"source": "integrate-multiple-apis-laravel-app-rapidapi"
-	},
-	{
-		"source": "react-google-maps-geolocation-react-typescript"
-	},
-	{
-		"source": "build-full-working-api-django-publicizing-rapidapi"
-	},
-	{
-		"source": "crash-api-testing-rapidapi-github-actions"
-	}
+	{"source": "building-node-js-app-javascript-noob"},
+	{"source": "convolutional-networks-heart-disease-prediction"},
+	{"source": "4-apis-manage-multiple-apis-application-programming-interface"},
+	{"source": "4-steps-millions-api"},
+	{"source": "money-developer-selling-apis"},
+	{"source": "integrate-multiple-apis-laravel-app-rapidapi"},
+	{"source": "react-google-maps-geolocation-react-typescript"},
+	{"source": "build-full-working-api-django-publicizing-rapidapi"},
+	{"source": "crash-api-testing-rapidapi-github-actions"}
 ]
