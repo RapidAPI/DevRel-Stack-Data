@@ -19,7 +19,7 @@ type User {
 }
 ```
 
-The `User` type has three fields, `name`, `email`, and `blogs`. The `name` and `email` have type `String`.
+The `User` type has two fields, `name` and `email` with type `String`.
 
 <Callout>
 
