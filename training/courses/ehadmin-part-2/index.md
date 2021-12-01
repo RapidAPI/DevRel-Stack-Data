@@ -7,7 +7,7 @@ lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 authors:
-    - RapidAPI Training
+    - weibenfalk
 modules:
     - source: ehadmin-part-2/index.md
 lessons:
