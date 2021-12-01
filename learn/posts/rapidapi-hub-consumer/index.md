@@ -1,6 +1,7 @@
 ---
 title: Learn RapidAPI Hub (Consumer)
-description: ''
+description: 'In this guide, you will learn about RapidAPI Hub and its use in your
+	application.'
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T16:42:00.638Z
 draft: false
