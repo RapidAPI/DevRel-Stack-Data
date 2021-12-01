@@ -7,7 +7,7 @@ lastModifiedDate: 2021-09-22T17:49:44.101Z
 coverImage: ''
 draft: false
 authors:
-    - weibenfalk
+    - RapidAPI Training
 modules:
     - source: openapi-introduction/index.md
 lessons:
