@@ -11,7 +11,7 @@ authors:
 modules:
     - source: openapi-introduction/index.md
 lessons:
-    - source: ehadmin-part-1/01-openapi-overview.md
-    - source: ehadmin-part-1/02-openapi-endpoints.md
+    - source: openapi-introduction/01-openapi-overview.md
+    - source: openapi-introduction/02-openapi-endpoints.md
 videoId: I9F-CMiKOz4
 ---
