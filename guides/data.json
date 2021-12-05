@@ -1,4 +1,5 @@
 [
+	{"source": "pricing-strategies"},
 	{"source": "api-first"},
 	{"source": "how-to-rate-limit"},
 	{"source": "use-react-hooks"},
