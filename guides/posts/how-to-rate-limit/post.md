@@ -44,7 +44,7 @@ Key-level rate limiting is more focused on controlling traffic from individual I
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rapidapi-hub-provider/introduction"
+	linkHref="https://rapidapi.com/learn/hub/provider"
 >
 	Learn more about it in this interactive guide.
 </Callout>

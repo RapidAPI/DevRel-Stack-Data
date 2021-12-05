@@ -50,7 +50,7 @@ API-First organizations can quickly scale to other devices, platforms, and appli
 
 Developers consume the APIs. A good API design hides the internal complexity and improves the overall developer experience.
 
-### Reusablitiy
+### Reusability
 
 Let's say that your team built a web application. If you want to extend your application to Android and IOS platforms, you will have to code much of the implementation again. You can avoid all the costs and time spent rebuilding by developing a reusable API early.
 
