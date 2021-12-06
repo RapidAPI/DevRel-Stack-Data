@@ -43,7 +43,7 @@ const updateDataFile = async () => {
 		})
 		.filter(file => !!file);
 
-	['guides', 'courses', 'stacks', 'learn'].map(type => {
+	['guides', 'courses', 'stacks', 'learn', 'jobs'].map(type => {
 		addNewPosts(allStagedFiles, type);
 	});
 };
