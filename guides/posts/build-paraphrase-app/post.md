@@ -326,4 +326,4 @@ That’s it. We have successfully built a [Paraphrase App](https://rapidapi-exam
 
 In the end, it will look something like this:
 
-![Paraphrase App with Next.js and Rewriter/Paraphraser/Text Changer (Multi-Language) API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-paraphrase-app/images/cover.png)
+![Paraphrase App built with Next.js and Rewriter/Paraphraser/Text Changer (Multi-Language) API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-paraphrase-app/images/cover.png)
