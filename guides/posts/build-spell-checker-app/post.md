@@ -354,4 +354,4 @@ That’s it. We have successfully built a [Spell Checker App](https://rapidapi-e
 
 In the end, it will look something like this:
 
-![Spell Checker App with Next.js and JSpell Checker API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-spell-checker-app/images/cover.png)
+![Spell Checker App built with Next.js and JSpell Checker API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-spell-checker-app/images/cover.png)

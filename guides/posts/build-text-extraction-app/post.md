@@ -323,4 +323,4 @@ That’s it. We have successfully built a [Text Extraction App](https://rapidapi
 
 In the end, it will look something like this:
 
-![Text Extraction App with Next.js and TextAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/0d11cda06c5d2888a6cf5d6e31949d649c055d52/guides/posts/build-text-extraction-app/images/cover.png)
+![Text Extraction App built with Next.js and TextAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/0d11cda06c5d2888a6cf5d6e31949d649c055d52/guides/posts/build-text-extraction-app/images/cover.png)

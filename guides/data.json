@@ -1,4 +1,9 @@
 [
+	{"source": "web-animation-api"},
+	{"source": "practices-designing-api"},
+	{"source": "differences-apis-web-services"},
+	{"source": "build-covid-vaccine-stats-app"},
+	{"source": "build-anime-search-app"},
 	{"source": "service-mesh"},
 	{"source": "pricing-strategies"},
 	{"source": "api-first"},

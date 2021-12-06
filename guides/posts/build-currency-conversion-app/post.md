@@ -435,4 +435,4 @@ When the `convertedAmount` changes from null to some other value, it will trigge
 
 This is it. We have successfully built a [Currency Converter application](https://rapidapi-example-currency-conversion.vercel.app/) using the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/currency-converter-app?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). It will look something like this:
 
-![Currency Conversion application using Next.js and Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/currency-conversion-app.png)
+![Currency Conversion application built using Next.js and Currency Conversion and Exchange Rates API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-currency-conversion-app/images/currency-conversion-app.png)
