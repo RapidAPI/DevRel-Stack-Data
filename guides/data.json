@@ -1,13 +1,4 @@
 [
-	{"source": "web-animation-api"},
-	{"source": "service-mesh"},
-	{"source": "pricing-strategies"},
-	{"source": "practices-designing-api"},
-	{"source": "how-to-rate-limit"},
-	{"source": "differences-apis-web-services"},
-	{"source": "build-covid-vaccine-stats-app"},
-	{"source": "build-anime-search-app"},
-	{"source": "api-first"},
 	{"source": "how-to-mock-api"},
 	{"source": "web-animation-api"},
 	{"source": "practices-designing-api"},
