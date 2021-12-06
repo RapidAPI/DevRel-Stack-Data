@@ -341,4 +341,4 @@ That’s it. We have successfully built a [Movie Details App](https://rapidapi-e
 
 In the end, it will look something like this:
 
-![Movie Details App with Next.js and IMDb API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-movie-details-app/images/cover.png)
+![Movie Details App built with Next.js and IMDb API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/build-movie-details-app/images/cover.png)
