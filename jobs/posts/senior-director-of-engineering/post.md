@@ -37,8 +37,9 @@ This is an opportunity to play a key role in a fast-growing and high-scale start
 **Our HQ is based in San Francisco, although this position is working with our distributed European team & future Berlin-based team, from our new Berlin office.**
 
 <Callout>
-	We are offering comprehensive global relocation packages for this
-	opportunity.
+
+We are offering comprehensive global relocation packages for this opportunity.
+
 </Callout>
 
 This role requires the ability to speak fluent English.
