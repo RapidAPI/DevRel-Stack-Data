@@ -4,7 +4,7 @@
 	"description": "Find all job openings at RapidAPI.",
 	"language": "en",
 	"locale": "en_US",
-	"siteUrl": "https://rapidapi.com/guides",
+	"siteUrl": "https://rapidapi.com/jobs",
 	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/rapidapi-logo.png",
 	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/favicon-96x96.png",
 	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/ogg.jpg",
