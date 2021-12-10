@@ -1,7 +1,6 @@
 ---
 title: Hiring
 description: Description
-team: 'Engineering'
 ---
 
 <Lead>
