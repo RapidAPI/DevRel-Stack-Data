@@ -1,4 +1,9 @@
 [
+	{"source": "web-storage-api"},
+	{"source": "top-weather-apis"},
+	{"source": "top-text-apis"},
+	{"source": "build-public-holiday-app"},
+	{"source": "build-phone-number-validation-app"},
 	{"source": "build-hotel-app"},
 	{"source": "top-crypto-apis"},
 	{"source": "build-trademark-app"},
