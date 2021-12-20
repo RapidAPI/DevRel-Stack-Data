@@ -1,6 +1,6 @@
 ---
-title: Top Text APIs
-description: Here are the list of top 10 text APIs.
+title: Top APIs For Text Analysis and Extraction
+description: There are a lot of text APIs available on the internet. Some are used for text extraction; others are used for text analysis. Let's take a look at some of the most widely used ones.
 authors:
     - saad
 categories:
@@ -15,7 +15,7 @@ coverImage: ''
 
 <Lead>
 
-There is a lot of text APIs available on the internet. Some are used for text extraction; others are used for text analysis. Instead of looking for these APIs on the Internet, you can visit [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) where you have more than 35,000 APIs available.
+There are a lot of text APIs available on the internet. Some are used for text extraction; others are used for text analysis. Instead of looking for these APIs on the Internet, you can visit [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) where you have more than 35,000 APIs available.
 
 </Lead>
 
