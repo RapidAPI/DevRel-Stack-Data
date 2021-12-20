@@ -50,7 +50,7 @@ You need to create the database in your indexedDB. For this, you would need to o
 
 Now you need to add handlers to your connection requests. We set three handlers, i.e., `onupgradeneeded`, `onsuccess`, `onerror`. If the database does not exist for an origin in the IndexedDB, the `onupgradeneeded` will be called first, creating the database. If it exists, the `onsuccess handler will be called.
 
-<CreateDB />
+<LearnIndexedDB createDatabase />
 
 Once you click on the submit button, right-click on this page and open the chrome developer tools. Go to the Application tab and select `IndexedDB` from the storage section. You will see a database has been created there.
 
@@ -60,7 +60,7 @@ Once you click on the submit button, right-click on this page and open the chrom
 
 Let’s save some data in the database. For this, you would need to do a transaction. Ensure you have a database in the IndexedDB that is opened in your application. Select the data you want to store and perform a read and write transaction operation. After that, you can save the data in the specified object store.
 
-<WriteDB db={db} />
+<LearnIndexedDB writeInDatabase />
 
 Once you click on the submit button, right-click on this page and open the chrome developer tools. Go to the Application tab and select `IndexedDB` from the storage section. You will see that the database you created earlier has an object with the data you have entered.
 
@@ -70,6 +70,6 @@ Once you click on the submit button, right-click on this page and open the chrom
 
 To retrieve the data, you need to perform the read-only transaction operation. You can get the data one at a time or get everything at once using the `getAll` function. Afterward, add a handler to your transaction request and then manipulate the data accordingly.
 
-<ViewDB db={db} />
+<LearnIndexedDB viewFromDatabase />
 
 That’s all, folks! I hope this brief guide has provided you with enough knowledge that now you can use the IndexedDB API in your projects.
