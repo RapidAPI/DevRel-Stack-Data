@@ -402,7 +402,7 @@ export default async function handler(req, res) {
 
 ```
 
-We have specified the parameters, `req.query` is an object that holds the input parameters coming from our client-side. Our API call is ready. Now we need to create two functions in the `pages/index.js` file to send the client-side requests to our APIs http://localhost:3000/api/city`and`http://localhost:3000/api/hotels`. In the `pages/index.js` file, add the following functions:
+We have specified the parameters, `req.query` is an object that holds the input parameters coming from our client-side. Our API call is ready. Now we need to create two functions in the `pages/index.js` file to send the client-side requests to our APIs `http://localhost:3000/api/city` and `http://localhost:3000/api/hotels`. In the `pages/index.js` file, add the following functions:
 
 ```js
 /**
