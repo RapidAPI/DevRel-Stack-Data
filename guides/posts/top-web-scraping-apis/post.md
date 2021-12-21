@@ -1,6 +1,6 @@
 ---
-title: 'Top Web Scraping APIs'
-description: 'These are the best Web Scraping APIs for your next application.'
+title: 'Top APIs for Web Scraping'
+description: 'Web Scraping is an automated way of extracting data from a website. These are the best APIs you can use for Web Scraping.'
 authors:
     - ahmadBilal
 categories:

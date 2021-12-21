@@ -1,6 +1,7 @@
 ---
-title: 'Top News APIs'
-description: 'These are the best News APIs for your next application.'
+title: 'Top APIs for getting the Latest Global News'
+description: 'If you are creating a news-related application, or want to display news in your existing app, then these are the best news
+	APIs for you.'
 authors:
     - ahmadBilal
 categories:
