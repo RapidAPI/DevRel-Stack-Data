@@ -35,9 +35,25 @@ It is one of the most popular weather APIs out there. It provides you with many 
 
 [Open Weather Map](​​https://rapidapi.com/community/api/open-weather-map/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) is a freemium API and you can use a limited version of it for free.
 
+<Link
+	href="https://rapidapi.com/community/api/open-weather-map/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## Visual Crossing Weather
 
 This [API](https://rapidapi.com/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) takes a couple of parameters like location, aggregate hours to provide you with weather information. It is another freemium API and provides you with 500 free API calls per month.
+
+<Link
+	href="https://rapidapi.com/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
 
 ## WeatherAPI.com
 
@@ -52,6 +68,14 @@ It’s another freemium [API](https://rapidapi.com/weatherapi/api/weatherapi-com
 -   Forecast Weather API
 -   Time Zone API
 
+<Link
+	href="https://rapidapi.com/weatherapi/api/weatherapi-com/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## Weather
 
 This weather [API](https://rapidapi.com/weatherbit/api/weather/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) has a popularity of 9.8 and 100% service level. It is an API by [Weatherbit](https://rapidapi.com/user/weatherbit?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) and provides you with the following options:
@@ -62,21 +86,61 @@ This weather [API](https://rapidapi.com/weatherbit/api/weather/?utm_source=Rapid
 -   120-hour forecast
 -   Severe weather alerts
 
+<Link
+	href="https://rapidapi.com/weatherbit/api/weather/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## Yahoo Weather
 
 [Yahoo Weather API](https://rapidapi.com/apishub/api/yahoo-weather5/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) lets you search the weather using the location, woeid (you can find this on the Yahoo Weather page), and by latitude and longitude.
+
+<Link
+	href="https://rapidapi.com/apishub/api/yahoo-weather5/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
 
 ## Dark Sky
 
 It’s another popular weather [API](https://rapidapi.com/darkskyapis/api/dark-sky/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) that lets you search for weather information using the longitudes and latitudes of a location. You can also get information on the past weather conditions and the upcoming weather forecast using this API.
 
+<Link
+	href="https://rapidapi.com/darkskyapis/api/dark-sky/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## AerisWeather
 
 It is advanced weather [API](https://rapidapi.com/aerisweather-aerisweather/api/aerisweather1/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) to power all of your business needs, from the basic to the most complex weather-influenced solutions.
 
+<Link
+	href="https://rapidapi.com/aerisweather-aerisweather/api/aerisweather1/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## Forecast
 
 This weather [API](https://rapidapi.com/wettercom-wettercom-default/api/forecast9/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) lets you see hourly forecasts by geographical coordinates, get observed history by both coordinates or station id.
+
+<Link
+	href="https://rapidapi.com/wettercom-wettercom-default/api/forecast9/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
 
 ## meteostat
 
@@ -93,6 +157,22 @@ This weather [API](https://rapidapi.com/wettercom-wettercom-default/api/forecast
 -   Monthly point data
 -   Point climate data
 
+<Link
+	href="https://rapidapi.com/meteostat/api/meteostat/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
+
 ## Air Quality
 
 It is another [API](https://rapidapi.com/weatherbit/api/air-quality/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) by [Weatherbit](https://rapidapi.com/user/weatherbit?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) that allows you to retrieve current, forecasted, and historical air quality for any point in the world.
+
+<Link
+	href="https://rapidapi.com/weatherbit/api/air-quality/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel"
+	variant="solid"
+	isExternal
+>
+	Check it out
+</Link>
