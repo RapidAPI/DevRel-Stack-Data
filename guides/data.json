@@ -1,9 +1,4 @@
 [
-	{"source": "use-axios-for-api-requests"},
-	{"source": "javascript-api-web-extensions"},
-	{"source": "indexeddb-api"},
-	{"source": "build-quote-app"},
-	{"source": "build-joke-app"},
 	{"source": "build-domain-app"},
 	{"source": "loading-state-react"},
 	{"source": "rest-parameter-types"},
