@@ -86,7 +86,7 @@ With all that set, it's time to code the app. Let's jump right into it.
 
 Open the `pages/index.js` file and remove all the existing code. Let's add the layout.
 
-```js
+```jsx
 export default function Home() {
 	return (
 		<div className="flex flex-col md:px-12 px-0 relative bg-background font-open-sans items-center text-center min-h-screen">
@@ -103,7 +103,7 @@ export default function Home() {
 
 I added the following to `pages/_app.js`.
 
-```js
+```jsx
 import Head from 'next/head';
 import 'tailwindcss/tailwind.css';
 
@@ -130,7 +130,7 @@ export default MyApp;
 
 As you can see in the UI preview, we require a form to submit the domain keyword. The form will have an input field where the query keyword will go, followed by a submit button. Let's add these.
 
-```js
+```jsx
 export default function Home() {
 	return (
 		<div className="flex flex-col md:px-12 px-0 relative bg-background font-open-sans items-center text-center min-h-screen">
@@ -166,7 +166,7 @@ This code will create the input field and submit button. I have also styled and 
 
 Now, we need to store the user input in the input field. We can do it using React `useState` hook. We will use two states; `keyword` for storing the input domain keyword and `response` to keep the API Response.
 
-```js
+```jsx
 import {useState} from 'react';
 
 export default function Home() {
@@ -225,7 +225,7 @@ npm install axios
 
 And import `axios` in `pages/index.js`.
 
-```js
+```jsx
 import axios from ‘axios’;
 ```
 
@@ -239,7 +239,7 @@ For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAP
 
 Let's set up the API call now. In the `pages/api` directory, create a file `search.js` and use the code snippet as follows:
 
-```js
+```jsx
 import axios from 'axios';
 
 export default async function handler(req, res) {
@@ -267,7 +267,7 @@ We have specified the parameter `req.query.keyword`. `req.query` is an object th
 
 Now we need to create a function, say `getDomainInfo` in the `pages/index.js` file to send a request to our API `http://localhost:3000/api/search`. We want this function to be triggered using the search button or enter key. Let's make these changes to the index file.
 
-```js
+```jsx
 import axios from 'axios';
 import {useState} from 'react';
 
@@ -338,7 +338,7 @@ In the final step, we will display the results. You can use the **Test Endpoint*
 
 We are going to traverse the `payload` object in the response, and show the details in a table. Finally, I also implemented loading and error states. Here is the final code of our app:
 
-```js
+```jsx
 import axios from 'axios';
 import {useState} from 'react';
 
