@@ -1,4 +1,5 @@
 [
+	{"source": "soap-apis"},
 	{"source": "graphql-apis"},
 	{"source": "rest-apis"},
 	{"source": "rapidapi-hub-consumer"},
