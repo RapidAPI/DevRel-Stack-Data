@@ -1,4 +1,7 @@
 [
+	{"source": "build-streaming-app"},
+	{"source": "aysnc-vs-sync-apis"},
+	{"source": "api-best-practices"},
 	{"source": "web-worker-api"},
 	{"source": "video-audio-api"},
 	{"source": "url-api"},
