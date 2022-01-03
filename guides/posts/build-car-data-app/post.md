@@ -1,6 +1,6 @@
 ---
 title: How to build a Car Data app using Car Data API?
-description: Today, I am building a car data pp that will provide you with different car details depending on their make and model.
+description: If you were a car enthusiast like me, you would have often found yourself searching for different cars, their make, model, etc. Instead of searching for a particular car, we can build an application to see all the car details.
 authors:
     - saad
 categories:
