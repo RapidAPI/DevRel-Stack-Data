@@ -1,7 +1,7 @@
 [
-	{"source": "rest-apis-experts"},
 	{"source": "graphql-apis"},
 	{"source": "rest-apis"},
+	{"source": "rest-apis-experts"},
 	{"source": "rapidapi-hub-consumer"},
 	{"source": "rapidapi-hub-provider"},
 	{"source": "rapidapi-testing"}
