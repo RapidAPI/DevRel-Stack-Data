@@ -1,4 +1,9 @@
 [
+	{"source": "web-worker-api"},
+	{"source": "video-audio-api"},
+	{"source": "url-api"},
+	{"source": "build-horoscope-app"},
+	{"source": "build-car-data-app"},
 	{"source": "build-domain-app"},
 	{"source": "loading-state-react"},
 	{"source": "rest-parameter-types"},
