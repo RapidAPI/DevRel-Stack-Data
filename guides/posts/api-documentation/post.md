@@ -68,4 +68,4 @@ While working with most APIs, particularly REST APIs, it is unclear what data we
 
 [Recipe-Food-Nutrition API on RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) has a great illustration of an example response:
 
-![Example Response](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/api-documentation/images/code-snippet.png)
+![Example Response](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/api-documentation/images/response.png)

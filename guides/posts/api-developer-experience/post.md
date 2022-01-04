@@ -1,5 +1,5 @@
 ---
-title: How to Improve Developer Experience of your API?
+title: How to Improve the Developer Experience of your API?
 description: Here is how you can improve the overall experience of developers using your API.
 publishedDate: 2021-12-22T15:57:17.709Z
 lastModifiedDate: 2021-12-22T15:57:17.709Z
@@ -39,7 +39,7 @@ You can streamline this onboarding process using Quick Start Guides that provide
 
 Documentation is the first view of your API. Developers need to understand what a product has to offer before adopting it. APIs can be confusing if they lack proper, explanatory documentation. Make sure the documentation propagates the USP of your API and the problem it solves.
 
-This is why popular APIs like Stripe, GitHub, etc., provide interactive and rich documentation. You can check out the API Documentation [must-haves](https://rapidapi.com/guides/api-documentation) if you are interested.
+This is why popular APIs like Stripe, GitHub, etc., provide interactive and rich documentation. You can check out the API Documentation [must-haves](https://RapidAPI.com/guides/api-documentation) if you are interested.
 
 ## Interactive Console
 
