@@ -1,4 +1,6 @@
 [
+	{"source": "async-api"},
+	{"source": "soap-apis"},
 	{"source": "graphql-apis"},
 	{"source": "rest-apis"},
 	{"source": "rest-apis-experts"},
