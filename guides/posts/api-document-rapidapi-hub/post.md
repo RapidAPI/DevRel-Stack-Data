@@ -32,7 +32,7 @@ Today, we will see how [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidA
 	developers. Learn more about using RapidAPI Hub as an API provider.
 </Callout>
 
-Earlier, we discussed the [must-have elements of API Documentation](https://rapidapi.com/guides/api-documentation); let’s demonstrate each of those documentation elements using RapidAPI Hub.
+Earlier, we discussed the [must-have elements of API Documentation](https://RapidAPI.com/guides/api-documentation); let’s demonstrate each of those documentation elements using RapidAPI Hub.
 
 ## Authentication Information
 
@@ -52,7 +52,7 @@ You can specify information, descriptions, and external documentation links for 
 
 So, you can easily show the following information about endpoints:
 
--   Request method to call the endpoint, such as POST, GET, etc.
+-   Request methods to call the endpoint, such as POST, GET, etc.
 -   Endpoint URL.
 -   Required and optional parameters for the endpoint.
 -   Data returned by the endpoint in response.
