@@ -1,4 +1,8 @@
 [
+	{"source": "drag-and-drop-api"},
+	{"source": "build-random-facts-app"},
+	{"source": "build-game-news-app"},
+	{"source": "beacon-api"},
 	{"source": "pipedream-rapidapi"},
 	{"source": "build-recipe-app"},
 	{"source": "learn-canvas-api"},
