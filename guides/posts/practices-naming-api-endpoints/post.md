@@ -22,7 +22,7 @@ API endpoints are URLs used to access your API. RESTful APIs have a base URL com
 
 </Lead>
 
-For example, the following are some endpoints of a Recipe API on RapidAPI Hub.
+API endpoints are URLs required to access an API and its resources. For example, here are some endpoints of a Recipe API on RapidAPI Hub.
 
 -   `https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/search`
 
@@ -30,7 +30,7 @@ For example, the following are some endpoints of a Recipe API on RapidAPI Hub.
 
 -   `https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/findByIngredients'`
 
-Notice how the last part of the URL changes with each endpoint while the rest remains the same. These are the names of endpoints, and it is important to name them correctly.
+Notice how the last part of the URL changes with each endpoint while the rest remains the same. These are the names of endpoints, and it is important to choose them correctly.
 
 ## Why Does it Matter?
 
