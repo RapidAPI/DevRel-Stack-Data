@@ -31,7 +31,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s find an API that we can use to some good jokes. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “quotes apis” in the search section.
+Let’s find an API that we can use to some good quote. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “quotes apis” in the search section.
 
 <Callout
 	title="Deep dive"
@@ -101,7 +101,7 @@ It will create two headings for you with the text “Quote App” and “A Simpl
 
 ### → STEP #2
 
-Now let’s create an area where the quote will be displayed on the screen. Also, we need to create three buttons, two to go back and forth between different jokes and one to request more jokes.
+Now let’s create an area where the quote will be displayed on the screen. Also, we need to create three buttons, two to go back and forth between different quote and one to request more quotes.
 
 For this, copy the following code and paste it in `pages/index.js`:
 
@@ -189,7 +189,7 @@ export default function Home() {
 }
 ```
 
-You can see in the above code snippet that now I am rendering the joke from the `quote` state in the paragraph tag.
+You can see in the above code snippet that now I am rendering the quote from the `quote` state in the paragraph tag.
 
 ### → STEP #4
 
@@ -391,7 +391,7 @@ export async function getServerSideProps() {
 
 I am using the Next.js `getServerSideProps` function to fetch the data from the server. It will make my application server-side, and the user will never see a loading state. You can also use getStaticProps instead of getServerSideProps, and the application will then fetch the data at build time.
 
-I have also created three functions, i.e., `nextQuote`, `prevQuote`, to go back and forth between jokes, and `fetchQuotes` to request more quotes. These functions are called when the user clicks on the next, previous, or get more buttons.
+I have also created three functions, i.e., `nextQuote`, `prevQuote`, to go back and forth between quotes, and `fetchQuotes` to request more quotes. These functions are called when the user clicks on the next, previous, or get more buttons.
 
 ## Wrap Up
 
