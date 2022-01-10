@@ -6,7 +6,7 @@ lastModifiedDate: 2022-01-04T19:10:30.765Z
 authors:
     - ahmadBilal
 categories:
-    - best-practices
+    - bestPractices
 tags:
     - api
     - endpoints
