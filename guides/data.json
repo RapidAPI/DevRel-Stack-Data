@@ -1,4 +1,8 @@
 [
+	{"source": "pipedream-rapidapi"},
+	{"source": "build-recipe-app"},
+	{"source": "learn-canvas-api"},
+	{"source": "practices-naming-api-endpoints"},
 	{"source": "api-document-rapidapi-hub"},
 	{"source": "api-developer-experience"},
 	{"source": "build-streaming-app"},
