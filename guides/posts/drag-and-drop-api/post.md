@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To HTML Drag and Drop API
-description: This API lets you make elements draggable in a website. All you need to do is set the value of draggable property to true.
+description: The Drag and Drop API lets you drag an element and drop it in a particular zone. In this piece, I have explained the working of drag and drop API and how you can use it to build apps.
 publishedDate: 2022-01-10T10:25:51.945Z
 lastModifiedDate: 2022-01-10T10:25:51.945Z
 authors:

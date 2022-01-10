@@ -1,6 +1,6 @@
 ---
 title: What is Beacon API?
-description: This API does not expect a response from the server. It sends data to the server when the site is unloading from the browser.
+description: Beacon API does not expect a response from the server. It sends data to the server when the site is unloading from the browser. Let's take a deeper look into the Beacon API in this piece.
 publishedDate: 2022-01-10T10:25:51.945Z
 lastModifiedDate: 2022-01-10T10:25:51.945Z
 authors:

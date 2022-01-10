@@ -1,6 +1,6 @@
 ---
 title: How to build a Random Facts App using Random Facts API?
-description: There are so many absurd things and facts that exist in this world. To give them more visibility, we can build a small web application to display them.
+description: I am building a small random facts application in this piece that will use an API from RapidAPI Hub and show you a new fact every time.
 authors:
     - saad
 categories:

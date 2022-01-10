@@ -1,6 +1,6 @@
 ---
 title: How to build a Game News App using Gaming News API?
-description: If you are a gamer like me then you would want to stay up-to-date with all the things happening in the game market. We can build a small application to gather all the news at one place.
+description: In this piece, I am going to teach you how to build a small application that will display only game related news to the user.
 authors:
     - saad
 categories:
