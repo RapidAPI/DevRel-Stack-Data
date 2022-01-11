@@ -19,14 +19,14 @@ Relative to the opportunity we are small in size, but operating at a significant
 
 If you are our dream candidate, you have experience building and scaling engineering teams - ideally within the API space. Your mission within RapidAPI is to scale and maintain a world-class engineering organization that sustains high quality and high feature-velocity. You’ll be working with our European team of engineers, which is scaling...rapidly.
 
-## You will:
+## You will
 
 Be the visionary for the European engineering team; leading from the front.
 Mentor your team: it's your mission to get them excited, motivated, and guide their careers (teams include API Client, API Design, Paw Native macOS, UI Toolkit)
 Collaborate with other departments: Product Management, Design and Sales
 Develop a multi-year plan, with quarterly deliverables
 
-## You have:
+## You have
 
 7+ years of experience building and leading highly complex, technical engineering teams
 The ability to attract, hire, and coach world-class engineers; Can up-level existing teams via hiring top-notch senior talent, growing leaders and mentoring
