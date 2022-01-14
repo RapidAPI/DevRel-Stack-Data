@@ -19,7 +19,7 @@ Our engineering organization is built as squads – individual teams with full o
 
 This role is an opportunity to play a key role in a fast-growing and high scale startup company and to push our software development cycles to the next level with your innovative solutions and out of the box thinking.
 
-## As a Full Stack Developer at RapidAPI, you will:
+## As a Full Stack Developer at RapidAPI, you will
 
 -   Work as a part of a team, developing applications and services consumed by more than a million developers worldwide
 -   Be responsible for building, maintaining and improving RapidAPI’s frontend and backend systems, using Agile development methods.
