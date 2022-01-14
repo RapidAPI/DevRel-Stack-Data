@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To IndexedDB API
-description: It is a Web API that provides you with a non-relational database right inside your browser.
+description: It is a Web API that provides you with a non-relational database right inside your browser. In this piece, we are going to look at IndexedDB API and how you can use it in your applications.
 publishedDate: 2021-12-20T08:44:15.446Z
 lastModifiedDate: 2021-12-20T08:44:15.446Z
 authors:

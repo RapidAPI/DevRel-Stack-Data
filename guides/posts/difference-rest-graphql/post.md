@@ -1,6 +1,6 @@
 ---
 title: 'What is the difference between REST and GraphQL?'
-description: 'Understand the different between REST APIs and GraphQL APIs.'
+description: The REST and GraphQL are two different kinds of APIs. Let's take a look at the differences between these two types of APIs in this piece.
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:

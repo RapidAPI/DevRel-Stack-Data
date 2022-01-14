@@ -1,6 +1,6 @@
 ---
 title: What are Composite APIs?
-description: 'Composite API is a design approach in which the developer sequentially batch API requests into a single API call.'
+description: Composite API is a design approach in which the developer sequentially batch API requests into a single API call. Let's take a look at it and some of the parameters that affect its design.
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
 authors:

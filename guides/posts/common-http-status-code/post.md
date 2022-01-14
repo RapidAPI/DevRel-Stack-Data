@@ -1,6 +1,6 @@
 ---
 title: Most common HTTP status codes
-description: HTTP status codes are there to help the client understand whether the request was successful or not.
+description: HTTP status codes are there to help the client understand whether the request was successful or not. Let's take a look at some of the most common HTTP status code in this piece.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
 authors:

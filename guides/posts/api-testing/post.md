@@ -1,6 +1,6 @@
 ---
 title: 'What is API Testing?'
-description: "API Testing helps your APIs to become more secure. Let's see how."
+description: API Testing helps your APIs to become more secure. Let's take a look at why you should test your APIs and some of its benefits.
 publishedDate: 2021-10-05T15:41:15.688Z
 lastModifiedDate: 2021-10-05T15:41:15.688Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: What is HTTP?
-description: HTTP is a protocol that web apps use to fetch data from the internet.
+description: HTTP is a protocol that web apps use to fetch data from the internet. Let's take a look at how HTTP based systems work and some of the most common HTTP status codes.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:

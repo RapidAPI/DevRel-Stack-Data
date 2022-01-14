@@ -1,6 +1,6 @@
 ---
 title: What is DNS?
-description: A lot goes in when you type a website address in your browser address bar and hit enter.
+description: The most appropriate analogy of DNS is it is a phonebook of the Internet. In this piece, we are going to have a brief introduction of DNS and how it works.
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 publishedDate: 2021-10-21T16:18:42.178Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: What are Internal APIs?
-description: Internal APIs or Private APIs are the ones that are only exposed to the clients and developers within the organization.
+description: Internal APIs or Private APIs are the ones that are only exposed to the clients and developers within the organization. Let's look at some of the benefits of internal APIs.
 publishedDate: 2021-10-28T15:57:17.709Z
 lastModifiedDate: 2021-10-28T15:57:17.709Z
 authors:

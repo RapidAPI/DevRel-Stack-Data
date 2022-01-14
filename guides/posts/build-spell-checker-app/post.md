@@ -1,6 +1,6 @@
 ---
 title: How to build a Spell Checker App Using Next.js and JSpell Checker API?
-description: 'You often have to write detailed documents at work. They can be proposals, guides, some documentation, etc. You need to ensure that you are not making any spelling errors in such important documents.'
+description: You often have to write detailed documents at work. They can be proposals, guides, some documentation, etc. You need to ensure that you are not making any spelling errors in such important documents. Let's build a spell checker app in this piece.
 publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
 authors:

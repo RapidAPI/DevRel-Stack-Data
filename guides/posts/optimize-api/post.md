@@ -1,6 +1,6 @@
 ---
 title: How to optimize your API performance?
-description: 'APIs are used to communicate between client and server. If they are not optimized, they can become slow with the high surges of traffic.'
+description: APIs are used to communicate between client and server. If they are not optimized, they can become slow with the high surges of traffic. Let's take a look at how you can optimise your APIs.
 publishedDate: 2021-10-25T16:19:49.280Z
 lastModifiedDate: 2021-10-25T16:19:49.280Z
 authors:

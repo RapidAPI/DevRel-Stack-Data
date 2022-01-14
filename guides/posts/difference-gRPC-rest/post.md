@@ -1,6 +1,6 @@
 ---
 title: What are the differences between gRPC and REST?
-description: 'There are three most common API architectures in use today: REST, RPC, and GraphQL. RPC (Remote Procedure Call) uses the gRPC framework developed by Google for implementing RPC APIs.'
+description: "There are three most common API architectures in use today: REST, gRPC, and GraphQL. Let's take a look at the differences between gRPC and REST API"
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:

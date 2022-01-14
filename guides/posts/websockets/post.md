@@ -1,6 +1,6 @@
 ---
 title: Introduction to Websockets
-description: WebSockets allow creating a full-duplex connection between the client and the server to pass bi-directional messages.
+description: WebSockets allow creating a full-duplex connection between the client and the server to pass bi-directional messages. Let's briefly look at some of its use cases in this piece.
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a Public Holiday App using Public Holiday API?
-description: Let's build an application that will display all the public holidays of the USA.
+description: In this piece, I am going to show you how you can build a public holiday application using an API from RapidAPI Hub and Next.js.
 authors:
     - saad
 categories:

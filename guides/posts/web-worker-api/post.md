@@ -1,6 +1,6 @@
 ---
 title: Introduction To Web Workers API
-description: This API makes sure that your page is not unresponsive when a script is running in the background.
+description: This API makes sure that your page is not unresponsive when a script is running in the background. In this piece, let's briefly look at web workers and some of its types.
 authors:
     - saad
 categories:

@@ -1,6 +1,6 @@
 ---
 title: How to build a Currency Conversion App using Next.js and Currency Conversion API?
-description: Today, I am going to build a Currency Conversion app using Currency Conversion API from RapidAPI Hub and Next.js.
+description: In this piece, I am going to show you how you can build a Currency Conversion app using Currency Conversion API from RapidAPI Hub and Next.js.
 publishedDate: 2021-10-25T16:19:49.280Z
 lastModifiedDate: 2021-10-25T16:19:49.280Z
 authors:

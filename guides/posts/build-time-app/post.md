@@ -1,6 +1,6 @@
 ---
 title: How to build a Time app using Next.js and World Time API?
-description: When working remotely, we often need to know from which timezone someone is working. And if you have a global team, you often find yourself looking up different timezones to schedule a meeting.
+description: When working remotely, we often need to know from which timezone someone is working. And if you have a global team, you often find yourself looking up different timezones to schedule a meeting. In this piece, let's build a time app using an API from RapidAPI Hub and Next.js.
 publishedDate: 2021-11-21T16:52:44.523Z
 lastModifiedDate: 2021-11-21T16:52:44.523Z
 authors:

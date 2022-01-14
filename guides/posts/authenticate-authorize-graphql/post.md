@@ -1,6 +1,6 @@
 ---
 title: How to authenticate and authorize with GraphQL?
-description: You can use REST APIs, GraphQL API, and gRPC to communicate between client and server. These communications also involve user authentications and authorization.
+description: You can use REST APIs, GraphQL API, and gRPC to communicate between client and server. These communications also involve user authentications and authorization. Let's take a look at GraphQL authentication and authorization in this piece.
 publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 authors:

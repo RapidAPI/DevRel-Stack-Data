@@ -1,7 +1,7 @@
 ---
 title: Introduction To API Rate Limiting
 slug: api-rate-limiting
-description: API Rate Limiting is the process through which you limit the amount of traffic coming to your API by a single IP address.
+description: API Rate Limiting is the process through which you limit the amount of traffic coming to your API by a single IP address. Let's take a look at some of its types and methods.
 publishedDate: 2021-11-19T18:41:43.732Z
 lastModifiedDate: 2021-11-19T18:41:43.732Z
 authors:

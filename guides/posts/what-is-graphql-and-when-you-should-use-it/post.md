@@ -1,6 +1,6 @@
 ---
 title: 'What is GraphQL and when you should use it?'
-description: 'Learn when GraphQL is useful and when you should consider using it.'
+description: With GraphQL, you get precisely the data you request. No more, no else. You have a single entry point, i.e., /graphql, that you use to get the data. In this piece, let's briefly look at it and in which cases you should use it.
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a COVID-19 Vaccine Stats App using Covid 19 World Vaccination Data API?
-description: Today, I am building an application that will provide the COVID-19 vaccine statistics across different countries.
+description: In this piece, I am going to show you how you can build an application that will provide the COVID-19 vaccine statistics across different countries.
 publishedDate: 2021-12-06T06:43:23.822Z
 lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:

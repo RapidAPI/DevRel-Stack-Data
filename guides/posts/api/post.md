@@ -1,6 +1,6 @@
 ---
 title: Introduction to APIs
-description: APIs are used to communicate between two architectures in order to perform CRUD operations. Let's take a deeper look at it.
+description: APIs are used to communicate between two architectures in order to perform CRUD operations. Let's take a deeper look at it. In this piece, let's take a look at APIs and some of its types.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:
@@ -21,7 +21,7 @@ coverImage: ''
 
 ## What is an API?
 
-The Application Programming Interface (API) is like a middle man, 2connecting two sides; a waiter takes your order and brings you food. It is a channel that applications utilize to talk with each other. You put some information at one end, the API takes that information and gets back with a result.
+The Application Programming Interface (API) is like a middle man, connecting two sides; a waiter takes your order and brings you food. It is a channel that applications utilize to talk with each other. You put some information at one end, the API takes that information and gets back with a result.
 
 Many different types of APIs exist. You can use them to build web, desktop, mobile applications, CLI tools, extensions, and much more.
 

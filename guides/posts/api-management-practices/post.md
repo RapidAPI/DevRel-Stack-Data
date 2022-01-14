@@ -1,6 +1,6 @@
 ---
 title: What are best API Management practices?
-description: Your company’s growth directly influences its tech infrastructure, and this, in turn, affects the size of your APIs. So you must follow some best practices for managing your APIs.
+description: Your company’s growth directly influences its tech infrastructure, and this, in turn, affects the size of your APIs. So let's take a look at some of the best API management practices.
 publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
 authors:

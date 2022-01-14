@@ -1,6 +1,6 @@
 ---
 title: Introduction to Canvas API
-description: You can draw graphics using JavaScript and the HTML canvas element.
+description: You can draw graphics using JavaScript and the HTML canvas element. In this piece, you will get a small introduction about Canvas API and how you can use it in a website.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:

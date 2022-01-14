@@ -1,6 +1,6 @@
 ---
 title: Difference between APIs and Microservices
-description: 'The API is like a middle man, connecting two sides; a waiter takes your order and brings you food. A microservice is an individual service in the microservice architecture.'
+description: The API is like a middle man, connecting two sides; a waiter takes your order and brings you food. A microservice is an individual service in the microservice architecture. Let's look at the different between these two in this piece.
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
 authors:

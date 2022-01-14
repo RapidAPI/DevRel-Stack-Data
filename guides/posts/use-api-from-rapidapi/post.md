@@ -1,6 +1,6 @@
 ---
 title: How to use APIs from RapidAPI Hub?
-description: The APIs are a crucial part of web development. You heavily rely on them to get the required resource from the Internet.
+description: The APIs are a crucial part of web development. You heavily rely on them to get the required resource from the Internet. In this piece, let's take a look at how you can use different APIs from RapidAPI Hub in your web applications.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
 authors:
