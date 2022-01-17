@@ -1,4 +1,9 @@
 [
+	{"source": "css-painting-api"},
+	{"source": "cookie-api"},
+	{"source": "build-uk-restaurant-app"},
+	{"source": "build-food-nutrient-app"},
+	{"source": "background-fetch-api"},
 	{"source": "drag-and-drop-api"},
 	{"source": "build-random-facts-app"},
 	{"source": "build-game-news-app"},
