@@ -1,11 +1,4 @@
 [
-	{"source": "soap-apis"},
-	{"source": "soap-apis"},
-	{"source": "soap-apis"},
-	{"source": "async-api"},
-	{"source": "async-api"},
-	{"source": "async-api"},
-	{"source": "async-api"},
 	{"source": "rest-apis"},
 	{"source": "graphql-apis"},
 	{"source": "rest-apis-experts"},
