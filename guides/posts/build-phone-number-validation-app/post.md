@@ -32,7 +32,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s find an API that we can use to search for public holidays. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “phone number validation” in the search section.
+Let’s find an API that we can use to validate phone numbers. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “phone number validation” in the search section.
 
 <Callout
 	title="Deep dive"
@@ -177,7 +177,7 @@ export default function Home() {
 }
 ```
 
-You can see that I have added an `onChange` event handler to set the state value as soon as the user selects the year.
+You can see that I have added an `onChange` event handler to set the state value as soon as the user types the number.
 
 ### → STEP #4
 
@@ -210,7 +210,7 @@ RapidAPI Hub provides you with code snippets in different languages for integrat
 Now create a file with the name `validate.js` inside the `pages/api` directory. It is going to create a REST API endpoint for you. The endpoint point will look like this:
 
 ```sh
-http://localhost:3000/api/holiday
+http://localhost:3000/api/validate
 ```
 
 Now copy the following code in this file:
@@ -244,7 +244,7 @@ export default async function handler(req, res) {
 }
 ```
 
-This code makes an API call to the [Phone Validate API](https://rapidapi.com/neutrinoapi/api/phone-validate/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) on the server and returns the results to the user. It executes when the user makes an API call to the `holiday` endpoint I mentioned above.
+This code makes an API call to the [Phone Validate API](https://rapidapi.com/neutrinoapi/api/phone-validate/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) on the server and returns the results to the user. It executes when the user makes an API call to the `validate` endpoint I mentioned above.
 
 Once you are done, copy the following code in the `pages/index.js` file:
 
@@ -407,7 +407,7 @@ You can see that I have created a function, `fetchValidation`, to request the AP
 
 ## Wrap Up
 
-That’s it. We have successfully built an [Public Holiday App](https://rapidapi-example-phone-number-validation-app.vercel.app/) using [Phone Validate API](https://rapidapi.com/neutrinoapi/api/phone-validate/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel). You can find the source code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/phone-number-validate-app).
+That’s it. We have successfully built an [Phone Number Validation App](https://rapidapi-example-phone-number-validation-app.vercel.app/) using [Phone Validate API](https://rapidapi.com/neutrinoapi/api/phone-validate/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel). You can find the source code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/phone-number-validate-app).
 
 In the end, it will look something like this:
 
