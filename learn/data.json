@@ -1,7 +1,16 @@
 [
-	{"source": "graphql-apis"},
+	{"source": "soap-apis"},
+	{"source": "soap-apis"},
+	{"source": "soap-apis"},
+	{"source": "async-api"},
+	{"source": "async-api"},
+	{"source": "async-api"},
+	{"source": "async-api"},
 	{"source": "rest-apis"},
+	{"source": "graphql-apis"},
 	{"source": "rest-apis-experts"},
+	{"source": "async-api"},
+	{"source": "soap-apis"},
 	{"source": "rapidapi-hub-consumer"},
 	{"source": "rapidapi-hub-provider"},
 	{"source": "rapidapi-testing"}
