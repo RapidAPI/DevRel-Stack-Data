@@ -1,4 +1,9 @@
 [
+	{"source": "css-painting-api"},
+	{"source": "cookie-api"},
+	{"source": "build-uk-restaurant-app"},
+	{"source": "build-food-nutrient-app"},
+	{"source": "background-fetch-api"},
 	{"source": "api-google-sheets"},
 	{"source": "build-carbon-footprint-app"},
 	{"source": "api-call-typescript"},
