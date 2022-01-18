@@ -1,6 +1,6 @@
 ---
 title: A Guide To Learn Fetch API
-description: 'In the simplest terms, the fetch API lets you talk with other REST APIs. It is an asynchronous web API that comes with native JavaScript, and it returns the data in the form of promises.'
+description: Fetch API is an asynchronous web API that comes with native JavaScript, and it returns the data in the form of promises. In this piece, let's take a look at how you can use Fetch API in your web apps.
 publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:

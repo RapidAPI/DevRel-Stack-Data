@@ -1,6 +1,6 @@
 ---
 title: How to build an Email Validator App Using Next.js and Email Validator API?
-description: "Let's take a look at how you can build an email validator application."
+description: In this piece, I am going to show you how you can build an email validator app using an API from RapidAPI Hub and Next.js.
 publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:

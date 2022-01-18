@@ -1,6 +1,6 @@
 ---
 title: How to build a Horoscope App using Aztro API?
-description: If you are interested in learning about their horoscope, you can either search on the internet or build your own application. The latter sounds more fun.
+description: If you are interested in learning about their horoscope, you can either search on the internet or build your own application. The latter sounds more fun. In this piece, I am going to show you how you can do just this.
 authors:
     - saad
 categories:

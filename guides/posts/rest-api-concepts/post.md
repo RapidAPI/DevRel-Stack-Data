@@ -1,7 +1,7 @@
 ---
 title: Basic Concepts of REST API
 slug: rest-api-concepts
-description: 'Other than the internal working, you need to know a few basic concepts to have a grip on REST APIs. Let’s take a look at them.'
+description: Other than the internal working, you need to know a few basic concepts to have a grip on REST APIs. Let’s take a look at these concepts in this piece.
 publishedDate: 2021-11-19T18:41:43.732Z
 lastModifiedDate: 2021-11-19T18:41:43.732Z
 authors:

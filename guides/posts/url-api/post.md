@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To URL API
-description: The URL API is a component of the URL standard and the API that accesses and manipulates URLs.
+description: The URL API is a component of the URL standard and the API that accesses and manipulates URLs. In this piece, we are going to look at how you can use URL API in your web applications.
 publishedDate: 2022-01-03T09:34:31.065Z
 lastModifiedDate: 2022-01-03T09:34:31.065Z
 authors:

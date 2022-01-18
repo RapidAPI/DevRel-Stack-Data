@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To Web Storage API
-description: It is a Web API that provides you with different functions to store key/value pairs in your browser. Let's take a deeper look at it.
+description: It is a Web API that provides you with different functions to store key/value pairs in your browser. Let's take a deeper look at it. In this piece, let's take a look at how you can use web storage API in your websites.
 authors:
     - saad
 categories:

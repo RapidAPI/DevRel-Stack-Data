@@ -1,6 +1,6 @@
 ---
 title: How to build a Text Extraction App using Next.js and TextAPI?
-description: Sometimes you only want to see the content of a particular website. Maybe you are reading, and you don’t want to get distracted by ads or other parts of the website.
+description: Sometimes you only want to see the content of a particular website. Maybe you are reading, and you don’t want to get distracted by ads or other parts of the website. Let's build a text extraction application in this piece.
 publishedDate: 2021-11-11T15:59:08.034Z
 lastModifiedDate: 2021-11-11T15:59:08.034Z
 authors:

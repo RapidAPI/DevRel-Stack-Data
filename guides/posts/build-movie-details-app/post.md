@@ -1,6 +1,6 @@
 ---
 title: How to build a Movie Details App using Next.js and IMDb API?
-description: 'There are a lot of different movie APIs available on the Internet. Instead of looking for them, you can visit RapidAPI Hub and search for "movies" to see all the available APIs.'
+description: There are a lot of different movie APIs available on the Internet. Instead of looking for them, you can visit RapidAPI Hub and search for "movies" to see all the available APIs. Let's build a small movie app in this piece.
 publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
 authors:

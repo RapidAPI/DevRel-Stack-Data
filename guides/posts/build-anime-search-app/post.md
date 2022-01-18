@@ -1,6 +1,6 @@
 ---
 title: How to build an Anime Search Application using Jikan API?
-description: Everyone these days loves animes and watches them a lot. If you are one of them, you would want to have a platform to search for them quickly.
+description: Everyone these days loves animes and watches them a lot. If you are one of them, you would want to have a platform to search for them quickly. Let's take a look at how you can build such platform from scratch.
 publishedDate: 2021-12-06T06:43:23.822Z
 lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:

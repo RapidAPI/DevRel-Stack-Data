@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Designing SOAP APIs
-description: Take a look at best practices for designing a SOAP API.
+description: In this piece, let's take a look at the best practices for designing a SOAP API.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: What is OAuth2.0?
-description: OAuth 2.0 (Open Authorization) is a standard developed to allow a user access to resources from a third-party application.
+description: OAuth 2.0 (Open Authorization) is a standard developed to allow a user access to resources from a third-party application. Let's briefly look at it and some of the roles of OAuth.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
 authors:

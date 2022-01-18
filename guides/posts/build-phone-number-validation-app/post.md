@@ -1,6 +1,6 @@
 ---
 title: How to build a Phone Number Validation App using Phone Validate API?
-description: Let's build an application that validates phone numbers.
+description: In this piece, I am going to show you how you can build a small phone number validation app using an API from RapidAPI Hub and Next.js.
 authors:
     - saad
 categories:

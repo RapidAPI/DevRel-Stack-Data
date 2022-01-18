@@ -1,6 +1,6 @@
 ---
 title: What is the difference between an API and a Web Service?
-description: APIs and web services are often confused with each other. Although they might perform many of the same functions, they are not altogether similar.
+description: APIs and web services are often confused with each other. Although they might perform many of the same functions, they are not altogether similar. In this piece, we are going to look at the differences between these two.
 publishedDate: 2021-12-06T06:43:23.822Z
 lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:

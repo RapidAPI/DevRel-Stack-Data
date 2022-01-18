@@ -1,6 +1,6 @@
 ---
 title: Difference between API and SDK
-description: Let's take a look at the differences between APIs and SDKs.
+description: In this piece, let's take a look at what are the differences between APIs and SDKs.
 publishedDate: 2021-11-27T09:45:44.160Z
 lastModifiedDate: 2021-11-27T09:45:44.160Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: What is the Web API?
-description: Take a look at what Web API is and for what it is used.
+description: In this piece, let's take a look at what Web API is and for what it is used for.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:

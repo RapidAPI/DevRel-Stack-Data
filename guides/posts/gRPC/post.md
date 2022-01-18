@@ -1,6 +1,6 @@
 ---
 title: What is gRPC?
-description: gRPC is an open-source framework developed by Google in 2015 for implementing RPC APIs using the HTTP/2 protocol.
+description: gRPC is an open-source framework developed by Google in 2015 for implementing RPC APIs using the HTTP/2 protocol. Let's briefly look at it and some of its benefits.
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:

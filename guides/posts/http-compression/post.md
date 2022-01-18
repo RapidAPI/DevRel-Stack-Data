@@ -1,6 +1,6 @@
 ---
 title: How to use HTTP Compression to make your website faster?
-description: You need to be extra careful with your site’s performance and ensure that you have taken enough measures to decrease its load time and not compromise on the performance.
+description: Removing all the unnecessary and unwanted redundancy from a file to create a smaller file than the original is called compression. Let's take a look at what HTTP compression is and how you can use it.
 publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
 authors:

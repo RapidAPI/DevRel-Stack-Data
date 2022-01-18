@@ -1,6 +1,6 @@
 ---
 title: What is TLS?
-description: Transport Layer Security (TLS) is a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet.
+description: Transport Layer Security (TLS) is a cryptographic protocol that provides end-to-end security of data sent between applications over the Internet. Let's take a look at how TLS works in this piece.
 publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Difference between GraphQL and Kafka API
-description: Let’s take a look at GraphQL, Kafka APIs, and some of the differences between them.
+description: In thie piece, let’s take a look at GraphQL, Kafka APIs, and some of the differences between them.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: What is WebRTC?
-description: Web Real-Time Communication (WebRTC) helps achieve audio and video streaming inside the web pages by allowing direct peer-to-peer communication.
+description: Web Real-Time Communication (WebRTC) helps achieve audio and video streaming inside the web pages by allowing direct peer-to-peer communication. Let's take a look at it and some of the reasons why you should use it.
 publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
 authors:

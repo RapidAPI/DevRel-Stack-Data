@@ -1,6 +1,6 @@
 ---
 title: 'What is REST and when you should use it?'
-description: 'Learn when REST API is useful and when you should consider using it.'
+description: REST APIs allow you to perform CRUD (create, read, update, and delete) operations between a client and a server. Let's take a look at what REST API is and when you should use it in this piece.
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
 authors:

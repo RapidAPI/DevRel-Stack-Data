@@ -1,6 +1,6 @@
 ---
 title: Difference between Kafka and REST API
-description: The REST API is one of the most popular API architectures out there. But when you need to build an event streaming platform, you use the Kafka API.
+description: The REST API is one of the most popular API architectures out there. But when you need to build an event streaming platform, you use the Kafka API. Let's take a look at the differences between Kafka and REST API in this piece.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:

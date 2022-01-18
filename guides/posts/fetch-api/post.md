@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Fetch API
-description: Fetch API is a Web API that uses promises to make network requests over the HTTP/1.1 protocol.
+description: Fetch API is a Web API that uses promises to make network requests over the HTTP/1.1 protocol. Let's take a look at it and how it works in this piece.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:

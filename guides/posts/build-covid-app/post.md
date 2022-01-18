@@ -1,6 +1,6 @@
 ---
 title: How to build a COVID-19 Stats app using Next.js and COVID-19 API?
-description: Today, I am building an application that will show the user coronavirus stats of any country they enter.
+description: In this piece, I am going to show you how you can build an application that will show the user coronavirus stats of any country they enter.
 publishedDate: 2021-10-28T15:57:17.709Z
 lastModifiedDate: 2021-10-28T15:57:17.709Z
 authors:

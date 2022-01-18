@@ -1,6 +1,6 @@
 ---
 title: How to build a Joke App using JokeAPI?
-description: Let's build a joke application that will show different jokes to the user.
+description: In this piece, I am going to show you how you can  build a joke application that will show different jokes to the user.
 publishedDate: 2021-12-20T08:44:15.446Z
 lastModifiedDate: 2021-12-20T08:44:15.446Z
 authors:

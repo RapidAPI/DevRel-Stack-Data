@@ -1,6 +1,6 @@
 ---
 title: What is Jamstack?
-description: 'Over the years, Jamstack is becoming more and more popular, and developers have started to adopt it to build entire applications.'
+description: It is a modern web development architecture based on JavaScript, APIs, and Markup. In this piece, we are going to look at Jamstack and what it is comprised of.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a Superhero App using Next.js and SuperHero Search API?
-description: Are you a Marvel enthusiast or a DC lover? Are you also a developer who likes superheroes? Let’s build an app together using an API where people can search for their favorite heroes.
+description: Are you a Marvel enthusiast or a DC lover? Are you also a developer who likes superheroes? Let’s build an app together using an API from RapidAPI Hub where people can search for their favorite heroes.
 publishedDate: 2021-11-15T13:36:22.391Z
 lastModifiedDate: 2021-11-15T13:36:22.391Z
 authors:

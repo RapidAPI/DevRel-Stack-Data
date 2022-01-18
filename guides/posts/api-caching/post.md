@@ -1,6 +1,6 @@
 ---
 title: How does API caching work?
-description: REST APIs cache its response. This cache can be used to fetch the same response later. Let's take a look at it.
+description: REST APIs cache its response. This cache can be used to fetch the same response later. Let's take a look at it. Let's take a look at some of the benefits of API caching and where it is used.
 publishedDate: 2021-10-07T17:01:53.644Z
 lastModifiedDate: 2021-10-07T17:01:53.644Z
 authors:

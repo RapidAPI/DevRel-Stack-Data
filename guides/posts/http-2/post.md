@@ -1,6 +1,6 @@
 ---
 title: Introduction to HTTP/2
-description: The client and server communicate via protocols on the Internet.
+description: HTTP/2 protocols provide a way to improve the online experience by speeding up page loads and reducing round-trip time, especially for resource-heavy web pages. Let's briefly look at it in this piece.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
 authors:

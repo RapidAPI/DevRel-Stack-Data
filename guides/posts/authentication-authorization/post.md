@@ -1,6 +1,6 @@
 ---
 title: Introduction to Authentication and Authorization
-description: 'Authentication and authorization are two different features that often play a crucial role in your application’s security, and you implement them using APIs.'
+description: Authentication and authorization are two different features that often play a crucial role in your application’s security, and you implement them using APIs. Let's take a look at how both are different from each other.
 publishedDate: 2021-10-27T17:46:45.950Z
 lastModifiedDate: 2021-10-27T17:46:45.950Z
 authors:

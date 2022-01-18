@@ -1,6 +1,6 @@
 ---
 title: How to build a Paraphrase App using Next.js and Paraphrase API?
-description: 'Every now and then we need to paraphrase some piece of content. There are a bunch of applications on the internet for this that you can use. You can also build your own application using any paraphrasing APIs.'
+description: Every now and then we need to paraphrase some piece of content. There are a bunch of applications on the internet for this that you can use. Let's build our own application just for this using an API from RapidAPI and Next.js.
 publishedDate: 2021-11-08T18:18:51.569Z
 lastModifiedDate: 2021-11-08T18:18:51.569Z
 authors:
