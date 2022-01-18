@@ -1,4 +1,8 @@
 [
+	{"source": "api-google-sheets"},
+	{"source": "build-carbon-footprint-app"},
+	{"source": "api-call-typescript"},
+	{"source": "learn-cache-api"},
 	{"source": "drag-and-drop-api"},
 	{"source": "build-random-facts-app"},
 	{"source": "build-game-news-app"},
