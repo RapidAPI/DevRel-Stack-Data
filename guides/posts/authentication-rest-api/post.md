@@ -1,6 +1,6 @@
 ---
 title: Different Authentication Methods in REST API
-description: You often need to add a user authentication system as a feature in your app, and REST API also acts as a bridge for this.
+description: You often need to add a user authentication system as a feature in your app, and REST API also acts as a bridge for this. Let's take a look at different REST API authentication methods.
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:

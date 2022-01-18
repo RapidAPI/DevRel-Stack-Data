@@ -1,6 +1,6 @@
 ---
 title: How to build a weather app using Next.js and WeatherAPI?
-description: RapidAPI Hub is the world’s largest API hub with more than 35,000 APIs available. Let's build an application using one of the APIs from RapidAPI.
+description: In this piece, let's build a weather application using an API from RapidAPI Hub and Next.js.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
 authors:

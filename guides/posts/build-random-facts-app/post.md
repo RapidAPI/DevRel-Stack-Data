@@ -1,6 +1,6 @@
 ---
 title: How to build a Random Facts App using Random Facts API?
-description: I am building a small random facts application in this piece that will use an API from RapidAPI Hub and show you a new fact every time.
+description: In this piece, I am going to show you how you can build a small random facts application in this piece using an API from RapidAPI Hub and Next.js.
 authors:
     - saad
 categories:

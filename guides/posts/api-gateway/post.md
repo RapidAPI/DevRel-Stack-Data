@@ -1,6 +1,6 @@
 ---
 title: Introduction to API Gateways
-description: API Gateway sends the incoming API traffic to the API management system that handles various other functions.
+description: API Gateway sends the incoming API traffic to the API management system that handles various other functions. In this piece, we are going to briefly look at API Gateways and its benefits.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
 authors:

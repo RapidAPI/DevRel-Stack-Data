@@ -1,6 +1,6 @@
 ---
 title: Introduction To JavaScript APIs For WebExtensions
-description: A browser extension is often a combination of background scripts and content scripts. You use different JavaScript APIs in both these files.
+description: A browser extension is often a combination of background scripts and content scripts. You use different JavaScript APIs in both these files. Let's take a look at JavaScript APIs and some of its example in this piece.
 publishedDate: 2021-12-20T08:44:15.446Z
 lastModifiedDate: 2021-12-20T08:44:15.446Z
 authors:

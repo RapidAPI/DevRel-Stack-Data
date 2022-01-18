@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To Learn Browser API
-description: 'These APIs come with your web browser, so developers can use them to build extensions.'
+description: These APIs come with your web browser, so developers can use them to build extensions. Let's take a look at some of the browser APIs in this interactive guide.
 publishedDate: 2021-11-27T09:30:14.724Z
 lastModifiedDate: 2021-11-27T09:30:14.724Z
 authors:

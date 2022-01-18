@@ -1,6 +1,6 @@
 ---
 title: What are the different HTTP request methods?
-description: There are nine HTTP request method that exist. Let's take a look at them.
+description: There are nine HTTP request method that exist. Let's briefly look at all of them in this piece.
 publishedDate: 2021-10-06T16:28:30.765Z
 lastModifiedDate: 2021-10-06T16:28:30.765Z
 authors:

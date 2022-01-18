@@ -1,6 +1,6 @@
 ---
 title: Introduction to Async APIs
-description: AsyncAPI is an open-source project aimed at improving the current state of EDA.
+description: AsyncAPI is an open-source project aimed at improving the current state of EDA. Let's take a brief look at it in this piece.
 publishedDate: 2021-11-11T15:59:08.034Z
 lastModifiedDate: 2021-11-11T15:59:08.034Z
 authors:

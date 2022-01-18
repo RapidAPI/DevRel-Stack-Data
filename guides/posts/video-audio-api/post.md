@@ -1,6 +1,6 @@
 ---
 title: Introduction To Video And Audio APIs
-description: Let’s take a look at the different video and audio APIs that HTML provides you.
+description: In this piece, let’s take a look at the different video and audio APIs that HTML provides you.
 authors:
     - saad
 categories:

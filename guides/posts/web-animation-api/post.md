@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To Web Animation API
-description: A Web API that provides you the options to create animations and manipulate them using plain JavaScript with no external library is the Web Animation API.
+description: A Web API that provides you the options to create animations and manipulate them using plain JavaScript with no external library is the Web Animation API. In this piece, let's take a look at it and how you can use it in your websites.
 publishedDate: 2021-12-06T06:57:49.955Z
 lastModifiedDate: 2021-12-06T06:57:49.955Z
 authors:

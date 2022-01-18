@@ -1,6 +1,6 @@
 ---
 title: What are the differences between gRPC and GraphQL?
-description: 'There are two new API architectures used today that provide many different features than REST APIs.'
+description: These days gRPC and GraphQL both provide different features than REST API. Let's take a look at the differences between these two architectures.
 publishedDate: 2021-10-20T17:13:16.859Z
 lastModifiedDate: 2021-10-20T17:13:16.859Z
 authors:

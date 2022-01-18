@@ -1,6 +1,6 @@
 ---
 title: How to build a News app using Next.js and News API?
-description: There are a lot of APIs out there that you can use for your projects. But finding these APIs often becomes a hassle.
+description: In this piece, I am going to show you how you can build a news application using an API from RapidAPI Hub and Next.js.
 publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 authors:

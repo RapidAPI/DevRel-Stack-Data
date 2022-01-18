@@ -1,6 +1,6 @@
 ---
 title: What is SSL?
-description: There are various ways for implementing website security, and one of them is SSL.
+description: There are various ways for implementing website security, and one of them is SSL. Let's briefly look at SSL and how it works.
 publishedDate: 2021-10-14T14:12:52.664Z
 lastModifiedDate: 2021-10-14T14:12:52.664Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To Learn DOM API
-description: A Document Object Model (DOM) expresses your screen viewport as a series of DOM nodes.
+description: A Document Object Model (DOM) expresses your screen viewport as a series of DOM nodes. In this piece, we are going to look at how you can use DOM API in your websites.
 publishedDate: 2021-11-19T18:41:43.732Z
 lastModifiedDate: 2021-11-19T18:41:43.732Z
 authors:

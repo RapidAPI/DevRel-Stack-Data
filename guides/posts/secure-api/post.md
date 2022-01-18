@@ -1,6 +1,6 @@
 ---
 title: How to make your API secure?
-description: While creating an API is simple, the next thing that comes along with it is securing it.
+description: While creating an API is simple, the next thing that comes along with it is securing it. Let's take a look at some of the API securing methods in this piece.
 publishedDate: 2021-10-15T15:20:42.091Z
 lastModifiedDate: 2021-10-15T15:20:42.091Z
 authors:

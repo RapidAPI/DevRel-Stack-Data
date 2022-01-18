@@ -1,6 +1,6 @@
 ---
 title: Introduction to HTTP cookies
-description: The HTTP cookies or simply cookies are used by the websites to store different information inside your browser.
+description: The HTTP cookies or simply cookies are used by the websites to store different information inside your browser. In this piece, let's briefly look at HTTP cookies and where it is used.
 publishedDate: 2021-10-11T20:53:04.094Z
 lastModifiedDate: 2021-10-11T20:53:04.094Z
 authors:

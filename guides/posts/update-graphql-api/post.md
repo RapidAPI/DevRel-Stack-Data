@@ -1,6 +1,6 @@
 ---
 title: How to update GraphQL API?
-description: As your application grows, the API connecting it to the client also grows with it. If the API is publicly available, other developers might be relying on it for their products.
+description: As your application grows, the API connecting it to the client also grows with it. If the API is publicly available, other developers might be relying on it for their products. Let's take a look at how you should update your GraphQL API so it doesn't crashes other people's websites.
 publishedDate: 2021-10-21T16:18:42.178Z
 lastModifiedDate: 2021-10-21T16:18:42.178Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: Introduction to REST API Principles
-description: Let’s look at six ground principles of REST API laid down by Dr. Fielding (creator of REST API).
+description: In this piece, let’s look at six ground principles of REST API laid down by Dr. Fielding (creator of REST API).
 publishedDate: 2021-10-26T10:25:53.100Z
 lastModifiedDate: 2021-10-26T10:25:53.100Z
 authors:

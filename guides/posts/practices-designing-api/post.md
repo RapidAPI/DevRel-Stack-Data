@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Designing APIs
-description: 'When designing an API and for using it, there are certain best practices that developers follow. Let’s take a look at some of them.'
+description: When designing an API and for using it, there are certain best practices that developers follow. In this piece, let's take a look at some of the best practices of designing a APIs.
 publishedDate: 2021-12-06T06:43:23.822Z
 lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:

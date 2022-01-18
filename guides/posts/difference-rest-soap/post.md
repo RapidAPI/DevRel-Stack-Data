@@ -1,6 +1,6 @@
 ---
 title: What is the difference between REST and SOAP APIs?
-description: Take a look at some of the differences between REST and SOAP API.
+description: The SOAP API is a kind of web service that allows communication between client and server. Let's take a look at what are the differences between REST and SOAP API in this piece.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:

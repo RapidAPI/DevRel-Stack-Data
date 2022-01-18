@@ -1,6 +1,6 @@
 ---
 title: How to build a Text Sentiment Analysis App using Next.js and Text Sentiment Analysis API?
-description: 'Sometimes you want to analyze how the content you are writing sounds like. If you are a developer like me, you can build an application for this.'
+description: Sometimes you want to analyze how the content you are writing sounds like. If you are a developer like me, you can build an application for this. Let's do just that in this piece.
 publishedDate: 2021-11-21T16:52:44.523Z
 lastModifiedDate: 2021-11-21T16:52:44.523Z
 authors:

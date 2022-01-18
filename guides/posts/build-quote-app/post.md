@@ -1,6 +1,6 @@
 ---
 title: How to build a Quote App using Famous Quotes API?
-description: Let's build a quotation application that will provide you with different quotes to make you stay motivated.
+description: In this piece, let's build a quotation application that will provide you with different quotes to make you stay motivated.
 publishedDate: 2021-12-20T08:44:15.446Z
 lastModifiedDate: 2021-12-20T08:44:15.446Z
 authors:

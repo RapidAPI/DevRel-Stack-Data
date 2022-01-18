@@ -1,6 +1,6 @@
 ---
 title: How to use Axios to make API requests?
-description: There are a few ways you can request a REST API endpoint. You can use the `fetch` API or use external packages.
+description: There are a few ways you can request a REST API endpoint. You can use the `fetch` API or use external packages. Let's take a look at how to use axios to make API requests.
 publishedDate: 2021-12-20T08:44:15.446Z
 lastModifiedDate: 2021-12-20T08:44:15.446Z
 authors:

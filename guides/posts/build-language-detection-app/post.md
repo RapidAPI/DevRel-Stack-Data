@@ -1,6 +1,6 @@
 ---
 title: How to build a Language Detection App using Next.js and Microsoft Translator Text API?
-description: "Let's take a look at how you can build a language detection application."
+description: In this piece, let's take a look at how you can build a language detection app using an API from RapidAPI Hub and Next.js.
 publishedDate: 2021-11-12T20:22:52.607Z
 lastModifiedDate: 2021-11-12T20:22:52.607Z
 authors:

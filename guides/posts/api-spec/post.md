@@ -1,6 +1,6 @@
 ---
 title: What is an API spec?
-description: There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API.
+description: There are a lot of APIs out there, each with different specifications. The developers define these specifications when building an API. Let's take a look at four differnet types of API specs in this piece.
 publishedDate: 2021-10-13T11:27:45.681Z
 lastModifiedDate: 2021-10-13T11:27:45.681Z
 authors:

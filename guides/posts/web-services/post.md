@@ -1,6 +1,6 @@
 ---
 title: What are Web Services?
-description: It is a medium, a piece of software that allows communication between client and server on the World Wide Web.
+description: Web servuce is a medium, a piece of software that allows communication between client and server on the World Wide Web. Let's take a look at some of the characteristics of web services in this piece.
 publishedDate: 2021-10-08T15:50:47.200Z
 lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:

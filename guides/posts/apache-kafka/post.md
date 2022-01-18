@@ -1,6 +1,6 @@
 ---
 title: Introduction to Apache Kafka
-description: You can use Apache Kafka to build services like real-time data streams, and it provides five core APIs for Java and Scala to implement such services.
+description: Apache Kafka is used to build services like real-time data streams. It provides five core APIs for Java and Scala to implement such services. In this piece, we are going to briefly look at it and its core APIs.
 publishedDate: 2021-11-03T16:27:05.876Z
 lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
