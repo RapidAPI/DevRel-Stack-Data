@@ -31,7 +31,7 @@ If you don’t know about Next.js, it is a JavaScript framework built on top of 
 
 ## Choosing The API
 
-Let’s find an API that we can use to find the horoscope. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “car data apis” in the search section.
+Let’s find an API that we can use to find the data of cars. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already and then search for “car data apis” in the search section.
 
 <Callout
 	title="Deep dive"
@@ -41,7 +41,7 @@ Let’s find an API that we can use to find the horoscope. Go to [RapidAPI Hub](
 	Learn more about how to use RapidAPI Hub.
 </Callout>
 
-You will see different search results related to quotes APIs. For this piece, I am using [Car Data API](https://rapidapi.com/principalapis/api/car-data?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+You will see different search results related to car data APIs. For this piece, I am using [Car Data API](https://rapidapi.com/principalapis/api/car-data?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 To use this API, you need to subscribe to it first. You can do this by clicking on **Subscribe to Test** button.
 
@@ -97,7 +97,7 @@ export default function Home() {
 }
 ```
 
-It will create two headings for you with the text “Quote App” and “A Simple App to Get You Motivated”. You can change it to anything you prefer.
+It will create two headings for you with the text Car Data App” and “Get Different Car Information”. You can change it to anything you prefer.
 
 ### → STEP #2
 
@@ -407,7 +407,7 @@ I have created a `fetchCarDetails` function that makes an API call when the user
 
 ## Wrap Up
 
-That’s it. We have successfully built a Horoscope App](https://rapidapi-example-car-data-app.vercel.app/) using [Car Data API](https://rapidapi.com/principalapis/api/car-data?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the source code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/car-data-app).
+That’s it. We have successfully built a [Car Data App](https://rapidapi-example-car-data-app.vercel.app/) using [Car Data API](https://rapidapi.com/principalapis/api/car-data?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). You can find the source code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/car-data-app).
 
 In the end, it will look something like this:
 
