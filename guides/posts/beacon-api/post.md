@@ -6,6 +6,7 @@ lastModifiedDate: 2022-01-10T10:25:51.945Z
 authors:
     - saad
 categories:
+    - webApis
     - api
 tags:
     - beacon-api
