@@ -5,6 +5,7 @@ authors:
     - saad
 categories:
     - interactive
+    - webApis
 tags:
     - web-storage-api
     - text

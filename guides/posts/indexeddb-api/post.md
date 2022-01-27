@@ -7,6 +7,7 @@ authors:
     - saad
 categories:
     - interactive
+    - webApis
 tags:
     - indexeddb
     - api
