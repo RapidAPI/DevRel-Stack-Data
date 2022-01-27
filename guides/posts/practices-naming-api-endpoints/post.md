@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Naming API Endpoints
-description: How you name the API endpoints plays a major role because developers interact with your APIs through these endpoints.
+description: How you name the API endpoints plays a major role because developers interact with your APIs through these endpoints. This guide will point some useful practices you can apply while naming API endpoints.
 publishedDate: 2022-01-04T19:10:30.765Z
 lastModifiedDate: 2022-01-04T19:10:30.765Z
 authors:

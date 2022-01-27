@@ -1,6 +1,6 @@
 ---
 title: How to build a Domain App using a WHOIS API and Next.js?
-description: Let's see how we can build a domain search app using an API from RapidAPI Hub.
+description: In this guide, we will be building a web application that will allow users to look up web domains and check their availability using an API from RapidAPI Hub.
 publishedDate: 2021-12-17T15:57:17.709Z
 lastModifiedDate: 2021-17-09T15:57:17.709Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to implement Rate Limiting to your API on RapidAPI Hub?
-description: Rate Limiting is the process through which you limit the number of requests coming to your API in a certain amount of time.
+description: Rate Limiting is the process through which you limit the number of requests coming to your API in a certain amount of time. This guide will show how RapidAPI Hub allows you to implement rate limits quickly.
 publishedDate: 2021-12-03T18:41:43.732Z
 lastModifiedDate: 2021-12-03T18:41:43.732Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a Next.js app using a GraphQL API?
-description: Let's see how we can fetch and use data from GraphQL in a Next.js app.
+description: Consuming GraphQL APIs is a bit different than other API types like REST. This guide will demonstrate how to fetch and use data from a GraphQL API in a Next.js application.
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a Food Recipe App using Next.js and Spoonacular API?
-description: Today, we will build a Food Recipe app using Spoonacular API from RapidAPI Hub.
+description: The Spoonacular API on RapidAPI Hub allows users to access thousands of recipes and food-related information. This guide will demonstrate how you can build an app using this API.
 publishedDate: 2022-01-06T19:10:30.765Z
 lastModifiedDate: 2022-01-06T19:10:30.765Z
 authors:

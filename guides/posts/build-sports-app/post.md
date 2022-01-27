@@ -1,6 +1,6 @@
 ---
 title: How to build a Sports app in Next.js using a Sports API from RapidAPI Hub?
-description: Let's see how we can build a Sports app using an API.
+description: There are many sports-related APIs on RapidAPI Hub, which you can use to create a full-fledged sports application. Let's build a Football Application using one of these APIs.
 publishedDate: 2021-11-26T15:57:17.709Z
 lastModifiedDate: 2021-11-26T15:57:17.709Z
 authors:

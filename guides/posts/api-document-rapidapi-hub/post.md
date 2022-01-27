@@ -1,6 +1,6 @@
 ---
 title: How to Document your API using RapidAPI Hub?
-description: RapidAPI Hub provides documentation features which ensure a great developer experience.
+description: Well constructed documentation ensures a good developer experience, which is critical for increasing the adoption of your API. RapidAPI Hub provides features that help you a lot during documentation. Read this guide to learn more about them.
 publishedDate: 2021-12-23T15:57:17.709Z
 lastModifiedDate: 2021-12-23T15:57:17.709Z
 authors:

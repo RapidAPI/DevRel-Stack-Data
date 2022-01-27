@@ -1,6 +1,6 @@
 ---
 title: How to use GraphQL APIs from RapidAPI Hub?
-description: RapidAPI Hub allows you to find and use GraphQL APIs effortlessly.
+description: RapidAPI Hub allows you to find and use GraphQL APIs effortlessly. Let's demonstrate that by trying a GraphQL API from RapidAPI Hub.
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:

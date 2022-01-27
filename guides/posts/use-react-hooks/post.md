@@ -1,6 +1,6 @@
 ---
 title: How to fetch data from APIs using React Hooks?
-description: React Hooks are the way to go if you want to utilize an API in your React application.
+description: React Hooks are the way to go if you want to utilize an API in your React application. This guide will demonstrate how to use them for calling APIs in React.
 publishedDate: 2021-11-26T20:53:04.094Z
 lastModifiedDate: 2021-11-26T20:53:04.094Z
 authors:
