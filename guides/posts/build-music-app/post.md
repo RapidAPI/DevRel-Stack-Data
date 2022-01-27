@@ -1,6 +1,6 @@
 ---
 title: How to build a Music App app using Shazam API and Next.js?
-description: Let's see how we can build a music app using Shazam API.
+description: The Shazam API on RapidAPI Hub offers music related information and features provided by the likes of Shazam. This guide will demonstrate how to build a music application using the API.
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to build a QR Code Generator app using Next.js and a QR Code API?
-description: Let's build an app that will generate a QR code for a given input.
+description: QR codes allow you to share information quickly and seamlessly. They are used everywhere, from payment portals to social apps like Snapchat and WhatsApp. Let's build an app that will generate a QR code for a given input.
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:

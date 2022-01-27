@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Creating API Documentation
-description: Documentation allows developers to connect with your API easily and ensures a good developer experience.
+description: Documentation allows developers to connect with your API easily and ensures a good developer experience. Here are some best practices you can apply while documenting APIs.
 publishedDate: 2021-12-22T15:57:17.709Z
 lastModifiedDate: 2021-12-22T15:57:17.709Z
 authors:

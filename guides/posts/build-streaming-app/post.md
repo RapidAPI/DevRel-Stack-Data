@@ -1,6 +1,6 @@
 ---
 title: How to build a Streaming Availability App using Next.js?
-description: Today we will build a Streaming Availability app using an API from RapidAPI Hub.
+description: The content offered by streaming services varies from region to region. Sometimes it gets frustrating when the content you are looking for is not available at your streaming platform. Let's build an app that will show the availability of movies or TV shows across streaming services.
 publishedDate: 2021-12-24T15:57:17.709Z
 lastModifiedDate: 2021-12-24T15:57:17.709Z
 authors:

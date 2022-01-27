@@ -1,6 +1,6 @@
 ---
 title: How to Improve the Developer Experience of your API?
-description: Here is how you can improve the overall experience of developers using your API.
+description: Learn why Developer Experience plays a significant role in API growth and what strategies you can employ to improve it.
 publishedDate: 2021-12-22T15:57:17.709Z
 lastModifiedDate: 2021-12-22T15:57:17.709Z
 authors:

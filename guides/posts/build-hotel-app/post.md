@@ -1,6 +1,6 @@
 ---
 title: How to build a Hotel App using Hotels API and Next.js?
-description: Let's see how we can build a hotel booking app using an API from RapidAPI Hub.
+description: The Hotels API on RapidAPI Hub provides information about rooms, facilities and prices from many hotels around the world. Let's use this API to build a Hotel application.
 publishedDate: 2021-12-09T15:57:17.709Z
 lastModifiedDate: 2021-12-09T15:57:17.709Z
 authors:

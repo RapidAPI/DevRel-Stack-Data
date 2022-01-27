@@ -1,6 +1,6 @@
 ---
 title: Interactive Guide To Canvas API
-description: 'Browsers give us several ways to display graphics. When it comes to drawing graphics, the Canvas API is used.'
+description: Browsers give us several ways to display graphics, like styling the elements. But when it comes to drawing graphics such as two lines, the Canvas API is used, which allows you to draw graphics using JavaScript programmatically.
 publishedDate: 2022-01-06T19:10:30.765Z
 lastModifiedDate: 2022-01-06T19:10:30.765Z
 authors:

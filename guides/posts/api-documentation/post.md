@@ -1,6 +1,6 @@
 ---
 title: API Documentation and its Must-Haves
-description: Documentation allows users to understand and connect with your API smoothly, ensuring a good developer experience.
+description: Documentation allows users to understand and connect with your API smoothly, ensuring a good developer experience. Here are some elements that must be covered in an API's documentation.
 publishedDate: 2021-12-14T15:57:17.709Z
 lastModifiedDate: 2021-12-14T15:57:17.709Z
 authors:

@@ -1,6 +1,6 @@
 ---
 title: How to Create a Mock API in 5 Minutes?
-description: Learn how to create a mock API.
+description: A mock API lets you imitate a real API by emulating its responses and behaviors. This guide will help you set up your first mock API in no time.
 publishedDate: 2021-12-01T19:10:30.765Z
 lastModifiedDate: 2021-12-01T19:10:30.765Z
 authors:
