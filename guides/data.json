@@ -1,4 +1,8 @@
 [
+	{"source": "build-screenshot-app"},
+	{"source": "practices-api-authentication"},
+	{"source": "practices-api-errors"},
+	{"source": "graphql-subscriptions"},
 	{"source": "encoding-api"},
 	{"source": "css-object-model-app"},
 	{"source": "channel-messaging-api"},
