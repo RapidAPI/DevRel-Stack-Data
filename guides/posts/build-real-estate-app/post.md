@@ -57,10 +57,10 @@ Once subscribed, you will be back on the **Endpoints** page. In the central sect
 We can create a Next.js boilerplate with TailwindCSS integrated by running the following command in your terminal.
 
 ```sh
-npx create-next-app -e with-tailwindcss recipe-app
+npx create-next-app -e with-tailwindcss real-estate-app
 ```
 
-It will take some time to install the packages. After generating the boilerplate, you will see a folder with the name `recipe-app` has been created. Open this folder in your preferred code editor.
+It will take some time to install the packages. After generating the boilerplate, you will see a folder with the name `real-estate-app` has been created. Open this folder in your preferred code editor.
 
 ### Project Files
 
