@@ -1,4 +1,5 @@
 [
+	{"source": "practices-api-authentication"},
 	{"source": "practices-api-errors"},
 	{"source": "graphql-subscriptions"},
 	{"source": "css-font-loading-api"},
