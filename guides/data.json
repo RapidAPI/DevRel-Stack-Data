@@ -1,9 +1,4 @@
 [
-	{"source": "encoding-api"},
-	{"source": "css-object-model-app"},
-	{"source": "channel-messaging-api"},
-	{"source": "build-word-usage-app"},
-	{"source": "build-coordinate-distance-calculator-app"},
 	{"source": "build-screenshot-app"},
 	{"source": "practices-api-authentication"},
 	{"source": "practices-api-errors"},
