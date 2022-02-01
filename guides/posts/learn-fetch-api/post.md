@@ -49,7 +49,20 @@ Here is a quick overview of the four most commonly used HTTP methods.
 
 The fetch API uses the GET method by default if you do not provide any method type. Let’s look at how you can use the fetch API with different HTTP methods to call an API.
 
-<HTTPClient appName="guides" isSampleCodeVisible />
+<HTTPClient
+	appName="guides"
+	isSampleCodeVisible
+	allowedMethods={[
+		{
+			label: 'GET',
+			value: 'GET'
+		},
+		{
+			label: 'POST',
+			value: 'POST'
+		}
+	]}
+/>
 
 ## What are `method`, `headers` and `body`?
 
@@ -65,7 +78,21 @@ The `headers` is an object that you send along with your API request. It lets yo
 
 You can use the headers to let the server know the type of data the client can accept. Here you can also define the type of encoding that the client can understand. You also put your API key here, so it is securely sent to the calling API or server.
 
-<HTTPClient appName="guides" isResponseHeadersVisible isSampleCodeVisible />
+<HTTPClient
+	appName="guides"
+	isResponseHeadersVisible
+	isSampleCodeVisible
+	allowedMethods={[
+		{
+			label: 'GET',
+			value: 'GET'
+		},
+		{
+			label: 'POST',
+			value: 'POST'
+		}
+	]}
+/>
 
 If you want to have a deeper look into Headers, you can look at [this](https://rapidapi.com/guides/ten-widely-used-http-headers?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) piece.
 
