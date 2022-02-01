@@ -39,7 +39,7 @@ A suitable way to control access to your APIs is to use secret keys. With API ke
 
 For example, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) (which hosts thousands of public APIs) generates secret keys for implementing API Authentication that look like this.
 
-![Secret API Key](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/7a04292c776f657636cc5ec14a42081b899d0a41/guides/posts/practices-api-authentication/images/key.png)
+![Secret API Key](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/practices-api-authentication/images/key.png)
 
 ## Store API Keys Securely
 
