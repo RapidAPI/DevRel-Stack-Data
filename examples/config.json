@@ -1,0 +1,13 @@
+{
+	"siteName": "RapidAPI Examples",
+	"type": "website",
+	"description": "",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/examples",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/examples/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/examples/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/examples/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/examples/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
+}
