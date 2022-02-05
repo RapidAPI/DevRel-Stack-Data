@@ -1,13 +1,13 @@
 {
 	"siteName": "RapidAPI Jobs",
 	"type": "website",
-	"description": "Find all job openings at RapidAPI.",
+	"description": "Come join our team and together, we can empower developers to build modern software through API innovation.",
 	"language": "en",
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/jobs",
-	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/rapidapi-logo.png",
-	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/favicon-96x96.png",
-	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/ogg.jpg",
-	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/assets/rapidapi-logo.png",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/jobs/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/jobs/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/jobs/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/jobs/assets/rapidapi-logo.png",
 	"twitter": "rapid_api"
 }
