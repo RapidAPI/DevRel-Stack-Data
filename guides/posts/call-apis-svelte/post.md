@@ -24,7 +24,7 @@ draft: false
 
 ## Svelte
 
-Svelte is a new framework that is focused on building fast web applications. It runs at build time and converts declarative components into efficient and optimized JavaScript code.
+Svelte is a new compiler that is focused on building fast web applications. It runs at build time and converts declarative components into efficient and optimized JavaScript code.
 
 APIs are the backbone of any application, so let's see how we can call APIs in a Svelte application. I have divided the process into five steps which are as follows:
 
@@ -40,7 +40,7 @@ First of all, let's find an API to use in our Svelte application. [RapidAPI Hub]
 	Learn more about how to use RapidAPI Hub in this fun interactive guide.
 </Callout>
 
-For this guide, we will use the [CarbonFootprint API](https://rapidapi.com/carbonandmore-carbonandmore-default/api/carbonfootprint1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) from RapidAPI Hub that gives us the carbon footprint data of travel.
+For this guide, we will use the [CarbonFootprint API](https://RapidAPI.com/carbonandmore-carbonandmore-default/api/carbonfootprint1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) from RapidAPI Hub that gives us the carbon footprint data of travel.
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
@@ -98,7 +98,7 @@ In that case, we can use the event handlers like `on:click` to trigger our calle
 
 We will use the built-in Fetch API to send the API request. Fetch API is included in all modern browsers, and you do not need to import any third-party library.
 
-RapidAPI Hub automatically creates code snippets to request the API in multiple languages, which can help a lot. Check out the `(JavaScript) Fetch` code snippet on the [CarbonFootprint API page](https://rapidapi.com/carbonandmore-carbonandmore-default/api/carbonfootprint1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+RapidAPI Hub automatically creates code snippets to request the API in multiple languages, which can help a lot. Check out the `(JavaScript) Fetch` code snippet on the [CarbonFootprint API page](https://RapidAPI.com/carbonandmore-carbonandmore-default/api/carbonfootprint1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 ![Code Snippet for Fetch API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/call-apis-svelte/images/snippet.png)
 
