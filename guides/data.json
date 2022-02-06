@@ -1,4 +1,5 @@
 [
+	{"source": "graphql-apis-svelte"},
 	{"source": "rapidapi-github-action"},
 	{"source": "call-apis-svelte"},
 	{"source": "api-documentation-tools"},
