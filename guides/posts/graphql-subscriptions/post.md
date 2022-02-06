@@ -32,6 +32,10 @@ GraphQL subscriptions provide a way to fetch data from the server in real-time. 
 
 Subscriptions are unique in the way they fetch data. They are queries that can update their results whenever a particular event occurs on the server-side. Because of their long-lived nature, they use the WebSocket protocol instead of HTTP.
 
+Click the **Start Subscription** button in the interactive component below to see how subscription differs from a normal query. You will see how the subscription is able to fetch real time updates to the data.
+
+<LearnGraphqlSubscriptions />
+
 ## Applications
 
 GraphQL subscriptions are mostly used in cases where data is being updated in real-time. The advantage of using subscriptions is that you don't have to request large objects again and again when only a few of the object's fields are the ones that change. Instead, the server can push updates only to the particular fields as they occur.
