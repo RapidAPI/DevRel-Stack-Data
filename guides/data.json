@@ -1,4 +1,5 @@
 [
+	{"source": "call-apis-svelte"},
 	{"source": "api-documentation-tools"},
 	{"source": "build-screenshot-app"},
 	{"source": "practices-api-authentication"},
