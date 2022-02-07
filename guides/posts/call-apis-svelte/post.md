@@ -59,14 +59,13 @@ If we put our API call inside the `onMount` hook of Svelte, the API request will
 
 To use `onMount` you need to import it in your Svelte file.
 
-```jsx
+```svelte
 import {onMount} from 'svelte';
 ```
 
 Now, you can use the hook inside the `<script>` tag like this:
 
-```jsx
-// index.svelte
+```svelte
 <script>
 	import {onMount} from 'svelte'; let footprint; onMount(); // Make the API
 	Call inside this hook
@@ -79,7 +78,7 @@ The `onMount` hook will send the API request whenever the component loads, but s
 
 In that case, we can use the event handlers like `on:click` to trigger our caller function:
 
-```jsx
+```svelte
 <script>
     import { onMount } from 'svelte';
     let footprint;
@@ -104,7 +103,7 @@ RapidAPI Hub automatically creates code snippets to request the API in multiple 
 
 I modified this snippet to use `await` and put it in an `async` function inside the `onMount` hook.
 
-```jsx
+```svelte
 <script>
     import { onMount } from 'svelte';
 
@@ -128,7 +127,7 @@ I modified this snippet to use `await` and put it in an `async` function inside 
 
 Finally, we can display the data returned by the API. Inside the `<script>` tag, we will create an empty variable `footprint`, and store the API response in this variable. The fun thing about Svelte is that we can use this variable straight away in our HTML like states in React. Here is the final code.
 
-```jsx
+```svelte
 <script>
     import { onMount } from 'svelte';
     let footprint;
