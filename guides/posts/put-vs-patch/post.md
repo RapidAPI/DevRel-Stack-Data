@@ -133,12 +133,12 @@ We can also add a new feature that didn’t exist in the resource. For example, 
 
 ```json
 {
-"front_patio": true,
- "back_patio": true,
- "windows": 12,
- "doors": 5,
- "Balcony": false,
- “garage”: true
+	"front_patio": true,
+	"back_patio": true,
+	"windows": 12,
+	"doors": 5,
+	"Balcony": false,
+	"garage": true
 }
 ```
 
