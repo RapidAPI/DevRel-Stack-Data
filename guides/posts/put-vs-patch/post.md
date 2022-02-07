@@ -35,7 +35,7 @@ PUT is a method of modifying resources where the client sends data that updates 
 For example, when you want to change a person's first name in a database, you need to send the entire resource when making a PUT request.
 
 ```json
-{“first": "John", "last": "Doe”}
+{"first": "John", "last": "Doe"}
 ```
 
 To make a PUT request, you need to send the two parameters; the first and the last name.
@@ -50,7 +50,7 @@ This means that you are only required to send the data you want to update, and i
 	url="https://rapidapi.com/guides/api/rest"
 	appName="guides"
 	isSampleCodeVisible
-	method="Put"
+	method="PUT"
 	allowedMethods={[
 		{
 			label: 'PUT',
