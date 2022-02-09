@@ -1,0 +1,13 @@
+{
+	"siteName": "RapidAPI Developers",
+	"type": "website",
+	"description": "Join our community and let’s build the web together.",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/developers",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/developers/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/developers/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/developers/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/developers/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
+}
