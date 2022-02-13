@@ -1,4 +1,9 @@
 [
+	{"source": "xmlhttprequest-api"},
+	{"source": "make-api-call-python"},
+	{"source": "handle-cors-flask"},
+	{"source": "handle-cors-express"},
+	{"source": "build-topic-generator-app"},
 	{"source": "graphql-subscriptions"},
 	{"source": "webgl"},
 	{"source": "url-pattern-api"},
