@@ -4,7 +4,7 @@ description: API Mocking lets you imitate and test a real API by emulating its r
 publishedDate: 2021-11-25T19:10:30.765Z
 lastModifiedDate: 2021-11-25T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - rapidapi
 tags:

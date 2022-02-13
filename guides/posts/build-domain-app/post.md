@@ -4,7 +4,7 @@ description: In this guide, we will be building a web application that will allo
 publishedDate: 2021-12-17T15:57:17.709Z
 lastModifiedDate: 2021-17-09T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

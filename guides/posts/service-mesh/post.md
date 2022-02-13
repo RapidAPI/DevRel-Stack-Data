@@ -4,7 +4,7 @@ description: Let's see how a Service Mesh is different from an API Gateway and w
 publishedDate: 2021-12-03T11:27:45.681Z
 lastModifiedDate: 2021-12-03T11:27:45.681Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

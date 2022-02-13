@@ -4,7 +4,7 @@ description: Consuming GraphQL APIs is a bit different than other API types like
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:
-    - ahmadBilal
+    - "ahmad-bilal"
 categories:
 		- apps
 tags:

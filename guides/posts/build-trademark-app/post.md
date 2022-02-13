@@ -4,7 +4,7 @@ description: Let's see how to build a trademark search app using an API from Rap
 publishedDate: 2021-12-10T15:57:17.709Z
 lastModifiedDate: 2021-12-10T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

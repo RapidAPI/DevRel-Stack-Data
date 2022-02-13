@@ -4,7 +4,7 @@ description: Learn how to use Rapid API Teams for sharing and collaborating on A
 publishedDate: 2021-11-17T19:10:30.765Z
 lastModifiedDate: 2021-11-17T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

@@ -4,7 +4,7 @@ description: Response Chaining allows you to use the data returned from one requ
 publishedDate: 2021-11-19T16:18:42.178Z
 lastModifiedDate: 2021-11-19T16:18:42.178Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -4,7 +4,7 @@ description: If a web app needs to send notifications to the user at the system 
 publishedDate: 2022-01-20T19:10:30.765Z
 lastModifiedDate: 2022-01-20T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

@@ -4,7 +4,7 @@ description: Realty API from RapidAPI Hub offers an extensive set of details abo
 publishedDate: 2022-01-18T19:10:30.765Z
 lastModifiedDate: 2022-01-18T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

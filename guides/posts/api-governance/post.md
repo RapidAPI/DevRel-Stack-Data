@@ -4,7 +4,7 @@ description: API governance refers to the best practices of creating and managin
 publishedDate: 2021-11-22T15:57:17.709Z
 lastModifiedDate: 2021-11-22T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

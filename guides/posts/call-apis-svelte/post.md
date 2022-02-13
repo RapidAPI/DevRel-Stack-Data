@@ -2,7 +2,7 @@
 title: How to Call APIs in Svelte?
 description: Svelte is an open-source compiler that runs at build time and generates minimal and optimized JavaScript code. It competes with other JavaScript frameworks like React, Angular, and Vue. This guide will demonstrate how you can consume APIs in a Svelte application.
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

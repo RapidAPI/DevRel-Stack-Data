@@ -4,7 +4,7 @@ description: Documentation allows users to understand and connect with your API 
 publishedDate: 2021-12-14T15:57:17.709Z
 lastModifiedDate: 2021-12-14T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -2,7 +2,7 @@
 title: 'Interactive Guide to GraphQL Queries: Aliases and Variables'
 description: "Let's try to understand the Aliases, Variables in GraphQL queries."
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

@@ -4,7 +4,7 @@ description: In this guide, we will build a Carbon Footprint App that will use a
 publishedDate: 2022-01-12T19:10:30.765Z
 lastModifiedDate: 2022-01-12T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

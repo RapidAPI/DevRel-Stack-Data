@@ -4,7 +4,7 @@ description: Let's see how we can fetch and use data from GraphQL in React using
 publishedDate: 2021-11-12T14:17:11.709Z
 lastModifiedDate: 2021-11-12T14:17:11.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

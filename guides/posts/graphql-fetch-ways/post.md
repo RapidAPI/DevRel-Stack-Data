@@ -4,7 +4,7 @@ description: Here are 4 different ways you can use a GraphQL API in React.
 publishedDate: 2021-11-12T12:17:11.709Z
 lastModifiedDate: 2021-11-12T12:17:11.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -2,7 +2,7 @@
 title: How to Consume GraphQL APIs in Svelte?
 description: Svelte is one of the fastest-growing JavaScript frameworks and has captured the attention of many developers. If you want to build a Svelte application, this guide will demonstrate how to consume GraphQL APIs.
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

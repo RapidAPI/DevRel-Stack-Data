@@ -4,7 +4,7 @@ description: 'The Cache API offers an interface for storing and retrievng networ
 publishedDate: 2022-01-14T19:10:30.765Z
 lastModifiedDate: 2022-01-14T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

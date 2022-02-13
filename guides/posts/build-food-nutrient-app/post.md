@@ -60,7 +60,7 @@ This command is going to take a minute to set everything up. After generating th
 
 When you open the project in your code editor, you will see the following directories and files in the root directory:
 
--   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called - - `api`. You only need to know about the `index.js` file that is the main entry point in your project.
+-   `pages` directory: Inside it, you will have files `index.js`, `_app.js`, and another directory called - `api`. You only need to know about the `index.js` file that is the main entry point in your project.
 -   `public` directory: This directory contains icons. You place your static files here to load later in the application.
 -   `node_modules`: It’s another directory that contains all the node modules you are using in your application.
 -   `package.json`: This file contains the metadata of your project.

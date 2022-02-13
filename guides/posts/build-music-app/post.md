@@ -4,7 +4,7 @@ description: The Shazam API on RapidAPI Hub offers music related information and
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - "ahmad-bilal"
 categories:
 		- apps
 tags:

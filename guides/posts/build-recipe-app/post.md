@@ -4,7 +4,7 @@ description: The Spoonacular API on RapidAPI Hub allows users to access thousand
 publishedDate: 2022-01-06T19:10:30.765Z
 lastModifiedDate: 2022-01-06T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

@@ -4,7 +4,7 @@ description: There are many sports-related APIs on RapidAPI Hub, which you can u
 publishedDate: 2021-11-26T15:57:17.709Z
 lastModifiedDate: 2021-11-26T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - "ahmad-bilal"
 categories:
 		- apps
 tags:

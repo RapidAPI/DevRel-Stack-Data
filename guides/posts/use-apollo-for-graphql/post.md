@@ -5,7 +5,7 @@ description: Today, more and more applications are using GraphQL APIs. If you ar
 publishedDate: 2022-01-19T18:41:43.732Z
 lastModifiedDate: 2022-01-19T18:41:43.732Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

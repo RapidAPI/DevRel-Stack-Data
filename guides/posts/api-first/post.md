@@ -4,7 +4,7 @@ description: In API-First approach, APIs become the core of a product.
 publishedDate: 2021-12-03T15:57:17.709Z
 lastModifiedDate: 2021-12-03T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

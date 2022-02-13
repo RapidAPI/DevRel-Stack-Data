@@ -4,7 +4,7 @@ description: Screenshot APIs from RapidAPI Hub allow you to take automated, high
 publishedDate: 2022-01-26T19:10:30.765Z
 lastModifiedDate: 2022-01-26T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

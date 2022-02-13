@@ -4,7 +4,7 @@ description: Let more developers discover and use your API. These few ways can i
 publishedDate: 2021-10-01T16:10:30.765Z
 lastModifiedDate: 2021-10-01T16:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

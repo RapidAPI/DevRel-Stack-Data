@@ -4,7 +4,7 @@ description: The content offered by streaming services varies from region to reg
 publishedDate: 2021-12-24T15:57:17.709Z
 lastModifiedDate: 2021-12-24T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

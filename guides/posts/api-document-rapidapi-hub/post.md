@@ -4,7 +4,7 @@ description: Well constructed documentation ensures a good developer experience,
 publishedDate: 2021-12-23T15:57:17.709Z
 lastModifiedDate: 2021-12-23T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

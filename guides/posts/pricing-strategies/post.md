@@ -4,7 +4,7 @@ description: This guide will help you set a pricing strategy for your API.
 publishedDate: 2021-11-30T19:10:30.765Z
 lastModifiedDate: 2021-11-30T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:
