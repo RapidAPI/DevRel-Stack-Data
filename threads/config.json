@@ -1,0 +1,13 @@
+{
+	"siteName": "RapidAPI Threads",
+	"type": "website",
+	"description": "No description yet.",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/threads",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/ogg.jpg",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
+}
