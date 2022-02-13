@@ -1,14 +1,14 @@
 {
-	"ahmadAwais": {
+	"ahmad-awais": {
 		"name": "Ahmad Awais",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmadAwais/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmad-awais/avatar.png",
 		"designation": "Head of Developer Relations, RapidAPI",
 		"isDeveloperProgramMember": true,
 		"bio": "Ahmad Awais is an award-winning open-source engineer. Head of Developer Relations at RapidAPI. His software serves millions of developers. Code he wrote went to Mars. “What an awesome example for developers,” said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. He’s a Google Devs Expert and recipient of the 8th GitHub Stars gold award.​"
 	},
-	"richardDoe": {
+	"richard-doe": {
 		"name": "Richard Doe",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/richard%20doe/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/richard-doe/avatar.png",
 		"designation": "Content Producer @ RapidAPI",
 		"isDeveloperProgramMember": false,
 		"bio": "Sample user bio."
@@ -27,37 +27,37 @@
 		"isDeveloperProgramMember": true,
 		"bio": "I break Web Development into pieces reducing its difficulty to 2%. Over 50 million developers worldwide read my content on Twitter every month. I'm a CSS fanatic who loves to create CSS arts and illustrations on Codepen where thousands of developers love my work. "
 	},
-	"ahmadBilal": {
+	"ahmad-bilal": {
 		"name": "Ahmad Bilal",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmadBilal/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmad-bilal/avatar.png",
 		"designation": "RapidAPI Content Dev Student Expert",
 		"isDeveloperProgramMember": true,
 		"bio": "Bilal is a Full Stack Web Engineer and Developer Advocacy Enthusiast. Being an avid open-sourcerer; he has curated & contributed to software being used by many. Google Summer of Code'19. Speaker. Loves to write and create content for developers."
 	},
-	"javascriptMastery": {
+	"javascript-mastery": {
 		"name": "JavaScript Mastery",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/javascriptMastery/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/javascript-mastery/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps."
 	},
-	"sirajRaval": {
+	"siraj-raval": {
 		"name": "Siraj Raval",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/sirajRaval/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/siraj-raval/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": " I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! "
 	},
-	"coderCoder": {
+	"coder-coder": {
 		"name": "Jessica Chan",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/coderCoder/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/coder-coder/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "Practical tips for the beginner web developer."
 	},
-	"codeStackr": {
+	"codestackr": {
 		"name": "codeSTACKr",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/codeStackr/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/codestackr/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "I create the best content I possibly can to give away free. My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript.  Subscribe to my YouTube channel for the latest content."
@@ -69,37 +69,37 @@
 		"isDeveloperProgramMember": false,
 		"bio": "I'm Thomas Weibenfalk. A developer and designer from Sweden. I share my knowledge of modern front end development in a (hopefully) down to earth and fun way! I'll cover topics as React, Vanilla Javascript, Gatsby, CSS, HTML and occasional backend development. A lot of the focus is on ReactJS cause I love it! As I'm also a designer there might even be some UI/UX stuff from time to time."
 	},
-	"naveenKumarNamachivayam": {
+	"naveen-kumar-namachivayam": {
 		"name": "NaveenKumar Namachivayam",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/naveenKumarNamachivayam/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/naveen-kumar-namachivayam/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "I am a performance engineer ⚡. I break stuffs 🔨. I make videos about performance testing tools, performance engineering and more. If you are still reading this 💙, here is the special discount for you https://qain.si/devweb, coupon code: YOUTUBE. 🙏 Please connect me on LinkedIn https://www.linkedin.com/in/naveenkumarn/ | Join QAInsights Community at https://community.qainsights.com/"
 	},
-	"catalinPit": {
+	"catalin-pit": {
 		"name": "Catalin Pit",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/catalinPit/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/catalin-pit/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "A software engineer that talks about all topics in tech. I create programming tutorials; mostly about Web Development and JavaScript. Occasionally, I cover other topics as well! I also create developer vlogs where I talk about other topics than coding."
 	},
-	"programWithGio": {
+	"program-with-gio": {
 		"name": "Gio",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/programWithGio/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/program-with-gio/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "I've been coding since 2005 & my very first website was built with HTML, CSS, & PHP all in a single index.php file (good old times). I decided to make my own channel and start producing content on things that I know & have learned over the years as well as the things that I will learn along the way. Currently, my main stack consists of PHP, Laravel, GraphQL, React JS (Next.js & Gatsby) & Tailwind CSS. (Though, I am planning on exploring others soon like Flutter & Dart)"
 	},
-	"codeWithTomi": {
+	"code-with-tomi": {
 		"name": "Tomi Tokko",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/codeWithTomi/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/code-with-tomi/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "I teach about coding and i build cool projects. So, stay tuned to the channel to get quality contents."
 	},
-	"aniaKubow": {
+	"ania-kubow": {
 		"name": "Ania Kubów",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/aniaKubow/avatar.png",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ania-kubow/avatar.png",
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "My name is Ania Kubow and I am a Software Developer (ex-Eurostar) who quit the rat race to focus on my channel and teach others how to code by building retro Games and awesome projects. I am also part of the core team @FreeCodeCamp. You can find me putting out videos on there, as well as on my own channel every Wednesday (and sometimes an extra one during the week too)!"

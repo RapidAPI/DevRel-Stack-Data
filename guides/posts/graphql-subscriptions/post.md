@@ -2,7 +2,7 @@
 title: Introduction to GraphQL Subscriptions
 description: GraphQL Subscriptions provide a way to fetch data from the server in real-time. A subscription is a continuously living request that pushes data to the client whenever a specific event happens.
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
     - api

@@ -2,7 +2,7 @@
 title: 'Top Cryptocurrency APIs for Trading, Exchange and Market Information'
 description: 'Check out these amazing Cryptocurrency APIs you can use in your next application.'
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

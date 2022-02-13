@@ -4,7 +4,7 @@ description: API development and testing go side by side. The RapidAPI GitHub Ac
 publishedDate: 2022-02-03T19:10:30.765Z
 lastModifiedDate: 2022-02-03T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - rapidapi
 tags:

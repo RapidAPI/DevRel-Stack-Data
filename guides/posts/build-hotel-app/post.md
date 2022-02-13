@@ -4,7 +4,7 @@ description: The Hotels API on RapidAPI Hub provides information about rooms, fa
 publishedDate: 2021-12-09T15:57:17.709Z
 lastModifiedDate: 2021-12-09T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - apps
 tags:

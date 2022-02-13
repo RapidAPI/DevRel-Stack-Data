@@ -4,7 +4,7 @@ description: RapidQL lets developers query multiple API resources and databases 
 publishedDate: 2021-10-02T19:10:30.765Z
 lastModifiedDate: 2021-10-02T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - rapidapi
 tags:

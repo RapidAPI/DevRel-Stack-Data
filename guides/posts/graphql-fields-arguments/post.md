@@ -2,7 +2,7 @@
 title: 'Interactive Guide to GraphQL Queries: Fields and Arguments'
 description: 'GraphQL queries enable declarative data fetching and expose only a single endpoint that you can use to get data.'
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

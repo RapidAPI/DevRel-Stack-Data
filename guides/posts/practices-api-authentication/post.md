@@ -2,7 +2,7 @@
 title: Best Practices of API Authentication
 description: With the rise of APIs, API security demands more focus than ever. Authentication determines the client's identity who is sending the request and ensures that your API is properly secured. This guide will highlight some good practices of API Authentication.
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -4,7 +4,7 @@ description: Learn why Developer Experience plays a significant role in API grow
 publishedDate: 2021-12-22T15:57:17.709Z
 lastModifiedDate: 2021-12-22T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

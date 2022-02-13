@@ -4,7 +4,7 @@ description: Today, APIs exist that provide all kinds of Cryptocurrency data. We
 publishedDate: 2021-11-18T15:57:17.709Z
 lastModifiedDate: 2021-11-18T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - "ahmad-bilal"
 categories:
 		- apps
 tags:

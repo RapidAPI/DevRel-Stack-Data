@@ -4,7 +4,7 @@ description: 'Here is how you can supercharge your Google Sheets by calling APIs
 publishedDate: 2022-01-12T19:10:30.765Z
 lastModifiedDate: 2022-01-12T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -4,7 +4,7 @@ description: How you name the API endpoints plays a major role because developer
 publishedDate: 2022-01-04T19:10:30.765Z
 lastModifiedDate: 2022-01-04T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - bestPractices
 tags:

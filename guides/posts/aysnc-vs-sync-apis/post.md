@@ -4,7 +4,7 @@ description: Asynchronous APIs provide a new solution to data fetching which is 
 publishedDate: 2021-12-24T15:59:08.034Z
 lastModifiedDate: 2021-12-24T15:59:08.034Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

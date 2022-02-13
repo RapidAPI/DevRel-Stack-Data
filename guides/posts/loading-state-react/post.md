@@ -4,7 +4,7 @@ description: Loading states ensure a better user experience during data fetching
 publishedDate: 2021-12-17T19:10:30.765Z
 lastModifiedDate: 2021-12-17T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

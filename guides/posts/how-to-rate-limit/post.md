@@ -4,7 +4,7 @@ description: Rate Limiting is the process through which you limit the number of 
 publishedDate: 2021-12-03T18:41:43.732Z
 lastModifiedDate: 2021-12-03T18:41:43.732Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

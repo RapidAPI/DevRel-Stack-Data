@@ -4,7 +4,7 @@ description: RapidAPI Hub allows you to find and use GraphQL APIs effortlessly. 
 publishedDate: 2021-11-10T12:17:11.709Z
 lastModifiedDate: 2021-11-10T12:17:11.709Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

@@ -4,7 +4,7 @@ description: What happens when a request to your API doesn't go as planned? An e
 publishedDate: 2022-01-27T19:10:30.765Z
 lastModifiedDate: 2022-01-27T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - bestPractices
     - api

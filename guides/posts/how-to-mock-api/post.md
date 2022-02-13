@@ -4,7 +4,7 @@ description: A mock API lets you imitate a real API by emulating its responses a
 publishedDate: 2021-12-01T19:10:30.765Z
 lastModifiedDate: 2021-12-01T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

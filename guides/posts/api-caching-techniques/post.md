@@ -4,7 +4,7 @@ description: APIs can cache their response, and this cache can be used to fetch 
 publishedDate: 2022-01-19T18:41:43.732Z
 lastModifiedDate: 2022-01-19T18:41:43.732Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

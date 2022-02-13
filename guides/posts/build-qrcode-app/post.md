@@ -4,7 +4,7 @@ description: QR codes allow you to share information quickly and seamlessly. The
 publishedDate: 2021-11-04T15:57:17.709Z
 lastModifiedDate: 2021-11-04T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - "ahmad-bilal"
 categories:
 		- apps
 tags:

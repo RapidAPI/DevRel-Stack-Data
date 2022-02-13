@@ -2,7 +2,7 @@
 title: 'Interactive Guide to GraphQL Mutations'
 description: "Let's try to understand the GraphQL Mutations."
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:

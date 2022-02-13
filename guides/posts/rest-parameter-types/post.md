@@ -4,7 +4,7 @@ description: There are several types of parameters found in REST APIs. While bui
 publishedDate: 2021-12-16T16:18:42.178Z
 lastModifiedDate: 2021-12-16T16:18:42.178Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

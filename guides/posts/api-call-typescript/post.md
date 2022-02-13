@@ -4,7 +4,7 @@ description: 'TypeScript is the superset of JavaScript that offers type-checking
 publishedDate: 2022-01-13T19:10:30.765Z
 lastModifiedDate: 2022-01-13T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

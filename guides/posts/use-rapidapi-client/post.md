@@ -4,7 +4,7 @@ description: RapidAPI Client is a cross-platform fully-featured API developer to
 publishedDate: 2021-11-11T16:18:42.178Z
 lastModifiedDate: 2021-11-11T16:18:42.178Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - rapidapi
 tags:

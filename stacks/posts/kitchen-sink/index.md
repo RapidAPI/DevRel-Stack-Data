@@ -2,7 +2,7 @@
 title: 'Post to demonstrate our kitchen sink'
 description: 'Lorem markdownum et ipse, ipsa vittas herbae calathosque.'
 authors:
-    - richardDoe
+    - 'richard-doe'
 category: api
 tags:
     - react

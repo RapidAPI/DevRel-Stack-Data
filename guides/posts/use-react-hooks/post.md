@@ -4,7 +4,7 @@ description: React Hooks are the way to go if you want to utilize an API in your
 publishedDate: 2021-11-26T20:53:04.094Z
 lastModifiedDate: 2021-11-26T20:53:04.094Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - api
 tags:

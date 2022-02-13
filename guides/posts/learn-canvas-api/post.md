@@ -4,7 +4,7 @@ description: Browsers give us several ways to display graphics, like styling the
 publishedDate: 2022-01-06T19:10:30.765Z
 lastModifiedDate: 2022-01-06T19:10:30.765Z
 authors:
-    - ahmadBilal
+    - 'ahmad-bilal'
 categories:
     - interactive
 tags:
