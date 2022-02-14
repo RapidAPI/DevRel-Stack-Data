@@ -1,4 +1,8 @@
 [
+	{"source": "graphql-client-caching"},
+	{"source": "fetch-api-async-await"},
+	{"source": "call-apis-go"},
+	{"source": "build-lyrics-app"},
 	{"source": "xmlhttprequest-api"},
 	{"source": "make-api-call-python"},
 	{"source": "handle-cors-flask"},
