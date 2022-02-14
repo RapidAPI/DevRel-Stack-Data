@@ -4,7 +4,7 @@ description: Fetch API is a Web API that uses promises to make network requests 
 publishedDate: 2022-02-10T16:27:05.876Z
 lastModifiedDate: 2022-02-10T16:27:05.876Z
 authors:
-    - ahmadBilal
+    - ahmad-bilal
 categories:
     - webApis
     - api

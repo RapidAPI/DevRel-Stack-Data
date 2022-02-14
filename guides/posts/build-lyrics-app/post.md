@@ -4,7 +4,7 @@ description: There are a lot of APIs on RapidAPI Hub that provide lyrics to the 
 publishedDate: 2022-02-11T15:57:17.709Z
 lastModifiedDate: 2022-02-11T15:57:17.709Z
 authors:
-    - ahmadBilal
+    - ahmad-bilal
 categories:
     - apps
 tags:

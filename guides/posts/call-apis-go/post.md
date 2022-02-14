@@ -2,7 +2,7 @@
 title: How to Call APIs in Go?
 description: APIs are a fundamental part of the web, and there are many awesome APIs waiting to be utilized. This guide will demonstrate how you can consume APIs in the Go programming language.
 authors:
-    - ahmadBilal
+    - ahmad-bilal
 categories:
     - api
 tags:

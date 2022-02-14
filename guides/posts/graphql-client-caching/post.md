@@ -4,7 +4,7 @@ description: Client-side caching helps reduce unnecessary and redundant requests
 publishedDate: 2022-02-10T16:27:05.876Z
 lastModifiedDate: 2022-02-10T16:27:05.876Z
 authors:
-    - ahmadBilal
+    - ahmad-bilal
 categories:
     - interactive
     - api
