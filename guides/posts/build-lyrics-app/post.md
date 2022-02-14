@@ -239,7 +239,7 @@ import axios from ‘axios’;
 
 The API provides many valuable endpoints that you can use in your app, like search, albums, artists, songs, etc. You can see these endpoints on the left pane in the image below. We will use the `Search` endpoint for getting matching songs and the `Song Lyrics` endpoint for getting the lyrics of the selected song.
 
-![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/code-snippet.png)
+![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/snippet.png)
 
 For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options. We will copy the `(JavaScript) Axios` ones, as you can see above.
 
