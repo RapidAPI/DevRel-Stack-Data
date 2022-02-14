@@ -1,4 +1,5 @@
 [
+	{"source": "fetch-api-async-await"},
 	{"source": "call-apis-go"},
 	{"source": "build-lyrics-app"},
 	{"source": "xmlhttprequest-api"},
