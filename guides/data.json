@@ -1,4 +1,5 @@
 [
+	{"source": "parallel-api-requests"},
 	{"source": "call-apis-svelte-axios"},
 	{"source": "api-requests-intervals"},
 	{"source": "ten-api-projects"},
