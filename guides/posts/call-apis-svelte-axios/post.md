@@ -38,10 +38,8 @@ npm install axios
 
 Once it’s done, import `axios` inside the `<script>` tags of your Svelte file where you are interested in making API requests.
 
-```svelte
-<script>
-    import axios from 'axios';
-</script>
+```js
+<script>import axios from 'axios';</script>
 ```
 
 For this guide, we will use the [Famous Quotes API](https://RapidAPI.com/saicoder/api/famous-quotes4?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) from RapidAPI Hub, which gives us random quotes. [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) enables you to choose from thousands of public APIs like this for use in your projects.
@@ -67,21 +65,19 @@ If we put our API call inside the `onMount` hook of Svelte, the API request will
 
 To use `onMount`, you need to import it into your Svelte file.
 
-```svelte
-<script>
-import {onMount} from 'svelte';
-</script>
+```js
+<script>import {onMount} from 'svelte';</script>
 ```
 
 Now, you can use an async function inside the hook to make the API call, like this:
 
-```svelte
+```js
 <script>
-    import {onMount} from 'svelte';
-    let footprint;
-    onMount(async () => {
-        // Make the API Call here
-    });
+	import {onMount} from 'svelte'; let footprint; onMount(async () =>{' '}
+	{
+		// Make the API Call here
+	}
+	);
 </script>
 ```
 
@@ -91,7 +87,7 @@ The `onMount` hook will send the API request whenever the component loads, but s
 
 In that case, we can use the event handlers like `on:click` to trigger our caller function:
 
-```svelte
+```js
 <script>
     import { onMount } from 'svelte';
     let footprint;
@@ -127,7 +123,7 @@ The first parameter of this method is the API endpoint URL, and the second is an
 
 Keeping this snippet in mind, let's add the API request to the Quotes API in our `onMount` hook.
 
-```svelte
+```js
 <script>
     import { onMount } from 'svelte';
     import axios from 'axios';
