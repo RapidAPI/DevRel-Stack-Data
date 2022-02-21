@@ -1,9 +1,4 @@
 [
-	{"source": "picture-in-picture-api"},
-	{"source": "permissions-api"},
-	{"source": "history-api"},
-	{"source": "build-rest-api"},
-	{"source": "build-random-user-generator-app"},
 	{"source": "parallel-api-requests"},
 	{"source": "call-apis-svelte-axios"},
 	{"source": "api-requests-intervals"},
