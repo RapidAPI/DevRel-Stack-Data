@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Wordle Clone in JavaScript!
 description: ''
 publishedDate: 2021-09-22T17:49:44.101Z
 lastModifiedDate: 2021-09-22T17:49:44.101Z
