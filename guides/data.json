@@ -1,4 +1,9 @@
 [
+	{"source": "picture-in-picture-api"},
+	{"source": "permissions-api"},
+	{"source": "history-api"},
+	{"source": "build-rest-api"},
+	{"source": "build-random-user-generator-app"},
 	{"source": "graphql-client-caching"},
 	{"source": "fetch-api-async-await"},
 	{"source": "call-apis-go"},
