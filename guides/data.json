@@ -1,4 +1,8 @@
 [
+	{"source": "navigation-timing-api"},
+	{"source": "intersection-observer-api"},
+	{"source": "file-system-access-api"},
+	{"source": "build-rest-api-in-flask"},
 	{"source": "parallel-api-requests"},
 	{"source": "call-apis-svelte-axios"},
 	{"source": "api-requests-intervals"},
