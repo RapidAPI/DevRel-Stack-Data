@@ -1,3 +1,6 @@
 [
-	{"source": "graphql-api"}
+	{"source": "graphql-api"},
+	{"source": "http-cookie"},
+	{"source": "http-redirections"},
+	{"source": "rest-api"}
 ]
