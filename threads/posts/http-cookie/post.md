@@ -3,7 +3,7 @@ title: 'What exactly is an HTTP Cookie.'
 date: 'Feb 15 2022'
 ---
 
-### What exactly is an HTTP Cookie.
+## What exactly is an HTTP Cookie.
 
 Have you ever imagined how you stay logged in even after you close the tab?
 
