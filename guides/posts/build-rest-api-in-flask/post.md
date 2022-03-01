@@ -154,7 +154,7 @@ if __name__ == "__main__":
 
 Now run the server by running the following command in the terminal:
 
-```py
+```sh
 python app.py
 ```
 
