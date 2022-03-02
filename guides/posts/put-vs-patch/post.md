@@ -15,15 +15,7 @@ tags:
 coverImage: ''
 ---
 
--   [What is PUT?](#what-is-put)
--   [What is PATCH?](#what-is-patch)
--   [Differentiating PUT and PATCH Using an Analogy of Land](#differentiating-put-and-patch-using-an-analogy-of-land)
-    -   [PUT](#put)
-    -   [PATCH](#patch)
--   [A Summary of Differences/Similarities between PUT and PATCH](#a-summary-of-differencessimilarities-between-put-and-patch)
-    -   [Similarities between PUT and PATCH](#similarities-between-put-and-patch)
-    -   [Differences between PUT and PATCH](#differences-between-put-and-patch)
--   [Final Verdict](#final-verdict)
+<TableOfContents />
 
 <Lead>
 
