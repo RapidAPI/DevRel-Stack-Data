@@ -6,7 +6,7 @@ lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:
     - saad
 categories:
-		- apps
+    - apps
 tags:
     - rapidapi
     - anime-app

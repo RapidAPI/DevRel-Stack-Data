@@ -1,4 +1,9 @@
 [
+	{"source": "screen-capture-api"},
+	{"source": "make-api-calls-vue"},
+	{"source": "html-sanitizer-api"},
+	{"source": "clipboard-api"},
+	{"source": "build-anime-suggestion-app"},
 	{"source": "build-custom-news-app"},
 	{"source": "graphql-fragments"},
 	{"source": "ten-api-projects-2"},
