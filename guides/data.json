@@ -1,4 +1,9 @@
 [
+	{"source": "screen-capture-api"},
+	{"source": "make-api-calls-vue"},
+	{"source": "html-sanitizer-api"},
+	{"source": "clipboard-api"},
+	{"source": "build-anime-suggestion-app"},
 	{"source": "use-geolocation-apis"},
 	{"source": "practices-api-parameters"},
 	{"source": "five-security-apis-2"},
