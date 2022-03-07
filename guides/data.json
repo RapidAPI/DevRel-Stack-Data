@@ -1,4 +1,5 @@
 [
+	{"source": "use-geolocation-apis"},
 	{"source": "practices-api-parameters"},
 	{"source": "five-security-apis-2"},
 	{"source": "build-spam-checker-app"},
