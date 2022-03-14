@@ -1,5 +1,5 @@
 ---
-title: Best Practices for API Parameters
+title: Interactive Guide to the Best Practices for API Parameters
 description: Parameters carry the information required by the API to process requests. Both API designers and consumers need to know the dos and don'ts of the API request parameters. This guide will highlight some best practices that can help in this regard.
 publishedDate: 2022-03-04T19:10:30.765Z
 lastModifiedDate: 2022-03-04T19:10:30.765Z
@@ -7,6 +7,7 @@ authors:
     - 'ahmad-bilal'
 categories:
     - bestPractices
+    - interactive
 tags:
     - api
     - parameters
@@ -78,6 +79,10 @@ The parameter types above fetch data from the API, but when you want to send som
 	"time": 1433524597
 }
 ```
+
+Try the following quick trivia about API Request Parameters and see if you can get the answers right.
+
+<TriviaRequestParameters />
 
 ## Wrap Up
 
