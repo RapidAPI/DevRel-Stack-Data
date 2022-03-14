@@ -1,4 +1,8 @@
 [
+	{"source": "web-authentication-api"},
+	{"source": "vibration-api"},
+	{"source": "make-api-call-php"},
+	{"source": "build-sentence-generator-app"},
 	{"source": "build-text-summarizer-app"},
 	{"source": "build-hashtag-generator-app"},
 	{"source": "screen-capture-api"},
