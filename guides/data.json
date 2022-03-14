@@ -1,4 +1,6 @@
 [
+	{"source": "build-text-summarizer-app"},
+	{"source": "build-hashtag-generator-app"},
 	{"source": "screen-capture-api"},
 	{"source": "make-api-calls-vue"},
 	{"source": "html-sanitizer-api"},
