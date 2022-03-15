@@ -1,8 +1,4 @@
 [
-	{"source": "web-authentication-api"},
-	{"source": "vibration-api"},
-	{"source": "make-api-call-php"},
-	{"source": "build-sentence-generator-app"},
 	{"source": "call-apis-angular"},
 	{"source": "web-authentication-api"},
 	{"source": "vibration-api"},
