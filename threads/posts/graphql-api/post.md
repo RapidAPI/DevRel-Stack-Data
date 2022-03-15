@@ -15,7 +15,7 @@ GraphQL was created by developers at Facebook in 2012.
 </Tweet>
 
 <Tweet>
-
+    
 GraphQL was developed to support the complicated data structures required to show the Facebook News Feed on the mobile application.
 
 Using GraphQL, the client can request the necessary data using a single endpoint with a defined schema.
@@ -23,7 +23,7 @@ Using GraphQL, the client can request the necessary data using a single endpoint
 </Tweet>
 
 <Tweet>
-
+    
 Considering you're building a blogging platform, you will need to fetch posts, author, published date, comments, and other associated data with a particular post.
 
 With a standard REST API, you can design such an API very easily.
@@ -57,7 +57,7 @@ The predefined schema allows the client to specify the exact shape of thereturne
 </Tweet>
 
 <Tweet>
-
+    
 This Schema is known as Schema Definition Language.
 
 Schema Definition Language is nothing but the syntax of writing schemas in GraphQL query language, and it's pretty intuitive.
