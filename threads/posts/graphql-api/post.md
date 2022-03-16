@@ -72,8 +72,8 @@ The `User` type has two fields, `name` and `email` with type String.
 
 ```graphql
 type User {
-	name: String!
-	email: String!
+    name: String!
+    email: String!
 }
 ```
 
@@ -89,13 +89,13 @@ For example, a `Blog` is associated with a particular `User`.
 
 ```graphql
 type User {
-	name: String!
-	email: String!
-	blogs: [Blog!]!
+    name: String!
+    email: String!
+    blogs: [Blog!]!
 }
 
 type Blog {
-	athour: User!
+    athour: User!
 }
 ```
 
@@ -117,10 +117,10 @@ Based on this information, the server will send the response. This information i
 
 ```graphql
 {
-	user(id: 1) {
-		name
-		email
-	}
+    user(id: 1){
+        name
+        email
+    }
 }
 ```
 
@@ -136,10 +136,13 @@ You can create, update, and delete data from a GraphQL server using mutations.
 
 ```graphql
 {
-	createUser(name: "John Doe", email: "john@doe.com") {
-		name
-		email
-	}
+    createUser(
+        name: "John Doe",
+        email: "john@doe.com",
+    ) {
+        name
+        email
+    }
 }
 ```
 
