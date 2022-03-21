@@ -7,7 +7,7 @@ id: '1493525071893340160'
 ## What exactly is an HTTP Cookie.
 
 <Tweet>
-  
+
 Have you ever imagined how you stay logged in even after you close the tab?
 
 Or how do items stay in your cart when you refresh or close a tab?
@@ -23,7 +23,7 @@ HTTP cookies, also known as web cookies or browser cookies, are nothing but a pi
 </Tweet>
 
 <Tweet>
-  
+
 Although HTTP protocol itself is stateless, meaning no connection between two successive requests.
 
 But HTTP cookies allow us to store meaningful states.
