@@ -1,7 +1,7 @@
 {
 	"siteName": "RapidAPI Threads",
 	"type": "website",
-	"description": "No description yet.",
+	"description": "An application where all the or at least most valuable tweets/threads from the RapidAPI Twitter account show up.",
 	"language": "en",
 	"locale": "en_US",
 	"siteUrl": "https://rapidapi.com/threads",
