@@ -1,4 +1,8 @@
 [
+	{"source": "use-swr-hooks"},
+	{"source": "practices-api-keys"},
+	{"source": "graphql-schema"},
+	{"source": "call-graphql-apis-vue"},
 	{"source": "screen-wake-lock-api"},
 	{"source": "console-api"},
 	{"source": "call-apis-in-ruby"},
