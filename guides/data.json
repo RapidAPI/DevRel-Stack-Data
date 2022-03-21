@@ -1,4 +1,9 @@
 [
+	{"source": "screen-wake-lock-api"},
+	{"source": "console-api"},
+	{"source": "call-apis-in-ruby"},
+	{"source": "build-weather-news-app"},
+	{"source": "battery-api"},
 	{"source": "call-apis-angular"},
 	{"source": "web-authentication-api"},
 	{"source": "vibration-api"},
