@@ -1,4 +1,5 @@
 [
+	{"source": "learn-api-idempotency"},
 	{"source": "build-nft-app"},
 	{"source": "manage-api-calls-react"},
 	{"source": "use-swr-hooks"},
