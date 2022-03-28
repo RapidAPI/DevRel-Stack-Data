@@ -1,4 +1,9 @@
 [
+	{"source": "credential-management-api"},
+	{"source": "build-rest-api-php"},
+	{"source": "build-country-info-app"},
+	{"source": "battery-status-api"},
+	{"source": "barcode-detection-api"},
 	{"source": "use-swr-hooks"},
 	{"source": "practices-api-keys"},
 	{"source": "graphql-schema"},
