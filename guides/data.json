@@ -1,9 +1,4 @@
 [
-	{"source": "credential-management-api"},
-	{"source": "build-rest-api-php"},
-	{"source": "build-country-info-app"},
-	{"source": "battery-status-api"},
-	{"source": "barcode-detection-api"},
 	{"source": "graphql-unions-interfaces"},
 	{"source": "learn-api-idempotency"},
 	{"source": "build-nft-app"},
