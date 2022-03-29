@@ -70,13 +70,9 @@ Hence using a good API can make your software better.
 
 <Tweet>
 
-<Tweet>
-
 4. APIs yield new possibilities
 
 With APIs, developers can now integrate with data sets and implement features like AI and Machine Learning that they wouldn't have used before, creating new business opportunities.
-
-</Tweet>
 
 </Tweet>
 
