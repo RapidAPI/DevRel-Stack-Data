@@ -2,5 +2,21 @@
 	{"source": "graphql-api"},
 	{"source": "http-cookie"},
 	{"source": "http-redirections"},
-	{"source": "rest-api"}
+	{"source": "rest-api"},
+	{"source": "anatomy-api-request"},
+	{"source": "api-advantages"},
+	{"source": "api-attacks"},
+	{"source": "api-authentication"},
+	{"source": "api-first-approach"},
+	{"source": "api-lifecycle"},
+	{"source": "api-terms"},
+	{"source": "api-testing"},
+	{"source": "curl"},
+	{"source": "handle-cors"},
+	{"source": "http-headers"},
+	{"source": "http-request"},
+	{"source": "http-session"},
+	{"source": "soap-api"},
+	{"source": "types-web-apis"},
+	{"source": "web-and-rest-api"}
 ]
