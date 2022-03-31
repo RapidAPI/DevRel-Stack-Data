@@ -42,7 +42,16 @@ For example, when you want to change a person's first name in a database, you ne
 
 To make a PUT request, you need to send the two parameters; the first and the last name.
 
-<LearnPutVsPatch showPut url="https://rapidapi.com/guides/api/put-patch/1" />
+<LearnPutVsPatch
+	url="https://rapidapi.com/guides/api/put-patch/1"
+	showPut
+	allowedMethods={[
+		{
+			label: 'PUT',
+			value: 'PUT'
+		}
+	]}
+/>
 
 ## What is PATCH?
 
@@ -50,7 +59,16 @@ Unlike PUT, PATCH applies a partial update to the resource.
 
 This means that you are only required to send the data you want to update, and it won’t affect or change anything else. So if you're going to update the first name on a database, you will only be required to send the first parameter, the first name.
 
-<LearnPutVsPatch showPatch url="https://rapidapi.com/guides/api/put-patch/1" />
+<LearnPutVsPatch
+	url="https://rapidapi.com/guides/api/put-patch/1"
+	showPatch
+	allowedMethods={[
+		{
+			label: 'PATCH',
+			value: 'PATCH'
+		}
+	]}
+/>
 
 ## Differentiating PUT and PATCH Using an Analogy of Land
 
