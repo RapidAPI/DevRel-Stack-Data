@@ -1,6 +1,6 @@
 ---
 title: What’s the Difference between PUT vs PATCH?
-description: PUT is a method of modifying resources where the client sends data that updates the entire resource. Unlike PUT, PATCH applies a partial update to the resource. Let's take a look at the differences between these two methods in this piece.
+description: When learning web development and HTTP specification, it is not unlikely to find yourself getting confused about the type of verb to use, and when to use it With most applications on the internet being CRUD (create, read/retrieve, updates, delete), developers must learn how to match HTTP verbs to these actions.
 publishedDate: 2022-02-07T08:44:50.338Z
 lastModifiedDate: 2022-02-07T08:44:50.338Z
 authors:
