@@ -1,5 +1,5 @@
 ---
-title: Create an API Documentation Site using Nextra in no time.
+title: How to create an API Documentation Site using Nextra
 description: Documentation allows users to understand and connect with your API smoothly, but it is only effective when users can easily access your documentation. Let's see how we can create a separate site for API documentation using Nextra in no time.
 publishedDate: 2022-03-30T14:17:11.709Z
 lastModifiedDate: 2022-03-30T14:17:11.709Z
