@@ -1,4 +1,9 @@
 [
+	{"source": "learn-screen-wake-lock-api"},
+	{"source": "content-index-api"},
+	{"source": "contact-picker-api"},
+	{"source": "call-apis-got"},
+	{"source": "build-bmi-calculator-app"},
 	{"source": "http-cookie-types"},
 	{"source": "graphql-design-queries-mutations"},
 	{"source": "api-documentation-nextra"},
