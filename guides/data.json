@@ -1,4 +1,5 @@
 [
+	{"source": "http-cookie-types"},
 	{"source": "graphql-design-queries-mutations"},
 	{"source": "api-documentation-nextra"},
 	{"source": "practices-graphql-apis"},
