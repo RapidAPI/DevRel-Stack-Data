@@ -109,6 +109,12 @@ First, we will check if the browser supports the API, and then we will request t
 
 Now run this file, click on the `Activate Screen Lock` button, and open the console. If the API is supported, you will see that `Wake lock is activated.` is logged into the console. If you click on the `Deactivate Screen Lock` button, it will release the wake lock.
 
+Here is a quick demo:
+
+<LearnScreenWakeLockAPI />
+
+Once you click on `Set lock` button, your screen will not be dimmed or locked. But if you click on `Release` button, your screen will be locked again after some time.
+
 ## Support
 
 The Screen Wake Lock is an experimental API currently supported across all major internet browsers except Firefox and Safari.
