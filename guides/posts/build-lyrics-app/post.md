@@ -567,7 +567,7 @@ export default function Home() {
 
 Now when the user clicks the **Get Lyrics** button, our app will show the lyrics of the song like this:
 
-![Lyrics app built using Genius - Song Lyrics API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/final-app.png)
+![Lyrics app built using Genius - Song Lyrics API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/final.png)
 
 ## Wrap Up
 
