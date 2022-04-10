@@ -106,6 +106,8 @@ const fetchQuotes = async () => {
 
 Try writing a log message in the following interactive component and click send. You should see the log message printed in your browsers console before the request is sent.
 
+<LearnHTTPInterceptors />
+
 ![Logged Message](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/http-interceptors-axios/images/log.png)
 
 Let's say we want to add some headers to all the requests. We can do it like this:
