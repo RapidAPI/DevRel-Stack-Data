@@ -6,7 +6,7 @@ lastModifiedDate: 2022-02-20T15:55:14.958Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - interactive
 tags:
     - history-api

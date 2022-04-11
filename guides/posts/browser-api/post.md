@@ -6,7 +6,7 @@ lastModifiedDate: 2021-11-03T16:27:05.876Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
 tags:
     - browser-api
 coverImage: ''

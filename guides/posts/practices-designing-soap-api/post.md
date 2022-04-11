@@ -6,7 +6,7 @@ lastModifiedDate: 2021-10-08T15:50:47.200Z
 authors:
     - saad
 categories:
-		- bestPractices
+		- best-practices
 tags:
     - best-practices
 coverImage: ''

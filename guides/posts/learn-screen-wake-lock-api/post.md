@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - interactive
-    - webApis
+    - web-apis
 tags:
     - screen-wake-lock-api
     - web-api
@@ -21,7 +21,7 @@ A web API is an API that is exposed by the browser to the developer so they can 
 
 </Lead>
 
-Previously, we have written several articles on [web APIs](https://rapidapi.com/guides/categories/webApis), especially about how you can use them. Today, we will look at another web API that ensures your computer screen does not turn off. So without any further ado, let's jump in!
+Previously, we have written several articles on [web APIs](https://rapidapi.com/guides/categories/web-apis), especially about how you can use them. Today, we will look at another web API that ensures your computer screen does not turn off. So without any further ado, let's jump in!
 
 ## Screen Wake Lock API
 

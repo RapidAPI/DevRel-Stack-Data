@@ -6,7 +6,7 @@ lastModifiedDate: 2022-03-28T10:41:42.086Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - barcode
