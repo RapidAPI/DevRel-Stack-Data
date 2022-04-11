@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - interactive
-    - webApis
+    - web-apis
 tags:
     - battery-status-api
     - learn-battery-status-api

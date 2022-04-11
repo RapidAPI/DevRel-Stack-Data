@@ -6,7 +6,7 @@ lastModifiedDate: 2022-03-28T10:39:40.509Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - credential-management-api

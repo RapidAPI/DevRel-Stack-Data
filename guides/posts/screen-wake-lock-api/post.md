@@ -6,7 +6,7 @@ lastModifiedDate: 2022-03-21T02:53:28.085Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - screen-wake-lock-api

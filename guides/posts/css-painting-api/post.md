@@ -6,7 +6,7 @@ lastModifiedDate: 2022-01-17T04:02:09.132Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - css-painting-api
