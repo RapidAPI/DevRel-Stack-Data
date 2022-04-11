@@ -56,7 +56,7 @@ All these examples use APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_sou
 In this project, we used the [Realty API](https://rapidapi.com/apidojo/api/realty-in-us/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which provides updated data regarding real estate in the United States. So, the web application will allow users to search for the properties available for sale in the United States.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-real-estate-app"
 >
@@ -73,7 +73,7 @@ You can also try the [live application](https://rapidapi-example-real-estate-app
 In this project, we used the [Website Screenshot API](https://rapidapi.com/apishub/api/website-screenshot6/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which offers fast screenshot generation. So, the web application will allow its users to get an automated screenshot of a given URL.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-screenshot-app"
 >
@@ -90,7 +90,7 @@ You can also try the [live application](https://rapidapi-example-screenshot-app.
 In this project, we used the [Spoonacular API](https://rapidapi.com/spoonacular/api/recipe-food-nutrition/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which is one of the most popular food APIs and provides data about thousands of recipes and ingredients. So, the web application will allow users to search for food recipes according to different parameters like diet, ingredients, etc.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-recipe-app"
 >
@@ -107,7 +107,7 @@ You can also try the [live application](https://rapidapi-example-recipe-app.verc
 The content offered by streaming services varies from region to region. Sometimes it gets frustrating when the content you are looking for is not available on your streaming platform. In this project, we used the [OTT Details API](https://rapidapi.com/gox-ai-gox-ai-default/api/ott-details/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to build a web application that will show the availability of movies or TV shows across streaming services like Netflix, Hulu, HBO, etc.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-streaming-app"
 >
@@ -124,7 +124,7 @@ You can also try the [live application](https://rapidapi-example-streaming-app.v
 Today, APIs exist that provide all kinds of Cryptocurrency data, including their latest news. In this project, we used the [Investing - Cryptocurrency Markets API](https://rapidapi.com/apidojo/api/investing-cryptocurrency-markets/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to build a web application that will display the latest news related to Cryptocurrency.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-crypto-news-app"
 >
@@ -141,7 +141,7 @@ You can also try the [live application](https://rapidapi-example-crypto-news-app
 Have you ever wondered how organizations check Email IDs to see if they are valid or not? In this project, we will build an application around this use case using the [Email Check API](https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-disposable-domain?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). The app will take an email and provide us with information about its validity.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-email-validator-app"
 >
@@ -158,7 +158,7 @@ You can also try the [live application](https://rapidapi-example-email-validator
 In this project, we used the [NameAuditor WHOIS API](https://rapidapi.com/nameauditor/api/nameauditor-whois-check/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which provides WHOIS data about domains. So, the web application will allow users to search web domains and check information like their availability.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-domain-app"
 >
@@ -175,7 +175,7 @@ You can also try the [live application](https://rapidapi-example-domain-app.verc
 In this project, we used the [Genius - Song Lyrics API](https://rapidapi.com/Glavier/api/genius-song-lyrics1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to create a web app that allows users to get the lyrics of any song track they are looking for
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-lyrics-app"
 >
@@ -192,7 +192,7 @@ You can also try the [live application](https://rapidapi-example-lyrics-app.verc
 In this project, we used the AI-powered [Text Analysis API](https://rapidapi.com/gaurmanojkumar530/api/text-analysis12/?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel), which analyses a text for its emotions. The web application lets the user know how their text sounds, whether positive, negative, or neutral?
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-text-sentiment-analysis-app"
 >
@@ -209,7 +209,7 @@ You can also try the [live application](https://rapidapi-text-sentiment-analysis
 This project uses the [IMDb API](https://rapidapi.com/apidojo/api/imdb8/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to create a Next.js web application that shows the details of a movie like its runtime, the year it was released, poster, etc., to the user.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-movie-details-app"
 >

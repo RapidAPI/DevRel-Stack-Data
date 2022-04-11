@@ -56,7 +56,7 @@ All these examples use APIs from [RapidAPI Hub](https://RapidAPI.com/hub?utm_sou
 In this project, we used the [Open Weather Map API](https://RapidAPI.com/community/api/open-weather-map/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which provides updated data regarding weather data for any location on earth. The weather data is based on data from more than 40,000 weather stations. So, the web application will allow users to search for the current weather in any city.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-weather-app"
 >
@@ -73,7 +73,7 @@ You can also try the [live application](https://rapidapi-example-weather-app.ver
 In this project, we used the [Currency Conversion and Exchange Rates API](https://rapidapi.com/principalapis/api/currency-conversion-and-exchange-rates/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which offers current and historical foreign currency exchange rates. So, we will build a web application that will let users convert any currency to another according to the latest exchange rate.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-currency-conversion-app"
 >
@@ -90,7 +90,7 @@ You can also try the [live application](https://rapidapi-example-currency-conver
 In this project, we will be building an application that generates QR Codes for any text input. QR codes allow you to share information quickly and seamlessly. They are used everywhere, from payment portals to social apps like Snapchat and WhatsApp. We used the [qrcode utils API](https://rapidapi.com/digicatech/api/qrcodeutils/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which converts any input into a QR Code.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-qrcode-app"
 >
@@ -107,7 +107,7 @@ You can also try the [live application](https://rapidapi-example-qrcode.vercel.a
 In this project, we used the [USPTO Trademark API](https://rapidapi.com/pentium10/api/uspto-trademark/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to build a web application that will allow users to look up trademarks and check the availability of a trademark keyword.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-trademark-app"
 >
@@ -124,7 +124,7 @@ You can also try the [live application](https://rapidapi-example-trademark-app.v
 There are so many absurd things and facts that exist in this world. In this fun project, we used the [Random Facts API](https://RapidAPI.com/APILAB/api/random-facts2?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) to build a web application that will display random interesting facts to the user.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-random-facts-app"
 >
@@ -143,7 +143,7 @@ Most of us have written a blog and article at least once in life. When you have 
 In this project, we will build an application around this use case using the [Topic Tagging API](https://RapidAPI.com/twinword/api/topic-tagging/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). The app will allow you to paste your article and generate topics and keywords for it.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-topic-generator-app"
 >
@@ -160,7 +160,7 @@ You can also try the [live application](https://rapidapi-example-topic-generator
 In this project, we will use the [CarbonFootprint API](https://rapidapi.com/carbonandmore-carbonandmore-default/api/carbonfootprint1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which provides carbon footprint numbers of different activities. The web application will allow users to get carbon footprint data of their travel.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-carbon-footprint-app"
 >
@@ -177,7 +177,7 @@ You can also try the [live application](https://rapidapi-example-carbon-footprin
 If you are someone who is interested in finding horoscope predictions, you can build your own web application for it! You can use the [Aztro API](https://RapidAPI.com/sameer.kumar/api/aztro/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) to create the app.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-horoscope-app"
 >
@@ -194,9 +194,9 @@ You can also try the [live application](https://rapidapi-example-horoscope-app.v
 In this project, we will build a news application using the AI-powered [Bing News Search API](https://RapidAPI.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which is an API by Microsoft that fetches the latest news using the Bing Search.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/guides/build-text-news-app"
+	linkHref="https://rapidapi.com/guides/build-news-app"
 >
 	Check this step-by-step guide that demonstrates how to build this
 	application.
@@ -211,7 +211,7 @@ You can also try the [live application](https://RapidAPI-example-news-app.vercel
 This is another fun project that uses the [Famous Quotes API](https://RapidAPI.com/saicoder/api/famous-quotes4?utm_source=RapidAPI.com%2Fguides&utm_medium=DevRel&utm_campaign=DevRel) for our web application that will show a famous random quote every time. It is a great project to get started with APIs.
 
 <Callout
-	title="Guide"
+	title="How-To Guide"
 	linkText="Read more"
 	linkHref="https://rapidapi.com/guides/build-quote-app"
 >
