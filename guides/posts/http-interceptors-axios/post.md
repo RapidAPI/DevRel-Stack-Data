@@ -58,7 +58,7 @@ For this piece, I will use the [Famous Quotes API](https://RapidAPI.com/saicoder
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/hub"
+	linkHref="https://RapidAPI.com/learn/hub"
 >
 	Learn more about how to use RapidAPI Hub.
 </Callout>
