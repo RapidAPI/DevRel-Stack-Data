@@ -1,4 +1,9 @@
 [
+	{"source": "request-headers-axios"},
+	{"source": "http-interceptors-axios"},
+	{"source": "five-apis-demo-data"},
+	{"source": "call-apis-react-query"},
+	{"source": "build-books-app"},
 	{"source": "learn-screen-wake-lock-api"},
 	{"source": "content-index-api"},
 	{"source": "contact-picker-api"},
