@@ -37,12 +37,12 @@ Let’s find the API first. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_so
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/hub"
+	linkHref="https://RapidAPI.com/learn/hub"
 >
 	Learn more about using RapidAPI Hub in this fun, interactive guide.
 </Callout>
 
-You will see that a bunch of such APIs are available. For our app, I am going to use the `[HAPI Books API](https://rapidapi.com/roftcomp-laGmBwlWLm/api/hapi-books/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)`.
+You will see that a bunch of such APIs are available. For our app, I am going to use the `[HAPI Books API](https://RapidAPI.com/roftcomp-laGmBwlWLm/api/hapi-books/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)`.
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 

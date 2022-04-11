@@ -29,7 +29,7 @@ Here are some APIs that we can use for dummy data.
 <Callout
 	title="Deep dive"
 	linkText="Read more"
-	linkHref="https://rapidapi.com/learn/rest-apis/introduction/what-is-an-api"
+	linkHref="https://RapidAPI.com/learn/rest-apis/introduction/what-is-an-api"
 >
 	Learn more about APIs in this excellent interactive guide.
 </Callout>
@@ -69,55 +69,55 @@ As you can see, you can efficiently utilize this data in an application to show 
 <Callout
 	title="Connect to the API"
 	linkText="Connect"
-	linkHref="https://rapidapi.com/alberto-zE9RMSlyY/api/dbm/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
+	linkHref="https://RapidAPI.com/alberto-zE9RMSlyY/api/dbm/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
 >
 	Try out this API in your application.
 </Callout>
 
 ### 2. Random Stuff API
 
-The [Random Stuff API](https://rapidapi.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)is a comprehensive API providing all sorts of AI-based responses, random jokes, memes, anime, animal images, and more.
+The [Random Stuff API](https://RapidAPI.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)is a comprehensive API providing all sorts of AI-based responses, random jokes, memes, anime, animal images, and more.
 
 <Callout
 	title="Connect to the API"
 	linkText="Connect"
-	linkHref="https://rapidapi.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
+	linkHref="https://RapidAPI.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
 >
 	Try out this API in your application.
 </Callout>
 
 ### 3. EntreAPI Faker
 
-The [EntreAPI Faker](https://rapidapi.com/entreapi-entreapi-default/api/entreapi-faker/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) has a long list of options you can use to get random test data. These options include dummy users, addresses, phone numbers, images, and much more.
+The [EntreAPI Faker](https://RapidAPI.com/entreapi-entreapi-default/api/entreapi-faker/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) has a long list of options you can use to get random test data. These options include dummy users, addresses, phone numbers, images, and much more.
 
 <Callout
 	title="Connect to the API"
 	linkText="Connect"
-	linkHref="https://rapidapi.com/entreapi-entreapi-default/api/entreapi-faker/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
+	linkHref="https://RapidAPI.com/entreapi-entreapi-default/api/entreapi-faker/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
 >
 	Try out this API in your application.
 </Callout>
 
 ### 4. DogDummy API
 
-The [DogDummy API](https://rapidapi.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides all sorts of dummy dog data for your demo and testing needs. You can search for a dog based on breed, color, get a random dog image, and more.
+The [DogDummy API](https://RapidAPI.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) provides all sorts of dummy dog data for your demo and testing needs. You can search for a dog based on breed, color, get a random dog image, and more.
 
 <Callout
 	title="Connect to the API"
 	linkText="Connect"
-	linkHref="https://rapidapi.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
+	linkHref="https://RapidAPI.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
 >
 	Try out this API in your application.
 </Callout>
 
 ### 5. Rick and Morty API
 
-The [Rick and Morty API](https://rapidapi.com/eec19846/api/rick-and-morty-graphql/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is a GraphQL API that returns characters, locations, episodes from the show. You can use this data to demo your application.
+The [Rick and Morty API](https://rapidRapidAPIapi.com/eec19846/api/rick-and-morty-graphql/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) is a GraphQL API that returns characters, locations, episodes from the show. You can use this data to demo your application.
 
 <Callout
 	title="Connect to the API"
 	linkText="Connect"
-	linkHref="https://rapidapi.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
+	linkHref="https://RapidAPI.com/VinceJepoyMendoza/api/dogdummyapi/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
 >
 	Try out this API in your application.
 </Callout>
