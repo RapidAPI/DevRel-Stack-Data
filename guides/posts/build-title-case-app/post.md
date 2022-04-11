@@ -1,6 +1,7 @@
 ---
 title: How to Build a Title Case App Using Title Case Converter API?
 description: Sometimes it becomes confusing which letter to uppercase in a title, and we often end up uppercasing the wrong words. To take care of it, we can use an API from RapidAPI Hub and build a small application using it. So let's do just that in this piece.
+publishedDate: 2022-04-11T07:24:44.264Z
 lastModifiedDate: 2022-04-11T07:24:44.264Z
 authors:
     - saad
