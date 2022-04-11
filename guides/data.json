@@ -1,4 +1,9 @@
 [
+	{"source": "page-visibility-api"},
+	{"source": "learn-credentials-management-api"},
+	{"source": "call-apis-next"},
+	{"source": "build-title-case-app"},
+	{"source": "background-task-api"},
 	{"source": "request-headers-axios"},
 	{"source": "http-interceptors-axios"},
 	{"source": "five-apis-demo-data"},
