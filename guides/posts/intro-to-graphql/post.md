@@ -1,10 +1,10 @@
 ---
 title: What is GraphQL? - A Beginner's Friendly Guide
 description: There are a couple of things that make GraphQL unique. This guide will help beginners understand about GraphQL.
-publishedDate: 2021-10-01T16:10:30.765Z
-lastModifiedDate: 2021-10-01T16:10:30.765Z
+publishedDate: 2022-04-12T14:54:54.290Z
+lastModifiedDate: 2022-04-12T14:54:54.290Z
 authors:
-    - 'maham'
+    - maham
 categories:
     - graphql
 tags:
