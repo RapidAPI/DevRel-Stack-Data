@@ -6,7 +6,7 @@ lastModifiedDate: 2022-04-04T02:56:29.227Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - content-index-api

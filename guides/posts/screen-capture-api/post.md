@@ -6,7 +6,7 @@ lastModifiedDate: 2022-03-06T19:27:34.794Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - screen-capture-api

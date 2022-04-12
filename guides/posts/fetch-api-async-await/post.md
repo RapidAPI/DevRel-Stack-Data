@@ -6,7 +6,7 @@ lastModifiedDate: 2022-02-10T16:27:05.876Z
 authors:
     - ahmad-bilal
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - fetch-api

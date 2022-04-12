@@ -4,7 +4,7 @@ description: "This web API, also known as WebAuthn, uses asymmetric cryptography
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
 tags:
     - web-authentication-api
     - web-api

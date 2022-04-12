@@ -1,34 +1,34 @@
 {
-  "api": {
-    "name": "API",
-    "color": "orange"
-  },
-  "http": {
-    "name": "HTTP",
-    "color": "yellow"
-  },
-  "interactive": {
-    "name": "Interactive",
-    "color": "green"
-  },
-  "apps": {
-    "name": "Apps",
-    "color": "brown"
-  },
-  "webApis": {
-    "name": "Web APIs",
-    "color": "purple"
-  },
-  "bestPractices": {
-    "name": "Best Practices",
-    "color": "maroon"
-  },
-  "rapidapi": {
-    "name": "RapidAPI",
-    "color": "blue"
-  },
-  "comparison": {
-    "name": "Comparison",
-    "color": "cyan"
-  }
+	"api": {
+		"name": "API",
+		"color": "orange"
+	},
+	"http": {
+		"name": "HTTP",
+		"color": "yellow"
+	},
+	"interactive": {
+		"name": "Interactive",
+		"color": "green"
+	},
+	"apps": {
+		"name": "Apps",
+		"color": "brown"
+	},
+	"web-apis": {
+		"name": "Web APIs",
+		"color": "purple"
+	},
+	"best-practices": {
+		"name": "Best Practices",
+		"color": "maroon"
+	},
+	"rapidapi": {
+		"name": "RapidAPI",
+		"color": "blue"
+	},
+	"comparison": {
+		"name": "Comparison",
+		"color": "cyan"
+	}
 }

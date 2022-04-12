@@ -6,7 +6,7 @@ lastModifiedDate: 2021-12-06T06:43:23.822Z
 authors:
     - saad
 categories:
-    - bestPractices
+    - best-practices
 tags:
     - best-practices
     - api

@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - api
-    - webApis
+    - web-apis
 tags:
     - html-sanitizer-api
     - api

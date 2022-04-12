@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - interactive
-    - webApis
+    - web-apis
 tags:
     - console-api
     - console

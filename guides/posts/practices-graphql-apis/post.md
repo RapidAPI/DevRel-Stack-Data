@@ -4,7 +4,7 @@ description: With the rise of APIs, API security demands more focus than ever. G
 authors:
     - 'ahmad-bilal'
 categories:
-    - bestPractices
+    - best-practices
 tags:
     - graphql
     - api

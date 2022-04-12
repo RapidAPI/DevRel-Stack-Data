@@ -4,7 +4,7 @@ description: This API makes sure that your page is not unresponsive when a scrip
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - web-worker

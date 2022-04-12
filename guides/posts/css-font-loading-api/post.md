@@ -6,7 +6,7 @@ lastModifiedDate: 2022-01-24T09:06:12.366Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - css-font-loading-api
