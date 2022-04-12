@@ -30,5 +30,9 @@
 	"comparison": {
 		"name": "Comparison",
 		"color": "cyan"
+	},
+	"graphql": {
+		"name": "GraphQL",
+		"color": "brown"
 	}
 }
