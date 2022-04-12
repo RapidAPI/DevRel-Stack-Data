@@ -110,5 +110,12 @@
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "My name is Usman and this channel is mainly focused on programming and web development."
+	},
+	"maham": {
+		"name": "Maham",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/e8344aa5ff027925d83c3d450fe71c8846a72591/authors/maham/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": true,
+		"bio": "Maham is a web developer who seems to love technical writing. As a published author, my work and writings have been featured in the NoteWorthy Journal at Medium."
 	}
 }
