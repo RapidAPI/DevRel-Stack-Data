@@ -1,4 +1,5 @@
 [
+	{"source": "intro-to-graphql"},
 	{"source": "page-visibility-api"},
 	{"source": "learn-credentials-management-api"},
 	{"source": "call-apis-next"},
