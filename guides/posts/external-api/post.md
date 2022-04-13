@@ -1,10 +1,13 @@
 ---
 title: What are External APIs?
-description: APIs allow the interaction of one application with the other efficiently and are widely used in web applications. This guide will help you know about External APIs.
-publishedDate: 2021-10-01T16:10:30.765Z
-lastModifiedDate: 2021-10-01T16:10:30.765Z
+description:
+    APIs allow the interaction of one application with the other efficiently and
+    are widely used in web applications. This guide will help you know about
+    External APIs.
+publishedDate: 2022-04-13T14:12:29.465Z
+lastModifiedDate: 2022-04-13T14:12:29.465Z
 authors:
-    - 'maham'
+    - maham
 categories:
     - api
 tags:
