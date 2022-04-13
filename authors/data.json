@@ -13,6 +13,27 @@
 		"isDeveloperProgramMember": false,
 		"bio": "The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps."
 	},
+	"ahmad-awais": {
+		"name": "Ahmad Awais",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmad-awais/avatar.png",
+		"designation": "Head of Developer Relations, RapidAPI",
+		"isDeveloperProgramMember": true,
+		"bio": "Ahmad Awais is an award-winning open-source engineer. Head of Developer Relations at RapidAPI. His software serves millions of developers. Code he wrote went to Mars. “What an awesome example for developers,” said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. He’s a Google Devs Expert and recipient of the 8th GitHub Stars gold award.​"
+	},
+	"codestackr": {
+		"name": "codeSTACKr",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/codestackr/avatar.png",
+		"designation": "",
+		"isDeveloperProgramMember": false,
+		"bio": "I create the best content I possibly can to give away free. My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript.  Subscribe to my YouTube channel for the latest content."
+	},
+	"pratham": {
+		"name": "Pratham",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/pratham/avatar.png",
+		"designation": "Developer Advocate @ RapidAPI",
+		"isDeveloperProgramMember": true,
+		"bio": "I break Web Development into pieces reducing its difficulty to 2%. Over 50 million developers worldwide read my content on Twitter every month. I'm a CSS fanatic who loves to create CSS arts and illustrations on Codepen where thousands of developers love my work. "
+	},
 	"siraj-raval": {
 		"name": "Siraj Raval",
 		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/siraj-raval/avatar.png",
@@ -27,13 +48,6 @@
 		"isDeveloperProgramMember": true,
 		"bio": "Saad is a frontend developer, Student Expert at RapidAPI, Next.js Conf 2021 speaker, open-sourcerer, Major League Hacking fellow, former Developer Advocate at Worwox, Technical Writer, and a guitarist. He has authored 20+ open-source tools that are used by thousands of developers. He also founded Google’s Developer Students Club at his college and is a part of Microsoft’s Student program."
 	},
-	"pratham": {
-		"name": "Pratham",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/pratham/avatar.png",
-		"designation": "Developer Advocate @ RapidAPI",
-		"isDeveloperProgramMember": true,
-		"bio": "I break Web Development into pieces reducing its difficulty to 2%. Over 50 million developers worldwide read my content on Twitter every month. I'm a CSS fanatic who loves to create CSS arts and illustrations on Codepen where thousands of developers love my work. "
-	},
 	"ahmad-bilal": {
 		"name": "Ahmad Bilal",
 		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmad-bilal/avatar.png",
@@ -47,13 +61,6 @@
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "Practical tips for the beginner web developer."
-	},
-	"codestackr": {
-		"name": "codeSTACKr",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/codestackr/avatar.png",
-		"designation": "",
-		"isDeveloperProgramMember": false,
-		"bio": "I create the best content I possibly can to give away free. My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript.  Subscribe to my YouTube channel for the latest content."
 	},
 	"weibenfalk": {
 		"name": "Weibenfalk",
@@ -96,13 +103,6 @@
 		"designation": "",
 		"isDeveloperProgramMember": false,
 		"bio": "My name is Usman and this channel is mainly focused on programming and web development."
-	},
-	"ahmad-awais": {
-		"name": "Ahmad Awais",
-		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/ahmad-awais/avatar.png",
-		"designation": "Head of Developer Relations, RapidAPI",
-		"isDeveloperProgramMember": true,
-		"bio": "Ahmad Awais is an award-winning open-source engineer. Head of Developer Relations at RapidAPI. His software serves millions of developers. Code he wrote went to Mars. “What an awesome example for developers,” said Satya Nadella, CEO of Microsoft — featuring Awais’s code contribution to NASA Ingenuity Mars mission. He’s a Google Devs Expert and recipient of the 8th GitHub Stars gold award.​"
 	},
 	"maham": {
 		"name": "Maham",
