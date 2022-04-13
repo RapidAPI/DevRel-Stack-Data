@@ -6,7 +6,7 @@ lastModifiedDate: 2022-02-27T14:45:59.314Z
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
     - api
 tags:
     - file-system-access-api

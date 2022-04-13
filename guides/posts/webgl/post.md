@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - api
-    - webApis
+    - web-apis
 tags:
     - webgl-api
     - web-api

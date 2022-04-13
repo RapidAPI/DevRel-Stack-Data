@@ -6,7 +6,7 @@ lastModifiedDate: 2022-03-04T19:10:30.765Z
 authors:
     - 'ahmad-bilal'
 categories:
-    - bestPractices
+    - best-practices
     - interactive
 tags:
     - api

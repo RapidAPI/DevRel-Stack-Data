@@ -4,7 +4,7 @@ description: "The API lets you access the vibration mechanism of the supported d
 authors:
     - saad
 categories:
-    - webApis
+    - web-apis
 tags:
     - vibration-api
 publishedDate: 2022-03-14T06:43:50.124Z
