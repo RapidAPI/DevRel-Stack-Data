@@ -10,7 +10,7 @@ categories:
     - web-apis
     - api
 tags:
-    - webcodecs-worker
+    - webcodecs-api
     - api
 publishedDate: 2022-04-12T12:18:46.049Z
 lastModifiedDate: 2022-04-12T12:18:46.049Z
