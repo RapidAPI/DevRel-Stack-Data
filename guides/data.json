@@ -1,4 +1,6 @@
 [
+	{"source": "ten-free-apis"},
+	{"source": "build-color-palette-app"},
 	{"source": "page-visibility-api"},
 	{"source": "learn-credentials-management-api"},
 	{"source": "call-apis-next"},
