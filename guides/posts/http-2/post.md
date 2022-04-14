@@ -9,7 +9,7 @@ categories:
 		- http
 tags:
     - http
-    - "http/2"
+    - http-2
 coverImage: ''
 ---
 
