@@ -58,4 +58,4 @@ Before choosing an External API, make sure to consider the following points that
 
 ## Wrap Up
 
-As the main use of an External API is to attract developer interest, so they need to be engaging for developers to want to use them. That’s pretty much about External APIs. Learn about Internal APIs in this [guide](/internal-api?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+As the main use of an External API is to attract developer interest, so they need to be engaging for developers to want to use them. That’s pretty much about External APIs. Learn about Internal APIs in this [guide](/internal-api).
