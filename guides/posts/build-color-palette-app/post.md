@@ -44,7 +44,7 @@ Let’s find the API first. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_so
 	Learn more about using RapidAPI Hub in this fun, interactive guide.
 </Callout>
 
-For our app, I am going to use the `[Random Palette Generator](https://RapidAPI.com/kareem1999/api/random-palette-generator/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)`.
+For our app, I am going to use the [Random Palette Generator](https://RapidAPI.com/kareem1999/api/random-palette-generator/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 To use this API, we require a key. In the central section, you should see a field named `x-rapidapi-key`. Save its value. We will need it later to call the API.
 
