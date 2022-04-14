@@ -1,4 +1,6 @@
 [
+	{"source": "ten-free-apis"},
+	{"source": "build-color-palette-app"},
 	{"source": "external-api"},
 	{"source": "web-speech-api"},
 	{"source": "webcodecs-api"},
