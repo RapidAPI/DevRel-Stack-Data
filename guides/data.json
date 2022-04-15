@@ -1,4 +1,6 @@
 [
+	{"source": "next-api-error-handling"},
+	{"source": "call-apis-react"},
 	{"source": "build-text-case-app"},
 	{"source": "entertainment-api"},
 	{"source": "depth-limiting"},
