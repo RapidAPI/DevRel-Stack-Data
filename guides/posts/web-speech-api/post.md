@@ -1,7 +1,7 @@
 ---
 title: Introduction To Web Speech API
 description:
-    The API lets you perform two actions. The first is text-to-speech and the
+    The Web Speech API lets you perform two actions. The first is text-to-speech and the
     second is speech recognition. In this piece, let's take a look at what it is
     and how you can use it.
 authors:
