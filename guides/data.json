@@ -1,5 +1,6 @@
 [
 	{"source": "build-text-case-app"},
+	{"source": "entertainment-api"},
 	{"source": "depth-limiting"},
 	{"source": "call-apis-isr-next"},
 	{"source": "top-five-currency-converter-api"},
