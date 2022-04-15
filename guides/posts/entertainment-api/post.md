@@ -1,5 +1,5 @@
 ---
-Title: Top Five Entertainment APIs?
+title: Top Five Entertainment APIs?
 description: Entertainment APIs cover a wide variety of topics. With the help of
     entertainment APIs, content creation and distribution have improved a lot.
     Let's look at some top-five entertainment APIs at RapidAPI Hub.
