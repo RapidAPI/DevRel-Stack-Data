@@ -484,7 +484,7 @@ export default function Home() {
 
 Here is a preview of our app:
 
-![Spam Checker built using Spam Check API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-spam-checker-app/images/final-app.png)
+![Spam Checker built using Spam Check API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-spam-checker-app/images/final.png)
 
 ## Wrap Up
 
