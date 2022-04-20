@@ -42,11 +42,11 @@ Let’s find the API first. Go to [RapidAPI Hub](https://RapidAPI.com/hub?utm_so
 	Learn more about using RapidAPI Hub in this fun, interactive guide.
 </Callout>
 
-You will see that a bunch of such APIs are available. For our app, I am going to use the `[HAPI Books API](https://RapidAPI.com/roftcomp-laGmBwlWLm/api/hapi-books/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel)`.
+You will see that a bunch of such APIs are available. For our app, I am going to use the [HAPI Books API](https://RapidAPI.com/roftcomp-laGmBwlWLm/api/hapi-books/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
-![Subscribe to TLDRThis API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-books-app/images/subscribe.png)
+![Subscribe to HAPI Books API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-books-app/images/subscribe.png)
 
 Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. We are going to subscribe to the free plan for this guide.
 
