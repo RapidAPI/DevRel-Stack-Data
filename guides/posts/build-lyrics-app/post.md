@@ -410,7 +410,7 @@ export default function Home() {
 
 I am using a grid to map the songs and their information received in the response, including the title, image, and artist name. Every track will also have a **Get Lyrics** button which will trigger our second API request to get lyrics of that title. At this stage, our app looks like this:
 
-![Search Results](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/search.png)
+![Search Results](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-lyrics-app/images/preview.png)
 
 ### → FINAL STEP
 

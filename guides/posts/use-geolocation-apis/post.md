@@ -55,7 +55,7 @@ Let’s find an IP Geolocation API first. [RapidAPI Hub](https://RapidAPI.com/hu
 
 You will see that we have a lot of APIs to choose from. For our app, I am going to use the [IP Geo Location API](https://rapidapi.com/natkapral/api/ip-geo-location/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). To use this API, you need to subscribe to it first. You can do this by clicking on the **Subscribe to Test** button.
 
-![Subscribe to IP Geolocation API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/use-geolocation-api/images/subscribe.png)
+![Subscribe to IP Geolocation API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/use-geolocation-apis/images/subscribe.png)
 
 Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. We are going to subscribe to the free plan for this guide.
 
@@ -65,7 +65,7 @@ Once subscribed, you will be back on the **Endpoints** page. In the central sect
 
 Take a look at the two endpoints of the API. The **IP Lookup** endpoint takes any IP address and returns its geolocation data while the **Visitor Lookup** one gets the location data of the visitor(client). You can see these endpoints in the left pane of the image below.
 
-![Endpoints of the API and JavaScript Code Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/use-geolocation-api/images/endpoints.png)
+![Endpoints of the API and JavaScript Code Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/use-geolocation-apis/images/endpoints.png)
 
 We will use the **Visitor Lookup** endpoint to get the IP and location of our application's visitors. We can use the automatically generated code snippets (you can see them in the image above) to formulate our API request. Here is what the request will look like in JavaScript code using Axios:
 

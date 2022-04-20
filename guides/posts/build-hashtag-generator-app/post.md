@@ -297,9 +297,11 @@ export default function Home() {
 		try {
 			setLoading(true);
 			const res = await axios.get('api/generate/', {
-				params: {keyword} // Send the input keyword as the paramter
+				// Send the input keyword as the parameter
+				params: {keyword}
 			});
-			setResponse(res.data.data.hashtags); // Store the response returned by the API
+			// Store the response returned by the API
+			setResponse(res.data.data.hashtags);
 		} catch (error) {
 			console.error(error);
 		}
@@ -316,7 +318,8 @@ export default function Home() {
 			<form
 				className="sm:mx-auto mt-20 justify-center w-full sm:flex"
 				onSubmit={e => {
-					getHashtags(); // Trigger the API Call on submit
+					// Trigger the API Call on submit
+					getHashtags();
 					e.preventDefault();
 					e.stopPropagation();
 				}}

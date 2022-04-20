@@ -274,7 +274,7 @@ Let’s integrate the API now. For this, first, create a `.env.local` file in th
 NEXT_PUBLIC_RAPIDAPI_KEY=YOUR-RAPIDAPI-KEY
 ```
 
-Remember the `x-rapidapi-key` I asked you to save earlier? You need to replace `YOUR-RAPIDAPI-KEY` with its value. You get the key after subscribing to the [Hashtagy - Generate Hashtags API](https://RapidAPI.com/miguel.aka.kelter/api/hashtagy-generate-hashtags/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+Remember the `x-rapidapi-key` I asked you to save earlier? You need to replace `YOUR-RAPIDAPI-KEY` with its value. You get the key after subscribing to the [TLDRThis API](https://RapidAPI.com/tldrthishq-tldrthishq-default/api/tldrthis/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 Now download and add `axios` to your project. For this, run the following command in the terminal:
 
@@ -290,7 +290,7 @@ import axios from ‘axios’;
 
 The API provides a bunch of useful endpoints for summarizing text. We will use the `Human-like Text Summarization` endpoint to extract the important points in the text. You can see these endpoints on the left pane in the image below.
 
-![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-hashtag-generator-app/images/snippet.png)
+![API Endpoints and (JavaScript) Axios Snippet](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/build-text-summarizer-app/images/snippet.png)
 
 For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options. We will copy the `(JavaScript) Axios` ones, as you can see above.
 

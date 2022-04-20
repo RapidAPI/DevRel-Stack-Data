@@ -597,4 +597,4 @@ This is what our app looks like in its final form:
 
 ## Wrap Up
 
-All done. You can also check the deployed [Domain Search App](https://rapidapi-example-streaming-availability-app.vercel.app/). Find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/streaming-availability-app).
+All done. You can also check the deployed [Streaming Availability App](https://rapidapi-example-streaming-availability-app.vercel.app/). Find the code of this web app [here](https://github.com/RapidAPI/DevRel-Examples-External/tree/main/streaming-availability-app).
