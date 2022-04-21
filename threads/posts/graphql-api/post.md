@@ -2,7 +2,7 @@
 title: 'A complete introduction to GraphQL API.'
 date: 'Feb 3 2022'
 id: '1465669880875728897'
-author: "Pratham"
+author: "pratham"
 ---
 
 ## A complete introduction to GraphQL API.

@@ -2,7 +2,7 @@
 title: "Anatomy of an API request"
 date: "Mar 24 2022"
 id: "1506975633695457282"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## Anatomy of an API request

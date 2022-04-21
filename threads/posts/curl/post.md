@@ -2,7 +2,7 @@
 title: "What exactly is curl"
 date: "Mar 25 2022"
 id: "1507356439572099075"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## What exactly is curl

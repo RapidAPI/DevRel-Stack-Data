@@ -2,7 +2,7 @@
 title: "Types of Web APIs"
 date: "Mar 10 2022"
 id: "1501852863076646915"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## Types of Web APIs

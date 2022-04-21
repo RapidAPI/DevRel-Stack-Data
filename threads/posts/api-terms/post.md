@@ -2,7 +2,7 @@
 title: "Widely used terms in API development"
 date: "Mar 11 2022"
 id: "1502337071507251203"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## Widely used terms in API development

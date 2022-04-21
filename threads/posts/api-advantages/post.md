@@ -2,7 +2,7 @@
 title: "API makes developer life more effortless"
 date: "Mar 14 2022"
 id: "1503326403227488259"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## API makes developer life more effortless

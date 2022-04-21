@@ -2,7 +2,7 @@
 title: "API lifecycle"
 date: "Mar 23 2022"
 id: "1506392320693919752"
-author: "Pratham"
+author: "pratham"
 ---
 
 ## API Lifecycle
