@@ -42,13 +42,13 @@ For this guide, we are going to use the `onMount` hook of Svelte inside the `<sc
 
 We will start by importing the `onMount` hook.
 
-```svelte
+```js
 import {onMount} from 'svelte';
 ```
 
 Then, we can specify the query, and inside the `onMount` hook, we will create an async function that will send the request to the API.
 
-```svelte
+```js
 <script>
     import { onMount } from 'svelte';
     let country;
@@ -75,7 +75,7 @@ Then, we can specify the query, and inside the `onMount` hook, we will create an
 
 You can see that we have created an empty variable `country`, and we are storing the API response in this variable. The fun thing about Svelte is that we can use this variable straight away in our HTML, so let's do that.
 
-```svelte
+```js
 <script>
     import { onMount } from 'svelte';
     let country;
@@ -131,7 +131,7 @@ npm install @apollo/client svelte-apollo graphql
 
 Next, import the following in your Svelte file.
 
-```svelte
+```js
 import {ApolloClient, gql} from '@apollo/client';
 import {setClient, getClient, query} from 'svelte-apollo';
 ```
@@ -153,7 +153,7 @@ const client = getClient();
 
 Finally, we can set up and send the query. We will use the same `onMount` hook to display the response. The final code will look like this:
 
-```svelte
+```js
 <script>
     import { ApolloClient, gql } from '@apollo/client';
     import { setClient, getClient, query } from 'svelte-apollo';

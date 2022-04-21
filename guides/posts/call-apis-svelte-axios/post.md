@@ -38,7 +38,7 @@ npm install axios
 
 Once it’s done, import `axios` inside the `<script>` tags of your Svelte file where you are interested in making API requests.
 
-```svelte
+```js
 <script>import axios from 'axios';</script>
 ```
 
@@ -65,22 +65,21 @@ If we put our API call inside the `onMount` hook of Svelte, the API request will
 
 To use `onMount`, you need to import it into your Svelte file.
 
-```svelte
+````js
 <script>import {onMount} from 'svelte';</script>
-```
+js
 
 Now, you can use an async function inside the hook to make the API call, like this:
 
-```svelte
+```js
 <script>
 	import { onMount } from 'svelte';
 	let footprint;
-
-	onMount(async () => {
+js	onMount(async () => {
 		// Make the API Call here
 	});
 </script>
-```
+````
 
 ### 2. Event
 
@@ -88,10 +87,10 @@ The `onMount` hook will send the API request whenever the component loads, but s
 
 In that case, we can use the event handlers like `on:click` to trigger our caller function:
 
-```svelte
+```js
 <script>
 	import { onMount } from 'svelte';
-	let footprint;
+	let footprintjs
 
 	async function getData() {
 		// Make the API Call here
@@ -107,7 +106,7 @@ In that case, we can use the event handlers like `on:click` to trigger our calle
 
 Finally, we will use Axios to specify the API request. If you want to make a GET request, you will use the `get` method of `axios`. If you’re going to make a POST, PUT, or DELETE request, you will use the `post`, `put`, or `delete` method of `axios`. Take a look at the snippet below.
 
-```svelte
+```js
 <script>
 	const requestAPI = async () => {
 		try {
@@ -126,8 +125,8 @@ The first parameter of this method is the API endpoint URL, and the second is an
 
 Keeping this snippet in mind, let's add the API request to the Quotes API in our `onMount` hook.
 
-```svelte
-<script>
+```js
+<scriptjs
     import { onMount } from 'svelte';
     import axios from 'axios';
     let quotes = [];
