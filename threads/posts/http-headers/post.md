@@ -2,6 +2,7 @@
 title: "A brief introduction to ten widely used HTTP Headers"
 date: "Mar 3 2022"
 id: "1499399212647149568"
+author: "Pratham"
 ---
 
 ## Ten widely used HTTP Headers

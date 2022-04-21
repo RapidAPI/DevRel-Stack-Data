@@ -2,6 +2,7 @@
 title: "API attacks"
 date: "Mar 15 2022"
 id: "1503721970248126465"
+author: "Pratham"
 ---
 
 ## API Attacks

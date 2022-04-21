@@ -2,6 +2,7 @@
 title: 'Lets try to get a quick introduction to the REST API.'
 date: 'Feb 24 2022'
 id: '1452932706967461890'
+author: "Pratham"
 ---
 
 ## You must have heard of the term RESTful API. Let's try to get a quick introduction to the REST API.

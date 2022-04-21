@@ -2,6 +2,7 @@
 title: "Three ways of API authentication"
 date: "Mar 16 2022"
 id: "1504072057570664448"
+author: "Pratham"
 ---
 
 ## Three ways of API authentication

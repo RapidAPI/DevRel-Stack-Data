@@ -2,6 +2,7 @@
 title: "Difference between Web and REST API"
 date: "Mar 25 2022"
 id: "1507308343890694147"
+author: "Pratham"
 ---
 
 ## Difference between Web and REST API

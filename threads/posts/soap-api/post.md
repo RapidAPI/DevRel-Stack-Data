@@ -2,6 +2,7 @@
 title: "Everything you need to know about SOAP API"
 date: "Mar 3 2022"
 id: "1499399212647149568"
+author: "Pratham"
 ---
 
 ## Introduction to SOAP API

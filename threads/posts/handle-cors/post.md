@@ -2,6 +2,7 @@
 title: "How to handle CORS in your Node.js application"
 date: "Feb 17 2022"
 id: "1494290580133888003"
+author: "Pratham"
 ---
 
 ## Handle CORS in your Node.js application

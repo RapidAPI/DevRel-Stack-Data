@@ -2,6 +2,7 @@
 title: 'Everything you need to know about HTTP redirections.'
 date: 'Feb 24 2022'
 id: '1496605584459763715'
+author: "Pratham"
 ---
 
 ## Everything you need to know about HTTP redirections.
