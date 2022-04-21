@@ -2,6 +2,7 @@
 title: "Everything you need to know about API testing"
 date: "Mar 8 2022"
 id: "1501175658311045125"
+author: "pratham"
 ---
 
 ## API testing

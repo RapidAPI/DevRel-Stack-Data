@@ -2,6 +2,7 @@
 title: 'What exactly is an HTTP Cookie.'
 date: 'Feb 15 2022'
 id: '1493525071893340160'
+author: "pratham"
 ---
 
 ## What exactly is an HTTP Cookie.
