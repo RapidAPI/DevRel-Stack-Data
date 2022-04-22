@@ -33,6 +33,6 @@ author: "emina"
 
 <Tweet>
 
-[Why use webhooks](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/webhooks/images/webhooks-5.jpeg)
+![Why use webhooks](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/webhooks/images/webhooks-5.jpeg)
 
 </Tweet>

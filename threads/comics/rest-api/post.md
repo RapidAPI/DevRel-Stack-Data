@@ -33,18 +33,18 @@ author: "emina"
 
 <Tweet>
 
-[Stateless architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-5.jpeg)
+![Stateless architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-5.jpeg)
 
 </Tweet>
 
 <Tweet>
 
-[Layered system architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-6.jpeg)
+![Layered system architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-6.jpeg)
 
 </Tweet>
 
 <Tweet>
 
-[Cacheable architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-7.jpeg)
+![Cacheable architectural constraint](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/rest-api/images/rest-api-7.jpeg)
 
 </Tweet>
