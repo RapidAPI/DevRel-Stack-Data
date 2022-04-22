@@ -33,12 +33,12 @@ author: "emina"
 
 <Tweet>
 
-[HTTP response](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/api/images/api-5.jpeg)
+![HTTP response](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/api/images/api-5.jpeg)
 
 </Tweet>
 
 <Tweet>
 
-[What is an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/api/images/api-6.jpeg)
+![What is an API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/api/images/api-6.jpeg)
 
 </Tweet>
