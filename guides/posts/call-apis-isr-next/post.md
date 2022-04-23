@@ -63,7 +63,7 @@ The `revalidate` property specifies a time interval and instructs `Next` to rebu
 
 Try the interactive component below to see this in action.
 
-<LearnNext ISR />
+<LearnNext showISR />
 
 ### On Demand Revalidation
 
