@@ -22,7 +22,7 @@ We reached out to developers to learn about their experiences with RapidAPI. Che
 
 <Tweet>
 
-### How did you start your API development journey?
+How did you start your API development journey?
 
 </Tweet>
 
@@ -54,7 +54,7 @@ I created CRUD APIs for my side projects.
 
 <Tweet>
 
-### What does RapidAPI as a platform mean to you?
+What does RapidAPI as a platform mean to you?
 
 </Tweet>
 
@@ -84,7 +84,7 @@ Best and largest API repository that allows me to choose and implement the right
 
 <Tweet>
 
-### How RapidAPI made your life as a developer easier?
+How RapidAPI made your life as a developer easier?
 
 </Tweet>
 
@@ -106,11 +106,15 @@ Instead of juggling multiple API keys and URLs, everything comes from a single s
 
 </CodeStackr>
 
+<Csaba>
+
 It's an easy-to-use platform where you can find and start using the right API in minutes.
+
+</Csaba>
 
 <Tweet>
 
-### What other cool features would you like to see in RapidAPI as a product?
+What other cool features would you like to see in RapidAPI as a product?
 
 </Tweet>
 
@@ -136,11 +140,15 @@ API aggregation. The ability to call an API then act on the data to call another
 
 </CodeStackr>
 
+<Csaba>
+
 I like the ton of education materials you get and the all-in-one approach.
+
+<Csaba>
 
 <Tweet>
 
-### What are the three best features you love about RapidAPI?
+What are the three best features you love about RapidAPI?
 
 </Tweet>
 
@@ -173,7 +181,7 @@ Huge repository, Easy to start with, and Ability to make API calls right in a br
 
 <Tweet>
 
-### How is RapidAPI enabling you for better digital adoption and API Development Experience?
+How is RapidAPI enabling you for better digital adoption and API Development Experience?
 
 </Tweet>
 
@@ -191,7 +199,7 @@ RapidAPI accelerates the API integration with all the tools they're offering.
 
 <Tweet>
 
-### What would be your message for the people working on RapidAPI?
+What would be your message for the people working on RapidAPI?
 
 </Tweet>
 
