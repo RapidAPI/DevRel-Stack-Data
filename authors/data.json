@@ -117,5 +117,14 @@
 		"designation": "Content Producer @ RapidAPI",
 		"isDeveloperProgramMember": false,
 		"bio": "Sample user bio."
+	},
+	"Emina": {
+		"name": "Emina",
+		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/emina/avatar.jpeg",
+		"designation": "Content Developer @ RapidAPI",
+		"isDeveloperProgramMember": true,
+		"bio": "I make creative, illustrative, and fun content on topics around web development! I like to break down programming concepts, and make them easy to understand. I also love CSS, design, and frontend development in general."
 	}
 }
+
+
