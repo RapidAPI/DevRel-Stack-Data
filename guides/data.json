@@ -1,4 +1,6 @@
 [
+	{"source": "image-capture-api"},
+	{"source": "build-planet-app"},
 	{"source": "fetch-vs-axios"},
 	{"source": "call-apis-ssr-next"},
 	{"source": "api-architecture"},
