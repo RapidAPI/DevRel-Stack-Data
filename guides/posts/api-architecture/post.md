@@ -1,5 +1,5 @@
 ---
-Title: What is API Architecture?
+title: What is API Architecture?
 description:
     The process of developing a software interface that exposes backend data and
     application functionality in new applications is called API architecture.

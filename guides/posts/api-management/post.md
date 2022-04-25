@@ -1,5 +1,5 @@
 ---
-Title: What is API Management? - A Beginner's Friendly Guide
+title: What is API Management? - A Beginner's Friendly Guide
 description:
     APIs are becoming essential across various industries and without proper API
     management, they can do more harm than good. RapidAPI offers these API
