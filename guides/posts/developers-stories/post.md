@@ -144,7 +144,7 @@ API aggregation. The ability to call an API then act on the data to call another
 
 I like the ton of education materials you get and the all-in-one approach.
 
-<Csaba>
+</Csaba>
 
 <Tweet>
 
