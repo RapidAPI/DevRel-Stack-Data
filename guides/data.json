@@ -1,4 +1,5 @@
 [
+	{"source": "webxr-device-api"},
 	{"source": "visual-viewport-api"},
 	{"source": "image-capture-api"},
 	{"source": "build-planet-app"},
