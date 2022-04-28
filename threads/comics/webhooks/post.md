@@ -21,7 +21,7 @@ author: "emina"
 
 <Tweet>
 
-![How do webhooks work](https://raw.githubusercontent.com/RapidRapidAPI/DevRel-Stack-Data/production/threads/comics/webhooks/images/webhooks-3.jpeg)
+![How do webhooks work](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/comics/webhooks/images/webhooks-3.jpeg)
 
 </Tweet>
 
