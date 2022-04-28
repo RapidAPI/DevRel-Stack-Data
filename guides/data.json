@@ -1,4 +1,6 @@
 [
+	{"source": "types-of-apis"},
+	{"source": "cors-proxy-apis"},
 	{"source": "visual-viewport-api"},
 	{"source": "image-capture-api"},
 	{"source": "build-planet-app"},
