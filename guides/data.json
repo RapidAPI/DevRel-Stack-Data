@@ -1,4 +1,6 @@
 [
+	{"source": "types-of-apis"},
+	{"source": "cors-proxy-apis"},
 	{"source": "webxr-device-api"},
 	{"source": "visual-viewport-api"},
 	{"source": "image-capture-api"},
