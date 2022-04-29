@@ -20,11 +20,7 @@ We reached out to developers to learn about their experiences with RapidAPI. Che
 
 ## RapidAPI Developers Stories
 
-<Tweet>
-
-How did you start your API development journey?
-
-</Tweet>
+### How did you start your API development journey?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -40,7 +36,7 @@ Started doing sponsored videos for RapidAPI.
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 I started out as a front-end developer. Then the need to create my own API got me into backend development. So now I consider myself a full-stack developer.
 
@@ -52,11 +48,7 @@ I created CRUD APIs for my side projects.
 
 </DeveloperStories>
 
-<Tweet>
-
-What does RapidAPI as a platform mean to you?
-
-</Tweet>
+### What does RapidAPI as a platform mean to you?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -70,7 +62,7 @@ API hub
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 One-stop shop for all API needs.
 
@@ -82,11 +74,7 @@ Best and largest API repository that allows me to choose and implement the right
 
 </DeveloperStories>
 
-<Tweet>
-
-How RapidAPI made your life as a developer easier?
-
-</Tweet>
+### How RapidAPI made your life as a developer easier?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -100,7 +88,7 @@ Finding APIs.
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 Instead of juggling multiple API keys and URLs, everything comes from a single source. That makes development much easier!
 
@@ -112,11 +100,7 @@ It's an easy-to-use platform where you can find and start using the right API in
 
 </DeveloperStories>
 
-<Tweet>
-
-What other cool features would you like to see in RapidAPI as a product?
-
-</Tweet>
+### What other cool features would you like to see in RapidAPI as a product?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -134,7 +118,7 @@ API testing integrated in VSCode.
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 API aggregation. The ability to call an API then act on the data to call another API all configured from the UI. Then calling one API get the resulting data.
 
@@ -146,11 +130,7 @@ I like the ton of education materials you get and the all-in-one approach.
 
 </DeveloperStories>
 
-<Tweet>
-
-What are the three best features you love about RapidAPI?
-
-</Tweet>
+### What are the three best features you love about RapidAPI?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -165,7 +145,7 @@ All APIs in one place.
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 1. Ease of use.
 2. Choices of APIs
@@ -179,11 +159,7 @@ Huge repository, Easy to start with, and Ability to make API calls right in a br
 
 </DeveloperStories>
 
-<Tweet>
-
-How is RapidAPI enabling you for better digital adoption and API Development Experience?
-
-</Tweet>
+### How is RapidAPI enabling you for better digital adoption and API Development Experience?
 
 <DeveloperStories twitterUsername="jsmasterypro" authorName="javascript-mastery">
 
@@ -197,11 +173,7 @@ RapidAPI accelerates the API integration with all the tools they're offering.
 
 </DeveloperStories>
 
-<Tweet>
-
-What would be your message for the people working on RapidAPI?
-
-</Tweet>
+### What would be your message for the people working on RapidAPI?
 
 <DeveloperStories twitterUsername="ApiFootball" authorName="jérémy-gaudin">
 
@@ -215,7 +187,7 @@ Great job! :)
 
 </DeveloperStories>
 
-<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackkr">
+<DeveloperStories twitterUsername="codeSTACKr" authorName="codestackr">
 
 Keep up the great work!
 
