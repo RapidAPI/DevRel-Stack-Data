@@ -1,0 +1,13 @@
+{
+	"siteName": "RapidAPI Comics",
+	"type": "website",
+	"description": "Learn API development with RapidAPI Comics (sketchnotes and fun analogies)",
+	"language": "en",
+	"locale": "en_US",
+	"siteUrl": "https://rapidapi.com/comics",
+	"siteLogo": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/rapidapi-logo.png",
+	"siteFavicon": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/favicon-96x96.png",
+	"ogImage": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/comics/assets/ogg.png",
+	"socialBanner": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/threads/assets/rapidapi-logo.png",
+	"twitter": "rapid_api"
+}
