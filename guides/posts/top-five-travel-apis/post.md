@@ -1,5 +1,5 @@
 ---
-Title: Top Five Travel APIs
+title: Top Five Travel APIs
 description:
     Travel APIs fetch data from different servers that house it, such as airlines,
     hotels, destinations, etc.
