@@ -60,7 +60,7 @@ POST requests are defined to create new resources on the server. If we send mult
 
 ### PATCH
 
-While PUT is idempotent, PATCH is not. To learn why you need to [understand the difference between PUT and PATCH](https://rapidapi.com/guides/put-vs-patch). PATCH partially updates a resource, while PUT replaces the resource. PATCH requests are not idempotent because they keep changing the resource regardless of the shape of the old resource.
+While PUT is idempotent, PATCH is not. PATCH partially updates a resource, while PUT replaces the resource. PATCH requests are not idempotent because they keep changing the resource regardless of the shape of the old resource.
 
 For example, if there is a counter on a resource, and you send a PATCH request to increment the counter, the counter will be incremented by 1. But if you send the same PATCH request again, the counter will be incremented again.
 

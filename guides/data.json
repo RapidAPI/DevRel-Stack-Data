@@ -115,7 +115,6 @@
 	{"source": "graphql-subscriptions"},
 	{"source": "webgl"},
 	{"source": "url-pattern-api"},
-	{"source": "put-vs-patch"},
 	{"source": "build-stocks-app"},
 	{"source": "build-grammar-checker-app"},
 	{"source": "graphql-apis-svelte"},
