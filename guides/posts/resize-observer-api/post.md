@@ -7,7 +7,7 @@ authors:
     - saad
 categories:
     - web-apis
-    - apis
+    - api
 tags:
     - resize-observer-api
     - web-api
