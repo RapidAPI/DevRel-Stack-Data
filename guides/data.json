@@ -1,4 +1,5 @@
 [
+	{"source": "api-injection"},
 	{"source": "call-apis-javascript-rapidapi-hub"},
 	{"source": "add-apis-on-rapidapi-hub"},
 	{"source": "resize-observer-api"},
