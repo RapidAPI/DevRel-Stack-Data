@@ -28,7 +28,7 @@ Today, countless APIs are available on the world wide web, providing access to a
 
 ## What is an API Endpoint?
 
-In REST APIs, API endpoints are URLs that act as access points to an API and its resources. When clients interact with an API, they send a request to an endpoint. The API For example, here are some endpoints of the [Word API](https://rapidapi.com/dpventures/api/wordsapi?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on [RapidAPI Hub](https://rapidapi.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
+In REST APIs, API endpoints are URLs that act as access points to an API and its resources. When clients interact with an API, they send a request to an endpoint. The API For example, here are some endpoints of the [Word API](https://RapidAPI.com/dpventures/api/wordsapi?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel).
 
 -   `/words`: Returns a list of words.
 
@@ -63,7 +63,7 @@ Before interacting with an API, we must review its documentation to see the avai
 
 -   **Headers and Parameters**: Detail about the required headers and parameters to access the information.
 
-In addition to the above, there can be other helpful information such as code snippets and example responses of the endpoint. For example, take a look at the following image that shows the endpoints of the [Random Stuff API](https://rapidapi.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on [RapidAPI Hub](https://rapidapi.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). There is a list of available endpoints, the details of the selected endpoint, code snippets and more.
+In addition to the above, there can be other helpful information such as code snippets and example responses of the endpoint. For example, take a look at the following image that shows the endpoints of the [Random Stuff API](https://RapidAPI.com/pgamerxdev/api/random-stuff-api/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) on [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel). There is a list of available endpoints, the details of the selected endpoint, code snippets and more.
 
 ![Endpoint Details for an API on RapidAPI Hub](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/what-is-api-endpoint/images/endpoint.png)
 
