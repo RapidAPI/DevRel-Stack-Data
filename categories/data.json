@@ -34,5 +34,9 @@
 	"graphql": {
 		"name": "GraphQL",
 		"color": "brown"
+	},
+	"api-security": {
+		"name": "API Security",
+		"color": "red"
 	}
 }
