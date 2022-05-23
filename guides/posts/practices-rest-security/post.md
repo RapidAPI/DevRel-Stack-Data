@@ -5,6 +5,7 @@ authors:
     - 'ahmad-bilal'
 categories:
     - best-practices
+    - api-security
 tags:
     - rest
     - api
