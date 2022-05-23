@@ -1,4 +1,6 @@
 [
+	{"source": "api-marketplace"},
+	{"source": "api-examples"},
 	{"source": "what-is-api-endpoint"},
 	{"source": "practices-rest-security"},
 	{"source": "api-injection"},
