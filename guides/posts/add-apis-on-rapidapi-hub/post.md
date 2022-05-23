@@ -13,6 +13,7 @@ publishedDate: 2022-05-16T16:27:05.876Z
 lastModifiedDate: 2022-05-16T16:27:05.876Z
 coverImage: ''
 draft: false
+canonicalURL: 'https://someotherurl.com/how-to'
 ---
 
 <Lead>
