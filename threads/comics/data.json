@@ -2,6 +2,10 @@
 	{"source": "http-cookie"},
 	{"source": "rest-api"},
 	{"source": "api"},
-	{"source": "webhooks"}
+	{"source": "webhooks"},
+	{"source": "http-methods"},
+	{"source": "dns"},
+	{"source": "sync-vs-async"},
+	{"source": "api-vs-microservices"}
 ]
 
