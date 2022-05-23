@@ -1,5 +1,5 @@
 ---
-Title: Five Basic Practices For REST API Security
+title: Five Basic Practices For REST API Security
 description: REST APIs allow you to create, read, update and delete operations between a client and a server. There are a number of ways to secure REST APIs.
 publishedDate: 2022-05-19T15:47:03.907Z
 lastModifiedDate: 2022-05-19T15:47:03.907Z
