@@ -1,5 +1,5 @@
 ---
-Title: REST vs SOAP APIs - A Beginner's Friendly Guide
+title: REST vs SOAP APIs - A Beginner's Friendly Guide
 description:
     REST and SOAP APIs are two of the widely used APIs for communication between
     client and the server.
