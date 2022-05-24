@@ -4,6 +4,7 @@ description: When the user sends malicious code (most of the time database query
 authors:
     - saad
 categories:
+    - api-security
     - api
 tags:
     - api

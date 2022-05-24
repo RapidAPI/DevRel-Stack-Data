@@ -4,6 +4,7 @@ description: There are millions of APIs available on the internet that you can u
 authors:
     - saad
 categories:
+    - interactive
     - rapidapi
     - api
 tags:
