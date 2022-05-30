@@ -1,4 +1,5 @@
 [
+	{"source": "rate-limiting-vulnerability"},
 	{"source": "improper-assets-management-vulnerability"},
 	{"source": "api-security-misconfiguration-vulnerability"},
 	{"source": "broken-user-authentication-vulnerability"},
