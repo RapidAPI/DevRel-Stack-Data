@@ -3,6 +3,8 @@
 	{"source": "top-music-apis"},
 	{"source": "excessive-data-exposure"},
 	{"source": "build-api-publish-on-rapidapi"},
+	{"source": "improper-assets-management-vulnerability"},
+	{"source": "api-security-misconfiguration-vulnerability"},
 	{"source": "broken-user-authentication-vulnerability"},
 	{"source": "send-data-to-server"},
 	{"source": "make-api-call-java"},
