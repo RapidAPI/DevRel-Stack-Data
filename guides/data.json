@@ -1,4 +1,5 @@
 [
+	{"source": "broken-user-authentication-vulnerability"},
 	{"source": "send-data-to-server"},
 	{"source": "make-api-call-java"},
 	{"source": "api-page-rapidapi"},
