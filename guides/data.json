@@ -1,4 +1,8 @@
 [
+	{"source": "ui-events-api"},
+	{"source": "top-music-apis"},
+	{"source": "excessive-data-exposure"},
+	{"source": "build-api-publish-on-rapidapi"},
 	{"source": "send-data-to-server"},
 	{"source": "make-api-call-java"},
 	{"source": "api-page-rapidapi"},
