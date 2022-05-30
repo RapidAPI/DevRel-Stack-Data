@@ -123,7 +123,6 @@ const cors = require('cors');
 //or
 
 // ES6 syntax
-import express from 'express'
 import cors from 'cors';
 ```
 

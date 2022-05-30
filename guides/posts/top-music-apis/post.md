@@ -46,7 +46,6 @@ It is a freemium API that provides song lyrics, artists, albums, knowledge, and 
 	APIs according to your need.
 </Callout>
 
-
 <Callout
 	title="Connect to the Genius - Song Lyrics API"
 	linkText="Connect"

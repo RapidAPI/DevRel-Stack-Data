@@ -1,4 +1,5 @@
 [
+	{"source": "rate-limiting-vulnerability"},
 	{"source": "ui-events-api"},
 	{"source": "top-music-apis"},
 	{"source": "excessive-data-exposure"},
