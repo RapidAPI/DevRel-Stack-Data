@@ -90,7 +90,7 @@ Once done, update your `package.json` file to add the `script` key. It will take
 
 Here is an updated `package.json` file that you can refer to just in case:
 
-````json
+```json
 {
 	"name": "greeting-api",
 	"version": "1.0.0",
@@ -109,6 +109,7 @@ Here is an updated `package.json` file that you can refer to just in case:
 		"express": "^4.17.3"
 	}
 }
+```
 
 ### → STEP #4
 
@@ -124,7 +125,7 @@ const cors = require('cors');
 // ES6 syntax
 import express from 'express'
 import cors from 'cors';
-````
+```
 
 Now create an express application by adding the following code in the `index.js` file:
 
