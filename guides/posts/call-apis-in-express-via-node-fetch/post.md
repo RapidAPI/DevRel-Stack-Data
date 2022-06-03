@@ -11,7 +11,7 @@ tags:
     - call-api-node-fetch-express
     - node-fetch
     - api
-coverImage:
+coverImage: ''
 ---
 
 <Lead>
