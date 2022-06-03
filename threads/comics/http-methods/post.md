@@ -1,7 +1,7 @@
 ---
-title: "RapidAPI Comic on HTTP Methods"
-date: "Apr 30 2022"
-id: "1520032464969871360"
+title: 'RapidAPI Comic on HTTP Methods'
+date: 'Apr 30 2022'
+id: '1520032464969871360'
 ---
 
 ## RapidAPI Comic on HTTP Methods

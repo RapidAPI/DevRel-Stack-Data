@@ -1,7 +1,7 @@
 ---
-title: "RapidAPI Comic on API vs Microservices"
-date: "May 13 2022"
-id: "1525098336159776773"
+title: 'RapidAPI Comic on API vs Microservices'
+date: 'May 13 2022'
+id: '1525098336159776773'
 ---
 
 ## RapidAPI Comic on API vs Microservices

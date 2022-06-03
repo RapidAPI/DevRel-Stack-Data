@@ -1,7 +1,7 @@
 ---
-title: "RapidAPI Comic on Sync vs Async Programming"
-date: "May 20 2022"
-id: "1527636774037639168"
+title: 'RapidAPI Comic on Sync vs Async Programming'
+date: 'May 20 2022'
+id: '1527636774037639168'
 ---
 
 ## RapidAPI Comic on Sync vs Async Programming

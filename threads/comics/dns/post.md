@@ -1,7 +1,7 @@
 ---
-title: "RapidAPI Comic on How DNS Works"
-date: "May 06 2022"
-id: "1522561617778647041"
+title: 'RapidAPI Comic on How DNS Works'
+date: 'May 06 2022'
+id: '1522561617778647041'
 ---
 
 ## RapidAPI Comic on How DNS Works
