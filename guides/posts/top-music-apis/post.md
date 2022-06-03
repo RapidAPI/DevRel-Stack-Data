@@ -38,15 +38,6 @@ In this piece, let’s look at the top 10 music APIs on the [RapidAPI Hub](https
 It is a freemium API that provides song lyrics, artists, albums, knowledge, and more. It was updated last month. The API has a popularity of 9.5 out of 10, a latency of 747ms, and a 100% service level. The API provides many different categories of endpoints. If you want to try it out, all you need is to subscribe to its free version and start using it.
 
 <Callout
-	title="Get access to Thousands of APIs"
-	linkText="Sign Up"
-	linkHref="https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"
->
-	RapidAPI Hub is the world’s largest API hub where you can find all kinds of
-	APIs according to your need.
-</Callout>
-
-<Callout
 	title="Connect to the Genius - Song Lyrics API"
 	linkText="Connect"
 	linkHref="https://RapidAPI.com/Glavier/api/genius-song-lyrics1/?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel"

@@ -18,7 +18,7 @@ coverImage: ''
 
 <Lead>
 
-You can use all types of APIs when developing a website. For instance, the server REST API provides you the server data, the public REST API helps you develop Jamstack applications, web APIs lets you utilize browser capabilities, etc. Before we go any further, take a look at [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which is home to over 35000+ public REST APIs that you can use to build your web apps.
+You can use all types of APIs when developing a website. For instance, the server REST API provides you the server data, the public REST API helps you develop Jamstack applications, web APIs lets you utilize browser capabilities, etc. Before we go any further, take a look at [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel), which is home to over 35000+ APIs that you can use to build your web apps.
 
 </Lead>
 
