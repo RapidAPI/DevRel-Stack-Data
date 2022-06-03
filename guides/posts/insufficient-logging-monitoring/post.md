@@ -1,10 +1,6 @@
 ---
 title: ​​API Security - Insufficient Logging & Monitoring Vulnerability
-description:
-    API vulnerabilities are a common thing that can break down your whole system
-    if not treated. APIs may have vulnerabilities like broken authentication and
-    authorization, insufficient logging and monitoring, lack of rate limiting,
-    etc.
+description: API vulnerabilities are a common thing that can break down your whole system if not treated. APIs may have vulnerabilities like broken authentication and authorization, insufficient logging and monitoring, lack of rate limiting, etc.
 publishedDate: 2022-06-03T14:02:07.137Z
 lastModifiedDate: 2022-06-03T14:02:07.137Z
 authors:
@@ -47,7 +43,7 @@ Various threats associated with insufficient logging and monitoring are as under
 
 ### Brute Force Phishing & DDoS Attacks
 
-Attackes supported by bots put together other attacks including Brute Force Phishing and Distributed Denial of Sercice (DDoS). These attacks help injection of malware into a system and then they can manipulate the entire system to their use in different ways.
+Attacks supported by bots put together other attacks including Brute Force Phishing and Distributed Denial of Service (DDoS). These attacks help injection of malware into a system and then they can manipulate the entire system to their use in different ways.
 
 In the absence of proper logging of event data, these attacks are almost impossible to detect or analyze. Thus, an efficient logging and monitoring system is the first line of defense against these botnet attacks.
 
@@ -66,7 +62,7 @@ These types of internal threats suspicious activities often go unchecked and are
 You can prevent logging and monitoring attacks in multiple ways.
 
 -   To make sure that logging and monitoring issues does not take place, you should authenticate access to logs.
--   You should automate monitoring and alerts for log events. This will ensure that whenever an attacker tries to log in tyhe system you can be alerted and can take actions to avoid the malicious activity from occurring.
+-   You should automate monitoring and alerts for log events. This will ensure that whenever an attacker tries to log in the system you can be alerted and can take actions to avoid the malicious activity from occurring.
 -   Further always perform penetration tests to identify gaps in incident monitoring and reporting and having a recovery plan or strategy developed for rainy days.
 
 <Callout
