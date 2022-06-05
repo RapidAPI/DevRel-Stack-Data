@@ -1,4 +1,5 @@
 [
+	{"source": "broken-object-level-authorization"},
 	{"source": "injection-vulnerability"},
 	{"source": "broken-function-level-authorization"},
 	{"source": "insufficient-logging-monitoring"},
