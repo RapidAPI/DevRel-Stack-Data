@@ -1,4 +1,6 @@
 [
+	{"source": "geocoding"},
+	{"source": "add-graphql-api-on-rapidapi-hub"},
 	{"source": "injection-vulnerability"},
 	{"source": "broken-function-level-authorization"},
 	{"source": "insufficient-logging-monitoring"},
