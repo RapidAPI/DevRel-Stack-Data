@@ -1,8 +1,11 @@
 ---
 title: ​​APIs Security Challenges
-description: API vulnerabilities are a common thing that can break down your whole system if not treated. Due to these vulnerabilities, API breaches have increased to an enormous extent.
-publishedDate: 2021-10-01T16:10:30.765Z
-lastModifiedDate: 2021-10-01T16:10:30.765Z
+description:
+    API vulnerabilities are a common thing that can break down your whole system
+    if not treated. Due to these vulnerabilities, API breaches have increased to
+    an enormous extent.
+publishedDate: 2022-06-06T13:46:41.050Z
+lastModifiedDate: 2022-06-06T13:46:41.050Z
 authors:
     - maham
 categories:
