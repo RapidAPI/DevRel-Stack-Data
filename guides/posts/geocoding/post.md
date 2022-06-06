@@ -1,6 +1,6 @@
 ---
 title: How to get Longitude and Latitude from an Address?
-description: Geocoding refers to the process of converting any given address into latitude and longitude co-ordinates. Let's see how we can do this using an API from RapidAPI Hub.
+description: Geocoding refers to the process of converting any given address into latitude and longitude coordinates. Let's see how we can do this using an API from RapidAPI Hub.
 publishedDate: 2022-06-03T18:41:43.732Z
 lastModifiedDate: 2022-06-03T18:41:43.732Z
 authors:
@@ -18,29 +18,29 @@ draft: false
 
 <Lead>
 
-Geocoding refers to the process of converting any given address into latitude and longitude co-ordinates. Let's see how we can do this using an API from RapidAPI Hub.
+Geocoding refers to the process of converting any given address into latitude and longitude coordinates. Let's see how we can do this using an API from RapidAPI Hub.
 
 </Lead>
 
 ## Geocoding
 
-Geocoding is the process of transforming the way an address is expressed. For example, the address "1600 Amphitheatre Parkway, Mountain View, CA" translates to longitude: -122.08452402711126 and latitude: 37.42197601004595.
+Geocoding is the process of transforming the way we express an address. For example, the address "1600 Amphitheatre Parkway, Mountain View, CA" translates to longitude: -122.08452402711126 and latitude: 37.42197601004595.
 
 It covers the following two techniques:
 
--   **Geocoding**: Converting physical addresses into longitude and latitude co-ordinates.
+-   **Geocoding**: Converting physical addresses into longitude and latitude coordinates.
 
--   **Reverse Geocoding**: Converting longitude and latitude co-ordinates into physical addresses.
+-   **Reverse Geocoding**: Converting longitude and latitude coordinates into physical addresses.
 
 ### Why is it needed?
 
-We are aware of physical addresses as a way to express location. These are human readable addresses, but they are not ideal for machine processing. For example, we can't use "Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, 94129, United States of America" as a key to store a location in a database. We need co-ordinates to do that.
+We are aware of physical addresses as a way to express location. These are human-readable addresses, but they are not ideal for machine processing. For example, we can't use "Golden Gate Bridge, Golden Gate Brg, San Francisco, CA, 94129, United States of America" as a key to store a location in a database. We need coordinates to do that.
 
-Most applications use Map APIs to implement location-related features. These APIs require longitude and latitude co-ordinates to function. So, these APIs either offer geocoding features or we need to use some other API for geocoding.
+Most applications use Map APIs to implement location-related features. These APIs require longitude and latitude coordinates to function. So, these APIs either offer geocoding features, or we need to use some other API for geocoding.
 
 ## Geocoding using an API
 
-Let's see how we can convert a physical human readable address into longitude and latitude. We need a geocoding API for this purpose, so let's find one.
+Let's see how we can convert a physical human-readable address into longitude and latitude. We need a geocoding API for this purpose, so let's find one.
 
 Head over to [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) and [create an account](https://RapidAPI.com/auth/sign-up?referral=/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) if you haven’t already. Then, search for "Geocoding" in the search section.
 
@@ -59,7 +59,7 @@ It offers two endpoints, one for geocoding and one for reverse geocoding. To use
 
 ![Subscribe to the API](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/guides/posts/geocoding/images/subscribe.png)
 
-Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 100 requests per month. We are going to subscribe to the free plan for this guide.
+Once you click the button, you will be redirected to the pricing page, which will show the subscription packages for the API. The free plan allows up to 100 requests per month, so we will subscribe to the free plan for this guide.
 
 ### Testing the API
 
@@ -113,8 +113,8 @@ As you can see, the API gives us Coordinates of all the addresses that match the
 
 ### Integrating the API
 
-In similar fashion, you can use the other endpoint for reverse geocoding. For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options for example, JavaScript with Axios. You can use the snippet to easily integrate the API in your application, and you will be good to go.
+In a similar fashion, you can use the other endpoint for reverse geocoding. For easy integration, [RapidAPI Hub](https://RapidAPI.com/hub?utm_source=RapidAPI.com/guides&utm_medium=DevRel&utm_campaign=DevRel) automatically generates snippets in multiple languages and options, for example, JavaScript with Axios. You can use the snippet to integrate the API into your application, and you will be good to go.
 
 ## Wrap Up
 
-If your application relies on location-realted data, geocoding is an important part of its function. We hope that this guide helped you understand the full particulars of geocoding.
+If your application relies on location-related data, geocoding is an integral part of its function. We hope that this guide helped you understand the full particulars of geocoding.
