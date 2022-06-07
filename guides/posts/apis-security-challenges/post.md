@@ -19,8 +19,7 @@ coverImage: ''
 
 <Lead>
 
-Most of the issues that are associated with APIs are its security and data validation. As APIs are very commonly used, so it is prone to attackers. APIs may have vulnerabilities like broken authentication and authorization, insufficient logging and monitoring, lack of rate limiting, etc.
-All these issues have a few common things that if not taken care of can break down your whole system.
+Most of the issues that are associated with APIs are its security and data validation. As APIs are very commonly used, they are prone to attackers. APIs may have vulnerabilities like broken authentication and authorization, insufficient logging and monitoring, lack of rate limiting, etc. All these issues have a few common things that if not taken care of can break down your whole system.
 
 </Lead>
 
