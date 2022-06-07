@@ -118,7 +118,7 @@
 		"isDeveloperProgramMember": false,
 		"bio": "Sample user bio."
 	},
-	"Emina": {
+	"emina": {
 		"name": "Emina",
 		"avatar": "https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/production/authors/emina/avatar.jpeg",
 		"designation": "Content Developer @ RapidAPI",
