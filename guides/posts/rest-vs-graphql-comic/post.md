@@ -4,7 +4,7 @@ description: Let's take a look at how REST and GraphQL function, their differenc
 publishedDate: 2022-04-28T20:53:04.094Z
 lastModifiedDate: 2022-04-28T20:53:04.094Z
 authors:
-    - Emina
+    - emina
 categories:
     - api
 tags:
