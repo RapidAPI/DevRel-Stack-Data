@@ -59,7 +59,7 @@ RapidAPI will secure this vulnerability by automatically attaching UserID to eve
 </Callout>
 
 Here at RapidAPI, enabling simple implementation of user authorization in upstream APIs is made more accessible, and it uses transformations to fit user ID into existing fields.
-![Broken Object Level Authorization Resolved With RapidAPI](https://github.com/MahamDev/DevRel-Stack-Data/blob/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Broken-Object-Level-Authorization.png)
+![Broken Object Level Authorization Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Broken-Object-Level-Authorization.png)
 
 ### 2 - Broken Authentication Resolved With RapidAPI
 
@@ -70,35 +70,35 @@ from and there is no way to pinpoint anomalies.
 Broken authentication is prevented by checking all possible ways to authenticate to all APIs. APIs for password reset and one-time links also allow users to authenticate and prevent this from occurring.
 
 With RapidAPI, API access can be granted on a developer, team, or organization level. Every app has an individual API key, and traffic is monitored per application. The built-in key rotation & user blocking (when under attack) ensures key rotation management and prevents broken authentication.
-![Broken Authentication Resolved With RapidAPI](https://raw.githubusercontent.com/MahamDev/DevRel-Stack-Data/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Broken-Authentication.png)
+![Broken Authentication Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Broken-Authentication.png)
 
 ### 3 - Excessive Data Exposure Resolved With RapidAPI
 
 The API may expose a lot more data than what the client legally needs, relying on the client to do the filtering. Complete data includes sensitive fields, and UI layers hide those, and hackers can call API directly and get all the sensitive data.
 
 With RapidAPI, you can avoid this by using a dashboard to view API response logs and identify problematic fields. You can also use transformations to prevent excessive data exposure to remove problematic areas.
-![Excessive Data Exposure Resolved With RapidAPI](https://github.com/MahamDev/DevRel-Stack-Data/blob/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Excessive-Data-Exposure.png)
+![Excessive Data Exposure Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Excessive-Data-Exposure.png)
 
 ### 4 - Lack of Resource and Rate Limiting Resolved With RapidAPI
 
 The API is not protected against an excessive amount of calls or payload sizes. Hackers can scrape the API by requesting all resources. This can be prevented by limiting payload sizes and defining proper rate-limiting.
 
 Here at RapidAPI, custom rate limits per API and per plan are defined, and automatic protection against known file attacks & patterns resolves this issue.
-![Lack of Resource and Rate Limiting Resolved With RapidAPI](https://github.com/MahamDev/DevRel-Stack-Data/blob/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Lack-of-Resource-%26-Rate-Limiting.png)
+![Lack of Resource and Rate Limiting Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Lack-of-Resource-%26-Rate-Limiting.png)
 
 ### 5 - Broken Function Level Authorization Resolved with RapidAPI
 
 The API relies on the client to use user-level or admin-level APIs as suitable. Hackers find hidden endpoints in API and call them without permission. This can be averted by not relying on the client to enforce admin access. Only allowing operations to users belonging to the appropriate group or role can also prevent this.
 
 RapidAPI creates usage tiers for the API and explicitly defines which endpoints are accessible. Endpoints that are not listed or not in the user's tier will be automatically blocked. This stops hackers from finding the hidden options in API, including all parameters, additional data, god mode, etc.
-![Broken Function Level Authorization Resolved with RapidAPI](https://raw.githubusercontent.com/MahamDev/DevRel-Stack-Data/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Broken-Function-Level-Authorization.png)
+![Broken Function Level Authorization Resolved with RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Broken-Function-Level-Authorization.png)
 
 ### 6 - Mass Assignment Resolved With RapidAPI
 
 The API takes the client's data and stores it without proper filtering. Attackers can try to guess object properties or provide additional object properties in their requests or check out API endpoints to modify properties they are not supposed to on the data objects stored in the backend. Hacker reverse engineers additional fields and modifies them via requests.
 
 With RapidAPI, there is automatic protection screening of all arguments for injection patterns. Further, the optional schema validation to verify request matches documented schema helps prevent this issue.
-![Mass Assignment Resolved With RapidAPI](https://github.com/MahamDev/DevRel-Stack-Data/blob/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Mass-Alignment.png)
+![Mass Assignment Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Mass-Alignment.png)
 
 ### 7 - Security Misconfiguration Resolved With RapidAPI
 
@@ -118,7 +118,7 @@ Attackers can exploit misconfiguration in API servers. RapidAPI uses transformat
 Hackers insert malicious commands inside legitimate arguments to attack underlying systems. They construct API calls that include SQL, NoSQL, LDAP, OS, or other commands that the API or the backend behind it blindly executes.
 
 Here at RapidAPI, there is automatic protection screening of all arguments for injection patterns. This way, hackers cannot insert malicious commands.
-![Injection Resolved With RapidAPI](https://github.com/MahamDev/DevRel-Stack-Data/blob/544781f68eae4442bce41cbcd4b250dbe530e71d/guides/posts/api-security-with-rapidapi/images/Injection.png)
+![Injection Resolved With RapidAPI](https://raw.githubusercontent.com/RapidAPI/DevRel-Stack-Data/72d0c01a33fb26b93e28c63e1b9115247b74b845/guides/posts/api-security-with-rapidapi/images/Injection.png)
 
 ### 9 - Improper Asset Management Resolved With RapidAPI
 
