@@ -1,5 +1,5 @@
 ---
-title: 'What is GraphQL and when you should use it?'
+title: 'What is GraphQL and when you should use it'
 description: With GraphQL, you get precisely the data you request. No more, no else. You have a single entry point, i.e., /graphql, that you use to get the data. In this piece, let's briefly look at it and in which cases you should use it.
 publishedDate: 2021-10-04T15:41:15.688Z
 lastModifiedDate: 2021-10-04T15:41:15.688Z
@@ -35,7 +35,7 @@ There is also a `type` that exists to let you manipulate the data using GraphQL.
 
 When a user performs a data action from the frontend, the generated query is sent to the backend. There it gets validated against predefined schemas. So when GraphQL finds a schema against the query, it then executes the validated query.
 
-## When To Use GraphQL?
+## When To Use GraphQL
 
 There are many scenarios where you can make use of GraphQL. Let's take a look at some of them:
 
